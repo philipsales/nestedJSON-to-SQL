@@ -1,0 +1,89 @@
+[
+  {
+    "demographics": {
+      "awh_id": "c92118421a1f8a87a73dadcd954dd75e",
+      "org": "TFG",
+      "active": true,
+      "deceased": {
+        "is_dead": false
+      },
+      "address": [
+        {
+          "country": "PHL",
+          "start_date": "2018-03-27T13:11:01.453528",
+          "description": "permanent address",
+          "is_preferred": true,
+          "contact_number": "",
+          "zip": 92000,
+          "location":[
+              { 
+                 "geopoint": [
+                    { "latitude" : 10.02332 },
+                    { "longitude" : 20.02332 }
+                 ]
+              },
+              { 
+                 "meridian": "+UT8"
+              }
+          ]
+        },
+        {
+          "start_date": "2019-02-27T13:11:01.453528",
+          "description": "mailing address",
+          "contact_number": "",
+          "is_preferred": false,
+          "zip": 12123,
+          "location": "PO Box 23423"
+        },
+        {
+          "start_date": "2019-02-27T13:11:01.453528",
+          "description": "working address",
+          "contact_number": [
+              { 
+                  "fax_number": "0234-324" 
+              },
+              {
+                "mobile_number": [
+                     { "area_code" : "+63" }, 
+                     { "number" : "9914293423" }
+                  ]
+              }
+          ],
+          "is_preferred": false,
+          "zip": 123258,
+          "location": "221 Baker Street"
+        }
+      ]
+    }
+  },
+  {
+    "demographics": {
+      "awh_id": "1ac9dc3ce4fa83906374505bf91d0f1c",
+      "active": true,
+      "deceased": {
+        "is_dead": false,
+        "year": ""
+      },
+      "address": [
+        {
+          "start_date": "2013-03-27T13:11:01.454978",
+          "is_preferred": false,
+          "zip": 17158,
+          "country": "KHM"
+        }
+      ]
+    }
+  },
+  {
+    "demographics": {
+      "awh_id": "2ac9dc3ce4fa83906374505bf91d0f1c",
+      "active": true,
+      "address": [
+        {
+          "country": "KHM"
+        }
+      ]
+    }
+  }
+    
+]

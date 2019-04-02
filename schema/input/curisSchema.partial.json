@@ -1,0 +1,90 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "array",
+  "title": "The Root Schema",
+  "items": {
+    "$id": "#/items",
+    "type": "object",
+    "title": "The Items Schema",
+    "properties": {
+      "demographics": {
+        "$id": "#/items/properties/demographics",
+        "type": "object",
+        "title": "The Demographics Schema",
+        "properties": {
+          "awh_id": {
+            "$id": "#/items/properties/demographics/properties/awh_id",
+            "type": "string",
+            "title": "The Awh_id Schema",
+            "pattern": "^(.*)$"
+          },
+          "active": {
+            "$id": "#/items/properties/demographics/properties/active",
+            "type": "boolean",
+            "title": "The Active Schema"
+          },
+          "deceased": {
+            "$id": "#/items/properties/demographics/properties/deceased",
+            "type": "object",
+            "title": "The Deceased Schema",
+            "properties": {
+              "is_dead": {
+                "$id": "#/items/properties/demographics/properties/deceased/properties/is_dead",
+                "type": "boolean",
+                "title": "The Is_dead Schema"
+              },
+              "year": {
+                "$id": "#/items/properties/demographics/properties/deceased/properties/year",
+                "type": "string",
+                "title": "The Year Schema",
+                "pattern": "^(.*)$"
+              }
+            }
+          },
+          "address": {
+            "$id": "#/items/properties/demographics/properties/address",
+            "type": "array",
+            "title": "The Address Schema",
+            "items": {
+              "$id": "#/items/properties/demographics/properties/address/items",
+              "type": "object",
+              "title": "The Items Schema",
+              "properties": {
+                "add_date": {
+                  "$id": "#/items/properties/demographics/properties/address/items/properties/add_date",
+                  "type": "string",
+                  "title": "The Add_date Schema",
+                  "pattern": "^(.*)$"
+                },
+                "commnty": {
+                  "$id": "#/items/properties/demographics/properties/address/items/properties/commnty",
+                  "type": "string",
+                  "title": "The Commnty Schema",
+                  "pattern": "^(.*)$"
+                },
+                "is_recent": {
+                  "$id": "#/items/properties/demographics/properties/address/items/properties/is_recent",
+                  "type": "boolean",
+                  "title": "The Is_recent Schema"
+                },
+                "zip": {
+                  "$id": "#/items/properties/demographics/properties/address/items/properties/zip",
+                  "type": "integer",
+                  "title": "The Zip Schema"
+                },
+                "country": {
+                  "$id": "#/items/properties/demographics/properties/address/items/properties/country",
+                  "type": "string",
+                  "title": "The Country Schema",
+                  "pattern": "^(.*)$"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

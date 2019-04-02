@@ -1,0 +1,8 @@
+  {
+	'create': {
+		'_index': 'cambodia_demographics',
+		'_type': 'demographics',
+		'_id': 'c92118421a1f8a87a73dadcd954dd75e'
+	}
+  }, 
+  '{"awh_id": "c92118421a1f8a87a73dadcd954dd75e", "active": true, "sex": "M", "birth_date": "1988-09-01", "deceased": {"is_dead": false, "year": ""}, "address": {"add_date": "2019-03-26T15:00:50.325682", "commnty": "", "province": "_", "zip": "17158", "country": "KHM"}, "org": "TGF", "cam_account": "soy_samol", "civil_st": "MA", "religion": "", "educ": "", "employed": {"is_empl": false, "m_income": 150, "currency": "USD", "nature": "IND"}, "where_income_from": "OTH", "are_you_currently_earning": "False", "version": {"number": 1, "date": "2019-03-26T15:00:50.325751"}}'

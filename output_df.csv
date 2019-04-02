@@ -1,0 +1,18 @@
+,RESIDENT 1,,,RESIDENT 2,RESIDENT 3
+demographics.awh_id,c92118421a1f8a87a73dadcd954dd75e,c92118421a1f8a87a73dadcd954dd75e,c92118421a1f8a87a73dadcd954dd75e,1ac9dc3ce4fa83906374505bf91d0f1c,2ac9dc3ce4fa83906374505bf91d0f1c
+demographics.active,TRUE,NaN,NaN,TRUE,TRUE
+demographics.address.country,PHL,NaN,NaN,KHM,KHM
+demographics.address.description,permanent address,mailing address,working address,NaN,NaN
+demographics.address.is_preferred,TRUE,FALSE,FALSE,FALSE,NaN
+demographics.address.location,NaN,PO Box 23423,NaN,NaN,NaN
+demographics.address.location.geopoint.latitude,10.02332,NaN,221 Baker Street,NaN,NaN
+demographics.address.location.geopoint.longitude,20.02332,NaN,NaN,NaN,NaN
+demographics.address.location.meridian,0,NaN,NaN,NaN,NaN
+demographics.address.start_date,2018-03-27T13:11:01.453528,2019-02-27T13:11:01.453528,2019-02-27T13:11:01.453528,2013-03-27T13:11:01.454978,NaN
+demographics.address.zip,92000,12123,123258,17158,NaN
+demographics.address.contact_number,NaN,NaN,NaN,NaN,NaN
+demographics.address.contact_number.mobile_number.area_code,NaN,NaN,63,NaN,NaN
+demographics.address.contact_number.mobile_number.number,NaN,NaN,9914293423,NaN,NaN
+demographics.address.contact_number.fax_number,NaN,NaN,0234-324,NaN,NaN
+demographics.deceased.is_dead,FALSE,NaN,NaN,FALSE,NaN
+demographics.org,TFG,NaN,NaN,NaN,NaN

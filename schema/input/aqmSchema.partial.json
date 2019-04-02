@@ -1,0 +1,246 @@
+{
+	"definitions": {},
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "http://curis.online/newaqm.json",
+	"type": "array",
+	"title": "The Root Schema",
+	"items": {
+		"type": "object",
+		"title": "The Items Schema",
+		"properties": {
+			"personal_info/type_of_registration": {
+				"type": "string",
+				"title": "The Personal_info/type_of_registration Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"personal_info/gender": {
+				"type": "string",
+				"title": "The Personal_info/gender Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"_bamboo_dataset_id": {
+				"type": "string",
+				"title": "The _bamboo_dataset_id Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"health_information/waist_circumference": {
+				"type": "string",
+				"title": "The Health_information/waist_circumference Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"_xform_id_string": {
+				"type": "string",
+				"title": "The _xform_id_string Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"meta/instanceID": {
+				"type": "string",
+				"title": "The Meta/instanceid Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"personal_info/last_name": {
+				"type": "string",
+				"title": "The Personal_info/last_name Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"end": {
+				"type": "string",
+				"title": "The End Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"personal_info/first_name": {
+				"type": "string",
+				"title": "The Personal_info/first_name Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"identity_consent/town": {
+				"type": "string",
+				"title": "The Identity_consent/town Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"identity_consent/organization": {
+				"type": "string",
+				"title": "The Identity_consent/organization Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"start": {
+				"type": "string",
+				"title": "The Start Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"identity_consent/country": {
+				"type": "string",
+				"title": "The Identity_consent/country Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"_validation_status": {
+				"type": "object",
+				"title": "The _validation_status Schema"
+			},
+			"_version_": {
+				"type": "string",
+				"title": "The _version_ Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"_status": {
+				"type": "string",
+				"title": "The _status Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"__version__": {
+				"type": "string",
+				"title": "The __version__ Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"personal_info/address_line_1": {
+				"type": "string",
+				"title": "The Personal_info/address_line_1 Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"_version__004": {
+				"type": "string",
+				"title": "The _version__004 Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"_uuid": {
+				"type": "string",
+				"title": "The _uuid Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"do_you_consent_AWH": {
+				"type": "string",
+				"title": "The Do_you_consent_awh Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"_tags": {
+				"type": "array",
+				"title": "The _tags Schema"
+			},
+			"_submitted_by": {
+				"type": "null",
+				"title": "The _submitted_by Schema",
+				"default": null
+			},
+			"personal_info/date_of_birth": {
+				"type": "string",
+				"title": "The Personal_info/date_of_birth Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"formhub/uuid": {
+				"type": "string",
+				"title": "The Formhub/uuid Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"health_information/height": {
+				"type": "string",
+				"title": "The Health_information/height Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"identity_consent/region": {
+				"type": "string",
+				"title": "The Identity_consent/region Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"_version__001": {
+				"type": "string",
+				"title": "The _version__001 Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"_attachments": {
+				"type": "array",
+				"title": "The _attachments Schema"
+			},
+			"health_information/weight": {
+				"type": "string",
+				"title": "The Health_information/weight Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"identity_consent/questions_to_be_asked": {
+				"type": "string",
+				"title": "The Identity_consent/questions_to_be_asked Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"_submission_time": {
+				"type": "string",
+				"title": "The _submission_time Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"_notes": {
+				"type": "array",
+				"title": "The _notes Schema"
+			},
+			"_geolocation": {
+				"type": "array",
+				"title": "The _geolocation Schema",
+				"items": {
+					"type": "null",
+					"title": "The Items Schema",
+					"default": null
+				}
+			},
+			"identity_consent/personal_id_no": {
+				"type": "string",
+				"title": "The Identity_consent/personal_id_no Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"household/no_of_people_household": {
+				"type": "string",
+				"title": "The Household/no_of_people_household Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"identity_consent/identity_document": {
+				"type": "string",
+				"title": "The Identity_consent/identity_document Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"identity_consent/cam_account": {
+				"type": "string",
+				"title": "The Identity_consent/cam_account Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			},
+			"_id": {
+				"type": "integer",
+				"title": "The _id Schema",
+				"default": 0
+			},
+			"personal_info/civil_status": {
+				"type": "string",
+				"title": "The Personal_info/civil_status Schema",
+				"default": "",
+				"pattern": "^(.*)$"
+			}
+		}
+	}
+}
