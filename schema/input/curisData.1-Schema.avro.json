@@ -1,0 +1,546 @@
+{
+  "name": "MyClass",
+  "type": "record",
+  "namespace": "com.acme.avro",
+  "fields": [
+    {
+      "name": "id",
+      "type": "string"
+    },
+    {
+      "name": "address",
+      "type": {
+        "type": "array",
+        "items": {
+          "name": "address_record",
+          "type": "record",
+          "fields": [
+            {
+              "name": "barangay",
+              "type": "string"
+            },
+            {
+              "name": "country",
+              "type": "string"
+            },
+            {
+              "name": "lot_or_house_number",
+              "type": "string"
+            },
+            {
+              "name": "postal_code",
+              "type": "string"
+            },
+            {
+              "name": "province",
+              "type": "string"
+            },
+            {
+              "name": "fax_number",
+              "type": {
+                "type": "array",
+                "items": {
+                  "name": "fax_number_record",
+                  "type": "record",
+                  "fields": [
+                    {
+                      "name": "country_code",
+                      "type": "string"
+                    },
+                    {
+                      "name": "number",
+                      "type": "string"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "name": "mobile_number",
+              "type": {
+                "type": "array",
+                "items": {
+                  "name": "mobile_number_record",
+                  "type": "record",
+                  "fields": [
+                    {
+                      "name": "country_code",
+                      "type": "string"
+                    },
+                    {
+                      "name": "number",
+                      "type": "string"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "name": "landline_number",
+              "type": {
+                "type": "array",
+                "items": [
+                  [
+                    {
+                      "name": "landline_number_record",
+                      "type": "record",
+                      "fields": [
+                        {
+                          "name": "country_code",
+                          "type": "string"
+                        },
+                        {
+                          "name": "number",
+                          "type": "string"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "landline_number_record",
+                      "type": "record",
+                      "fields": [
+                        {
+                          "name": "country_code",
+                          "type": "string"
+                        },
+                        {
+                          "name": "number",
+                          "type": "string"
+                        }
+                      ]
+                    }
+                  ],
+                  {
+                    "name": "landline_number_record",
+                    "type": "record",
+                    "fields": [
+                      {
+                        "name": "country_code",
+                        "type": "string"
+                      },
+                      {
+                        "name": "number",
+                        "type": "string"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "birthdate",
+      "type": "string"
+    },
+    {
+      "name": "email_address",
+      "type": "string"
+    },
+    {
+      "name": "family_members",
+      "type": {
+        "type": "array",
+        "items": "string"
+      }
+    },
+    {
+      "name": "first_name",
+      "type": "string"
+    },
+    {
+      "name": "gender",
+      "type": "string"
+    },
+    {
+      "name": "health_informations",
+      "type": {
+        "type": "array",
+        "items": {
+          "name": "health_informations_record",
+          "type": "record",
+          "fields": [
+            {
+              "name": "allergies",
+              "type": "string"
+            },
+            {
+              "name": "blood_pressure",
+              "type": {
+                "name": "blood_pressure",
+                "type": "record",
+                "fields": [
+                  {
+                    "name": "first_reading",
+                    "type": {
+                      "name": "first_reading",
+                      "type": "record",
+                      "fields": [
+                        {
+                          "name": "diastole",
+                          "type": "string"
+                        },
+                        {
+                          "name": "systole",
+                          "type": "string"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "name": "second_reading",
+                    "type": {
+                      "name": "second_reading",
+                      "type": "record",
+                      "fields": [
+                        {
+                          "name": "diastole",
+                          "type": "string"
+                        },
+                        {
+                          "name": "systole",
+                          "type": "string"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "name": "third_reading",
+                    "type": {
+                      "name": "third_reading",
+                      "type": "record",
+                      "fields": [
+                        {
+                          "name": "diastole",
+                          "type": "string"
+                        },
+                        {
+                          "name": "systole",
+                          "type": "string"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "name": "blood_sign",
+              "type": "string"
+            },
+            {
+              "name": "blood_sugar",
+              "type": "int"
+            },
+            {
+              "name": "blood_type",
+              "type": "string"
+            },
+            {
+              "name": "date_updated",
+              "type": "string"
+            },
+            {
+              "name": "diagnosed",
+              "type": {
+                "type": "array",
+                "items": "string"
+              }
+            },
+            {
+              "name": "exercise_in_a_week",
+              "type": "string"
+            },
+            {
+              "name": "family_history",
+              "type": {
+                "type": "array",
+                "items": "string"
+              }
+            },
+            {
+              "name": "fruits_in_a_week",
+              "type": "string"
+            },
+            {
+              "name": "height",
+              "type": "int"
+            },
+            {
+              "name": "high_cost_medicine",
+              "type": "string"
+            },
+            {
+              "name": "maintenance_drugs",
+              "type": "string"
+            },
+            {
+              "name": "smoking_habit",
+              "type": "string"
+            },
+            {
+              "name": "vegetables_in_a_week",
+              "type": "string"
+            },
+            {
+              "name": "waist_circumference",
+              "type": "int"
+            },
+            {
+              "name": "weight",
+              "type": "int"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "households",
+      "type": {
+        "type": "array",
+        "items": {
+          "name": "households_record",
+          "type": "record",
+          "fields": [
+            {
+              "name": "amenities_present_in_house",
+              "type": {
+                "type": "array",
+                "items": "string"
+              }
+            },
+            {
+              "name": "date_updated",
+              "type": "string"
+            },
+            {
+              "name": "house_ownership",
+              "type": "string"
+            },
+            {
+              "name": "neighborhood_description",
+              "type": "string"
+            },
+            {
+              "name": "no_of_families_in_the_household",
+              "type": [
+                "int",
+                "null"
+              ]
+            },
+            {
+              "name": "no_of_people_in_the_household",
+              "type": [
+                "int",
+                "null"
+              ]
+            },
+            {
+              "name": "sanitary_ownership",
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            {
+              "name": "sanitary_type",
+              "type": {
+                "type": "array",
+                "items": "string"
+              }
+            },
+            {
+              "name": "type_of_house",
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "identification",
+      "type": {
+        "name": "identification",
+        "type": "record",
+        "fields": [
+          {
+            "name": "id1",
+            "type": {
+              "name": "id1",
+              "type": "record",
+              "fields": [
+                {
+                  "name": "identifier",
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                {
+                  "name": "type",
+                  "type": "string"
+                }
+              ]
+            }
+          },
+          {
+            "name": "id2",
+            "type": {
+              "name": "id2",
+              "type": "record",
+              "fields": [
+                {
+                  "name": "identifier",
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                {
+                  "name": "type",
+                  "type": "string"
+                }
+              ]
+            }
+          },
+          {
+            "name": "id3",
+            "type": {
+              "name": "id3",
+              "type": "record",
+              "fields": [
+                {
+                  "name": "identifier",
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                {
+                  "name": "type",
+                  "type": "string"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "last_name",
+      "type": "string"
+    },
+    {
+      "name": "last_name_suffix",
+      "type": "string"
+    },
+    {
+      "name": "middle_name",
+      "type": "string"
+    },
+    {
+      "name": "nhid",
+      "type": "string"
+    },
+    {
+      "name": "organization",
+      "type": "string"
+    },
+    {
+      "name": "profile_picture",
+      "type": {
+        "name": "profile_picture",
+        "type": "record",
+        "fields": [
+          {
+            "name": "name",
+            "type": "string"
+          },
+          {
+            "name": "path",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "profiles",
+      "type": {
+        "type": "array",
+        "items": {
+          "name": "profiles_record",
+          "type": "record",
+          "fields": [
+            {
+              "name": "civil_status",
+              "type": "string"
+            },
+            {
+              "name": "date_updated",
+              "type": "string"
+            },
+            {
+              "name": "education",
+              "type": "string"
+            },
+            {
+              "name": "employment",
+              "type": {
+                "name": "employment",
+                "type": "record",
+                "fields": [
+                  {
+                    "name": "is_employed",
+                    "type": "boolean"
+                  },
+                  {
+                    "name": "monthly_income",
+                    "type": "string"
+                  },
+                  {
+                    "name": "nature",
+                    "type": "string"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "religion",
+              "type": "string"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "registered_at",
+      "type": "string"
+    },
+    {
+      "name": "type",
+      "type": "string"
+    },
+    {
+      "name": "user-cam",
+      "type": {
+        "name": "user-cam",
+        "type": "record",
+        "fields": [
+          {
+            "name": "id",
+            "type": "string"
+          },
+          {
+            "name": "owner",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}

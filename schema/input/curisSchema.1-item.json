@@ -1,0 +1,616 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "object",
+  "title": "The Root Schema",
+  "properties": {
+    "id": {
+      "$id": "#/properties/id",
+      "type": "string",
+      "title": "The Id Schema",
+      "pattern": "^(.*)$"
+    },
+    "address": {
+      "$id": "#/properties/address",
+      "type": "array",
+      "title": "The Address Schema",
+      "items": {
+        "$id": "#/properties/address/items",
+        "type": "object",
+        "title": "The Items Schema",
+        "properties": {
+          "barangay": {
+            "$id": "#/properties/address/items/properties/barangay",
+            "type": "string",
+            "title": "The Barangay Schema",
+            "pattern": "^(.*)$"
+          },
+          "country": {
+            "$id": "#/properties/address/items/properties/country",
+            "type": "string",
+            "title": "The Country Schema",
+            "pattern": "^(.*)$"
+          },
+          "lot_or_house_number": {
+            "$id": "#/properties/address/items/properties/lot_or_house_number",
+            "type": "string",
+            "title": "The Lot_or_house_number Schema",
+            "pattern": "^(.*)$"
+          },
+          "postal_code": {
+            "$id": "#/properties/address/items/properties/postal_code",
+            "type": "string",
+            "title": "The Postal_code Schema",
+            "pattern": "^(.*)$"
+          },
+          "province": {
+            "$id": "#/properties/address/items/properties/province",
+            "type": "string",
+            "title": "The Province Schema",
+            "pattern": "^(.*)$"
+          },
+          "fax_number": {
+            "$id": "#/properties/address/items/properties/fax_number",
+            "type": "array",
+            "title": "The Fax_number Schema",
+            "items": {
+              "$id": "#/properties/address/items/properties/fax_number/items",
+              "type": "object",
+              "title": "The Items Schema",
+              "properties": {
+                "country_code": {
+                  "$id": "#/properties/address/items/properties/fax_number/items/properties/country_code",
+                  "type": "string",
+                  "title": "The Country_code Schema",
+                  "pattern": "^(.*)$"
+                },
+                "number": {
+                  "$id": "#/properties/address/items/properties/fax_number/items/properties/number",
+                  "type": "string",
+                  "title": "The Number Schema",
+                  "pattern": "^(.*)$"
+                }
+              }
+            }
+          },
+          "mobile_number": {
+            "$id": "#/properties/address/items/properties/mobile_number",
+            "type": "array",
+            "title": "The Mobile_number Schema",
+            "items": {
+              "$id": "#/properties/address/items/properties/mobile_number/items",
+              "type": "object",
+              "title": "The Items Schema",
+              "properties": {
+                "country_code": {
+                  "$id": "#/properties/address/items/properties/mobile_number/items/properties/country_code",
+                  "type": "string",
+                  "title": "The Country_code Schema",
+                  "pattern": "^(.*)$"
+                },
+                "number": {
+                  "$id": "#/properties/address/items/properties/mobile_number/items/properties/number",
+                  "type": "string",
+                  "title": "The Number Schema",
+                  "pattern": "^(.*)$"
+                }
+              }
+            }
+          },
+          "landline_number": {
+            "$id": "#/properties/address/items/properties/landline_number",
+            "type": "array",
+            "title": "The Landline_number Schema",
+            "items": {
+              "$id": "#/properties/address/items/properties/landline_number/items",
+              "type": "object",
+              "title": "The Items Schema",
+              "properties": {
+                "country_code": {
+                  "$id": "#/properties/address/items/properties/landline_number/items/properties/country_code",
+                  "type": "string",
+                  "title": "The Country_code Schema",
+                  "pattern": "^(.*)$"
+                },
+                "number": {
+                  "$id": "#/properties/address/items/properties/landline_number/items/properties/number",
+                  "type": "string",
+                  "title": "The Number Schema",
+                  "pattern": "^(.*)$"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "birthdate": {
+      "$id": "#/properties/birthdate",
+      "type": "string",
+      "title": "The Birthdate Schema",
+      "pattern": "^(.*)$"
+    },
+    "email_address": {
+      "$id": "#/properties/email_address",
+      "type": "null",
+      "title": "The Email_address Schema"
+    },
+    "family_members": {
+      "$id": "#/properties/family_members",
+      "type": "array",
+      "title": "The Family_members Schema",
+      "items": {
+        "$id": "#/properties/family_members/items",
+        "type": "string",
+        "title": "The Items Schema",
+        "pattern": "^(.*)$"
+      }
+    },
+    "first_name": {
+      "$id": "#/properties/first_name",
+      "type": "string",
+      "title": "The First_name Schema",
+      "pattern": "^(.*)$"
+    },
+    "gender": {
+      "$id": "#/properties/gender",
+      "type": "string",
+      "title": "The Gender Schema",
+      "pattern": "^(.*)$"
+    },
+    "health_informations": {
+      "$id": "#/properties/health_informations",
+      "type": "array",
+      "title": "The Health_informations Schema",
+      "items": {
+        "$id": "#/properties/health_informations/items",
+        "type": "object",
+        "title": "The Items Schema",
+        "properties": {
+          "allergies": {
+            "$id": "#/properties/health_informations/items/properties/allergies",
+            "type": "string",
+            "title": "The Allergies Schema",
+            "pattern": "^(.*)$"
+          },
+          "blood_pressure": {
+            "$id": "#/properties/health_informations/items/properties/blood_pressure",
+            "type": "object",
+            "title": "The Blood_pressure Schema",
+            "properties": {
+              "first_reading": {
+                "$id": "#/properties/health_informations/items/properties/blood_pressure/properties/first_reading",
+                "type": "object",
+                "title": "The First_reading Schema",
+                "properties": {
+                  "diastole": {
+                    "$id": "#/properties/health_informations/items/properties/blood_pressure/properties/first_reading/properties/diastole",
+                    "type": "string",
+                    "title": "The Diastole Schema",
+                    "pattern": "^(.*)$"
+                  },
+                  "systole": {
+                    "$id": "#/properties/health_informations/items/properties/blood_pressure/properties/first_reading/properties/systole",
+                    "type": "string",
+                    "title": "The Systole Schema",
+                    "pattern": "^(.*)$"
+                  }
+                }
+              },
+              "second_reading": {
+                "$id": "#/properties/health_informations/items/properties/blood_pressure/properties/second_reading",
+                "type": "object",
+                "title": "The Second_reading Schema",
+                "properties": {
+                  "diastole": {
+                    "$id": "#/properties/health_informations/items/properties/blood_pressure/properties/second_reading/properties/diastole",
+                    "type": "string",
+                    "title": "The Diastole Schema",
+                    "pattern": "^(.*)$"
+                  },
+                  "systole": {
+                    "$id": "#/properties/health_informations/items/properties/blood_pressure/properties/second_reading/properties/systole",
+                    "type": "string",
+                    "title": "The Systole Schema",
+                    "pattern": "^(.*)$"
+                  }
+                }
+              },
+              "third_reading": {
+                "$id": "#/properties/health_informations/items/properties/blood_pressure/properties/third_reading",
+                "type": "object",
+                "title": "The Third_reading Schema",
+                "properties": {
+                  "diastole": {
+                    "$id": "#/properties/health_informations/items/properties/blood_pressure/properties/third_reading/properties/diastole",
+                    "type": "string",
+                    "title": "The Diastole Schema",
+                    "pattern": "^(.*)$"
+                  },
+                  "systole": {
+                    "$id": "#/properties/health_informations/items/properties/blood_pressure/properties/third_reading/properties/systole",
+                    "type": "string",
+                    "title": "The Systole Schema",
+                    "pattern": "^(.*)$"
+                  }
+                }
+              }
+            }
+          },
+          "blood_sign": {
+            "$id": "#/properties/health_informations/items/properties/blood_sign",
+            "type": "string",
+            "title": "The Blood_sign Schema",
+            "pattern": "^(.*)$"
+          },
+          "blood_sugar": {
+            "$id": "#/properties/health_informations/items/properties/blood_sugar",
+            "type": "integer",
+            "title": "The Blood_sugar Schema"
+          },
+          "blood_type": {
+            "$id": "#/properties/health_informations/items/properties/blood_type",
+            "type": "string",
+            "title": "The Blood_type Schema",
+            "pattern": "^(.*)$"
+          },
+          "date_updated": {
+            "$id": "#/properties/health_informations/items/properties/date_updated",
+            "type": "string",
+            "title": "The Date_updated Schema",
+            "pattern": "^(.*)$"
+          },
+          "diagnosed": {
+            "$id": "#/properties/health_informations/items/properties/diagnosed",
+            "type": "array",
+            "title": "The Diagnosed Schema",
+            "items": {
+              "$id": "#/properties/health_informations/items/properties/diagnosed/items",
+              "type": "string",
+              "title": "The Items Schema",
+              "pattern": "^(.*)$"
+            }
+          },
+          "exercise_in_a_week": {
+            "$id": "#/properties/health_informations/items/properties/exercise_in_a_week",
+            "type": "string",
+            "title": "The Exercise_in_a_week Schema",
+            "pattern": "^(.*)$"
+          },
+          "family_history": {
+            "$id": "#/properties/health_informations/items/properties/family_history",
+            "type": "array",
+            "title": "The Family_history Schema",
+            "items": {
+              "$id": "#/properties/health_informations/items/properties/family_history/items",
+              "type": "string",
+              "title": "The Items Schema",
+              "pattern": "^(.*)$"
+            }
+          },
+          "fruits_in_a_week": {
+            "$id": "#/properties/health_informations/items/properties/fruits_in_a_week",
+            "type": "string",
+            "title": "The Fruits_in_a_week Schema",
+            "pattern": "^(.*)$"
+          },
+          "height": {
+            "$id": "#/properties/health_informations/items/properties/height",
+            "type": "integer",
+            "title": "The Height Schema"
+          },
+          "high_cost_medicine": {
+            "$id": "#/properties/health_informations/items/properties/high_cost_medicine",
+            "type": "string",
+            "title": "The High_cost_medicine Schema",
+            "pattern": "^(.*)$"
+          },
+          "maintenance_drugs": {
+            "$id": "#/properties/health_informations/items/properties/maintenance_drugs",
+            "type": "string",
+            "title": "The Maintenance_drugs Schema",
+            "pattern": "^(.*)$"
+          },
+          "smoking_habit": {
+            "$id": "#/properties/health_informations/items/properties/smoking_habit",
+            "type": "string",
+            "title": "The Smoking_habit Schema",
+            "pattern": "^(.*)$"
+          },
+          "vegetables_in_a_week": {
+            "$id": "#/properties/health_informations/items/properties/vegetables_in_a_week",
+            "type": "string",
+            "title": "The Vegetables_in_a_week Schema",
+            "pattern": "^(.*)$"
+          },
+          "waist_circumference": {
+            "$id": "#/properties/health_informations/items/properties/waist_circumference",
+            "type": "integer",
+            "title": "The Waist_circumference Schema"
+          },
+          "weight": {
+            "$id": "#/properties/health_informations/items/properties/weight",
+            "type": "integer",
+            "title": "The Weight Schema"
+          }
+        }
+      }
+    },
+    "households": {
+      "$id": "#/properties/households",
+      "type": "array",
+      "title": "The Households Schema",
+      "items": {
+        "$id": "#/properties/households/items",
+        "type": "object",
+        "title": "The Items Schema",
+        "properties": {
+          "amenities_present_in_house": {
+            "$id": "#/properties/households/items/properties/amenities_present_in_house",
+            "type": "array",
+            "title": "The Amenities_present_in_house Schema",
+            "items": {
+              "$id": "#/properties/households/items/properties/amenities_present_in_house/items",
+              "type": "string",
+              "title": "The Items Schema",
+              "pattern": "^(.*)$"
+            }
+          },
+          "date_updated": {
+            "$id": "#/properties/households/items/properties/date_updated",
+            "type": "string",
+            "title": "The Date_updated Schema",
+            "pattern": "^(.*)$"
+          },
+          "house_ownership": {
+            "$id": "#/properties/households/items/properties/house_ownership",
+            "type": "string",
+            "title": "The House_ownership Schema",
+            "pattern": "^(.*)$"
+          },
+          "neighborhood_description": {
+            "$id": "#/properties/households/items/properties/neighborhood_description",
+            "type": "string",
+            "title": "The Neighborhood_description Schema",
+            "pattern": "^(.*)$"
+          },
+          "no_of_families_in_the_household": {
+            "$id": "#/properties/households/items/properties/no_of_families_in_the_household",
+            "type": "integer",
+            "title": "The No_of_families_in_the_household Schema"
+          },
+          "no_of_people_in_the_household": {
+            "$id": "#/properties/households/items/properties/no_of_people_in_the_household",
+            "type": "integer",
+            "title": "The No_of_people_in_the_household Schema"
+          },
+          "sanitary_ownership": {
+            "$id": "#/properties/households/items/properties/sanitary_ownership",
+            "type": "string",
+            "title": "The Sanitary_ownership Schema",
+            "pattern": "^(.*)$"
+          },
+          "sanitary_type": {
+            "$id": "#/properties/households/items/properties/sanitary_type",
+            "type": "array",
+            "title": "The Sanitary_type Schema",
+            "items": {
+              "$id": "#/properties/households/items/properties/sanitary_type/items",
+              "type": "string",
+              "title": "The Items Schema",
+              "pattern": "^(.*)$"
+            }
+          },
+          "type_of_house": {
+            "$id": "#/properties/households/items/properties/type_of_house",
+            "type": "string",
+            "title": "The Type_of_house Schema",
+            "pattern": "^(.*)$"
+          }
+        }
+      }
+    },
+    "identification": {
+      "$id": "#/properties/identification",
+      "type": "object",
+      "title": "The Identification Schema",
+      "properties": {
+        "id1": {
+          "$id": "#/properties/identification/properties/id1",
+          "type": "object",
+          "title": "The Id1 Schema",
+          "properties": {
+            "identifier": {
+              "$id": "#/properties/identification/properties/id1/properties/identifier",
+              "type": "null",
+              "title": "The Identifier Schema"
+            },
+            "type": {
+              "$id": "#/properties/identification/properties/id1/properties/type",
+              "type": "string",
+              "title": "The Type Schema",
+              "pattern": "^(.*)$"
+            }
+          }
+        },
+        "id2": {
+          "$id": "#/properties/identification/properties/id2",
+          "type": "object",
+          "title": "The Id2 Schema",
+          "properties": {
+            "identifier": {
+              "$id": "#/properties/identification/properties/id2/properties/identifier",
+              "type": "null",
+              "title": "The Identifier Schema"
+            },
+            "type": {
+              "$id": "#/properties/identification/properties/id2/properties/type",
+              "type": "string",
+              "title": "The Type Schema",
+              "pattern": "^(.*)$"
+            }
+          }
+        },
+        "id3": {
+          "$id": "#/properties/identification/properties/id3",
+          "type": "object",
+          "title": "The Id3 Schema",
+          "properties": {
+            "identifier": {
+              "$id": "#/properties/identification/properties/id3/properties/identifier",
+              "type": "null",
+              "title": "The Identifier Schema"
+            },
+            "type": {
+              "$id": "#/properties/identification/properties/id3/properties/type",
+              "type": "string",
+              "title": "The Type Schema",
+              "pattern": "^(.*)$"
+            }
+          }
+        }
+      }
+    },
+    "last_name": {
+      "$id": "#/properties/last_name",
+      "type": "string",
+      "title": "The Last_name Schema",
+      "pattern": "^(.*)$"
+    },
+    "last_name_suffix": {
+      "$id": "#/properties/last_name_suffix",
+      "type": "string",
+      "title": "The Last_name_suffix Schema",
+      "pattern": "^(.*)$"
+    },
+    "middle_name": {
+      "$id": "#/properties/middle_name",
+      "type": "string",
+      "title": "The Middle_name Schema",
+      "pattern": "^(.*)$"
+    },
+    "nhid": {
+      "$id": "#/properties/nhid",
+      "type": "string",
+      "title": "The Nhid Schema",
+      "pattern": "^(.*)$"
+    },
+    "organization": {
+      "$id": "#/properties/organization",
+      "type": "string",
+      "title": "The Organization Schema",
+      "pattern": "^(.*)$"
+    },
+    "profile_picture": {
+      "$id": "#/properties/profile_picture",
+      "type": "object",
+      "title": "The Profile_picture Schema",
+      "properties": {
+        "name": {
+          "$id": "#/properties/profile_picture/properties/name",
+          "type": "string",
+          "title": "The Name Schema",
+          "pattern": "^(.*)$"
+        },
+        "path": {
+          "$id": "#/properties/profile_picture/properties/path",
+          "type": "string",
+          "title": "The Path Schema",
+          "pattern": "^(.*)$"
+        }
+      }
+    },
+    "profiles": {
+      "$id": "#/properties/profiles",
+      "type": "array",
+      "title": "The Profiles Schema",
+      "items": {
+        "$id": "#/properties/profiles/items",
+        "type": "object",
+        "title": "The Items Schema",
+        "properties": {
+          "civil_status": {
+            "$id": "#/properties/profiles/items/properties/civil_status",
+            "type": "string",
+            "title": "The Civil_status Schema",
+            "pattern": "^(.*)$"
+          },
+          "date_updated": {
+            "$id": "#/properties/profiles/items/properties/date_updated",
+            "type": "string",
+            "title": "The Date_updated Schema",
+            "pattern": "^(.*)$"
+          },
+          "education": {
+            "$id": "#/properties/profiles/items/properties/education",
+            "type": "string",
+            "title": "The Education Schema",
+            "pattern": "^(.*)$"
+          },
+          "employment": {
+            "$id": "#/properties/profiles/items/properties/employment",
+            "type": "object",
+            "title": "The Employment Schema",
+            "properties": {
+              "is_employed": {
+                "$id": "#/properties/profiles/items/properties/employment/properties/is_employed",
+                "type": "boolean",
+                "title": "The Is_employed Schema"
+              },
+              "monthly_income": {
+                "$id": "#/properties/profiles/items/properties/employment/properties/monthly_income",
+                "type": "string",
+                "title": "The Monthly_income Schema",
+                "pattern": "^(.*)$"
+              },
+              "nature": {
+                "$id": "#/properties/profiles/items/properties/employment/properties/nature",
+                "type": "string",
+                "title": "The Nature Schema",
+                "pattern": "^(.*)$"
+              }
+            }
+          },
+          "religion": {
+            "$id": "#/properties/profiles/items/properties/religion",
+            "type": "string",
+            "title": "The Religion Schema",
+            "pattern": "^(.*)$"
+          }
+        }
+      }
+    },
+    "registered_at": {
+      "$id": "#/properties/registered_at",
+      "type": "string",
+      "title": "The Registered_at Schema",
+      "pattern": "^(.*)$"
+    },
+    "type": {
+      "$id": "#/properties/type",
+      "type": "string",
+      "title": "The Type Schema",
+      "pattern": "^(.*)$"
+    },
+    "user-cam": {
+      "$id": "#/properties/user-cam",
+      "type": "object",
+      "title": "The User-cam Schema",
+      "properties": {
+        "id": {
+          "$id": "#/properties/user-cam/properties/id",
+          "type": "string",
+          "title": "The Id Schema",
+          "pattern": "^(.*)$"
+        },
+        "owner": {
+          "$id": "#/properties/user-cam/properties/owner",
+          "type": "string",
+          "title": "The Owner Schema",
+          "pattern": "^(.*)$"
+        }
+      }
+    }
+  }
+}

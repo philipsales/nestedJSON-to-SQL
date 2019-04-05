@@ -1,0 +1,20 @@
+﻿0,1,2,3,4,5,6
+demographics.awh_id,c92118421a1f8a87a73dadcd954dd75e,c92118421a1f8a87a73dadcd954dd75e,c92118421a1f8a87a73dadcd954dd75e,c92118421a1f8a87a73dadcd954dd75e,c92118421a1f8a87a73dadcd954dd75e,c92118421a1f8a87a73dadcd954dd75e
+demographics.active,NaN,NaN,NaN,NaN,NaN,NaN
+demographics.address.country,NaN,NaN,NaN,NaN,NaN,NaN
+demographics.address.description,mailing address,working address,NaN,NaN,NaN,NaN
+demographics.address.is_preferred,FALSE,FALSE,NaN,NaN,NaN,NaN
+demographics.address.location,PO Box 23423,NaN,NaN,NaN,NaN,NaN
+demographics.address.location.geopoint.latitude,NaN,221 Baker Street,NaN,NaN,NaN,NaN
+demographics.address.location.geopoint.longitude,NaN,NaN,NaN,NaN,NaN,NaN
+demographics.address.location.meridian,NaN,NaN,NaN,NaN,NaN,NaN
+demographics.address.start_date,2019-02-27T13:11:01.453528,2019-02-27T13:11:01.453528,NaN,NaN,NaN,NaN
+demographics.address.zip,12123,123258,NaN,NaN,NaN,NaN
+demographics.address.contact_number,NaN,NaN,NaN,NaN,NaN,NaN
+demographics.address.contact_number.landline_number.area_code,NaN,NaN,2,2,NaN,NaN
+demographics.address.contact_number.landline_number.number,NaN,NaN,34223212,34322233,NaN,NaN
+demographics.address.contact_number.mobile_number.area_code,NaN,NaN,NaN,NaN,NaN,63
+demographics.address.contact_number.mobile_number.number,NaN,NaN,NaN,NaN,NaN,9914293423
+demographics.address.contact_number.fax_number,NaN,NaN,NaN,NaN,0234-324,NaN
+demographics.deceased.is_dead,NaN,NaN,NaN,NaN,NaN,NaN
+demographics.org,NaN,NaN,NaN,NaN,NaN,NaN
