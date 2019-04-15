@@ -1,1 +1,1 @@
-households.neighborhood_description,households.house_ownership,households.date_updated,households.type_of_house,households.sanitary_ownership,_id,_index_map
+households.date_updated,households.house_ownership,households.sanitary_ownership,households.neighborhood_description,households.type_of_house,_id,_index_map

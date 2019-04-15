@@ -5,123 +5,46 @@
   "type": "object",
   "title": "The Root Schema",
   "properties": {
-    "id": {
-      "$id": "#/properties/id",
+    "awh_id": {
+      "$id": "#/properties/awh_id",
       "type": "string",
-      "title": "The Id Schema",
+      "title": "The Awh_id Schema",
       "pattern": "^(.*)$"
     },
     "address": {
       "$id": "#/properties/address",
-      "type": "array",
+      "type": "object",
       "title": "The Address Schema",
-      "items": {
-        "$id": "#/properties/address/items",
-        "type": "object",
-        "title": "The Items Schema",
-        "properties": {
-          "barangay": {
-            "$id": "#/properties/address/items/properties/barangay",
-            "type": "string",
-            "title": "The Barangay Schema",
-            "pattern": "^(.*)$"
-          },
-          "country": {
-            "$id": "#/properties/address/items/properties/country",
-            "type": "string",
-            "title": "The Country Schema",
-            "pattern": "^(.*)$"
-          },
-          "lot_or_house_number": {
-            "$id": "#/properties/address/items/properties/lot_or_house_number",
-            "type": "string",
-            "title": "The Lot_or_house_number Schema",
-            "pattern": "^(.*)$"
-          },
-          "postal_code": {
-            "$id": "#/properties/address/items/properties/postal_code",
-            "type": "string",
-            "title": "The Postal_code Schema",
-            "pattern": "^(.*)$"
-          },
-          "province": {
-            "$id": "#/properties/address/items/properties/province",
-            "type": "string",
-            "title": "The Province Schema",
-            "pattern": "^(.*)$"
-          },
-          "fax_number": {
-            "$id": "#/properties/address/items/properties/fax_number",
-            "type": "array",
-            "title": "The Fax_number Schema",
-            "items": {
-              "$id": "#/properties/address/items/properties/fax_number/items",
-              "type": "object",
-              "title": "The Items Schema",
-              "properties": {
-                "country_code": {
-                  "$id": "#/properties/address/items/properties/fax_number/items/properties/country_code",
-                  "type": "string",
-                  "title": "The Country_code Schema",
-                  "pattern": "^(.*)$"
-                },
-                "number": {
-                  "$id": "#/properties/address/items/properties/fax_number/items/properties/number",
-                  "type": "string",
-                  "title": "The Number Schema",
-                  "pattern": "^(.*)$"
-                }
-              }
-            }
-          },
-          "mobile_number": {
-            "$id": "#/properties/address/items/properties/mobile_number",
-            "type": "array",
-            "title": "The Mobile_number Schema",
-            "items": {
-              "$id": "#/properties/address/items/properties/mobile_number/items",
-              "type": "object",
-              "title": "The Items Schema",
-              "properties": {
-                "country_code": {
-                  "$id": "#/properties/address/items/properties/mobile_number/items/properties/country_code",
-                  "type": "string",
-                  "title": "The Country_code Schema",
-                  "pattern": "^(.*)$"
-                },
-                "number": {
-                  "$id": "#/properties/address/items/properties/mobile_number/items/properties/number",
-                  "type": "string",
-                  "title": "The Number Schema",
-                  "pattern": "^(.*)$"
-                }
-              }
-            }
-          },
-          "landline_number": {
-            "$id": "#/properties/address/items/properties/landline_number",
-            "type": "array",
-            "title": "The Landline_number Schema",
-            "items": {
-              "$id": "#/properties/address/items/properties/landline_number/items",
-              "type": "object",
-              "title": "The Items Schema",
-              "properties": {
-                "country_code": {
-                  "$id": "#/properties/address/items/properties/landline_number/items/properties/country_code",
-                  "type": "string",
-                  "title": "The Country_code Schema",
-                  "pattern": "^(.*)$"
-                },
-                "number": {
-                  "$id": "#/properties/address/items/properties/landline_number/items/properties/number",
-                  "type": "string",
-                  "title": "The Number Schema",
-                  "pattern": "^(.*)$"
-                }
-              }
-            }
-          }
+      "properties": {
+        "barangay": {
+          "$id": "#/properties/address/properties/barangay",
+          "type": "string",
+          "title": "The Barangay Schema",
+          "pattern": "^(.*)$"
+        },
+        "country": {
+          "$id": "#/properties/address/properties/country",
+          "type": "string",
+          "title": "The Country Schema",
+          "pattern": "^(.*)$"
+        },
+        "lot_or_house_number": {
+          "$id": "#/properties/address/properties/lot_or_house_number",
+          "type": "string",
+          "title": "The Lot_or_house_number Schema",
+          "pattern": "^(.*)$"
+        },
+        "postal_code": {
+          "$id": "#/properties/address/properties/postal_code",
+          "type": "string",
+          "title": "The Postal_code Schema",
+          "pattern": "^(.*)$"
+        },
+        "province": {
+          "$id": "#/properties/address/properties/province",
+          "type": "string",
+          "title": "The Province Schema",
+          "pattern": "^(.*)$"
         }
       }
     },
@@ -131,10 +54,41 @@
       "title": "The Birthdate Schema",
       "pattern": "^(.*)$"
     },
+    "contact_number": {
+      "$id": "#/properties/contact_number",
+      "type": "object",
+      "title": "The Contact_number Schema",
+      "properties": {
+        "country_code": {
+          "$id": "#/properties/contact_number/properties/country_code",
+          "type": "string",
+          "title": "The Country_code Schema",
+          "pattern": "^(.*)$"
+        },
+        "number": {
+          "$id": "#/properties/contact_number/properties/number",
+          "type": "string",
+          "title": "The Number Schema",
+          "pattern": "^(.*)$"
+        }
+      }
+    },
+    "date_visits": {
+      "$id": "#/properties/date_visits",
+      "type": "array",
+      "title": "The Date_visits Schema",
+      "items": {
+        "$id": "#/properties/date_visits/items",
+        "type": "string",
+        "title": "The Items Schema",
+        "pattern": "^(.*)$"
+      }
+    },
     "email_address": {
       "$id": "#/properties/email_address",
-      "type": "null",
-      "title": "The Email_address Schema"
+      "type": "string",
+      "title": "The Email_address Schema",
+      "pattern": "^(.*)$"
     },
     "family_members": {
       "$id": "#/properties/family_members",
@@ -423,8 +377,9 @@
           "properties": {
             "identifier": {
               "$id": "#/properties/identification/properties/id1/properties/identifier",
-              "type": "null",
-              "title": "The Identifier Schema"
+              "type": "string",
+              "title": "The Identifier Schema",
+              "pattern": "^(.*)$"
             },
             "type": {
               "$id": "#/properties/identification/properties/id1/properties/type",
@@ -441,8 +396,9 @@
           "properties": {
             "identifier": {
               "$id": "#/properties/identification/properties/id2/properties/identifier",
-              "type": "null",
-              "title": "The Identifier Schema"
+              "type": "string",
+              "title": "The Identifier Schema",
+              "pattern": "^(.*)$"
             },
             "type": {
               "$id": "#/properties/identification/properties/id2/properties/type",
@@ -459,8 +415,9 @@
           "properties": {
             "identifier": {
               "$id": "#/properties/identification/properties/id3/properties/identifier",
-              "type": "null",
-              "title": "The Identifier Schema"
+              "type": "string",
+              "title": "The Identifier Schema",
+              "pattern": "^(.*)$"
             },
             "type": {
               "$id": "#/properties/identification/properties/id3/properties/type",
