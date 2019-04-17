@@ -1,0 +1,541 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "array",
+  "title": "The Root Schema",
+  "items": {
+    "$id": "#/items",
+    "type": "object",
+    "title": "The Items Schema",
+    "properties": {
+      "health_information/how_taking_prescribed_dose": {
+        "$id": "#/items/properties/health_information/how_taking_prescribed_dose",
+        "type": "string",
+        "title": "The Health_information/how_taking_prescribed_dose Schema",
+        "pattern": "^(.*)$"
+      },
+      "_xform_id_string": {
+        "$id": "#/items/properties/_xform_id_string",
+        "type": "string",
+        "title": "The _xform_id_string Schema",
+        "pattern": "^(.*)$"
+      },
+      "personal_info/first_name": {
+        "$id": "#/items/properties/personal_info/first_name",
+        "type": "string",
+        "title": "The Personal_info/first_name Schema",
+        "pattern": "^(.*)$"
+      },
+      "identity_consent/organization": {
+        "$id": "#/items/properties/identity_consent/organization",
+        "type": "string",
+        "title": "The Identity_consent/organization Schema",
+        "pattern": "^(.*)$"
+      },
+      "pregnancy/not_rec_ANC_local_health_cente": {
+        "$id": "#/items/properties/pregnancy/not_rec_ANC_local_health_cente",
+        "type": "string",
+        "title": "The Pregnancy/not_rec_anc_local_health_cente Schema",
+        "pattern": "^(.*)$"
+      },
+      "identity_consent/town": {
+        "$id": "#/items/properties/identity_consent/town",
+        "type": "string",
+        "title": "The Identity_consent/town Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/taking_long_term_meds": {
+        "$id": "#/items/properties/health_information/taking_long_term_meds",
+        "type": "string",
+        "title": "The Health_information/taking_long_term_meds Schema",
+        "pattern": "^(.*)$"
+      },
+      "household/ensuring_water_is_safe": {
+        "$id": "#/items/properties/household/ensuring_water_is_safe",
+        "type": "string",
+        "title": "The Household/ensuring_water_is_safe Schema",
+        "pattern": "^(.*)$"
+      },
+      "personal_info/address_line_2": {
+        "$id": "#/items/properties/personal_info/address_line_2",
+        "type": "string",
+        "title": "The Personal_info/address_line_2 Schema",
+        "pattern": "^(.*)$"
+      },
+      "personal_info/address_line_1": {
+        "$id": "#/items/properties/personal_info/address_line_1",
+        "type": "string",
+        "title": "The Personal_info/address_line_1 Schema",
+        "pattern": "^(.*)$"
+      },
+      "identity_consent/cam_account": {
+        "$id": "#/items/properties/identity_consent/cam_account",
+        "type": "string",
+        "title": "The Identity_consent/cam_account Schema",
+        "pattern": "^(.*)$"
+      },
+      "pregnancy/why_not_delivr_health_centr": {
+        "$id": "#/items/properties/pregnancy/why_not_delivr_health_centr",
+        "type": "string",
+        "title": "The Pregnancy/why_not_delivr_health_centr Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/weight": {
+        "$id": "#/items/properties/health_information/weight",
+        "type": "string",
+        "title": "The Health_information/weight Schema",
+        "pattern": "^(.*)$"
+      },
+      "_tags": {
+        "$id": "#/items/properties/_tags",
+        "type": "array",
+        "title": "The _tags Schema"
+      },
+      "personal_info/household_monthly_income": {
+        "$id": "#/items/properties/personal_info/household_monthly_income",
+        "type": "string",
+        "title": "The Personal_info/household_monthly_income Schema",
+        "pattern": "^(.*)$"
+      },
+      "_version_": {
+        "$id": "#/items/properties/_version_",
+        "type": "string",
+        "title": "The _version_ Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/smoking_habit": {
+        "$id": "#/items/properties/health_information/smoking_habit",
+        "type": "string",
+        "title": "The Health_information/smoking_habit Schema",
+        "pattern": "^(.*)$"
+      },
+      "household/house_construction": {
+        "$id": "#/items/properties/household/house_construction",
+        "type": "string",
+        "title": "The Household/house_construction Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/diagnosed": {
+        "$id": "#/items/properties/health_information/diagnosed",
+        "type": "string",
+        "title": "The Health_information/diagnosed Schema",
+        "pattern": "^(.*)$"
+      },
+      "pregnancy/is_pregnant_or_have_children": {
+        "$id": "#/items/properties/pregnancy/is_pregnant_or_have_children",
+        "type": "string",
+        "title": "The Pregnancy/is_pregnant_or_have_children Schema",
+        "pattern": "^(.*)$"
+      },
+      "_submission_time": {
+        "$id": "#/items/properties/_submission_time",
+        "type": "string",
+        "title": "The _submission_time Schema",
+        "pattern": "^(.*)$"
+      },
+      "dental_health/times_brush_teeth_daily": {
+        "$id": "#/items/properties/dental_health/times_brush_teeth_daily",
+        "type": "string",
+        "title": "The Dental_health/times_brush_teeth_daily Schema",
+        "pattern": "^(.*)$"
+      },
+      "_geolocation": {
+        "$id": "#/items/properties/_geolocation",
+        "type": "array",
+        "title": "The _geolocation Schema",
+        "items": {
+          "$id": "#/items/properties/_geolocation/items",
+          "type": "string",
+          "title": "The Items Schema",
+          "pattern": "^(.*)$"
+        }
+      },
+      "personal_info/postal_code": {
+        "$id": "#/items/properties/personal_info/postal_code",
+        "type": "string",
+        "title": "The Personal_info/postal_code Schema",
+        "pattern": "^(.*)$"
+      },
+      "household/amenities": {
+        "$id": "#/items/properties/household/amenities",
+        "type": "string",
+        "title": "The Household/amenities Schema",
+        "pattern": "^(.*)$"
+      },
+      "dental_health/last_6_months_dental_fam_probl": {
+        "$id": "#/items/properties/dental_health/last_6_months_dental_fam_probl",
+        "type": "string",
+        "title": "The Dental_health/last_6_months_dental_fam_probl Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/blood_pressure_1st_diastole": {
+        "$id": "#/items/properties/health_information/blood_pressure_1st_diastole",
+        "type": "string",
+        "title": "The Health_information/blood_pressure_1st_diastole Schema",
+        "pattern": "^(.*)$"
+      },
+      "pregnancy/is_first_pregnancy": {
+        "$id": "#/items/properties/pregnancy/is_first_pregnancy",
+        "type": "string",
+        "title": "The Pregnancy/is_first_pregnancy Schema",
+        "pattern": "^(.*)$"
+      },
+      "meta/instanceID": {
+        "$id": "#/items/properties/meta/instanceID",
+        "type": "string",
+        "title": "The Meta/instanceid Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/family_history": {
+        "$id": "#/items/properties/health_information/family_history",
+        "type": "string",
+        "title": "The Health_information/family_history Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/fruits_within_week": {
+        "$id": "#/items/properties/health_information/fruits_within_week",
+        "type": "string",
+        "title": "The Health_information/fruits_within_week Schema",
+        "pattern": "^(.*)$"
+      },
+      "personal_info/last_name": {
+        "$id": "#/items/properties/personal_info/last_name",
+        "type": "string",
+        "title": "The Personal_info/last_name Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/has_health_insurance_plan": {
+        "$id": "#/items/properties/health_information/has_health_insurance_plan",
+        "type": "string",
+        "title": "The Health_information/has_health_insurance_plan Schema",
+        "pattern": "^(.*)$"
+      },
+      "identity_consent/region": {
+        "$id": "#/items/properties/identity_consent/region",
+        "type": "string",
+        "title": "The Identity_consent/region Schema",
+        "pattern": "^(.*)$"
+      },
+      "disability/types_of_disability": {
+        "$id": "#/items/properties/disability/types_of_disability",
+        "type": "string",
+        "title": "The Disability/types_of_disability Schema",
+        "pattern": "^(.*)$"
+      },
+      "_validation_status": {
+        "$id": "#/items/properties/_validation_status",
+        "type": "object",
+        "title": "The _validation_status Schema"
+      },
+      "_uuid": {
+        "$id": "#/items/properties/_uuid",
+        "type": "string",
+        "title": "The _uuid Schema",
+        "pattern": "^(.*)$"
+      },
+      "personal_info/work_nature": {
+        "$id": "#/items/properties/personal_info/work_nature",
+        "type": "string",
+        "title": "The Personal_info/work_nature Schema",
+        "pattern": "^(.*)$"
+      },
+      "personal_info/source_of_income": {
+        "$id": "#/items/properties/personal_info/source_of_income",
+        "type": "string",
+        "title": "The Personal_info/source_of_income Schema",
+        "pattern": "^(.*)$"
+      },
+      "pregnancy/place_receive_ANC": {
+        "$id": "#/items/properties/pregnancy/place_receive_ANC",
+        "type": "string",
+        "title": "The Pregnancy/place_receive_anc Schema",
+        "pattern": "^(.*)$"
+      },
+      "identity_consent/identity_document": {
+        "$id": "#/items/properties/identity_consent/identity_document",
+        "type": "string",
+        "title": "The Identity_consent/identity_document Schema",
+        "pattern": "^(.*)$"
+      },
+      "do_you_consent_AWH": {
+        "$id": "#/items/properties/do_you_consent_AWH",
+        "type": "string",
+        "title": "The Do_you_consent_awh Schema",
+        "pattern": "^(.*)$"
+      },
+      "notes": {
+        "$id": "#/items/properties/notes",
+        "type": "array",
+        "title": "The _notes Schema",
+        "items": {
+          "$id": "#/items/properties/notes/items",
+          "type": "string",
+          "title": "The Items Schema",
+          "pattern": "^(.*)$"
+        }
+      },
+      "pregnancy/Are_you_taking_ferro_hate_with_folic_acid": {
+        "$id": "#/items/properties/pregnancy/Are_you_taking_ferro_hate_with_folic_acid",
+        "type": "string",
+        "title": "The Pregnancy/are_you_taking_ferro_hate_with_folic_acid Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/blood_pressure_2nd_diastole": {
+        "$id": "#/items/properties/health_information/blood_pressure_2nd_diastole",
+        "type": "string",
+        "title": "The Health_information/blood_pressure_2nd_diastole Schema",
+        "pattern": "^(.*)$"
+      },
+      "pregnancy/vaccinated_tetanus_toxoid": {
+        "$id": "#/items/properties/pregnancy/vaccinated_tetanus_toxoid",
+        "type": "string",
+        "title": "The Pregnancy/vaccinated_tetanus_toxoid Schema",
+        "pattern": "^(.*)$"
+      },
+      "personal_info/gender": {
+        "$id": "#/items/properties/personal_info/gender",
+        "type": "string",
+        "title": "The Personal_info/gender Schema",
+        "pattern": "^(.*)$"
+      },
+      "_bamboo_dataset_id": {
+        "$id": "#/items/properties/_bamboo_dataset_id",
+        "type": "string",
+        "title": "The _bamboo_dataset_id Schema",
+        "pattern": "^(.*)$"
+      },
+      "personal_info/is_currently_earning": {
+        "$id": "#/items/properties/personal_info/is_currently_earning",
+        "type": "string",
+        "title": "The Personal_info/is_currently_earning Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/alcohol_within_week": {
+        "$id": "#/items/properties/health_information/alcohol_within_week",
+        "type": "string",
+        "title": "The Health_information/alcohol_within_week Schema",
+        "pattern": "^(.*)$"
+      },
+      "start": {
+        "$id": "#/items/properties/start",
+        "type": "string",
+        "title": "The Start Schema",
+        "pattern": "^(.*)$"
+      },
+      "identity_consent/country": {
+        "$id": "#/items/properties/identity_consent/country",
+        "type": "string",
+        "title": "The Identity_consent/country Schema",
+        "pattern": "^(.*)$"
+      },
+      "_status": {
+        "$id": "#/items/properties/_status",
+        "type": "string",
+        "title": "The _status Schema",
+        "pattern": "^(.*)$"
+      },
+      "dental_health/used_for_cleaning_teeth": {
+        "$id": "#/items/properties/dental_health/used_for_cleaning_teeth",
+        "type": "string",
+        "title": "The Dental_health/used_for_cleaning_teeth Schema",
+        "pattern": "^(.*)$"
+      },
+      "pregnancy/where_to_deliver_baby": {
+        "$id": "#/items/properties/pregnancy/where_to_deliver_baby",
+        "type": "string",
+        "title": "The Pregnancy/where_to_deliver_baby Schema",
+        "pattern": "^(.*)$"
+      },
+      "_submitted_by": {
+        "$id": "#/items/properties/_submitted_by",
+        "type": "null",
+        "title": "The _submitted_by Schema"
+      },
+      "health_information/blood_pressure_2nd_systole": {
+        "$id": "#/items/properties/health_information/blood_pressure_2nd_systole",
+        "type": "string",
+        "title": "The Health_information/blood_pressure_2nd_systole Schema",
+        "pattern": "^(.*)$"
+      },
+      "household/water_sources": {
+        "$id": "#/items/properties/household/water_sources",
+        "type": "string",
+        "title": "The Household/water_sources Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/height": {
+        "$id": "#/items/properties/health_information/height",
+        "type": "string",
+        "title": "The Health_information/height Schema",
+        "pattern": "^(.*)$"
+      },
+      "identity_consent/questions_to_be_asked": {
+        "$id": "#/items/properties/identity_consent/questions_to_be_asked",
+        "type": "string",
+        "title": "The Identity_consent/questions_to_be_asked Schema",
+        "pattern": "^(.*)$"
+      },
+      "identity_consent/personal_id_no": {
+        "$id": "#/items/properties/identity_consent/personal_id_no",
+        "type": "string",
+        "title": "The Identity_consent/personal_id_no Schema",
+        "pattern": "^(.*)$"
+      },
+      "personal_info/type_of_registration": {
+        "$id": "#/items/properties/personal_info/type_of_registration",
+        "type": "string",
+        "title": "The Personal_info/type_of_registration Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/waist_circumference": {
+        "$id": "#/items/properties/health_information/waist_circumference",
+        "type": "string",
+        "title": "The Health_information/waist_circumference Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/traditional_medicine": {
+        "$id": "#/items/properties/health_information/traditional_medicine",
+        "type": "string",
+        "title": "The Health_information/traditional_medicine Schema",
+        "pattern": "^(.*)$"
+      },
+      "household/mostly_used_to_wash_hands": {
+        "$id": "#/items/properties/household/mostly_used_to_wash_hands",
+        "type": "string",
+        "title": "The Household/mostly_used_to_wash_hands Schema",
+        "pattern": "^(.*)$"
+      },
+      "pregnancy/months_pregnant": {
+        "$id": "#/items/properties/pregnancy/months_pregnant",
+        "type": "string",
+        "title": "The Pregnancy/months_pregnant Schema",
+        "pattern": "^(.*)$"
+      },
+      "end": {
+        "$id": "#/items/properties/end",
+        "type": "string",
+        "title": "The End Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/considering_self_with_disabili": {
+        "$id": "#/items/properties/health_information/considering_self_with_disabili",
+        "type": "string",
+        "title": "The Health_information/considering_self_with_disabili Schema",
+        "pattern": "^(.*)$"
+      },
+      "household/sanitation_ownership": {
+        "$id": "#/items/properties/household/sanitation_ownership",
+        "type": "string",
+        "title": "The Household/sanitation_ownership Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/travel_for_medicine": {
+        "$id": "#/items/properties/health_information/travel_for_medicine",
+        "type": "string",
+        "title": "The Health_information/travel_for_medicine Schema",
+        "pattern": "^(.*)$"
+      },
+      "pregnancy/female_no_of_children": {
+        "$id": "#/items/properties/pregnancy/female_no_of_children",
+        "type": "string",
+        "title": "The Pregnancy/female_no_of_children Schema",
+        "pattern": "^(.*)$"
+      },
+      "personal_info/currency": {
+        "$id": "#/items/properties/personal_info/currency",
+        "type": "string",
+        "title": "The Personal_info/currency Schema",
+        "pattern": "^(.*)$"
+      },
+      "__version__": {
+        "$id": "#/items/properties/__version__",
+        "type": "string",
+        "title": "The __version__ Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/exercise_within_week": {
+        "$id": "#/items/properties/health_information/exercise_within_week",
+        "type": "string",
+        "title": "The Health_information/exercise_within_week Schema",
+        "pattern": "^(.*)$"
+      },
+      "dental_health/owning_toothbrush": {
+        "$id": "#/items/properties/dental_health/owning_toothbrush",
+        "type": "string",
+        "title": "The Dental_health/owning_toothbrush Schema",
+        "pattern": "^(.*)$"
+      },
+      "pregnancy/ANC_visits": {
+        "$id": "#/items/properties/pregnancy/ANC_visits",
+        "type": "string",
+        "title": "The Pregnancy/anc_visits Schema",
+        "pattern": "^(.*)$"
+      },
+      "personal_info/date_of_birth": {
+        "$id": "#/items/properties/personal_info/date_of_birth",
+        "type": "string",
+        "title": "The Personal_info/date_of_birth Schema",
+        "pattern": "^(.*)$"
+      },
+      "health_information/blood_pressure_1st_systole": {
+        "$id": "#/items/properties/health_information/blood_pressure_1st_systole",
+        "type": "string",
+        "title": "The Health_information/blood_pressure_1st_systole Schema",
+        "pattern": "^(.*)$"
+      },
+      "formhub/uuid": {
+        "$id": "#/items/properties/formhub/uuid",
+        "type": "string",
+        "title": "The Formhub/uuid Schema",
+        "pattern": "^(.*)$"
+      },
+      "dental_health/family_dental_problems": {
+        "$id": "#/items/properties/dental_health/family_dental_problems",
+        "type": "string",
+        "title": "The Dental_health/family_dental_problems Schema",
+        "pattern": "^(.*)$"
+      },
+      "_attachments": {
+        "$id": "#/items/properties/_attachments",
+        "type": "array",
+        "title": "The _attachments Schema",
+        "items": {
+          "$id": "#/items/properties/_attachments/items",
+          "type": "string",
+          "title": "The Items Schema",
+          "pattern": "^(.*)$"
+        }
+      },
+      "health_information/vegetable_within_week": {
+        "$id": "#/items/properties/health_information/vegetable_within_week",
+        "type": "string",
+        "title": "The Health_information/vegetable_within_week Schema",
+        "pattern": "^(.*)$"
+      },
+      "household/no_of_people_household": {
+        "$id": "#/items/properties/household/no_of_people_household",
+        "type": "string",
+        "title": "The Household/no_of_people_household Schema",
+        "pattern": "^(.*)$"
+      },
+      "household/type_of_sanitation": {
+        "$id": "#/items/properties/household/type_of_sanitation",
+        "type": "string",
+        "title": "The Household/type_of_sanitation Schema",
+        "pattern": "^(.*)$"
+      },
+      "_id": {
+        "$id": "#/items/properties/_id",
+        "type": "integer",
+        "title": "The _id Schema"
+      },
+      "personal_info/civil_status": {
+        "$id": "#/items/properties/personal_info/civil_status",
+        "type": "string",
+        "title": "The Personal_info/civil_status Schema",
+        "pattern": "^(.*)$"
+      }
+    }
+  }
+}

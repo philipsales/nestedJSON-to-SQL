@@ -1,2 +1,0 @@
-file_name,file_count,date,source_schema,version
-"date_visits,family_members,health_informations.diagnosed,health_informations.family_history,households.amenities_present_in_house,households.sanitary_type,profiles,health_informations,households,resident",10,2019-04-16 10:13:31.392695,schema/input/curisSchema.1-item.json,1.0
