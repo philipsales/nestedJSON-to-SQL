@@ -1,14 +1,9 @@
-notes,_id,_index_map
-,4296,
-hello,4296,0
-world,4296,1
-foo,4296,2
-,4297,
-notes 1,4297,0
-notes 2,4297,1
-notes 3,4297,2
-,34,
-,36,
-,38,
-,42,
-,43,
+_id,_index_map,notes
+4296,,
+4296,0,hello
+4296,1,world
+4296,2,foo
+4297,,
+4297,0,notes 1
+4297,1,notes 2
+4297,2,notes 3

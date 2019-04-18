@@ -1,5 +1,6 @@
 _id,_index_map,health_informations.diagnosed
 000210ae-ddfd-42f2-b79b-01908c4b73ef,0.0,Diabetes
 000210ae-ddfd-42f2-b79b-01908c4b73ef,0.1,Respiratory disease
-11210ae-ddfd-42f2-b79b-01908c4b73ef,0.0,Diabetes
-11210ae-ddfd-42f2-b79b-01908c4b73ef,0.1,Respiratory disease
+0003ff38-28fb-4005-9437-d276cbb9da4d,0.0,Kidney disease
+0003ff38-28fb-4005-9437-d276cbb9da4d,1.0,Kidney disease
+0003ff38-28fb-4005-9437-d276cbb9da4d,2.0,Kidney disease
