@@ -1,0 +1,190 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "array",
+  "title": "The Root Schema",
+  "items": {
+    "$id": "#/items",
+    "type": "object",
+    "title": "The Items Schema",
+    "properties": {
+      "answers": {
+        "$id": "#/items/properties/answers",
+        "type": "object",
+        "title": "The Answers Schema",
+        "properties": {
+          "BloodType": {
+            "$id": "#/items/properties/answers/properties/BloodType",
+            "type": "string",
+            "title": "The Bloodtype Schema",
+            "pattern": "^(.*)$"
+          },
+          "HealthInformation": {
+            "$id": "#/items/properties/answers/properties/HealthInformation",
+            "type": "object",
+            "title": "The Healthinformation Schema",
+            "properties": {
+              "diagnosed": {
+                "$id": "#/items/properties/answers/properties/HealthInformation/properties/diagnosed",
+                "type": "array",
+                "title": "The Diagnosed Schema",
+                "items": {
+                  "$id": "#/items/properties/answers/properties/HealthInformation/properties/diagnosed/items",
+                  "type": "string",
+                  "title": "The Items Schema",
+                  "pattern": "^(.*)$"
+                }
+              }
+            }
+          },
+          "Address": {
+            "$id": "#/items/properties/answers/properties/Address",
+            "type": "object",
+            "title": "The Address Schema",
+            "properties": {
+              "Location": {
+                "$id": "#/items/properties/answers/properties/Address/properties/Location",
+                "type": "object",
+                "title": "The Location Schema",
+                "properties": {
+                  "Street": {
+                    "$id": "#/items/properties/answers/properties/Address/properties/Location/properties/Street",
+                    "type": "string",
+                    "title": "The Street Schema",
+                    "pattern": "^(.*)$"
+                  },
+                  "City": {
+                    "$id": "#/items/properties/answers/properties/Address/properties/Location/properties/City",
+                    "type": "string",
+                    "title": "The City Schema",
+                    "pattern": "^(.*)$"
+                  }
+                }
+              }
+            }
+          },
+          "Allergy": {
+            "$id": "#/items/properties/answers/properties/Allergy",
+            "type": "array",
+            "title": "The Allergy Schema",
+            "items": {
+              "$id": "#/items/properties/answers/properties/Allergy/items",
+              "type": "string",
+              "title": "The Items Schema",
+              "pattern": "^(.*)$"
+            }
+          },
+          "BP1_Systolic": {
+            "$id": "#/items/properties/answers/properties/BP1_Systolic",
+            "type": "integer",
+            "title": "The Bp1_systolic Schema"
+          },
+          "BP2_Diastolic": {
+            "$id": "#/items/properties/answers/properties/BP2_Diastolic",
+            "type": "integer",
+            "title": "The Bp2_diastolic Schema"
+          },
+          "Height": {
+            "$id": "#/items/properties/answers/properties/Height",
+            "type": "integer",
+            "title": "The Height Schema"
+          },
+          "HighCostMeds": {
+            "$id": "#/items/properties/answers/properties/HighCostMeds",
+            "type": "string",
+            "title": "The Highcostmeds Schema",
+            "pattern": "^(.*)$"
+          },
+          "RBS": {
+            "$id": "#/items/properties/answers/properties/RBS",
+            "type": "integer",
+            "title": "The Rbs Schema"
+          },
+          "BP2_Systolic": {
+            "$id": "#/items/properties/answers/properties/BP2_Systolic",
+            "type": "integer",
+            "title": "The Bp2_systolic Schema"
+          },
+          "__version__": {
+            "$id": "#/items/properties/answers/properties/__version__",
+            "type": "null",
+            "title": "The __version__ Schema"
+          },
+          "DiseaseHistory": {
+            "$id": "#/items/properties/answers/properties/DiseaseHistory",
+            "type": "array",
+            "title": "The Diseasehistory Schema",
+            "items": {
+              "$id": "#/items/properties/answers/properties/DiseaseHistory/items",
+              "type": "string",
+              "title": "The Items Schema",
+              "pattern": "^(.*)$"
+            }
+          },
+          "Smoking": {
+            "$id": "#/items/properties/answers/properties/Smoking",
+            "type": "string",
+            "title": "The Smoking Schema",
+            "pattern": "^(.*)$"
+          },
+          "Waist": {
+            "$id": "#/items/properties/answers/properties/Waist",
+            "type": "integer",
+            "title": "The Waist Schema"
+          },
+          "Weight": {
+            "$id": "#/items/properties/answers/properties/Weight",
+            "type": "integer",
+            "title": "The Weight Schema"
+          },
+          "BloodRhesusType": {
+            "$id": "#/items/properties/answers/properties/BloodRhesusType",
+            "type": "string",
+            "title": "The Bloodrhesustype Schema",
+            "pattern": "^(.*)$"
+          },
+          "WeeklyExercise": {
+            "$id": "#/items/properties/answers/properties/WeeklyExercise",
+            "type": "string",
+            "title": "The Weeklyexercise Schema",
+            "pattern": "^(.*)$"
+          },
+          "How_many_fist_or_cup_uding_rice_or_potato": {
+            "$id": "#/items/properties/answers/properties/How_many_fist_or_cup_uding_rice_or_potato",
+            "type": "integer",
+            "title": "The How_many_fist_or_cup_uding_rice_or_potato Schema"
+          },
+          "BP1_Diastolic": {
+            "$id": "#/items/properties/answers/properties/BP1_Diastolic",
+            "type": "integer",
+            "title": "The Bp1_diastolic Schema"
+          },
+          "LongTermMeds": {
+            "$id": "#/items/properties/answers/properties/LongTermMeds",
+            "type": "string",
+            "title": "The Longtermmeds Schema",
+            "pattern": "^(.*)$"
+          },
+          "FamilyDiseaseHistory": {
+            "$id": "#/items/properties/answers/properties/FamilyDiseaseHistory",
+            "type": "array",
+            "title": "The Familydiseasehistory Schema",
+            "items": {
+              "$id": "#/items/properties/answers/properties/FamilyDiseaseHistory/items",
+              "type": "string",
+              "title": "The Items Schema",
+              "pattern": "^(.*)$"
+            }
+          }
+        }
+      },
+      "formId": {
+        "$id": "#/items/properties/formId",
+        "type": "string",
+        "title": "The Formid Schema",
+        "pattern": "^(.*)$"
+      }
+    }
+  }
+}

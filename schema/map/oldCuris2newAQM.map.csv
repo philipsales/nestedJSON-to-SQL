@@ -1,0 +1,4 @@
+source_key,destination_key
+id_id
+health_information.exercise_in_a_week,health_information.weekly_exercise
+health_information.blood_type,health_information.blood_type
