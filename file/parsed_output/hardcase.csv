@@ -1,0 +1,12 @@
+id, value
+232adad321ad, answers.contactnumber/0.type:landline
+232adad321ad, answers.contactnumber/0.extensions/0.number:99999
+232adad321ad, answers.contactnumber/0.extensions/1.number:11111
+232adad321ad, answers.contactnumber/1.type:mobile
+232adad321ad, answers.contactnumber/2.type:mobile
+232adad321ad, answers.contactnumber/1.extensions/0.number:12345
+232adad321ad, answers.contactnumber/1.extensions/1.number:2222
+1337, answers.contactnumber/0.type:landline
+1337, answers.contactnumber/0.extensions/0.number:99999
+1234, answers.contactnumber/0.ext/0.foo/0.bar/0.number:1
+1234, answers.contactnumber/0.ext/0.foo/1.type:landline
