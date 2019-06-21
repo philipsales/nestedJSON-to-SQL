@@ -1,6 +1,91 @@
 _id,_index_map,health_informations.family_history
-000210ae-ddfd-42f2-b79b-01908c4b73ef,0.0,Diabetes
-000210ae-ddfd-42f2-b79b-01908c4b73ef,0.1,Respiratory disease
-0003ff38-28fb-4005-9437-d276cbb9da4d,0.0,Kidney disease
-0003ff38-28fb-4005-9437-d276cbb9da4d,1.0,Kidney disease
-0003ff38-28fb-4005-9437-d276cbb9da4d,2.0,Kidney disease
+3de5b0f7-75ea-47d1-842e-df22156cf0e8,0.0,Hypertension
+3de5b0f7-75ea-47d1-842e-df22156cf0e8,1.0,Hypertension
+3de5b0f7-75ea-47d1-842e-df22156cf0e8,2.0,Hypertension
+3de5b0f7-75ea-47d1-842e-df22156cf0e8,3.0,Hypertension
+3de5b0f7-75ea-47d1-842e-df22156cf0e8,4.0,Hypertension
+3de5b0f7-75ea-47d1-842e-df22156cf0e8,4.1,Respiratory disease
+29c2e957-d544-4268-8299-6c81a373ecdb,0.0,Hypertension
+29c2e957-d544-4268-8299-6c81a373ecdb,0.1,Stroke
+29c2e957-d544-4268-8299-6c81a373ecdb,1.0,Hypertension
+29c2e957-d544-4268-8299-6c81a373ecdb,1.1,Stroke
+cc994234-ce15-45b2-b376-4df1232cc183,0.0,Respiratory disease
+77efbbab-34a9-4047-aee9-8387ad70ac34,0.0,Cancer
+0610ff90-6d63-4ed6-bf76-598deac18e0a,0.0,Hypertension
+a21e3ffa-34da-4380-83ca-eaa6932984f3,0.0,Stroke
+24a7489e-245a-4689-bdc2-a2e268c67b31,0.0,ulced
+24a7489e-245a-4689-bdc2-a2e268c67b31,1.0,ulcer
+24a7489e-245a-4689-bdc2-a2e268c67b31,2.0,ulcer
+a3d74c6e-850f-4d97-8f4e-e56431dc4c07,0.0,Stroke
+b7cfbb70-145c-4d36-92eb-6edeb98185fd,0.0,Diabetes
+b7cfbb70-145c-4d36-92eb-6edeb98185fd,0.1,Hypertension
+5be788dd-663e-4b8c-92fd-16fc89a3b476,0.0,Hypertension
+3d595c12-a038-4a20-90c7-3ea6a06a12c2,0.0,Hypertension
+40f64ac0-9d27-442c-9be4-c032d88fa482,0.0,Hypertension
+e73efc27-f9db-40d5-acc0-f496020673d8,0.0,Hypertension
+6b2063ca-a1d3-4f08-97bc-7cab08674c15,0.0,Hypertension
+5d98e525-7f8f-407d-96ba-4861aaa8c58f,0.0,Cancer
+5d98e525-7f8f-407d-96ba-4861aaa8c58f,0.1,Diabetes
+5d98e525-7f8f-407d-96ba-4861aaa8c58f,0.2,Hypertension
+5d98e525-7f8f-407d-96ba-4861aaa8c58f,0.3,Stroke
+5d98e525-7f8f-407d-96ba-4861aaa8c58f,0.4,"destonia,cataract,pneumonia,goiter"
+19849dce-ea3e-4322-bba9-a1ce3a9068c0,0.0,Hypertension
+19849dce-ea3e-4322-bba9-a1ce3a9068c0,0.1,Stroke
+19849dce-ea3e-4322-bba9-a1ce3a9068c0,0.2,"rheumatic heart disease,replax acid"
+84300d37-fe61-4673-8aa8-4c9a262145a3,0.0,UTI
+cea3879e-8b52-4b59-a446-8a33bd9cb6f5,0.0,Diabetes
+cea3879e-8b52-4b59-a446-8a33bd9cb6f5,0.1,Respiratory disease
+c6303fb1-05aa-480d-991f-1b0275b1e04f,0.0,Hypertension
+71b13a63-f6e7-4777-80fb-625bd3190152,0.0,Hypertension
+71b13a63-f6e7-4777-80fb-625bd3190152,0.1,Kidney disease
+dc9b9d7d-2636-44ff-86ba-ae4a67c222e5,0.0,Hypertension
+e287b1d4-f14f-42a2-9abd-f539d0de8e5d,0.0,Hypertension
+e287b1d4-f14f-42a2-9abd-f539d0de8e5d,1.0,Hypertension
+480252b5-1ac8-43c2-a541-f838a0d7db63,0.0,Diabetes
+480252b5-1ac8-43c2-a541-f838a0d7db63,0.1,Hypertension
+480252b5-1ac8-43c2-a541-f838a0d7db63,0.2,Kidney disease
+480252b5-1ac8-43c2-a541-f838a0d7db63,0.3,Respiratory disease
+6e05599f-88d6-4467-ae14-c828e6f2e1bc,0.0,Hypertension
+6e05599f-88d6-4467-ae14-c828e6f2e1bc,0.1,Kidney disease
+6e05599f-88d6-4467-ae14-c828e6f2e1bc,1.0,Hypertension
+6e05599f-88d6-4467-ae14-c828e6f2e1bc,1.1,Kidney disease
+6e05599f-88d6-4467-ae14-c828e6f2e1bc,2.0,Hypertension
+6e05599f-88d6-4467-ae14-c828e6f2e1bc,2.1,Kidney disease
+da0dcdd6-ed73-41fa-a63f-a3b9b377553b,0.0,Cancer
+da0dcdd6-ed73-41fa-a63f-a3b9b377553b,0.1,Respiratory disease
+da0dcdd6-ed73-41fa-a63f-a3b9b377553b,0.2,"pneumonia,asthma,goiter"
+cacb88c0-d8ea-4ef9-b04f-276faa50aa8d,0.0,Cold
+18dc53c6-5bad-419d-b693-7d010d1cdade,0.0,Hypertension
+0a5fc999-4f63-4148-ae26-dc52e459e8c5,0.0,Diabetes
+0a5fc999-4f63-4148-ae26-dc52e459e8c5,0.1,Hypertension
+00e9bbf1-c17b-4072-ac53-9aa00d95de56,0.0,Respiratory disease
+00e9bbf1-c17b-4072-ac53-9aa00d95de56,1.0,Respiratory disease
+00e9bbf1-c17b-4072-ac53-9aa00d95de56,2.0,Respiratory disease
+00e9bbf1-c17b-4072-ac53-9aa00d95de56,3.0,Respiratory disease
+673572a1-2965-4201-8008-2f08ff81c442,0.0,Hypertension
+673572a1-2965-4201-8008-2f08ff81c442,0.1,Stroke
+673572a1-2965-4201-8008-2f08ff81c442,1.0,Hypertension
+c3951f3c-5ae7-4db2-88f8-0249ab542c53,0.0,Hypertension
+c3951f3c-5ae7-4db2-88f8-0249ab542c53,0.1,Stroke
+c3951f3c-5ae7-4db2-88f8-0249ab542c53,1.0,Hypertension
+db1fa905-6dfc-4cff-9f77-89fe7814c351,0.0,Diabetes
+db1fa905-6dfc-4cff-9f77-89fe7814c351,0.1,Hypertension
+db1fa905-6dfc-4cff-9f77-89fe7814c351,0.2,Kidney disease
+a7982c96-a19c-479f-a933-f951bf0583fb,0.0,Diabetes
+9b7e33ef-17b1-46e7-8a7f-021457d28920,0.0,Hypertension
+9cc26bf9-e698-4574-becf-89025f4b1069,0.0,Hypertension
+517192da-2c48-4595-82b6-93dcb3d5c725,0.0,Hypertension
+c0853685-7b9b-462f-9f02-e0237c2133f5,0.0,Hypertension
+61ab57f2-3212-4f16-af37-341bc8fc5e10,0.0,Hypertension
+21c7d8b6-3529-4c91-bde6-e6a5a058e92f,0.0,Hypertension
+21c7d8b6-3529-4c91-bde6-e6a5a058e92f,0.1,Stroke
+21c7d8b6-3529-4c91-bde6-e6a5a058e92f,1.0,Hypertension
+21c7d8b6-3529-4c91-bde6-e6a5a058e92f,2.0,Hypertension
+dd704a15-b80a-4e8e-9213-4086e3a5a68f,0.0,Hypertension
+d5fdda7a-87bd-46bc-8b05-d43a034a12d8,0.0,Respiratory disease
+7697f0cd-9dcc-404a-810d-0abdd43cef11,0.0,Stroke
+9927b4d9-1477-4c71-ab61-5f7fdfe0b95f,0.0,Hypertension
+9927b4d9-1477-4c71-ab61-5f7fdfe0b95f,0.1,Stroke
+4aa13d35-ef2a-45d4-b0d4-8663a12a4a8d,0.0,Cancer
+4aa13d35-ef2a-45d4-b0d4-8663a12a4a8d,0.1,Hypertension
+68ef4cba-5bdd-4535-9a6d-c767613b859e,0.0,Hypertension

@@ -1,0 +1,19 @@
+{
+         "ContactNumber": [
+            {
+                "Type": "Landline",
+                "Number": ["2232453", "1111111"],
+                "Ext": [
+                    { "Trunkline": "Reception", "Number": "02" }
+                ]
+            },
+            {
+                "Type": "Mobile",
+                "Number": ["9999"],
+                "Ext": [
+                    { "Trunkline": "Mobile Trunkline", "Number": "02" },
+                    { "Trunkline": "Operator", "Number": "03" }
+                ]
+            }
+        ]
+}

@@ -1,3 +1,22 @@
 _id,_index_map,symptoms_collection.head.eyes
-000210ae-ddfd-42f2-b79b-01908c4b73ef,0.0,pain
-000210ae-ddfd-42f2-b79b-01908c4b73ef,0.1,burn
+3de5b0f7-75ea-47d1-842e-df22156cf0e8,0.0,Sensitive to light
+3de5b0f7-75ea-47d1-842e-df22156cf0e8,1.0,Sensitive to light
+77efbbab-34a9-4047-aee9-8387ad70ac34,0.0,Blurred vision
+3d595c12-a038-4a20-90c7-3ea6a06a12c2,0.0,Blurred vision
+0a5fc999-4f63-4148-ae26-dc52e459e8c5,0.0,Blurred vision
+0a5fc999-4f63-4148-ae26-dc52e459e8c5,0.1,Double vision
+0a5fc999-4f63-4148-ae26-dc52e459e8c5,0.2,Night blindness
+0a5fc999-4f63-4148-ae26-dc52e459e8c5,0.3,Sensitive to light
+0a5fc999-4f63-4148-ae26-dc52e459e8c5,0.4,Changes in vision ability
+0a5fc999-4f63-4148-ae26-dc52e459e8c5,0.5,Discoloration of eye
+9b7e33ef-17b1-46e7-8a7f-021457d28920,0.0,Blurred vision
+9b7e33ef-17b1-46e7-8a7f-021457d28920,0.1,Eye discharge
+306086dd-90e0-4799-b4b6-1088aa0e8b6c,0.0,Blurred vision
+306086dd-90e0-4799-b4b6-1088aa0e8b6c,0.1,Double vision
+b724283a-9ba9-4310-bc45-44363bd8a7af,0.0,Gaburon ang panulukan
+b724283a-9ba9-4310-bc45-44363bd8a7af,0.1,Nagamuta-muta/Pagwa sang tubig sa mata
+b724283a-9ba9-4310-bc45-44363bd8a7af,0.2,Galuluha
+d5fdda7a-87bd-46bc-8b05-d43a034a12d8,0.0,Blurred vision
+ce4dd933-0440-44af-a81b-79fdf86745d2,0.0,Blurred vision
+7697f0cd-9dcc-404a-810d-0abdd43cef11,0.0,Gaburon ang panulukan
+68ef4cba-5bdd-4535-9a6d-c767613b859e,0.0,Sensitive to light

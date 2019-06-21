@@ -1,4 +1,19 @@
 _id,_index_map,symptoms_collection.head.nose
-000210ae-ddfd-42f2-b79b-01908c4b73ef,0.0,pain
-000210ae-ddfd-42f2-b79b-01908c4b73ef,0.1,burn
-0003ff38-28fb-4005-9437-d276cbb9da4d,0.0,Runny nose
+3de5b0f7-75ea-47d1-842e-df22156cf0e8,0.0,Breathing difficulty
+3de5b0f7-75ea-47d1-842e-df22156cf0e8,1.0,Breathing difficulty
+e73efc27-f9db-40d5-acc0-f496020673d8,0.0,Colds
+e73efc27-f9db-40d5-acc0-f496020673d8,0.1,Runny nose
+5d98e525-7f8f-407d-96ba-4861aaa8c58f,0.0,Colds
+5d98e525-7f8f-407d-96ba-4861aaa8c58f,0.1,Runny nose
+5d98e525-7f8f-407d-96ba-4861aaa8c58f,0.2,Sneezing
+19849dce-ea3e-4322-bba9-a1ce3a9068c0,0.0,Colds
+19849dce-ea3e-4322-bba9-a1ce3a9068c0,0.1,Runny nose
+19849dce-ea3e-4322-bba9-a1ce3a9068c0,0.2,Sneezing
+71b13a63-f6e7-4777-80fb-625bd3190152,0.0,Runny nose
+d59ebbb1-0df9-49cd-b8e1-8dd66401124f,0.0,Colds
+da0dcdd6-ed73-41fa-a63f-a3b9b377553b,0.0,Colds
+da0dcdd6-ed73-41fa-a63f-a3b9b377553b,0.1,Runny nose
+da0dcdd6-ed73-41fa-a63f-a3b9b377553b,0.2,Sneezing
+b4df55c5-1c3e-4669-9a74-d5faadf229fd,0.0,Runny nose
+b4df55c5-1c3e-4669-9a74-d5faadf229fd,0.1,Sneezing
+b4df55c5-1c3e-4669-9a74-d5faadf229fd,0.2,Other

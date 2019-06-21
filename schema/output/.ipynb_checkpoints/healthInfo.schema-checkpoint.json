@@ -1,0 +1,231 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "array",
+  "title": "The Root Schema",
+  "items": {
+    "$id": "#/items",
+    "type": "object",
+    "title": "The Items Schema",
+    "properties": {
+      "answers": {
+        "$id": "#/items/properties/answers",
+        "type": "object",
+        "title": "The Answers Schema",
+        "properties": {
+          "BloodType": {
+            "$id": "#/items/properties/answers/properties/BloodType",
+            "type": "string",
+            "title": "The Bloodtype Schema",
+            "pattern": "^(.*)$"
+          },
+          "HealthInformation": {
+            "$id": "#/items/properties/answers/properties/HealthInformation",
+            "type": "object",
+            "title": "The Healthinformation Schema",
+            "properties": {
+              "diagnosed": {
+                "$id": "#/items/properties/answers/properties/HealthInformation/properties/diagnosed",
+                "type": "array",
+                "title": "The Diagnosed Schema",
+                "items": {
+                  "$id": "#/items/properties/answers/properties/HealthInformation/properties/diagnosed/items",
+                  "type": "string",
+                  "title": "The Items Schema",
+                  "pattern": "^(.*)$"
+                }
+              }
+            }
+          },
+          "Identification": {
+            "$id": "#/items/properties/answers/properties/Identification",
+            "type": "object",
+            "title": "The Identification Schema",
+            "properties": {
+              "Type": {
+                "$id": "#/items/properties/answers/properties/Identification/properties/Type",
+                "type": "string",
+                "title": "The Type Schema",
+                "pattern": "^(.*)$"
+              },
+              "Number": {
+                "$id": "#/items/properties/answers/properties/Identification/properties/Number",
+                "type": "object",
+                "title": "The Number Schema",
+                "properties": {
+                  "Code": {
+                    "$id": "#/items/properties/answers/properties/Identification/properties/Number/properties/Code",
+                    "type": "string",
+                    "title": "The Code Schema",
+                    "pattern": "^(.*)$"
+                  },
+                  "Pin": {
+                    "$id": "#/items/properties/answers/properties/Identification/properties/Number/properties/Pin",
+                    "type": "string",
+                    "title": "The Pin Schema",
+                    "pattern": "^(.*)$"
+                  }
+                }
+              }
+            }
+          },
+          "Address": {
+            "$id": "#/items/properties/answers/properties/Address",
+            "type": "array",
+            "title": "The Address Schema",
+            "items": {
+              "$id": "#/items/properties/answers/properties/Address/items",
+              "type": "object",
+              "title": "The Items Schema",
+              "properties": {
+                "Type": {
+                  "$id": "#/items/properties/answers/properties/Address/items/properties/Type",
+                  "type": "string",
+                  "title": "The Type Schema",
+                  "pattern": "^(.*)$"
+                },
+                "Location": {
+                  "$id": "#/items/properties/answers/properties/Address/items/properties/Location",
+                  "type": "array",
+                  "title": "The Location Schema",
+                  "items": {
+                    "$id": "#/items/properties/answers/properties/Address/items/properties/Location/items",
+                    "type": "object",
+                    "title": "The Items Schema",
+                    "properties": {
+                      "Latitude": {
+                        "$id": "#/items/properties/answers/properties/Address/items/properties/Location/items/properties/Latitude",
+                        "type": "string",
+                        "title": "The Latitude Schema",
+                        "pattern": "^(.*)$"
+                      },
+                      "Longitude": {
+                        "$id": "#/items/properties/answers/properties/Address/items/properties/Location/items/properties/Longitude",
+                        "type": "string",
+                        "title": "The Longitude Schema",
+                        "pattern": "^(.*)$"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "ContactNumber": {
+            "$id": "#/items/properties/answers/properties/ContactNumber",
+            "type": "array",
+            "title": "The Contactnumber Schema",
+            "items": {
+              "$id": "#/items/properties/answers/properties/ContactNumber/items",
+              "type": "object",
+              "title": "The Items Schema",
+              "properties": {
+                "Type": {
+                  "$id": "#/items/properties/answers/properties/ContactNumber/items/properties/Type",
+                  "type": "string",
+                  "title": "The Type Schema",
+                  "pattern": "^(.*)$"
+                },
+                "Number": {
+                  "$id": "#/items/properties/answers/properties/ContactNumber/items/properties/Number",
+                  "type": "array",
+                  "title": "The Number Schema",
+                  "items": {
+                    "$id": "#/items/properties/answers/properties/ContactNumber/items/properties/Number/items",
+                    "type": "string",
+                    "title": "The Items Schema",
+                    "pattern": "^(.*)$"
+                  }
+                },
+                "Ext": {
+                  "$id": "#/items/properties/answers/properties/ContactNumber/items/properties/Ext",
+                  "type": "array",
+                  "title": "The Ext Schema",
+                  "items": {
+                    "$id": "#/items/properties/answers/properties/ContactNumber/items/properties/Ext/items",
+                    "type": "object",
+                    "title": "The Items Schema",
+                    "properties": {
+                      "Trunkline": {
+                        "$id": "#/items/properties/answers/properties/ContactNumber/items/properties/Ext/items/properties/Trunkline",
+                        "type": "string",
+                        "title": "The Trunkline Schema",
+                        "pattern": "^(.*)$"
+                      },
+                      "Number": {
+                        "$id": "#/items/properties/answers/properties/ContactNumber/items/properties/Ext/items/properties/Number",
+                        "type": "string",
+                        "title": "The Number Schema",
+                        "pattern": "^(.*)$"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "Allergy": {
+            "$id": "#/items/properties/answers/properties/Allergy",
+            "type": "array",
+            "title": "The Allergy Schema",
+            "items": {
+              "$id": "#/items/properties/answers/properties/Allergy/items",
+              "type": "string",
+              "title": "The Items Schema",
+              "pattern": "^(.*)$"
+            }
+          },
+          "BP1_Systolic": {
+            "$id": "#/items/properties/answers/properties/BP1_Systolic",
+            "type": "integer",
+            "title": "The Bp1_systolic Schema"
+          },
+          "Height": {
+            "$id": "#/items/properties/answers/properties/Height",
+            "type": "integer",
+            "title": "The Height Schema"
+          },
+          "DiseaseHistory": {
+            "$id": "#/items/properties/answers/properties/DiseaseHistory",
+            "type": "array",
+            "title": "The Diseasehistory Schema",
+            "items": {
+              "$id": "#/items/properties/answers/properties/DiseaseHistory/items",
+              "type": "string",
+              "title": "The Items Schema",
+              "pattern": "^(.*)$"
+            }
+          },
+          "Income": {
+            "$id": "#/items/properties/answers/properties/Income",
+            "type": "integer",
+            "title": "The Income Schema"
+          },
+          "LongTermMeds": {
+            "$id": "#/items/properties/answers/properties/LongTermMeds",
+            "type": "boolean",
+            "title": "The Longtermmeds Schema"
+          },
+          "FamilyDiseaseHistory": {
+            "$id": "#/items/properties/answers/properties/FamilyDiseaseHistory",
+            "type": "array",
+            "title": "The Familydiseasehistory Schema",
+            "items": {
+              "$id": "#/items/properties/answers/properties/FamilyDiseaseHistory/items",
+              "type": "string",
+              "title": "The Items Schema",
+              "pattern": "^(.*)$"
+            }
+          }
+        }
+      },
+      "formId": {
+        "$id": "#/items/properties/formId",
+        "type": "string",
+        "title": "The Formid Schema",
+        "pattern": "^(.*)$"
+      }
+    }
+  }
+}

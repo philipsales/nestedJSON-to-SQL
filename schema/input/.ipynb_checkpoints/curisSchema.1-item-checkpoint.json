@@ -77,6 +77,25 @@
           }
         }
       },
+      "economic": {
+        "$id": "#/items/properties/economic",
+        "type": "object",
+        "title": "The Economic Schema",
+        "properties": {
+          "salary": {
+            "$id": "#/items/properties/economic/properties/salary",
+            "type": "string",
+            "title": "The Salary Schema",
+            "pattern": "^(.*)$"
+          },
+          "currency": {
+            "$id": "#/items/properties/economic/properties/currency",
+            "type": "string",
+            "title": "The Currency Schema",
+            "pattern": "^(.*)$"
+          }
+        }
+      },
       "date_visits": {
         "$id": "#/items/properties/date_visits",
         "type": "array",

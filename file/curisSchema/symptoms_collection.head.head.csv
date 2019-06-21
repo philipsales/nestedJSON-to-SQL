@@ -1,4 +1,38 @@
 _id,_index_map,symptoms_collection.head.head
-000210ae-ddfd-42f2-b79b-01908c4b73ef,0.0,pain
-000210ae-ddfd-42f2-b79b-01908c4b73ef,0.1,burn
-0003ff38-28fb-4005-9437-d276cbb9da4d,0.0,A spinning sensation
+3de5b0f7-75ea-47d1-842e-df22156cf0e8,0.0,Headache (throbbing)
+3de5b0f7-75ea-47d1-842e-df22156cf0e8,1.0,Headache (throbbing)
+3de5b0f7-75ea-47d1-842e-df22156cf0e8,1.1,Memory loss
+3de5b0f7-75ea-47d1-842e-df22156cf0e8,0.1,Memory loss
+29c2e957-d544-4268-8299-6c81a373ecdb,0.0,Dizziness
+77efbbab-34a9-4047-aee9-8387ad70ac34,0.0,Headache (throbbing)
+5be788dd-663e-4b8c-92fd-16fc89a3b476,0.0,A spinning sensation
+3d595c12-a038-4a20-90c7-3ea6a06a12c2,0.0,Headache (throbbing)
+5d98e525-7f8f-407d-96ba-4861aaa8c58f,0.0,Headache (throbbing)
+5d98e525-7f8f-407d-96ba-4861aaa8c58f,0.1,Memory loss
+19849dce-ea3e-4322-bba9-a1ce3a9068c0,0.0,Headache (throbbing)
+19849dce-ea3e-4322-bba9-a1ce3a9068c0,0.1,Memory loss
+11e75e75-244d-4d3c-8dee-3dcf3dc3e7d6,0.0,A spinning sensation
+11e75e75-244d-4d3c-8dee-3dcf3dc3e7d6,0.1,Dizziness
+11e75e75-244d-4d3c-8dee-3dcf3dc3e7d6,0.2,Headache (throbbing)
+e287b1d4-f14f-42a2-9abd-f539d0de8e5d,0.0,Galingin ulo
+6e05599f-88d6-4467-ae14-c828e6f2e1bc,0.0,Galingin ulo
+6e05599f-88d6-4467-ae14-c828e6f2e1bc,0.1,Sakit ulo
+da0dcdd6-ed73-41fa-a63f-a3b9b377553b,0.0,Headache (throbbing)
+0a5fc999-4f63-4148-ae26-dc52e459e8c5,0.0,A spinning sensation
+0a5fc999-4f63-4148-ae26-dc52e459e8c5,0.1,Headache (throbbing)
+9b7e33ef-17b1-46e7-8a7f-021457d28920,0.0,A spinning sensation
+9b7e33ef-17b1-46e7-8a7f-021457d28920,0.1,Headache (throbbing)
+9b7e33ef-17b1-46e7-8a7f-021457d28920,0.2,Dizziness
+b4df55c5-1c3e-4669-9a74-d5faadf229fd,0.0,Light headness
+306086dd-90e0-4799-b4b6-1088aa0e8b6c,0.0,Headache (throbbing)
+306086dd-90e0-4799-b4b6-1088aa0e8b6c,0.1,Light headness
+306086dd-90e0-4799-b4b6-1088aa0e8b6c,0.2,Memory loss
+306086dd-90e0-4799-b4b6-1088aa0e8b6c,0.3,Mild confusion
+1d02eb59-fb6b-4d72-b2d9-70c0b437a99a,0.0,Galingin ulo
+dd704a15-b80a-4e8e-9213-4086e3a5a68f,0.0,Light headness
+b724283a-9ba9-4310-bc45-44363bd8a7af,0.0,Galingin ulo
+b724283a-9ba9-4310-bc45-44363bd8a7af,0.1,Sakit ulo
+d5fdda7a-87bd-46bc-8b05-d43a034a12d8,0.0,Light headness
+ce4dd933-0440-44af-a81b-79fdf86745d2,0.0,Light headness
+68ef4cba-5bdd-4535-9a6d-c767613b859e,0.0,Light headness
+68ef4cba-5bdd-4535-9a6d-c767613b859e,0.1,Dizziness

@@ -1,2 +1,0 @@
-file_name,file_count,date,source_schema,version
-"answers.address,answers.address.location,answers.allergy,answers.contactnumber,answers.contactnumber.ext,answers.contactnumber.number,answers.diseasehistory,answers.familydiseasehistory,answers.healthinformation.diagnosed,healthinformation",10,2019-04-23 12:23:48.672911,schema/output/healthinfo.schema.json,1.0
