@@ -1,6 +1,6 @@
 
 #SERVER Configuration
-CouchbaseENV = "testing"
+CouchbaseENV = "local"
 
 CouchbaseConfig = {
     'local': {
@@ -44,6 +44,17 @@ CouchbaseConfig = {
         'SCHEME': 'couchbase',
         'IP': '13.76.6.56',
         'HOST': 'couchbase://13.76.6.56/',
+        'PORT': '4984',
+        'TIMEOUT': 7200
+    },
+    'testing-miko': {
+        'BUCKET': 'awhcurisdb',
+        'USERNAME': 'superman',
+        'PASSWORD': 'kryptonite',
+        'PROTOCOL': 'http',
+        'SCHEME': 'couchbase',
+        'IP': '13.76.152.243',
+        'HOST': 'couchbase://13.76.152.243/',
         'PORT': '4984',
         'TIMEOUT': 7200
     },

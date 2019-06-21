@@ -3,6 +3,11 @@ import os
 import sys
 import requests
 
+import numpy as np
+import pandas as pd
+from pandas import read_csv
+from pandas.io.json import json_normalize 
+
 from couchbase.bucket import Bucket
 from couchbase.n1ql import N1QLQuery, N1QLError
 from couchbase.exceptions import CouchbaseTransientError
@@ -68,22 +73,28 @@ def _push_doc_to_couchbase():
     filters = _conn_filters()
     url = _conn_url()
     data = [ {"foo": "bar"},{"bar": "foo"} ]
+    print(data)
+
+    _data_df = pd.DataFrame()
+
+    #with open( 'file/parsed_output/Isabela/test.json') as f:
+    with open( 'file/parsed_output/easycase.json') as f:
+        _data_df = json.load(f)
+        print(_data_df)
+
+
 
     try:
 
-        for datum in data:
-            print(datum)
-        
+
+        for datum in _data_df:
+            couchbase_json = datum.copy()
             cb_id = '2324234'
             rev_id = 'v1'
-
-
-            couchbase_json = datum.copy()
             couchbase_json["_rev"] = rev_id
             couchbase_json["_id"] = cb_id
-
             couchbase_json = json.dumps(datum)
-            print(couchbase_json)
+
 
             r = requests.post(url, 
                 data=couchbase_json, 
