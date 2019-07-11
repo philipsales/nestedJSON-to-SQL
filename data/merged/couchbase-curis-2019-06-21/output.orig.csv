@@ -1,0 +1,4 @@
+_id,_index_map,answers.allergies,answers.bp1Diastole,answers.bp1Systole,answers.bp2Diastole,answers.bp2Systole,answers.rhesusType,answers.bloodType,answers.weeklyExercise,answers.smokingHabit,answers.consentBloodTest,answers.dailyFiberIntake,dateCreated,dateUpdated,formId,formName,type
+2f920d39-319e-4bf7-90c8-6133c3337af7,0,,80.0,130.0,90.0,122.0,-,B,0,Pssive,N,,2019-06-26T18:53:55.460+08:00,2019-06-27T21:00:51.934+08:00,aF5AuuQSBToFGyuFz9HGi9,2.2 - AQM HealthInfo Questions V1,profile-related-form
+2f920d39-319e-4bf7-90c8-6133c3337af7,1,,,,,,,,,Never,N,,2019-06-26T18:53:55.460+08:00,2019-06-27T21:00:51.934+08:00,aF5AuuQSBToFGyuFz9HGi9,2.2 - AQM HealthInfo Questions V1,profile-related-form
+64c2e7de-0cc8-4df5-a54f-02398652c080,0,,90.0,120.0,80.0,133.0,+,A,3x,Active,N,,2019-06-26T18:53:55.460+08:00,2019-06-27T21:00:51.934+08:00,aF5AuuQSBToFGyuFz9HGi9,2.2 - AQM HealthInfo Questions V1,profile-related-form

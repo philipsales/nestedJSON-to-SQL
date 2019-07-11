@@ -1,0 +1,16 @@
+_id,_index_map,child_healths.newborn.experience_any
+76ad1484-5083-4744-ad00-5b93100b1760,0.0,Fever
+828deac7-a227-40ab-8079-cadee43252f0,0.0,Cold
+98ee2db6-0692-4029-b003-229ee705818a,0.0,Fever
+a94d3458-4b47-4ea8-b280-191612364f2f,0.0,Fever
+b99e650a-a9b5-40f3-b814-cce2e055b2d7,0.0,Fever
+c920d6f9-c0ab-4040-aca9-66639bffabf9,0.0,Cold
+f461e9bd-a079-44dd-a2ec-87fa7bb854aa,0.0,Cold
+828deac7-a227-40ab-8079-cadee43252f0,0.1,Fever
+b99e650a-a9b5-40f3-b814-cce2e055b2d7,0.1,Cold
+c920d6f9-c0ab-4040-aca9-66639bffabf9,0.1,Convulsion
+f461e9bd-a079-44dd-a2ec-87fa7bb854aa,0.1,Fever
+c920d6f9-c0ab-4040-aca9-66639bffabf9,0.2,Fever
+c920d6f9-c0ab-4040-aca9-66639bffabf9,0.3,Fast breathing
+f461e9bd-a079-44dd-a2ec-87fa7bb854aa,1.0,Cold
+f461e9bd-a079-44dd-a2ec-87fa7bb854aa,1.1,Fever

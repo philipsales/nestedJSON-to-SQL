@@ -1,0 +1,17 @@
+source_key,destination_key,default_value,tag
+gender,answers.Gender,,existing
+health_informations.height,answers.height,,existing
+health_informations.weight,answers.weight,,existing
+health_informations.smoking_habit,answers.tobaccoIntake,,existing
+health_informations.diagnosed,answers.currentDiagnosis,,existing
+health_informations.maintenance_drugs,answers.currentMedication,,existing
+profiles.employment.monthly_income,answers.householdIncome,,existing
+family_planning_and_maternal_healths.are_you_pregnant,gavida,,not existing
+profiles.civil_status,answers.civilStatus,,existing
+profiles.religion,answers.religion,,existing
+profiles.education,answers.highestEducation,,existing
+profiles.employment.nature,answers.employmentArea,,existing
+profiles.employment.is_employed,answers.employmentStatus,,existing
+user-cam.id,createdBy,,existing
+id,profileId,,existing
+

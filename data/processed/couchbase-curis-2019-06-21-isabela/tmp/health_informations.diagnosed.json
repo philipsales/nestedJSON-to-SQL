@@ -1,0 +1,21 @@
+[
+    {
+        "health_informations": [
+            {
+                "diagnosed": "['Diabetes'/'Hypertension']"
+            }
+        ],
+        "id": "64c2e7de-0cc8-4df5-a54f-02398652c080"
+    },
+    {
+        "health_informations": [
+            {
+                "diagnosed": "['Leukemia'/'Pneumonia']"
+            },
+            {
+                "diagnosed": "['Cancer'/'Asthma']"
+            }
+        ],
+        "id": "2f920d39-319e-4bf7-90c8-6133c3337af7"
+    }
+]

@@ -1,6 +1,8 @@
 
 #SERVER Configuration
-CouchbaseENV = "local"
+#CouchbaseENV = "testing-miko-linode"
+CouchbaseENV = "prod-clone"
+#CouchbaseENV = "latest-uat"
 
 CouchbaseConfig = {
     'local': {
@@ -47,7 +49,7 @@ CouchbaseConfig = {
         'PORT': '4984',
         'TIMEOUT': 7200
     },
-    'testing-miko': {
+    'testing-miko-linode': {
         'BUCKET': 'awhcurisdb',
         'USERNAME': 'superman',
         'PASSWORD': 'kryptonite',
@@ -58,14 +60,25 @@ CouchbaseConfig = {
         'PORT': '4984',
         'TIMEOUT': 7200
     },
-    'testing': {
-        'BUCKET': 'awhaqmdb',
+    'prod-clone': {
+        'BUCKET': 'awhcurisdb',
         'USERNAME': 'superman',
         'PASSWORD': 'kryptonite',
         'PROTOCOL': 'http',
         'SCHEME': 'couchbase',
-        'IP': '172.105.113.71',
-        'HOST': 'couchbase://172.105.113.71/',
+        'IP': '13.76.45.110',
+        'HOST': 'couchbase://13.76.45.110/',
+        'PORT': '4984',
+        'TIMEOUT': 7200
+    },
+    'latest-uat': {
+        'BUCKET': 'awhcurisdb',
+        'USERNAME': 'superman',
+        'PASSWORD': 'kryptonite',
+        'PROTOCOL': 'http',
+        'SCHEME': 'couchbase',
+        'IP': '139.162.49.49',
+        'HOST': 'couchbase://139.162.49.49/',
         'PORT': '4984',
         'TIMEOUT': 7200
     },

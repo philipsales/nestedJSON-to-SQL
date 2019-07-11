@@ -1,0 +1,125 @@
+value,key,_index_map,_id
+Bangad,address.barangay,,64c2e7de-0cc8-4df5-a54f-02398652c080
+Philippines,address.country,,64c2e7de-0cc8-4df5-a54f-02398652c080
+,address.lot_or_house_number,,64c2e7de-0cc8-4df5-a54f-02398652c080
+3330,address.postal_code,,64c2e7de-0cc8-4df5-a54f-02398652c080
+Isabela,address.province,,64c2e7de-0cc8-4df5-a54f-02398652c080
+08/09/1989,birthdate,,64c2e7de-0cc8-4df5-a54f-02398652c080
++63,contact_number.country_code,,64c2e7de-0cc8-4df5-a54f-02398652c080
+,contact_number.number,,64c2e7de-0cc8-4df5-a54f-02398652c080
+No,family_planning_and_maternal_healths.are_you_pregnant,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+01/01/2009 at 08:44:13 PM GMT+08:00,family_planning_and_maternal_healths.date_updated,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+First Name,first_name,,64c2e7de-0cc8-4df5-a54f-02398652c080
+Female,gender,,64c2e7de-0cc8-4df5-a54f-02398652c080
+90,health_informations.blood_pressure.first_reading.diastole,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+120,health_informations.blood_pressure.first_reading.systole,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+80,health_informations.blood_pressure.second_reading.diastole,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+133,health_informations.blood_pressure.second_reading.systole,0,64c2e7de-0cc8-4df5-a54f-02398652c080
++,health_informations.blood_sign,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+A,health_informations.blood_type,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+Diabetes,health_informations.diagnosed,0.0,64c2e7de-0cc8-4df5-a54f-02398652c080
+Hypertension,health_informations.diagnosed,0.1,64c2e7de-0cc8-4df5-a54f-02398652c080
+3x,health_informations.exercise_in_a_week,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+CA,health_informations.family_history,0.0,64c2e7de-0cc8-4df5-a54f-02398652c080
+HPN,health_informations.family_history,0.1,64c2e7de-0cc8-4df5-a54f-02398652c080
+100,health_informations.height,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+Paracetamol,health_informations.maintenance_drugs,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+Active,health_informations.smoking_habit,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+120,health_informations.weight,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+08/02/2019 at 08:44:13 PM GMT+08:00,households.date_updated,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+Not Owned,households.house_ownership,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+Not Rural,households.neighborhood_description,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+Not Owned,households.sanitary_ownership,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+07/02/2018 at 08:44:13 PM GMT+08:00,households.date_updated,1,64c2e7de-0cc8-4df5-a54f-02398652c080
+Owned,households.house_ownership,1,64c2e7de-0cc8-4df5-a54f-02398652c080
+Rural,households.neighborhood_description,1,64c2e7de-0cc8-4df5-a54f-02398652c080
+Owned,households.sanitary_ownership,1,64c2e7de-0cc8-4df5-a54f-02398652c080
+64c2e7de-0cc8-4df5-a54f-02398652c080,id,,64c2e7de-0cc8-4df5-a54f-02398652c080
+,identification.id1.identifier,,64c2e7de-0cc8-4df5-a54f-02398652c080
+4Ps,identification.id1.type,,64c2e7de-0cc8-4df5-a54f-02398652c080
+,identification.id2.identifier,,64c2e7de-0cc8-4df5-a54f-02398652c080
+4Ps,identification.id2.type,,64c2e7de-0cc8-4df5-a54f-02398652c080
+,identification.id3.identifier,,64c2e7de-0cc8-4df5-a54f-02398652c080
+4Ps,identification.id3.type,,64c2e7de-0cc8-4df5-a54f-02398652c080
+Last Name Jeprox,last_name,,64c2e7de-0cc8-4df5-a54f-02398652c080
+,last_name_suffix,,64c2e7de-0cc8-4df5-a54f-02398652c080
+Middle Name Jeprox,middle_name,,64c2e7de-0cc8-4df5-a54f-02398652c080
+,nhid,,64c2e7de-0cc8-4df5-a54f-02398652c080
+Santa Maria Isabela RHU,organization,,64c2e7de-0cc8-4df5-a54f-02398652c080
+273381f8-91db-43ab-a246-f3110bb7467f,profile_picture.name,,64c2e7de-0cc8-4df5-a54f-02398652c080
+/data/data/com.awh.health.curis/app_images/images_resident,profile_picture.path,,64c2e7de-0cc8-4df5-a54f-02398652c080
+Single,profiles.civil_status,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+07/02/2018 at 08:44:13 PM GMT+08:00,profiles.date_updated,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+Masters Level,profiles.education,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+Php12.00,profiles.employment.monthly_income,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+empty,profiles.employment.nature,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+Islam,profiles.religion,0,64c2e7de-0cc8-4df5-a54f-02398652c080
+08/16/2018 at 10:25:07 PM GMT+08:00,registered_at,,64c2e7de-0cc8-4df5-a54f-02398652c080
+user-resident,type,,64c2e7de-0cc8-4df5-a54f-02398652c080
+aguzman@gmail.com,user-cam.id,,64c2e7de-0cc8-4df5-a54f-02398652c080
+aguzman@gmail.com,user-cam.owner,,64c2e7de-0cc8-4df5-a54f-02398652c080
+Bangad,address.barangay,,2f920d39-319e-4bf7-90c8-6133c3337af7
+Philippines,address.country,,2f920d39-319e-4bf7-90c8-6133c3337af7
+,address.lot_or_house_number,,2f920d39-319e-4bf7-90c8-6133c3337af7
+3330,address.postal_code,,2f920d39-319e-4bf7-90c8-6133c3337af7
+Isabela,address.province,,2f920d39-319e-4bf7-90c8-6133c3337af7
+12/23/1975,birthdate,,2f920d39-319e-4bf7-90c8-6133c3337af7
++63,contact_number.country_code,,2f920d39-319e-4bf7-90c8-6133c3337af7
+,contact_number.number,,2f920d39-319e-4bf7-90c8-6133c3337af7
+2f920d39-319e-4bf7-90c8-6133c3337af7,family_members,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+No,family_planning_and_maternal_healths.are_you_pregnant,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+01/01/2009 at 08:44:13 PM GMT+08:00,family_planning_and_maternal_healths.date_updated,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+Yes,family_planning_and_maternal_healths.are_you_pregnant,1,2f920d39-319e-4bf7-90c8-6133c3337af7
+03/02/2008 at 08:44:13 PM GMT+08:00,family_planning_and_maternal_healths.date_updated,1,2f920d39-319e-4bf7-90c8-6133c3337af7
+,first_name,,2f920d39-319e-4bf7-90c8-6133c3337af7
+Male,gender,,2f920d39-319e-4bf7-90c8-6133c3337af7
+80,health_informations.blood_pressure.first_reading.diastole,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+130,health_informations.blood_pressure.first_reading.systole,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+90,health_informations.blood_pressure.second_reading.diastole,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+122,health_informations.blood_pressure.second_reading.systole,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+-,health_informations.blood_sign,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+B,health_informations.blood_type,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+Leukemia,health_informations.diagnosed,0.0,2f920d39-319e-4bf7-90c8-6133c3337af7
+Pneumonia,health_informations.diagnosed,0.1,2f920d39-319e-4bf7-90c8-6133c3337af7
+0,health_informations.exercise_in_a_week,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+PNEU,health_informations.family_history,0.0,2f920d39-319e-4bf7-90c8-6133c3337af7
+HPN,health_informations.family_history,0.1,2f920d39-319e-4bf7-90c8-6133c3337af7
+90,health_informations.height,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+Biogesic,health_informations.maintenance_drugs,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+Pssive,health_informations.smoking_habit,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+320,health_informations.weight,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+Cancer,health_informations.diagnosed,1.0,2f920d39-319e-4bf7-90c8-6133c3337af7
+Asthma,health_informations.diagnosed,1.1,2f920d39-319e-4bf7-90c8-6133c3337af7
+200,health_informations.height,1,2f920d39-319e-4bf7-90c8-6133c3337af7
+Biogesic,health_informations.maintenance_drugs,1,2f920d39-319e-4bf7-90c8-6133c3337af7
+Never,health_informations.smoking_habit,1,2f920d39-319e-4bf7-90c8-6133c3337af7
+320,health_informations.weight,1,2f920d39-319e-4bf7-90c8-6133c3337af7
+Owned Not,households.house_ownership,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+Urban,households.neighborhood_description,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+Owned Not,households.sanitary_ownership,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+Pail,households.sanitary_type,0.0,2f920d39-319e-4bf7-90c8-6133c3337af7
+Concrete-based,households.type_of_house,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+2f920d39-319e-4bf7-90c8-6133c3337af7,id,,2f920d39-319e-4bf7-90c8-6133c3337af7
+,identification.id1.identifier,,2f920d39-319e-4bf7-90c8-6133c3337af7
+4Ps,identification.id1.type,,2f920d39-319e-4bf7-90c8-6133c3337af7
+,identification.id2.identifier,,2f920d39-319e-4bf7-90c8-6133c3337af7
+4Ps,identification.id2.type,,2f920d39-319e-4bf7-90c8-6133c3337af7
+,identification.id3.identifier,,2f920d39-319e-4bf7-90c8-6133c3337af7
+4Ps,identification.id3.type,,2f920d39-319e-4bf7-90c8-6133c3337af7
+"""Raphy Canceran TO DELETE""",last_name,,2f920d39-319e-4bf7-90c8-6133c3337af7
+,last_name_suffix,,2f920d39-319e-4bf7-90c8-6133c3337af7
+Laddran,middle_name,,2f920d39-319e-4bf7-90c8-6133c3337af7
+,nhid,,2f920d39-319e-4bf7-90c8-6133c3337af7
+Santa Maria Isabela RHU,organization,,2f920d39-319e-4bf7-90c8-6133c3337af7
+76f8ac01-f75f-4850-be41-3f368f7b1da7,profile_picture.name,,2f920d39-319e-4bf7-90c8-6133c3337af7
+/data/data/com.awh.health.curis/app_images/images_resident,profile_picture.path,,2f920d39-319e-4bf7-90c8-6133c3337af7
+Single,profiles.civil_status,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+03/02/2008 at 08:44:13 PM GMT+08:00,profiles.date_updated,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+Undergraduate Level,profiles.education,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+Php 13.00,profiles.employment.monthly_income,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+empty,profiles.employment.nature,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+Islam,profiles.religion,0,2f920d39-319e-4bf7-90c8-6133c3337af7
+07/12/2018 at 10:54:14 PM GMT+08:00,registered_at,,2f920d39-319e-4bf7-90c8-6133c3337af7
+user-resident,type,,2f920d39-319e-4bf7-90c8-6133c3337af7
+csoriano@gmail.com,user-cam.id,,2f920d39-319e-4bf7-90c8-6133c3337af7
+csoriano@gmail.com,user-cam.owner,,2f920d39-319e-4bf7-90c8-6133c3337af7

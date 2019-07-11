@@ -1,0 +1,3475 @@
+_id,_index_map,health_informations.family_history
+004dae03-e038-4819-a4d5-571178ea928c,0.0,Diabetes
+00753acf-6095-406e-945a-8a4f2bd53356,0.0,Hypertension
+0081689c-12ad-43b8-96d4-5c122134b894,0.0,Cancer
+00acd0f6-da26-4d5e-bde9-452d9ed29d26,0.0,Diabetes
+00da9173-6910-4fe3-af8e-c727b72a9ee7,0.0,Hypertension
+00fcd939-16d7-4254-9658-d875fb94abf5,0.0,Hypertension
+0141bd46-a629-4c0f-b224-a1df96511815,0.0,Hypertension
+016346a5-1799-4932-a0c8-a9fe7ecdb498,0.0,Respiratory disease
+016c53a9-d947-490d-97b7-59db682088b5,0.0,Diabetes
+01aef973-97fc-4200-98ff-76b03002703d,0.0,Respiratory disease
+01c71241-fc22-4ad7-83ce-a59be901a108,0.0,Respiratory disease
+01e2e7db-1f76-477d-9542-763e832eb442,0.0,Hypertension
+01f10e18-6393-479d-be46-5c316260d24e,0.0,Tuberculosis
+022168e0-fa94-4e8f-9e21-66528a6632ce,0.0,Diabetes
+023faa49-2e0e-4586-af3b-b13665ff826d,0.0,Hypertension
+02438132-9b20-498d-a845-c3de56a3d6e3,0.0,Diabetes
+024593c4-7242-46e4-92c1-fa6d10d03f80,0.0,Respiratory disease
+027c9c59-7ede-440a-b8c9-b5c6126b7d8f,0.0,Hypertension
+02929881-0937-4cbd-b490-26646f7a8f9b,0.0,Diabetes
+0299582e-e5e5-45e2-b855-accb23c4fb9c,0.0,Hypertension
+02b0955b-c42b-468b-aeb6-3a4638375964,0.0,Respiratory disease
+02c4d333-4ed3-44a1-8290-d46a4c3a6cf8,0.0,Hypertension
+02c9c57b-3be3-4326-8160-1985c35d7414,0.0,Hypertension
+02ccc4f0-e9e7-4ba6-8b3d-08745909ea83,0.0,Stroke
+02d660c4-0a56-4787-b588-84845cc7ce3b,0.0,Hypertension
+0326ef73-2c93-456f-a79f-711c09d3180b,0.0,Heart Disease
+0333039b-7b5a-444a-830f-c590c335059f,0.0,Hypertension
+03733ce3-c11f-4d25-a1a7-598c3c1ac306,0.0,Respiratory disease
+0377bab0-0108-4bf3-bb43-d88a17ec8e9f,0.0,Hypertension
+0395c291-703d-4e82-b5bc-d02ed6bc6355,0.0,Respiratory disease
+03cb851a-f439-4483-b610-3bba56ed990d,0.0,Hypertension
+03cdcda4-725e-48e5-a6a9-0beb7d6401f5,0.0,Respiratory disease
+03f148f2-50cc-421d-858c-dd857cc1690a,0.0,Cancer
+03fc0c9c-33dc-427a-bc95-e473f9530bc6,0.0,Tuberculosis
+0406167d-1419-4f9e-8c04-7532b19b4855,0.0,Respiratory disease
+0409e936-c8bf-4702-9ff8-8993c78e0a22,0.0,Hypertension
+041167c6-f3d3-4650-b275-2574a0f63be0,0.0,Cancer
+04148911-0a44-4451-b43c-78ddb5195965,0.0,Cancer
+043933e2-4fd6-48f5-9f60-9033199d1b77,0.0,Hypertension
+043ec6de-a493-4669-8969-72ee9713095a,0.0,Hypertension
+047d5ee1-5dba-4fc0-9356-a6d125c58784,0.0,Hypertension
+0485248d-4f6e-49e3-aaeb-eca8127af182,0.0,Kidney disease
+04990734-4fe2-48c4-b71c-719b835df0ee,0.0,Cancer
+051ff81c-6f96-4491-b817-c9c6b6605aab,0.0,Respiratory disease
+05c1bf1b-7e48-4da5-852a-c0c87fb7dc0e,0.0,Hypertension
+05f6c6e7-81b3-4373-89ca-b044c089c6fa,0.0,Respiratory disease
+060a476f-96ab-4ddc-80d5-ab7ffaf8c8ff,0.0,Hypertension
+060a7577-ffe2-4e12-bbed-2dc5ec311b07,0.0,Hypertension
+06684800-f1ab-4791-9f77-6b2ba75d4a33,0.0,Cancer
+067b8f84-10fe-4d4b-81f2-d888f32d1646,0.0,Cancer
+06976737-7b8b-4428-a211-6b5664d2d2dd,0.0,Cancer
+069b9686-f317-4bec-97c7-dbb4509b06d0,0.0,Hypertension
+069d33c6-adbf-433a-9900-24ee2dc77193,0.0,Hypertension
+06c1ad3d-2296-48c9-86c1-566a4a4e3524,0.0,Stroke
+06e6227e-7a66-4c22-a513-fa1a4f8a94cd,0.0,Diabetes
+071003a3-5df5-4ad6-bdb2-4ba78a926a82,0.0,Hypertension
+071f587f-6e9f-421b-87f6-43a3dce3fb7c,0.0,Hypertension
+07235d59-6a71-421c-949f-aa5469fcfe2d,0.0,Diabetes
+074d811d-b6df-4fe5-bd85-cbe67b64a7ba,0.0,Hypertension
+075ece4d-ba05-4435-a6ff-19f2ca2473ff,0.0,Cancer
+078bcc7e-1ac3-4664-be5e-c3662c24dbc4,0.0,Diabetes
+079c738b-1968-4cfe-9da2-06d18c014163,0.0,Hypertension
+07b52055-96e6-4ba8-a65e-3c2cf0fa719d,0.0,Respiratory disease
+07c33b66-5e48-4289-8619-174f171849d9,0.0,Diabetes
+07eb96f8-294b-49f0-a6a5-f276c6f94c6b,0.0,Hypertension
+082ad1b0-f8bd-4e17-9164-b7c42913537f,0.0,Diabetes
+083a6028-c945-415e-8892-ce1f4cd9ac0b,0.0,Hypertension
+085c7a93-81a8-4e38-8aba-7f104673d15a,0.0,Diabetes
+08b3571e-4565-4fd2-8ef7-c281f90ca05a,0.0,Diabetes
+08c52fbb-16c0-4b5d-aafc-a62aa35e4eb0,0.0,Respiratory disease
+08cd450e-69e9-40b0-aa8a-04f2148e7da0,0.0,Hypertension
+08d5cdd3-1c1c-4de8-8832-8caef4427103,0.0,Hypertension
+08d65df9-197c-43db-9e09-fb9470f48a4c,0.0,Diabetes
+08e633a2-192a-4b87-bdc9-960de9ab45b2,0.0,Cancer
+08f71dc1-1617-40e1-99ee-8febc885a4ab,0.0,Kidney disease
+0914d351-1d56-4ffa-811e-b2af7d5e6a59,0.0,Respiratory disease
+0a06e223-d2d3-4725-8337-eb6a3192d464,0.0,Diabetes
+0a11bb43-28ee-4d0d-9209-2cca1da6d19c,0.0,Hypertension
+0a4feed4-6afa-4bc1-aa89-638f7087f304,0.0,Cancer
+0a66c135-ac3c-4766-9fc4-2cc9aea0649f,0.0,Diabetes
+0a74bb7d-8eae-46b6-aa08-b1599d08b493,0.0,Hypertension
+0a8b7892-3607-4781-b940-aa7425f809a0,0.0,Hypertension
+0a9f6375-4a76-4caa-8f5f-8212a6292be7,0.0,Hypertension
+0ac036df-b7a0-4b35-84d8-aa70bafb9c9c,0.0,Cancer
+0ac4514a-40d4-46cb-9fb4-7c6d083ebfd5,0.0,heart disease
+0ace4071-badc-45b4-ace4-aed90d5456ea,0.0,Stroke
+0aea38b8-0e23-49fb-8bec-2945f10f987a,0.0,Hypertension
+0aec0559-ce3a-4e9c-a1a8-23c91ab93f45,0.0,Hypertension
+0af909aa-4863-4ee1-b701-8b49abbf1149,0.0,Hypertension
+0b0d2aae-4c44-41f4-ad73-5171e3eb544c,0.0,Cancer
+0bb3acc1-bb7e-4ea9-b89c-09b0b6bfd8d9,0.0,rheumatic heart
+0bc5b870-e9f5-492a-8aaa-f179221bae87,0.0,Kidney disease
+0be03178-0dab-41a5-aae9-07df3cf1ab16,0.0,Hypertension
+0bea2e6e-7a4b-4919-a120-7e43a03fe780,0.0,Diabetes
+0bfc4074-364f-4857-bee7-69696e07914b,0.0,Diabetes
+0c298d41-621c-4c55-888f-4956dd38515b,0.0,Diabetes
+0c46552e-0fe3-4d59-856e-80f63fe86f8c,0.0,Hypertension
+0c517fea-78ec-44fc-a56c-a26eb4c061a4,0.0,Hypertension
+0c5e3222-2f8a-428e-bbb5-b17bc56ca507,0.0,Hypertension
+0c97b5ca-cb3d-43af-9420-233c87137492,0.0,Hypertension
+0ca5d752-51bb-4299-ad7a-b85828224fe5,0.0,Hypertension
+0cc0ae71-0388-4ccf-a772-b8b448b4d34d,0.0,Diabetes
+0ced6a7d-5905-4f3d-868c-6ac8c51e2a34,0.0,Diabetes
+0cef20d5-6ddb-41b0-9b2d-bae63f4d2f7d,0.0,Hypertension
+0d1a67dc-0382-4f52-9702-94a433d2666c,0.0,Kidney disease
+0d295c40-a672-4d68-9551-bd0e950c88c2,0.0,Respiratory disease
+0d96de34-0c94-4a4e-8de5-0aea8b6e1a9e,0.0,Diabetes
+0ddeb182-11b2-4eba-ab85-708a478a6894,0.0,Hypertension
+0de2628e-2274-41ae-8efa-08b9c6935de9,0.0,Hypertension
+0df46f34-3ff2-4af2-8322-cf5a01982299,0.0,Cancer
+0e11257c-ac3e-46c1-b209-f9b87ecd73aa,0.0,Hypertension
+0e1c0b69-19ff-4fc9-950d-7fd3a6ae73b3,0.0,Hypertension
+0e2f4978-21df-4f4d-8fa8-741ab8bd9834,0.0,Stroke
+0e38b454-b9f1-476c-903c-2c6b4d5bb7cc,0.0,Hypertension
+0e4d3528-2249-4772-8a6c-740113be5c6f,0.0,Kidney disease
+0e644a88-dc61-49f0-9e03-00ab8b1abfa4,0.0,Diabetes
+0e94350b-1afe-4202-9ef0-1d15a539ce8b,0.0,Hypertension
+0eff6216-6efc-440c-8412-718bf0c16793,0.0,Respiratory disease
+0f0c6168-314f-4bc9-b1ec-a4c66c7f8f62,0.0,rayuma
+0f0d878e-9931-4929-a4a9-9eb274efa893,0.0,Diabetes
+0f12367b-477f-4367-8acc-de6eccf8e0c8,0.0,Asthma
+0f24486c-7960-4c62-a5aa-4fd56def1275,0.0,Hypertension
+0f2a4026-a239-4c2d-893e-74f244433a28,0.0,Diabetes
+0f3fb160-f7eb-411a-acf9-ce368e1b7ee5,0.0,Hypertension
+0f911f94-9885-4a80-a50a-4742e20e448c,0.0,Hypertension
+0f9cf135-664c-4f03-bfb6-19ac94565be1,0.0,Cancer
+0fd6e33e-3c25-404b-afb3-47f45f2cc275,0.0,Hypertension
+0fff5d4c-0a4b-42d3-a91d-8d3d47ebdca6,0.0,Hypertension
+1035734f-00ea-449b-9cbb-8cf1fd9c4656,0.0,Diabetes
+105515b7-21a7-478b-b8f4-0649c4d60ab5,0.0,Cancer
+1056ed4e-39fc-4473-a8d6-5460d97e665d,0.0,Cancer
+1061c194-150b-4158-ab2f-878e804d5ded,0.0,Diabetes
+108997d0-e506-4931-86a2-d061af29b43d,0.0,Respiratory disease
+10c1eb24-1ff5-4b33-a845-95c0a23255f6,0.0,Hypertension
+10cf160a-965c-400a-ba78-ee9555f33390,0.0,Respiratory disease
+110edddb-5f4e-4273-8b29-488d11826be8,0.0,Hypertension
+11188a29-03c9-4f85-846a-5c189e83daae,0.0,Hypertension
+115ecd1a-7d89-4133-a2c5-1f5dbe72b455,0.0,Hypertension
+1170a5fe-b10b-4b91-b66b-c9ea3b4de988,0.0,Hypertension
+11d793cd-7548-48bc-a26f-0916dc932637,0.0,Diabetes
+11ff051f-96e8-43f8-81ce-0b77dca5f343,0.0,prostate cancer
+1220b0bb-b5b4-47b0-b2bf-8c0b94bcb2c6,0.0,Respiratory disease
+12477250-f298-485a-96bd-e99ebfb8ec2e,0.0,Hypertension
+124e98d1-6a21-4574-86fb-23c3bf62597f,0.0,Diabetes
+12c66d98-59f9-4a9e-b4fa-83b5b59104a2,0.0,Cancer
+12dbef8f-2343-4ec9-a7b1-bd3e2e1fbe75,0.0,Hypertension
+12f9bd81-937a-4a65-8707-a0647617a056,0.0,rheumatoid arthritis
+12f9c4cf-802a-4c3a-8c68-f5fbcf392373,0.0,Diabetes
+130aa25e-a04d-4c45-a2aa-704b68a60589,0.0,Cancer
+130ccd82-a406-4e7c-9ca9-cb71671fc281,0.0,Hypertension
+1313dfb6-27e7-445c-b514-7d7bb0d7eed6,0.0,Hypertension
+1356ceb1-8f3e-4923-aec0-91067d42a0ff,0.0,Diabetes
+136448f0-8187-474a-8a17-9edd89e0c5bc,0.0,Hypertension
+13746df0-6902-4736-93c3-29f39a5a17c6,0.0,Diabetes
+13757ff2-afb4-46e7-a66c-db0bd8724a56,0.0,Kidney disease
+138b6c26-82f6-453c-b981-4eaf2924c191,0.0,Cancer
+13ebb307-6bb5-4550-bb6d-690d14784a96,0.0,Diabetes
+13fce445-1d67-4dcb-803b-dc268946cc09,0.0,Hypertension
+1405babc-3c7f-484e-9ef9-318cf84d5ebc,0.0,Hypertension
+144853b5-189d-4527-9f4d-ce2524840d7a,0.0,Hypertension
+145aadc7-9b61-450c-a7f0-e818b96ede9f,0.0,Diabetes
+14804dde-fb65-4680-b12d-ccdf14af38bc,0.0,Respiratory disease
+1490a7cd-c630-48d5-8d57-97b284dfa980,0.0,Respiratory disease
+14d00212-1da3-44d1-adac-fa0fb3b73531,0.0,Cancer
+14e7e330-500f-4b8f-b87b-e231c75dec12,0.0,Cancer
+14e85f74-46f4-4d98-b922-9b4c04f01f85,0.0,Hypertension
+15405b58-5ec5-4e2d-a883-6ebd162b8402,0.0,Diabetes
+1550f52d-a536-44f2-b2e3-b728f52cd83f,0.0,Diabetes
+1560f747-2d39-45ad-a876-ccd6ff9cbfdc,0.0,Hypertension
+15637f4d-0531-4f81-93e8-592a247733ae,0.0,Diabetes
+15995b53-f2a8-4179-beca-4f70fee75e1a,0.0,Cancer
+15ce6e73-4fab-40a5-ac4d-5632aecac128,0.0,Hypertension
+15d5fe6d-d832-4faa-85ae-95b4490ce0bc,0.0,Diabetes
+1609ed0d-f213-471e-adb6-22c254ca4b04,0.0,Diabetes
+160e3246-b78b-4034-aa53-ad81b4e44527,0.0,Hypertension
+162fdbde-7ea6-4a0f-90fd-d8397dac890e,0.0,Hypertension
+16836d77-bd1b-4af0-8b43-f120a4ac3853,0.0,Respiratory disease
+16dc1495-e5e3-4e0b-b88f-d51845446ff6,0.0,Arthritis
+16de6a52-9e1b-4c69-ba9d-a5f79b4d3b70,0.0,Hypertension
+16ee2b45-a638-48dd-ae81-fb7423bc517f,0.0,Diabetes
+16f31906-8711-46a6-a037-34d2c9792245,0.0,Hypertension
+16f95131-3a51-41a7-a983-a749999315da,0.0,Hypertension
+1760b0cf-68fb-4887-ab5b-119289ffc11d,0.0,Cancer
+1784e727-f314-40c8-99d3-3de385bfa170,0.0,Hypertension
+17a21efb-f173-4bdb-9806-609d43f6d822,0.0,Hypertension
+17ad6bbb-f2b3-41b8-8628-a189033a0d04,0.0,Tuberculosis
+17d7011f-e93a-494e-a09e-c69cc30ed0e4,0.0,Hypertension
+18035903-b341-445b-823e-1b5d3d3e007e,0.0,Diabetes
+1816a54a-45a1-44f7-aacf-fa7f219e88db,0.0,Diabetes
+18517877-e692-4674-af0a-2a89daa23566,0.0,Hypertension
+188323db-a721-40a0-8aae-6ef4376df297,0.0,Kidney disease
+188848e5-66eb-4a86-8071-cfd46c1934c1,0.0,Cancer
+18b2c789-9579-41a5-8e3f-32a8280ef023,0.0,Stroke
+18dea81c-aa50-4069-bfec-b721f7a8331e,0.0,Hypertension
+18f34af5-aa01-4b16-a102-66d034303c5d,0.0,Hypertension
+1906afed-62ad-4b4d-940c-bbd1cd1c07f2,0.0,Respiratory disease
+19320053-4d7f-4066-8b2c-d07c617c8924,0.0,Diabetes
+1946a999-d329-46b8-993e-2f7f2eea5f88,0.0,Respiratory disease
+19483567-83fa-4533-9fdc-1ce8ddb60bca,0.0,Hypertension
+194be85f-9372-456e-8b4e-1ea79efb0866,0.0,Diabetes
+1956d41b-7a58-4e18-b76c-a7a29ea28e74,0.0,Respiratory disease
+198fc592-eb73-45fa-a03f-561db3356062,0.0,Diabetes
+19930fa0-062b-420d-bfc4-2121cd590f71,0.0,Hypertension
+19bd783c-e1d0-4a2c-93ee-2f846ad5bfcb,0.0,Cancer
+19bf13c1-c7bf-4ef6-8b35-8e36c77a03ca,0.0,Hypertension
+1a2dcfdc-4383-43db-894b-f41874056399,0.0,Diabetes
+1a702dc6-c79a-4411-bf3a-beff4962a17a,0.0,Stroke
+1a71142c-48ca-4fc8-83c8-7d89b005c0a2,0.0,Hypertension
+1a83df6c-a9ec-4353-9d48-4339d0f22157,0.0,Diabetes
+1afe66d1-fd12-475a-a374-5852e6e7162d,0.0,Cancer
+1b1d4f09-3164-47e2-b1e0-cc2d9d148a1a,0.0,Hypertension
+1b2790a5-8e08-4152-bac2-032bfb307fab,0.0,Diabetes
+1bb7b9ff-c710-4ac0-b945-c804b01f9fa5,0.0,Hypertension
+1c44ccb0-e351-4944-a021-25e0bef0324b,0.0,Diabetes
+1c9c822a-71af-4b4e-94d7-53dec76bc82d,0.0,Cancer
+1d60c49c-1bf1-4d5a-9f9f-52739336daad,0.0,Diabetes
+1d9acad9-d915-40b3-afe8-1ca1f5bead2c,0.0,Hypertension
+1daf04aa-7b9f-4b46-a140-42d255c566d9,0.0,Diabetes
+1db0f84f-2c52-4815-a995-398a9c16808b,0.0,Diabetes
+1dc392b0-cd6d-4690-a85f-1950a9f8fe1b,0.0,Hypertension
+1dcc5c38-4263-40e6-8392-3db56a3c7a2e,0.0,Respiratory disease
+1e364a54-05f8-4062-ab32-9bf8a99a54d4,0.0,Hypertension
+1e453b6d-9774-4f0e-ab0d-56d3419850ae,0.0,Cancer
+1e4e8602-0014-40e0-84ee-de52b6295ce5,0.0,Cancer
+1e574293-e3db-48b7-a49d-d95cfa2a0188,0.0,Diabetes
+1e83fc9f-0050-4e17-b355-51c8b2dccf81,0.0,Respiratory disease
+1e8a9114-920a-4cc3-82e3-8330a6d96f81,0.0,Hypertension
+1ef277d6-f5cc-43ab-a83f-52a50fc4635f,0.0,Diabetes
+1f00feda-3287-46bf-aab9-7549c30f89d6,0.0,Hypertension
+1f0d1e66-2638-40a4-a356-9715ede43f27,0.0,Respiratory disease
+1f400307-a3b0-4ed6-924b-a945a5a735a5,0.0,Stroke
+1f7f658a-5aea-4b68-9725-0191d90feb5b,0.0,Respiratory disease
+1f984b6a-480b-488a-bb65-0f83889b1009,0.0,Hypertension
+1fe29372-e352-41dd-92c9-1a514d35a1e0,0.0,Hypertension
+1ff23340-4297-487e-b041-0a80dd77344e,0.0,Diabetes
+1ff6f342-d84a-49d0-a4a5-e5a2c4012cb1,0.0,Respiratory disease
+202c42c7-dcb9-493f-b89f-abc95af9811f,0.0,Diabetes
+2066d79f-f4ef-4b9c-9c9a-fcde6c4a032c,0.0,Kidney disease
+206ad3bf-02f7-4ac4-bfdd-f6bed6d1e2e1,0.0,Hypertension
+206ed1f2-e885-48c7-a1d1-13335648ddb5,0.0,Hypertension
+2070b9c2-4f0f-48e0-bc9a-dd02c737145d,0.0,Hypertension
+2080ae0f-211c-41db-85d6-23e4011b8ac4,0.0,Hypertension
+20f749f6-e27a-4172-8cf8-e172f819d2ad,0.0,Diabetes
+21239a78-1e21-4228-b911-a04214e21826,0.0,Stroke
+2144df1d-eeb2-4a37-8601-0368a2446eaf,0.0,Diabetes
+2165c945-d03b-41e4-aa6c-e9171850e9ea,0.0,Cancer
+21c1e589-b1cf-47bd-b303-fab943bdc52c,0.0,Cancer
+21e97afb-f777-41dd-bf02-fa8a99238aa7,0.0,Hypertension
+221329df-c39a-49a5-816a-649b8ac07773,0.0,Hypertension
+224e5b78-d4d4-4162-a291-16887a4773c7,0.0,Cancer
+228416e4-3307-4e20-acd7-94f2adf5bb25,0.0,Diabetes
+22c26f3d-bf2e-4f08-833b-011ffc0c82fe,0.0,Kidney disease
+22c2e947-1a13-4ae0-9746-fc5ceead9533,0.0,Hypertension
+235affa1-76ea-44cc-bed9-5960e2998f98,0.0,Hypertension
+23a0d57a-1ecf-4870-99b2-943d895d7654,0.0,Respiratory disease
+23b98833-2974-4eaf-9813-92b15143ad38,0.0,arthritis
+23df6e85-37ad-496e-b699-5b3ad8d0f094,0.0,Diabetes
+23e0852f-3a85-45f2-9731-ca7c76c61c28,0.0,Hypertension
+23e3e8f5-62e9-4f53-844b-91696c1e7576,0.0,Hypertension
+23f4f00c-4fa8-4996-a25f-92e51b4d386f,0.0,Diabetes
+23fb0597-a357-4dea-949c-d084a65a8aa3,0.0,Cancer
+24059a51-ec91-40e7-a696-876eba5f9b89,0.0,Cancer
+2419a6c5-86e5-4873-b5c2-9b8c5fd6a2d5,0.0,Hypertension
+243230cc-239b-4a84-8b7e-5fa3c09c5223,0.0,Cancer
+244cba4d-12dd-40a0-9e69-5a4ae0834eaf,0.0,Respiratory disease
+24adaea1-5bac-4612-a447-c829b80ede20,0.0,Hypertension
+24ca1def-f4dd-4b48-a5fc-23833fe1163c,0.0,Hypertension
+24e49548-bcfb-4259-9965-feaf6ec66782,0.0,Hypertension
+24f48aff-aa7d-4451-a10f-0ddb56e367e9,0.0,Peptic Ulcer
+24f5035a-2f5a-4b00-8ee3-6639da8eb6c5,0.0,Diabetes
+252f42fd-ec60-46fb-98a2-0a3d99cc5fd4,0.0,Hypertension
+254d3e3c-4067-4616-9c21-4f6ffa4d7c7e,0.0,Hypertension
+256bd92f-f973-43a0-a52f-0bc91e29de03,0.0,Respiratory disease
+25f0d398-4ea1-4df0-9a4b-8664da00fa28,0.0,Diabetes
+2627a6e6-3980-424c-84b5-1429a2ea3f97,0.0,Respiratory disease
+2666a13d-0bef-4f0b-a0e3-f874cf007638,0.0,PTB
+2699c597-adc7-4f2b-83b8-79c0757e637b,0.0,Hypertension
+269d526f-2a71-4fe4-a08c-b748ccc9a524,0.0,Diabetes
+26a671b1-29ad-47ee-8f20-b92bf9931dbf,0.0,Hypertension
+26bfd443-8562-4154-b1ed-e170a5349f3f,0.0,Hypertension
+26f22293-aabd-44aa-be16-021fa4fb5397,0.0,Hypertension
+26fe20b1-5d18-4fab-9136-f261d4523087,0.0,Hypertension
+272e6e8a-6fee-447e-919b-07d2fd4e4b0c,0.0,Hypertension
+27321d0d-b212-4071-9d80-89beb904f1cb,0.0,Cancer
+273b7513-35b9-4f0b-bf1e-563081cd2d80,0.0,Stroke
+273c1ef8-21f5-4d20-a6cc-af7fdfc01b58,0.0,Cancer
+273c67ab-8edc-48d2-b337-0503f094ae35,0.0,Diabetes
+2754bd60-4717-4945-9a38-b6ccbe7b8f54,0.0,Diabetes
+2766098f-5700-4e8c-987d-3d338d424bbf,0.0,Cancer
+278cc348-686b-440a-b01f-c99b3904a38d,0.0,Diabetes
+27a4f152-8280-46f0-86b4-cbe589ea0dcb,0.0,Diabetes
+27e459d8-83a6-417d-9d96-4ec7c942e600,0.0,Hypertension
+27f77183-7c7a-4f33-a3f3-7629b9c2d60c,0.0,Hypertension
+28050f99-8c6d-4243-9fc0-227bdfe21d49,0.0,Diabetes
+283f7829-0de0-4ffd-943a-4ed318592e59,0.0,Respiratory disease
+2878df4b-c031-4bff-8dde-444363296d60,0.0,Hypertension
+2887daa8-a2d1-4dc5-8a1b-05ab6a4aa3dd,0.0,Tuberculosis
+28bc3191-5637-4a22-be25-f48686d0859e,0.0,Hypertension
+28c1854f-9366-4c3f-9026-3baacbec3ba3,0.0,Hypertension
+29024610-ccb0-4c80-b91a-5ebfaf4ad44e,0.0,Hypertension
+2905532a-857e-4a8d-9d68-623ebbc7d230,0.0,Hypertension
+2932ca28-7d7c-4e35-a3d9-588720f9177e,0.0,Cancer
+293bb06f-a2b8-4b36-8397-6293d45855f3,0.0,Cancer
+2966b94a-d288-4a19-804a-eee9c2c582a8,0.0,Cancer
+296ac988-9c7a-4632-8e9f-4ff2e5767f58,0.0,Hypertension
+2974e820-cd24-4a4f-b90f-f07a14c403ec,0.0,Hypertension
+298a0a27-797a-492d-a97c-f4f81742c0c8,0.0,Cancer
+299344c0-9fed-4460-ac9b-f5cf79fdd763,0.0,Cancer
+29e383f0-c109-4650-be6e-981ee0b3b72a,0.0,Diabetes
+29f03fa6-6608-4cbb-806b-1a1ec4da8081,0.0,Kidney disease
+2a04df8f-5412-4d4f-a176-a4b5dd66b877,0.0,Kidney disease
+2a0e2031-8844-4f95-84e7-5f7a198a38ac,0.0,Cancer
+2a13f6ca-d562-4561-b3a6-ae370a2b3803,0.0,Hypertension
+2a79c27d-7543-4321-8d14-6d8cb39018e1,0.0,Hypertension
+2a9dafb4-c34b-4fba-9e5d-9f7e403cae98,0.0,Diabetes
+2ab1df05-195a-4b57-8fe3-ef0989ace942,0.0,Hypertension
+2b065dfd-7599-4c42-a206-5f5117a4ec8d,0.0,Hypertension
+2b4e3cde-74df-4ae9-b480-7b9503b64f81,0.0,Diabetes
+2b571a09-ad54-4aa6-9538-3bd78b8ca616,0.0,Hypertension
+2bc79a92-97ad-4781-8111-6d60174510a6,0.0,Cancer
+2bcb606b-c724-4b78-9bec-2d14dd79d15e,0.0,Diabetes
+2bd48bac-60ec-475b-87d8-9039b03ce5d9,0.0,Diabetes
+2c199c06-764e-40e2-946c-5d3162c759e9,0.0,Hypertension
+2c1e7e3e-717a-4d1d-a91b-712cb8a2d757,0.0,Cancer
+2c1eeb85-d305-4738-8705-a4608ce2daac,0.0,Rheumatism
+2c2217a4-3754-45b0-bd20-720c10c02461,0.0,Hypertension
+2c2ad374-30db-4e56-b4d5-19688fd84d30,0.0,Cancer
+2c3e7f3a-fb16-4ecd-a346-d55dafb67809,0.0,Hypertension
+2c43193e-21ec-4e4c-ac94-be94df3cd56c,0.0,Hypertension
+2c477400-821a-4080-b4b4-0c523a54f581,0.0,Cancer
+2c602409-b479-44e8-83dd-d8911c300213,0.0,Diabetes
+2c7d8143-4f22-4fd9-93a5-8ccabf08e40e,0.0,Hypertension
+2c867354-4b9b-45e2-8477-c21c3ca0fcfa,0.0,Cancer
+2cd7d332-78c9-401b-bd81-5b7c129c08ba,0.0,Hypertension
+2cdd0e0a-5d74-47db-b7e4-2b812b33efbd,0.0,Hypertension
+2ce7cf20-bac5-435d-93b9-0fc3de825462,0.0,Diabetes
+2d03ac3b-2691-421a-b768-07cf420cebff,0.0,Diabetes
+2d3dea57-c44d-48d6-919a-026fc9a4d277,0.0,asthma
+2d4bdcf1-530e-4b1d-8769-d5bd13e3e08c,0.0,Diabetes
+2d7483f9-45ec-4b5c-8a40-f5ba106ba110,0.0,Respiratory disease
+2d7892b6-256f-445d-b97a-1522a2a13772,0.0,Diabetes
+2d823a2c-e533-4c0e-b7ee-43ff5eaad1eb,0.0,Respiratory disease
+2dd42f5a-fca9-49a0-bf07-30d41f003377,0.0,Hypertension
+2ddecb73-8cfe-4aa3-af2a-9fbfa4238667,0.0,Diabetes
+2df59ede-2ae5-455f-98b5-277a312b768d,0.0,Hypertension
+2e43fcf1-4dd6-40f1-bc8a-3d21128351f5,0.0,Hypertension
+2e9462b2-b959-4a27-a729-f5ad55fb659f,0.0,arthritis
+2ea701bf-94f3-468e-9110-2131d7fc1b36,0.0,Hypertension
+2effe159-db2d-44d2-8e61-f549c2ebd5a4,0.0,Cancer
+2f33446f-b5c4-4d01-a42f-d6fdad8bc73e,0.0,Diabetes
+2f41e67d-7050-41d1-8e36-64b797ad05de,0.0,Hypertension
+2f45bf6d-b1db-49c2-8f69-e8da08bf1527,0.0,Hypertension
+2f584280-1096-45c2-9bfd-0b34dd20dc60,0.0,Diabetes
+2f64be26-a89f-4a9a-bdb7-eec1930896e1,0.0,Cancer
+2f67b632-a9bc-41be-aa79-3fef0dccf46b,0.0,Respiratory disease
+2f7bc39e-229b-4919-aa0b-f6843ae8fb4d,0.0,Respiratory disease
+2f7e448d-2ac4-49da-b701-eccaa97ddd96,0.0,Cancer
+2fceee09-c4dc-4dfc-8e7b-04240191728f,0.0,Cardiovascular Disease
+2ffcf24e-b190-49a2-9e90-e27560b85a8d,0.0,Diabetes
+2ffe99d1-2017-4925-a383-0ae3f469bbb9,0.0,Cancer
+30226500-7923-4821-bc9a-f3d970ca0a17,0.0,Cancer
+304dd8da-92a9-4e3d-bb3d-f17e5abaa6a5,0.0,Cancer
+3066f71e-11eb-4be3-bdaf-02da4d05dc62,0.0,Respiratory disease
+30b06457-2827-4b0d-8b7a-3b9182de3c2f,0.0,Hypertension
+30d4ba47-6343-4992-a1b6-250ab2cbd90b,0.0,Hypertension
+30db0c00-ae42-4c41-a18c-2c4c44eaac20,0.0,Hypertension
+30e55e1e-e94e-40d5-a21d-a10805182424,0.0,Hypertension
+30e6c98a-59a2-464e-8834-32d67b85d0e0,0.0,Hypertension
+3122fe87-a0d3-4057-a9be-cad5321ff9ee,0.0,Cancer
+3130aecb-643d-4354-b8ad-09d4fe6c82a9,0.0,Stroke
+317992bd-9acd-4f36-b6c1-7b1c2e5b0956,0.0,Cancer
+317f52f0-1cc9-42a0-a617-561a8addbfc2,0.0,Hypertension
+31801091-bdcf-4a38-b6e8-31666d7a4511,0.0,Stroke
+31c745e7-ba14-45d0-8345-62ebc0388642,0.0,Diabetes
+31c8c4bd-0844-4bd1-91aa-0cbe6aefccbb,0.0,Diabetes
+31ce20b4-1246-429f-af24-539898aeeb43,0.0,Hypertension
+321349b3-5185-4b27-9d16-e8855bd9cb60,0.0,Hypertension
+324f649c-0680-47e0-ba97-8daabe80f260,0.0,Hypertension
+32881590-fe60-4494-b3eb-673502b9a60a,0.0,Diabetes
+32aee9f9-4bfc-44d6-a88d-344e59155660,0.0,Diabetes
+32e1bfa8-eb88-493e-92ca-c5efbbb9b0e6,0.0,Hypertension
+32e87660-4dac-4f88-9152-aaf9c08dc70d,0.0,Cancer
+32ec8b06-9114-4049-9a57-1efe04679ffe,0.0,Hypertension
+33549599-7508-4058-97e8-43267bc9035c,0.0,Hypertension
+33cf90f4-4c0c-49f7-bc38-f61836df45a2,0.0,Respiratory disease
+341ec409-b733-40d7-9035-925cc4c74d0e,0.0,Diabetes
+3437864c-90ed-425a-9947-8a8a9313650b,0.0,Hypertension
+34676ed9-1c7f-4d91-962b-9d0ec43936b0,0.0,Respiratory disease
+346a90df-9d39-4545-8102-9afab623bb87,0.0,Hypertension
+3475fd7b-78ac-4219-a802-b94d3990a6b7,0.0,Diabetes
+3479ee41-83fc-4d4f-a568-d989013d7557,0.0,Hypertension
+34819b0e-8eff-4b64-826d-bc7dc8f97ead,0.0,Hypertension
+34cac34e-2267-4fb7-b7af-18626b5cbfdd,0.0,Hypertension
+34e3af8e-89dc-4651-b16f-8dbcbead6081,0.0,Hypertension
+3508efa3-6955-4543-9a96-f4af42fed72e,0.0,Diabetes
+350cc429-a5d1-4a29-a722-c05ac420668c,0.0,Diabetes
+350e802a-ceb6-4d5c-8b46-3bc69594ee15,0.0,Respiratory disease
+352b0da7-b9fe-4db4-bfe1-0218b7fdc34a,0.0,Diabetes
+3537629b-560e-42bd-bc59-27b3ccbafadf,0.0,Hypertension
+354c036b-45b7-4b5d-8c52-4e4897f7f83c,0.0,Hypertension
+35539dc7-1bc6-4168-b3d1-e7d0b0b1cda6,0.0,Hypertension
+355a7ffd-36a4-4cec-8bf9-ab9779741185,0.0,Hypertension
+3563dc0a-48f5-48dd-9b8d-39bd31d2a213,0.0,Respiratory disease
+3587c166-6ec5-45c9-b2f2-c9cb68e513ad,0.0,Diabetes
+359fb982-5cad-4395-8ccd-844f74dc8007,0.0,Cancer
+362856b4-4c03-4f7b-bba7-764def9322fc,0.0,Hypertension
+364691db-141a-4f8b-ad96-2bd9c4f063b2,0.0,Hypertension
+365c9655-e4e8-40f9-9735-b8f7dbad2272,0.0,Stroke
+36a641f0-1dbd-4e3c-a0c2-e6ab451298cc,0.0,Cancer
+36af3064-8dbe-4bb4-8647-12f5ec6ed792,0.0,Diabetes
+36eedf0c-dee6-4241-b660-14b0917df50a,0.0,Hypertension
+36f6fea1-2ac6-4bc6-85be-8f4b74dc5a86,0.0,Hypertension
+370114c5-0420-46d6-83c8-7076b9f6fd94,0.0,Cancer
+3720428a-3a68-46e1-89f2-834b68d31f83,0.0,Cancer
+3735cbd3-a9a2-4349-abd0-e7aa69b21a96,0.0,Cancer
+375074af-1ef5-4ff3-b809-9861ef9db89f,0.0,Cancer
+3763b2c1-ee0e-43b8-805f-52cb5385c90e,0.0,Diabetes
+37b5c357-bceb-4d7b-b8e0-5328e2486fa3,0.0,Hypertension
+37b9c4cb-8832-47b2-b9fd-4ef262746814,0.0,Hypertension
+37d2114c-aa31-42d4-92ba-196ea6afb0c3,0.0,Hypertension
+37f75006-33fa-40d3-a4cf-a51b91c4d97a,0.0,Hypertension
+38001afb-ade0-4c29-8f2e-f5485d43c581,0.0,Cancer
+380997c2-e539-4996-92b3-cf8ec7a95ead,0.0,Hypertension
+38147649-e1c0-4648-8815-42a2617234c8,0.0,Hypertension
+38187170-82a9-4702-ba32-27c45beb040e,0.0,Hypertension
+3826cc14-75f5-46fc-a04e-0049ef19a321,0.0,Hypertension
+385c7968-51e4-47d0-84c7-ff13d64bd7fd,0.0,Arthritis
+3879be2c-271a-4d75-b578-2920de9cd3d2,0.0,Hypertension
+38ac4495-fad2-4b6d-b31c-077ae092625c,0.0,Hypertension
+394334cc-aff3-4e89-afa8-e50d6b5c29f5,0.0,Hypertension
+39605780-5b95-4810-9748-308f0523fe50,0.0,Diabetes
+3980a890-7d40-4bce-89c8-65de19b441c3,0.0,Hypertension
+399697cd-e2b1-437a-844d-f286f7dccbb5,0.0,Cancer
+39c51447-28ff-475e-9637-3087c03b3f45,0.0,Diabetes
+3a1c83b1-c2fd-4029-8986-f8fddff50f75,0.0,Asthma and Tuberculosis
+3a1d1a4e-84f5-4df6-b97e-6bd1a154f587,0.0,Hypertension
+3a699d69-a680-43f3-92ea-aa4080fbea34,0.0,Diabetes
+3abc2744-5bca-4aad-b38a-0831cc201f9b,0.0,Hypertension
+3ad4ed4b-8ef2-496d-95a4-6ea89eae6f18,0.0,Respiratory disease
+3b59ea7c-bb76-46b7-b271-a2437cb892c6,0.0,Cancer
+3b5d3548-1f79-4e30-9525-7f6a928bda9b,0.0,Diabetes
+3b7ddfd4-1022-419c-877e-ba61fd86cae3,0.0,Diabetes
+3ba39a79-9eab-449b-abee-a54c9615b70e,0.0,Diabetes
+3c01381d-03a4-4767-bb90-c2b4f2edf15f,0.0,Diabetes
+3c0fd286-b9f3-4287-9a71-5af7d9ce2d47,0.0,Respiratory disease
+3c2923b1-4748-4ec4-969e-d9c5aad837cb,0.0,Diabetes
+3c45333f-0801-4c91-8159-628534f2f249,0.0,Cancer
+3c8ccafb-2c5a-497f-87ad-3e420c1b5b52,0.0,Diabetes
+3ccf58d6-1732-42bc-9a33-afb313d2a968,0.0,Diabetes
+3cd884e2-a238-405f-b92e-5514db37c909,0.0,Diabetes
+3ceb0ae3-11df-47dc-80bd-062b76fd8e6b,0.0,Hypertension
+3d7893bf-19df-4ab4-8e92-1788640573ce,0.0,Hypertension
+3d81b64d-8a1f-42da-896a-ca9465e6c857,0.0,Cancer
+3db577c7-be1e-4127-b394-4b36583b3b7f,0.0,Diabetes
+3dbb166e-6b0c-4405-9647-00517fa2d190,0.0,Diabetes
+3dfa9d38-f5d9-4814-9bbe-53686f97c92a,0.0,Asthma
+3e20c083-20a9-4bb6-8e36-ce72dcc941d3,0.0,Kidney disease
+3e4e529d-55a0-4702-b61f-672ec189a85f,0.0,Diabetes
+3ebd89b4-4296-4c1a-8ddd-9f81b5237a94,0.0,tb
+3ed8f515-3a78-407d-94e9-84847a1643de,0.0,Diabetes
+3ef38572-10f5-4ea0-8ab5-4b4eeb6723a9,0.0,Hypertension
+3ef5b6f6-ce8b-43fa-b1aa-9ea8cddc0069,0.0,Cancer
+3efb4ef8-e64f-46ad-93e3-3b2848762594,0.0,Stroke
+3f4312c4-4b1f-49d4-8120-fe359e2ff201,0.0,Hypertension
+3f9d48e8-4135-47e7-ae0d-92da57c05e90,0.0,Diabetes
+3fb5a25e-dc27-404a-bdcc-83ace7a58ba4,0.0,Cancer
+3fc6c62f-b9f2-4300-97f8-281402aaa3b2,0.0,Hypertension
+3fd6562e-b1b8-48f1-a1d0-83c2ade664f2,0.0,Hypertension
+3ff9a784-9cc5-4b84-8a92-84fab3d31734,0.0,Respiratory disease
+401003d1-28fd-4114-ba09-12a7c371e828,0.0,Diabetes
+40231988-8747-409d-8f81-47efc38f62a2,0.0,Respiratory disease
+4025e463-e8c2-4863-96fa-d15862682f9f,0.0,Hypertension
+40280573-6d63-45a2-87e7-9e7a5ce7d602,0.0,Hypertension
+40317433-90df-43e4-ac34-6a1c02588428,0.0,Diabetes
+4031c5d8-0d36-461f-837b-1f21178b7c2d,0.0,Cancer
+403321b3-10f7-4561-82f8-18d99ee14912,0.0,Diabetes
+4040ff4c-0870-49c5-a7a7-a2a6365a9711,0.0,Respiratory disease
+406ecc3c-e06d-4bba-aa6c-d809c50022db,0.0,Diabetes
+406f6b9c-bd39-4dcb-9744-d5e7691055f5,0.0,Hypertension
+40829d07-d95a-4a0b-ac79-5b25b2375f16,0.0,Hypertension
+40ded92f-59ef-4561-80c7-104efab4888c,0.0,Hypertension
+40ed7692-bf4a-4131-ba31-6d2afde9ddc1,0.0,Hypertension
+40f7cb75-1682-48f3-9038-b9ec9b5c56a3,0.0,Diabetes
+41753d57-375a-46d7-a344-50887289726a,0.0,Cancer
+417c6d38-d0df-44aa-81c8-4c3d22506409,0.0,Hypertension
+41ac9cf5-5f31-41c5-943b-ae5912cc601a,0.0,Diabetes
+42381b71-74bf-4cbd-8b77-5afea52c35dd,0.0,Respiratory disease
+424b0332-d244-4308-81f0-20237a782002,0.0,Cancer
+424b5817-629a-4e5b-820b-eec2dc66fac5,0.0,Respiratory disease
+425acaa8-9df0-4661-bcdc-40ee6ad46a00,0.0,Hypertension
+429ddcf0-b23a-4efc-838e-53d1690437b5,0.0,Hypertension
+42de5b02-b185-4059-ba82-8c6ec25e7efb,0.0,Hypertension
+432732ba-ab72-49af-b3f5-741b4818848e,0.0,Diabetes
+4328d28f-58f5-49fd-8ef4-0f3976fe6391,0.0,Kidney disease
+4351e985-8882-4279-a183-65e4bff61621,0.0,Hypertension
+437abf31-0cd3-4949-8182-dd9484888e08,0.0,asthma
+43a62619-97af-40ef-b48f-7820731874ba,0.0,Hypertension
+43c096b6-f33e-495e-8fdf-9e01fb778b21,0.0,Hypertension
+4419f0a4-5bf9-4340-9e5e-5c415d3b7e48,0.0,Hypertension
+441f21f8-a922-4f88-b58d-1ddab2ed5e70,0.0,Hypertension
+442aeef1-cec8-4740-9e2a-b5b9f7f140b2,0.0,Diabetes
+443683b4-1d87-46ff-a554-5708f6954f7f,0.0,Cancer
+4455bdbf-ed9e-49e3-bb65-b223317c0706,0.0,PTB
+4456a826-5905-447f-9959-4c824ab80cba,0.0,Respiratory disease
+448a4230-9f0c-41e0-a9d4-e5719a26fc40,0.0,Diabetes
+44b25f8b-7edf-4dfa-8896-cca6b4139871,0.0,Cancer
+451104d9-dac7-4e26-8dc8-0614cb1d722c,0.0,Stroke
+4525137f-a57f-425a-8617-e53a93e413f1,0.0,Hypertension
+45465a08-b841-485c-a044-10d691c4b5c5,0.0,Diabetes
+4546c267-3993-47c0-a7cf-eef082f51599,0.0,Cancer
+455b13c8-fd3c-4ac7-b85e-741c51eeb85e,0.0,Diabetes
+45700454-e0aa-4659-8708-f1b8c129c37d,0.0,Hypertension
+457575a0-2951-4330-9c34-9d4b54d4ce9c,0.0,Diabetes
+45fecb44-254f-47f4-be6b-4d376da81f72,0.0,Hypertension
+4600ef84-7cc7-4d6c-8396-b87f1e1632e5,0.0,Hypertension
+460d7148-50e8-45b1-99b7-fdc0ba537cab,0.0,Respiratory disease
+46256664-5040-4e84-84ce-e6c832f55dbf,0.0,Diabetes
+466035ba-2378-417b-b930-5d35daf99afc,0.0,Cancer
+467469ba-dbcc-490d-8876-70f6be51bee1,0.0,tuberculosis
+4680e28b-de11-475a-a69d-adbc815fce7c,0.0,Kidney disease
+46b9c799-7a02-4ad4-a218-b1ee8d20a1de,0.0,Respiratory disease
+46ce9c77-ca00-48a7-8dc3-d0cda8b3edc7,0.0,Tuberculosis
+46f55cfa-3e49-4c8a-b936-810966fb8e1e,0.0,Hypertension
+46f9edd1-8995-4aa3-ad15-d565c95d723c,0.0,Hypertension
+473e7924-7923-43f8-bd21-30cc00bb5ad4,0.0,Hypertension
+474d07ce-9269-4e60-b872-617e48f69b03,0.0,Hypertension
+477baffa-1235-411a-b705-ba0cfb70db6c,0.0,Hypertension
+4781417d-5b89-4fbc-bbb9-c38c25c05a16,0.0,arthritis
+478a12dd-aca5-4c07-87fa-24d982fdec54,0.0,Hypertension
+47905db0-481c-4f36-ad0d-865ce37d4c0e,0.0,Hypertension
+47c96411-048c-4c88-a6b5-c022da9e7db3,0.0,Diabetes
+47e8b8a0-87de-4820-a88d-e1c80f26aaba,0.0,Hypertension
+47ec2ec0-caa7-49e6-b909-658fc0b726c9,0.0,PTB
+47fec6f0-cfd0-48c6-9ab8-1ba25180136a,0.0,Hypertension
+48659b06-a13c-4156-a09a-31ad0fe27723,0.0,Diabetes
+487a95e2-2d3a-4f62-a601-503d95ce2ab8,0.0,Hypertension
+48b118a9-b0ec-4e95-a8de-d8fea85b61ff,0.0,Cancer
+48df407b-3f1f-4173-9d3a-a0c22e08e8fd,0.0,Respiratory disease
+490ef4e6-a25b-4a2d-b376-c6dc9cb4e7e1,0.0,Diabetes
+4921d31c-e01f-447b-9fe2-5b5a65c4ac36,0.0,Diabetes
+4924a209-c23b-4892-8def-cb1ee2c8409f,0.0,Diabetes
+494f62f0-2664-44c4-a23f-a8cc99fc2b97,0.0,Diabetes
+49515638-02da-4fa4-bf84-62b22e38ca6a,0.0,Hypertension
+4978939e-cde3-4771-86eb-7ac6eea9da71,0.0,Hypertension
+4984a7a5-5c9b-41d6-808c-ab82c62d6b04,0.0,Diabetes
+49a0a2b2-7bcc-4d41-b94f-4041f7d62f31,0.0,Cancer
+49a1b605-f599-4b47-893d-3cd083790368,0.0,Diabetes
+49c7723f-9bb2-402b-a30b-43199f6aa199,0.0,Respiratory disease
+49d1c148-2142-4883-873e-54c8f13ea713,0.0,Diabetes
+49dd1884-b2d6-4ffd-8442-a55a8b81d547,0.0,Diabetes
+49fcc77d-1d15-4b61-9fad-2699b782a65a,0.0,Hypertension
+4a20f41f-a8ad-4abe-97c4-3d5ffc9f119d,0.0,Hypertension
+4a4c86a8-4dde-4ce9-b381-926d37980ae2,0.0,Cancer
+4a7cf3b7-b722-478a-a6d4-6bfa7f8b3863,0.0,Cancer
+4a87e1fe-50e9-4205-820b-2a2719866090,0.0,Hypertension
+4ad57bd6-9419-48a5-82b2-af90251ebc9d,0.0,Respiratory disease
+4b352e57-fa8a-4024-8a37-7e5fa0b72ca8,0.0,Cancer
+4b3b3084-5e09-48c7-95ee-3ce748a4c300,0.0,Hypertension
+4b5030f0-4f92-4aca-adc2-61336954812b,0.0,Diabetes
+4b6157eb-8182-47d1-9346-d771dd1a0b2d,0.0,Hypertension
+4b8dfc43-bc76-45f6-be26-c64556b0d6ff,0.0,Hypertension
+4b9ab3f3-4893-4045-b458-46b0e64b5bf6,0.0,Hypertension
+4b9b8b1c-edd4-46a0-bf5f-9c3cf437835c,0.0,Allergy
+4bab2615-2cf1-495e-baa7-8b0c368821d9,0.0,Cancer
+4bc635f2-3003-4edc-9e38-c0a122837de5,0.0,Diabetes
+4c02fa70-fbaa-4db7-a9b8-ea7cf044214e,0.0,Hypertension
+4c20c9cc-4cf0-4ae5-abca-b364f39f8d69,0.0,Respiratory disease
+4c20edc3-4997-4697-9f77-8d6d6b5c4e6d,0.0,Respiratory disease
+4c26716b-b8be-4c2d-9bff-c211982049e7,0.0,Stroke
+4c418895-84a7-47bc-a86b-261a12a21df0,0.0,Hypertension
+4c749b6a-f260-4fea-b3a3-87dc54473e83,0.0,Hypertension
+4c795275-aead-4a73-9822-3497a2677ac1,0.0,Hypertension
+4c7b6cc7-4c06-4330-a7ee-8a0add1378fe,0.0,Diabetes
+4c8d09c9-a548-405a-a130-2ec7f7cfb53e,0.0,Diabetes
+4c96e284-6552-4acd-a195-e3444c20f7a9,0.0,Diabetes
+4c98f985-2e84-43e6-9630-b1842c220e7d,0.0,Cancer
+4ca5860d-5a4e-4411-9508-240df353b98e,0.0,Respiratory disease
+4cc83813-c316-406a-8673-c0d5c5e91c2a,0.0,Hypertension
+4d22bcb6-7ef0-449f-a076-13caa90d1a8a,0.0,Hypertension
+4d675810-ccdb-488c-af2b-a30338ce2440,0.0,Hypertension
+4d73abc9-6e59-46a4-95dc-62e4613862dd,0.0,Hypertension
+4d7da846-3a4e-4588-b570-d6e57d215824,0.0,Diabetes
+4d87a02b-09c4-4766-bb61-99aa87a1021f,0.0,Diabetes
+4db1f1fe-3ed3-411f-a7d8-ef7780d338ff,0.0,Diabetes
+4dd13a13-d3d1-4b28-832d-2a76bdab3155,0.0,Hypertension
+4df5381d-9260-4b00-a43b-93d3f4f1a37b,0.0,Cancer
+4e0f9f67-11d6-4065-bd7a-a79069eeb20f,0.0,Hypertension
+4e398e4e-2d97-437c-884d-76764f6e33d6,0.0,Stroke
+4e64f2f3-e1a0-4617-b142-6252c4562989,0.0,Hypertension
+4e679a26-1107-4970-b100-6de4036c6b59,0.0,Hypertension
+4e73f03b-9bd9-4a14-a74c-b75b7e79af27,0.0,Diabetes
+4ea59cf6-de37-4719-950b-9c1d553648f2,0.0,Hypertension
+4eacef9d-219e-4752-a009-0165065e3ba8,0.0,Hypertension
+4ee45263-2861-4737-9548-a78e900d4b17,0.0,Cardiovascular Diseases
+4eeb5e1e-a58d-4724-9f06-c7ef3c90fc80,0.0,Hypertension
+4f197c44-f0db-45ac-abf0-797f224b0d93,0.0,Respiratory disease
+4f1c5c01-901c-45bf-80f8-881df4ed0338,0.0,Liver Disease
+4f45f38d-9a9f-4cf6-88f5-9e45ec652eb1,0.0,Diabetes
+4f4b1e16-4a12-461d-8b5d-cc60bc6d11ce,0.0,Diabetes
+4f5597c1-35b3-43a6-a88c-69c13742ba24,0.0,Hypertension
+4f72de3f-6245-409e-b84a-8d92217a5c81,0.0,Hypertension
+4f82170f-e417-45d6-a502-553d4a129098,0.0,Hypertension
+4f8ae701-9e36-4a72-ae72-217d4b5fb47c,0.0,Hypertension
+4f8f42cd-3979-42a4-aaad-d55d1f875edc,0.0,Hypertension
+4f9fa67e-81e3-401d-99d4-5ae47d7ca62a,0.0,Diabetes
+4fa2fb3b-3e3f-48ee-a7d6-4fabce3d1ba2,0.0,Hypertension
+5016b9d1-a699-4b21-b450-bfcfe7c3389a,0.0,ulcer
+501edc60-fccf-4166-bedc-45356f90eacf,0.0,Cancer
+501edc79-dfb7-4e4b-a4d6-c5bd23a3b65a,0.0,Hypertension
+5069b2e7-7fab-474a-977d-c3d567d8f05b,0.0,Respiratory disease
+50807da7-151a-4d70-b10b-c17da25f842c,0.0,Respiratory disease
+509e0668-4cf7-46c2-b0c8-57937d53f339,0.0,Respiratory disease
+50f47671-deea-4265-9054-3e701389a969,0.0,Cancer
+50f5321b-8487-4376-8b7a-e059c49b780b,0.0,Cancer
+51209ef0-fc8c-4a81-8bc0-56c38ca52ca3,0.0,PTB
+51865e15-cf59-4b5e-83ca-0110f359dbe5,0.0,Hypertension
+51e7a3d6-a059-4a70-9dd9-119431a515c0,0.0,Diabetes
+51ff3722-709a-424b-8a4d-2a26767ea8cb,0.0,Cancer
+52041802-356a-4a69-8fc7-7408050075c0,0.0,arthritis
+5234c2c8-6bf8-4020-94dc-fa1120a4cbe7,0.0,Cancer
+52471dc2-08b1-4194-b5c6-dfd4d005331c,0.0,Diabetes
+525809ee-0116-4d98-ac61-cf0654d4d7ce,0.0,Anemia
+525d5a6f-2608-410d-9eac-adfd0227c707,0.0,Hypertension
+52bbfc8c-d82a-4b17-a86f-9fab10c4fee1,0.0,Hypertension
+52c50eb2-86fd-4537-a476-6841d0836ebf,0.0,Hypertension
+52e6aa11-cf97-4343-a0e5-50bbc107d012,0.0,Hypertension
+52f72e36-312f-443f-be4a-7c09a5e0b7fa,0.0,Hypertension
+5322db60-db36-4302-8e26-0124177d73ba,0.0,Stroke
+534ce4f2-5efc-43a0-947a-feb2ee0dbce7,0.0,Hypertension
+53d95f6f-eeb9-4fde-8a8c-51060243359e,0.0,Diabetes
+54207c96-c287-4c28-a9df-2e6db4fab822,0.0,Hypertension
+542488d7-e001-4b0f-827e-d6f13457c317,0.0,Hypertension
+5478eabd-35be-4b51-9c5a-b97dc3952e00,0.0,Cancer
+54867c2a-2aea-4380-8ddc-49779aa52bdc,0.0,Hypertension
+5491dcdf-6449-4f05-bac6-6ebd9120d386,0.0,Hypertension
+54cc3a86-0b74-49ed-8033-5fe1c452f11d,0.0,Hypertension
+54df4c3e-4f3d-4c5d-b958-12e92355bde9,0.0,Stroke
+54e9e6b3-a881-4d41-bb0f-9e843ab4a092,0.0,Hypertension
+54f96919-bf06-454c-9832-ff4d773da0f9,0.0,Hypertension
+550dc469-a664-4960-913e-1df3da26d4ab,0.0,Hypertension
+5511960d-3bc8-49aa-bfbc-3bbaa56f2daf,0.0,Diabetes
+55176704-ff5e-42f1-bcc6-c6fbb0d0e5e8,0.0,Respiratory disease
+55260be4-88ab-4e74-a3ca-65ace2eccea6,0.0,Respiratory disease
+554548f6-956b-4d35-be2f-896a2f158861,0.0,Hypertension
+554ad001-d258-4169-b0a4-5756d545072a,0.0,Hypertension
+55857e3e-cfb7-40dd-abeb-8dbcddb9468d,0.0,Hypertension
+558ca8fd-13bc-4a9e-8b8a-9d658586f322,0.0,Respiratory disease
+5616f9d5-f9b4-45ef-9836-82b512bba254,0.0,Hypertension
+565cbe7c-28f9-42c4-b133-ae7603374415,0.0,Hypertension
+5684deda-1700-4b0a-8062-17a4a1d365b0,0.0,Cancer
+56a29dac-a4c8-4c99-83b7-45a91edacd23,0.0,Diabetes
+56bf244d-b255-4a58-b1cb-e46f4c0341a9,0.0,Hypertension
+56c79079-0537-4adc-ad35-09a3650512d0,0.0,rheumatoid arthritis
+56e90ca4-2c6a-4bf4-9723-48f1ab8b91f4,0.0,Diabetes
+57199276-d4c2-46f6-80ae-19ecd4565a9f,0.0,Cancer
+57242a59-da47-45eb-8d2f-e09bfa2d2f7c,0.0,Diabetes
+57396015-0150-47f7-b786-07d7dabbc183,0.0,Hypertension
+5762a746-f94b-431f-8a0d-3ca3ae69046f,0.0,Hypertension
+577dc2af-a8a3-4f24-ac46-188be95921bf,0.0,Cancer
+57aacb3c-8c34-4bca-b185-4e10568629f8,0.0,Kidney disease
+57b16843-6653-43f7-a4a1-e70b5a27b7e9,0.0,Cancer
+57f98e24-9d80-4b55-927f-3a02f9c9e212,0.0,Diabetes
+57fcd17e-436b-46b6-a7bb-5e94ac537e50,0.0,Hypertension
+58094826-5491-4e0d-a448-ff45c469fc02,0.0,Hypertension
+580e25ae-155b-4ad9-8925-dc8d2d1e3316,0.0,Cancer
+582d2554-e8cb-4258-98e9-3313cc375bf0,0.0,Cancer
+58403b38-9a0f-46dc-b3b7-ff4b4c56265e,0.0,Hypertension
+5844195b-3ac3-4293-a6ce-f51571b02e9e,0.0,Hypertension
+5846eaf0-e3a3-4bd3-8792-4d25ec30d247,0.0,Diabetes
+5875959f-591b-4d47-b1aa-d725229f9f7a,0.0,Hypertension
+5883467b-3782-4fae-9093-f6282c713b4d,0.0,asthma
+58a73672-b837-4057-a6af-cb6f8a8b0b08,0.0,Diabetes
+58a9c1a1-289c-42de-9b27-218be1387b78,0.0,Hypertension
+58bc763b-2a39-484a-8cd3-13739237ba5f,0.0,Hypertension
+58dfad68-a8d5-4b52-abfb-9ddc2c6b287b,0.0,Diabetes
+590a3db9-d530-4c32-9004-33a3850c54e5,0.0,Hypertension
+5911982e-cae6-466e-959f-53498afa9ea4,0.0,Cancer
+5924d8d6-60e3-4dab-8732-986f4fa1265a,0.0,Hypertension
+5939dde5-3c5c-4fdb-83d6-fcd874cd41a7,0.0,Hypertension
+5940bcb9-07c2-4c4d-831f-983f3e660f15,0.0,Diabetes
+596b7806-0273-446a-b66e-fff4a5a8d630,0.0,Hypertension
+59c7a5a5-487f-4f60-8b74-51605f85bf97,0.0,asthma
+59e8129a-6669-4c7f-a6e3-14ceb09ed0b3,0.0,Diabetes
+5a0ec03a-a5cb-47a4-9705-6f24bd4a61a5,0.0,Arthritis
+5a2b9251-88f8-4287-8900-447ea82042bd,0.0,Diabetes
+5a2dea36-5f79-4cd0-962c-40e424073e40,0.0,Hypertension
+5a683b14-77e8-4a25-b649-30d681a2a41d,0.0,Hypertension
+5a6d94b3-1d7c-4dc7-8a97-5a1b62de8bcc,0.0,Diabetes
+5a73f219-3aab-47ac-aeb9-14de9b97129a,0.0,Hypertension
+5a84a7cb-973f-476c-aed5-d2a58e8d55f4,0.0,Diabetes
+5a8b16f5-6d89-4f70-bc30-4e9c6109ce81,0.0,Hypertension
+5ace80a6-16ad-4cfd-96ec-ff77a87df294,0.0,Hypertension
+5aefea1b-a896-4db2-9054-827587ab02cd,0.0,Hypertension
+5b3da875-c995-4781-b097-8cb1e63cd14c,0.0,Cancer
+5b5dfdb3-135f-447a-8b6e-891b2982495e,0.0,Cancer
+5b82363e-7461-4589-a3e0-93d25fb1eea7,0.0,Cancer
+5b9d83db-00fb-4ae4-8a22-6684a1368c3c,0.0,Diabetes
+5ba9ae08-2c70-4763-b3c3-551af56733b4,0.0,Hypertension
+5bcf603e-f154-464c-9915-a40207286477,0.0,Hypertension
+5bf2f27f-5522-45aa-a1de-b51a058b2790,0.0,Cancer
+5c1eb1b1-b92c-44aa-801e-92b09fd562a6,0.0,Cancer
+5cdb2771-edca-4190-9ad1-5dcb2505a036,0.0,Hypertension
+5d0f8518-974a-4ab3-91ce-782feb44b0ea,0.0,Hypertension
+5d3594e9-348b-4bee-ba83-573922cfa91c,0.0,Hypertension
+5d845e79-cd80-409e-a6ef-bdaaf9f1cefd,0.0,Cancer
+5e196feb-e48e-48c2-8059-4e13200ba8cc,0.0,Hypertension
+5e88f4e7-0fbb-4ec0-b972-6e2d81798659,0.0,Respiratory disease
+5efb7c38-caec-46ac-9583-9043172a81f8,0.0,Respiratory disease
+5f87fdee-1ac2-447f-8ff9-e89c4e3d4c42,0.0,Hypertension
+5f9834d5-50e2-46f4-8549-67f753e1e422,0.0,Hypertension
+5fbf9e16-eea4-4b66-aae9-06a0f242d12b,0.0,Cancer
+5fc651ca-15a3-41e4-bca0-8d7b269af7d2,0.0,Respiratory disease
+5fc6e313-b32d-45de-9ebc-35b657ed3a05,0.0,Cancer
+6018328d-c61a-479d-818a-0979d8c59005,0.0,Diabetes
+601c0f3a-4c49-4744-a64d-6926d4afc0c1,0.0,Diabetes
+602ce935-411a-43c9-b443-8d4102406349,0.0,Cancer
+60463fc6-081a-458f-84cf-78270d2fa4a6,0.0,Hypertension
+6062ead0-fd35-414f-b5fb-1c1e020e9c32,0.0,Hypertension
+6092bb8a-78e0-4314-8a60-304d51936154,0.0,Respiratory disease
+60a3f492-b01f-4db9-a832-c6f036d0600d,0.0,Respiratory disease
+60afc268-1bdd-44da-8151-a5255fd91469,0.0,Hypertension
+60bdf499-7ed2-488d-b155-f9628040f62b,0.0,Diabetes
+6105cc1c-646d-4a35-8046-7a2f3bcb19fb,0.0,Hypertension
+614e16eb-5316-4893-897e-7a5f75597118,0.0,Cancer
+615e3f96-e178-4563-b5ec-dcd0621d731a,0.0,Diabetes
+618b371d-cc81-407e-93e7-1d397784d1da,0.0,Cancer
+619dd9f8-2bc0-4bb3-bda9-4bb7e997b724,0.0,Hypertension
+61b398c5-440e-441a-96d6-fed092f41925,0.0,Cancer
+61d8c0d4-d7d6-4bc2-a946-fef5a0acad8e,0.0,Diabetes
+620d7cd7-9a54-47b2-9caf-2cdb6b9feccb,0.0,Hypertension
+62306e6e-3150-426a-82a4-3f8e1c4ff5cf,0.0,Hypertension
+625a75d7-2c1b-4362-a94a-f7026ab833ad,0.0,heart failure
+6260367c-982f-4a9a-ba88-e459c9902cfb,0.0,Hypertension
+62b585a9-6415-4609-a5a2-320bd45d5171,0.0,Diabetes
+62d54c38-1831-45c8-9820-32d9e5869987,0.0,Respiratory disease
+62d96dfe-fbc9-4c94-b506-dd8c16dc62f2,0.0,Respiratory disease
+631ee823-3311-45e4-a0a1-3a16f043a1f0,0.0,Hypertension
+635f21fd-c866-4de6-b6a1-8a91d8b8969f,0.0,Diabetes
+639f0193-7f81-4d31-aaa0-875a05b0c6bf,0.0,Respiratory disease
+63b048bf-9407-4e78-b9aa-74152354fad4,0.0,Diabetes
+63f151af-b790-42b1-8958-c40741cf9f41,0.0,Respiratory disease
+63f53fac-aae0-4589-aa93-3a9e42605e67,0.0,Hypertension
+64518288-10f1-4d34-aa98-7f67ded3a98f,0.0,Hypertension
+6456ec7b-e83a-4f94-ba2c-9c68a51dfdcd,0.0,Cancer
+645d7d54-2bd2-423d-8b02-26edaa8d57d8,0.0,Diabetes
+6477a77e-ced9-4036-85ba-fa1caa0f7b73,0.0,Cancer
+64a6e640-e3a5-4e44-9983-66a874f810e3,0.0,Hypertension
+64b88d23-bb59-4144-8554-96d15d4f3dc5,0.0,Hypertension
+650f7ba3-c8e0-42d8-a3bc-e5425b79d196,0.0,Hypertension
+653d9e56-a99e-4a3e-964c-2fe7f307ea9b,0.0,Hypertension
+65424bb1-6e92-4333-816b-ab8ca599e969,0.0,Diabetes
+65546b15-dc98-4057-bd61-dad93cc952c2,0.0,Cancer
+655ee41a-48fe-47e8-bd10-d09a5eff378c,0.0,Hypertension
+65b11eff-d1f5-4913-8045-31ca74bfdfc4,0.0,Diabetes
+65d558ec-841e-45ad-8bc8-dace07ec5fb1,0.0,Hypertension
+65ed2ffe-1bea-4dbf-8d59-16c1e2e2dc4d,0.0,Hypertension
+661a0352-ec53-4ef9-ad0b-1bd12a23f286,0.0,Diabetes
+66362073-63df-461e-b269-d39ae05a8787,0.0,Diabetes
+665b9fd5-e908-45b4-9187-d31ccbdcbda0,0.0,liver disease
+669385ac-00a8-4a16-9d31-7706557d9a02,0.0,Hypertension
+66b2f8f6-e8b9-4ba3-b644-b004cf5a36f0,0.0,Diabetes
+66b71ae1-e10a-4b02-a289-54d30a371a51,0.0,Diabetes
+66e4ae7a-dcf3-446e-8f02-d2bb302334a6,0.0,Hypertension
+6712ff65-48c3-45bd-bb23-7485534cd644,0.0,Cancer
+677405a8-1090-4b98-915c-a7b4ca7d55d0,0.0,Hypertension
+67828e48-ce5e-4ac2-a1fd-220b88075b12,0.0,pneumonia
+678be0db-3cd0-4ba4-93fc-6a019ac3c0fa,0.0,Kidney disease
+67ac2878-3553-4cdb-8867-85628d15951c,0.0,Cancer
+67dc9214-ea2f-40ed-87de-49b98716e011,0.0,Hypertension
+67f362c6-3c64-460f-b8f8-8e6410d75bfe,0.0,Respiratory disease
+6800d2aa-e214-4d30-95ea-4e9803027590,0.0,Cancer
+680f71f6-3aee-480e-8200-01dde60f36bc,0.0,Respiratory disease
+68235d0b-b377-4dea-872c-36002014eaf0,0.0,Hypertension
+6838ea90-02c0-443f-b8ed-1a796835d05f,0.0,Diabetes
+6843d494-ee27-4011-8977-fecffecf1b17,0.0,Cancer
+68572421-e1d7-4ede-995a-f6ad63ae527e,0.0,Hypertension
+6869ff7e-4557-4270-87d3-1de54a5fdec9,0.0,Diabetes
+68a3b3b2-5069-48c9-b4b9-f6c0829903ae,0.0,Hypertension
+68d62a18-b174-4c1e-9e4f-0b34321933cd,0.0,Hypertension
+690cee50-9450-477a-8498-9f492ce3fbc3,0.0,Cancer
+691cbc7f-302f-4a7a-803c-38d9c972bf81,0.0,Diabetes
+69a61fc5-646e-4051-9053-a3a33b48718c,0.0,Hypertension
+69bbbd8a-843c-4142-8398-662c024e6162,0.0,Diabetes
+69de458b-71bd-4ea7-86f5-5b31293b0475,0.0,Hypertension
+69e69ed4-77af-4842-bd12-adbdd8586f68,0.0,Cancer
+69fa337b-cf2a-4888-8018-7818fdd3ce86,0.0,Hypertension
+6a1fef41-74c5-4448-9bca-ad29277b4003,0.0,Cancer
+6a61fcab-ef82-4d57-b09d-09f2d774c7d4,0.0,Hypertension
+6a783227-b557-4793-99b7-2c7d5fa6b480,0.0,Diabetes
+6a950f15-e43e-4f1b-9a8c-89222728260e,0.0,Cancer
+6ac5f2d1-8727-4a4e-bbb0-2f74b1ee6b6a,0.0,Respiratory disease
+6af1833e-2481-4aef-b8f6-ade4f36181b4,0.0,Hypertension
+6afad424-3c63-403a-803a-583b2391c6c4,0.0,Cancer
+6b045703-18e1-4fdf-a22e-43b181d8a9b5,0.0,Hypertension
+6b2ac722-ae11-4068-bb3d-7b49c1d2cb4b,0.0,Hypertension
+6b6a508d-94c8-4599-8c77-53e0c979803a,0.0,Diabetes
+6b6ac0a7-b9c2-4c6d-a075-9c301a2ce2e2,0.0,Hypertension
+6ba8d1a0-2cca-43f5-87e4-18b681322989,0.0,Hypertension
+6bba3b20-7740-4751-969b-06bcde522383,0.0,Hypertension
+6bc3ce0a-00fd-4eaf-a6f7-c0fe6a3a7731,0.0,Hypertension
+6bfd4b14-b2a8-498b-b168-d4d4b1f5ac92,0.0,Diabetes
+6c0875bf-4beb-4517-b4f5-e47e4451f0c4,0.0,Respiratory disease
+6c5f8efb-d0df-4b1f-8eb9-95efc9f687c7,0.0,Respiratory disease
+6c8e3c98-1218-4d82-8773-735e69a8aa57,0.0,Hypertension
+6ca15484-01b7-437c-9167-34209c611b7e,0.0,Diabetes
+6cac7af3-2113-426d-bbc4-4fa4506d5a46,0.0,Diabetes
+6cf99e96-cd9d-46e9-aadc-fd958aaadf8a,0.0,Diabetes
+6d161773-7775-4609-8373-05b06b7a6cdb,0.0,Hypertension
+6d2cd2f6-c661-4d50-8e39-8043beae6d5f,0.0,Diabetes
+6d2df8d7-6b43-43c1-8707-17fe65cfef50,0.0,Hypertension
+6d542b2b-c9e4-43c3-9902-7fb0de0692d2,0.0,Hypertension
+6d55efbe-c0c4-420a-879a-170acf782576,0.0,Diabetes
+6da00bdd-d334-4e30-b068-3d633e991b11,0.0,Hypertension
+6dd54302-ee21-4c8b-b8db-062b119a30dd,0.0,Respiratory disease
+6ddc59f9-38e0-4591-9567-40cc9cfd84ef,0.0,Hypertension
+6de86450-fb8b-4b36-b61e-25f82431bff8,0.0,Hypertension
+6df33f21-d2d6-4755-a217-10ae1094d2ef,0.0,Hypertension
+6e441bf9-4816-4243-b56b-7c553e773c35,0.0,Hypertension
+6e4e9276-b21f-4dd4-917f-2bfc30fc180f,0.0,Diabetes
+6ea69eaa-36f1-4980-9ef0-1dcc51d44a38,0.0,Diabetes
+6ee29228-08c7-465f-aceb-a0c1d8ae9ece,0.0,Diabetes
+6ef0f96a-8929-4ee2-8da4-00b5e0f2732c,0.0,Hypertension
+6efb6087-36d0-4414-8515-5229d5ffb611,0.0,Diabetes
+6f057ac3-ea9d-4496-8ed0-e4666f012570,0.0,Respiratory disease
+6f43d137-7031-4b9c-a608-adfca604b5bd,0.0,Diabetes
+6f584cec-fbf5-4ab2-9e82-a01b4c1789bc,0.0,Hypertension
+6f68aa19-3833-4df9-997c-48681a980f8d,0.0,Hypertension
+6fef11c8-f726-4697-8a06-d4ab5a65cb07,0.0,Diabetes
+6ff65126-d38b-4abf-bb8f-e0362a41a5cc,0.0,Hypertension
+70254070-7c83-4aea-9155-d0d08a9cdc28,0.0,Hypertension
+702ec3cb-c24f-4e94-b136-7e485d794c7e,0.0,Diabetes
+70439482-2650-4588-81e5-0114f3b97742,0.0,Respiratory disease
+709a7e0d-d0fc-415a-8a8e-d2e115ec1b0a,0.0,Hypertension
+70ac1cc4-32d2-453f-a628-1e727d8bae6d,0.0,asthma
+70f2f6d3-6c7a-48a2-9352-e7e9965848ce,0.0,Hypertension
+71072f5d-c74d-4d81-a053-2232d8acf4e0,0.0,Diabetes
+710f4eb9-181a-42e0-8ffe-5530713dcc8b,0.0,Hypertension
+711cb06e-a0a8-4782-b25a-fb7c48b9f1b0,0.0,Respiratory disease
+713bae28-49d1-4d48-9258-642674925b8b,0.0,Cancer
+71566ed7-466f-44a9-b3c6-74474ffbaec9,0.0,Hypertension
+71694889-f54a-4915-8cb7-12c656712311,0.0,Diabetes
+71884edd-a70f-4bb4-95a9-b56847006488,0.0,Respiratory disease
+71a2f251-9d32-405e-9745-a719ecda0956,0.0,Respiratory disease
+71c729de-7008-4f5c-ae67-4895cd4085de,0.0,Hypertension
+71ea3868-823e-419c-813a-49dba271888a,0.0,Stroke
+71ecee2d-68e1-4822-8ee2-6a66d50b1ae8,0.0,Kidney disease
+71f2bd69-40a6-48f1-96e4-149732d0e3d0,0.0,Hypertension
+71f3ebaf-105a-48a9-b38a-942225931daf,0.0,Diabetes
+71f87b79-de4d-461c-b8e7-dcca95440b39,0.0,Hypertension
+722a7913-a769-479b-b940-16cf5786cf1b,0.0,Hypertension
+7230286a-9c73-4680-a9a8-953638ac4cb9,0.0,Hypertension
+7255f4ad-4163-4dce-b734-42d931904ddd,0.0,Hypertension
+726a81ec-a30b-4632-beb5-78c5a5cf2db2,0.0,Stroke
+72a4fe5b-70a1-4c0b-8f90-c95976ff514d,0.0,Arthritis
+72b3b58a-5553-42fd-b178-802e4f0d7eb9,0.0,Respiratory disease
+72bc3662-9e86-44f9-9237-92ae0304e1ea,0.0,Hypertension
+72e772bf-8b76-4daf-b899-c4b11f5f4828,0.0,Kidney disease
+72eae389-8948-404e-a6a9-7e6bccf97ca1,0.0,Hypertension
+7326842d-ed70-4593-a360-f0e82b9a9faa,0.0,Diabetes
+735f8288-2dce-4fce-a60d-e8361b2a129e,0.0,Diabetes
+73896081-772d-4e92-8f82-dffe1906d82a,0.0,Diabetes
+73a54106-bee1-4657-b0fd-6b2cd33a2a78,0.0,Diabetes
+73e4b319-90e4-476e-a67c-e8397d58d137,0.0,Hypertension
+73edb1f3-b363-4156-b5d8-cc9af7bc85ef,0.0,Cancer
+74056ac7-c5b4-4f93-bb3f-029be78c1375,0.0,Stroke
+7415a8c4-29c0-4591-855e-28887ac6ee5f,0.0,Hypertension
+741cb07d-c531-434b-9001-6ee65e6df6f5,0.0,Hypertension
+742376c7-9072-4df4-81ff-b0001c988bd4,0.0,Diabetes
+74397f44-c0fc-4290-89b5-5bc732c6f291,0.0,Hypertension
+744295d4-91b6-4945-8756-27f7e7c09e10,0.0,Cancer
+7479c1a8-28e8-4400-9f9d-50fa7ac529af,0.0,Hypertension
+74805e4a-fcd9-4428-ad4e-020635119db4,0.0,Hypertension
+7488d75e-e081-4a82-a119-8776a23b460c,0.0,Diabetes
+748f945a-6fbf-4ade-adc3-18bcb626f1e1,0.0,Cancer
+7493b742-59de-4331-9f31-a51c60b8039c,0.0,Diabetes
+7493d5ed-f6b7-415a-9a10-62078713e27f,0.0,Hypertension
+749bee1c-1322-4e8d-a19f-798864b8a922,0.0,Cancer
+7518857e-d524-47b9-bc39-c0b50f95c304,0.0,Hypertension
+753b5adc-ceb9-444b-8944-1f1e76768a9d,0.0,Hypertension
+75af5ebf-e4a4-47e7-b451-cbb42e1a2e0e,0.0,Hypertension
+75b7ac0e-6448-4fbc-a975-aa65524c1827,0.0,Cancer
+75d35ea0-8bb6-4fba-a1b0-c25bf4aadada,0.0,Diabetes
+75d93da7-49a1-4b87-875f-8ace58f36c50,0.0,Cancer
+75dc5df7-3fbc-4e4b-bce7-2750a2dbd352,0.0,Hypertension
+75dfd6cc-002c-4d52-a803-c24ea2d899a4,0.0,Diabetes
+75e9ad5d-684f-4a4e-b19a-cfb01f43b88f,0.0,Diabetes
+761e527e-8bc0-4074-99e5-4728b1c6c3fa,0.0,Diabetes
+762d6045-b911-4921-80a1-56a76a387889,0.0,Diabetes
+76a5eaf1-76cd-4805-9724-96401070dc03,0.0,Respiratory disease
+76cd88ba-8caa-42f5-a55a-56aa72f7bbf0,0.0,Diabetes
+76df4bf5-b6d9-4234-a7e3-cbe3efe0162a,0.0,Cancer
+77048366-7f84-40f4-b7bf-0e7e40f9cb32,0.0,Hypertension
+774b388b-d1b7-43ea-940f-45a80107ca72,0.0,Kidney disease
+775df208-5e35-4b02-86df-af702ea0f2f8,0.0,Hypertension
+77870f3e-568b-4999-897e-1112597fcd6d,0.0,Hypertension
+78115b34-d0ab-423e-9d3d-6236b9f5b105,0.0,Arthritis
+783532f0-316f-40c3-88db-75b01ac45925,0.0,Hypertension
+78464163-e7f7-4e8c-a662-faef3007dcbd,0.0,Diabetes
+787cb9b3-dc9b-4b7c-892b-2584ffe9fdf4,0.0,
+78cc732d-9bfa-4497-94bf-73dad7135ac5,0.0,Hypertension
+78cd0d28-1f54-4a91-b6ae-c20f27f2eaac,0.0,Hypertension
+78e223b4-b578-47d7-88a3-304cae2e53d4,0.0,Diabetes
+78f30bde-d254-4270-9dd0-4974746b8ba8,0.0,Diabetes
+78ff0b28-f2ff-400b-ad4b-361319f08e51,0.0,Hypertension
+793feed9-fccf-4ff9-bfa2-596efe7ca644,0.0,Diabetes
+794081ae-add9-4d37-963d-6db63ca87aea,0.0,Hypertension
+79791d03-3a3d-4cd8-8119-409de417012f,0.0,Hypertension
+79a8d5c5-b8f5-4b9d-9427-ddc9c6d876b6,0.0,Cancer
+79b22bf8-9d5a-41c0-a32f-b3459dee8ab3,0.0,Respiratory disease
+79cf5abb-4fa7-40d5-b075-3cf644d76570,0.0,Diabetes
+79dab8ac-fcd4-4b86-ae2c-d0626ef7f2f5,0.0,Diabetes
+7a4296d0-9715-45bf-adbe-092d472c5751,0.0,Cancer
+7a476534-0f91-46c0-858b-a7bd2214804e,0.0,Hypertension
+7a4ef472-e3e0-4e09-9f24-7bda5fa25a24,0.0,Hypertension
+7a5477a7-3c70-4b1b-a1e7-fb8af07b4fee,0.0,Diabetes
+7a65c791-37e2-4f92-86a6-95816f8ddb48,0.0,Tuberculosis
+7a7a352a-3ac1-47cc-a25d-9a566bd611f3,0.0,Diabetes
+7a83ae92-34de-49f2-ab4e-3f1e22fb64b8,0.0,Respiratory disease
+7acd301d-1710-4c60-b61d-182ef23bf9ba,0.0,Diabetes
+7b36015c-ffe1-464b-b9d3-f5453a75c540,0.0,Stroke
+7b3faf6a-cda9-4f8b-a7e7-81a21b7de3f6,0.0,Diabetes
+7b4aae87-078d-4399-be80-e2588dd4e468,0.0,Respiratory disease
+7b539b8f-cddd-48aa-a07d-4a9b9d8489f3,0.0,Hypertension
+7b71b9ff-7803-4b44-b4e2-d5decf100eb8,0.0,Respiratory disease
+7b75f4ba-67ac-4850-9016-5f882ec4a4b0,0.0,Hypertension
+7b79a2ae-7f30-4fc3-a60f-c5cf1ab627bb,0.0,Cancer
+7b7b991d-cc3a-4d0f-be41-4400e4be85fa,0.0,Hypertension
+7b8d4bfd-3672-4e9e-a88f-7e7f3c0880ed,0.0,Cancer
+7ba69d62-223b-44ef-a232-138a70b7fb94,0.0,Respiratory disease
+7bbd031c-e84c-42a1-b3dc-4ba0884c1b24,0.0,Diabetes
+7c0c7d6e-9ee0-48a0-bd4f-af84fc324ee0,0.0,Respiratory disease
+7c1be327-b135-435c-8404-405a486e68a0,0.0,Hypertension
+7ccbad11-c0b7-480d-952d-4a5f6f5059e4,0.0,Ulcer
+7ccbb464-cb86-4d57-885d-60f6adfcc8b1,0.0,Diabetes
+7cfd82f5-a4cc-4580-9b16-e687b4ab35cb,0.0,Hypertension
+7d03ef04-8a22-4315-be10-76591859943f,0.0,Diabetes
+7d3b6142-5692-46dd-9dd2-7408e481167c,0.0,Hypertension
+7d3fe33c-7a4d-49f6-8ef2-21f9c4bcfccf,0.0,Diabetes
+7d41b27c-6800-40f2-b4c5-1850bc024944,0.0,Diabetes
+7d47a262-78e7-4b80-aa11-aea2505cc1f0,0.0,Hypertension
+7d641734-c29a-421d-bcef-1534d46a7695,0.0,Diabetes
+7d6b45c8-99a3-4f0e-b465-3a096f228cb3,0.0,Hypertension
+7d8db88c-ad58-4a3c-9b19-0aa9ffcf2402,0.0,Cancer
+7dbbfc13-ea7a-4f70-a9a9-f7d1b5e646bb,0.0,Cancer
+7dc1f6a9-dfa7-45fc-9222-70ac6e6ab323,0.0,Cancer
+7dc5de64-dc62-4e6f-afbb-522e2dfde2a2,0.0,Hypertension
+7df378f5-6c44-4116-883e-173ddec10d0b,0.0,Stroke
+7df75f5c-1c30-4710-9ead-0e5efc39880a,0.0,Diabetes
+7e3179af-07aa-4aaf-b634-7b5805137e9d,0.0,Hypertension
+7e36c3fd-28b2-48c4-a62c-22cd1d5ee423,0.0,Cancer
+7e396a7b-f55c-4b8f-9449-d61d9b36fde7,0.0,Kidney disease
+7e5ce125-7901-49f9-92cd-018b5083766d,0.0,Diabetes
+7e66d5ce-b816-486c-a041-6ad77c076654,0.0,Cancer
+7e6d50dc-0a13-4eb8-8abc-66b40caed082,0.0,Hypertension
+7e8a6388-8155-428a-9e0e-ba58b48c7f62,0.0,Diabetes
+7ea956d8-f45d-43bb-9c7f-0f85c8309d28,0.0,Respiratory disease
+7ef49fb1-1c38-4f20-a7e1-d3ba272529e8,0.0,Diabetes
+7effb2aa-823e-4ad7-bad1-01dca4acae6d,0.0,Diabetes
+7f27c409-1d24-4484-8bd4-11c11a0c6ffb,0.0,Diabetes
+7f3fee4b-e57d-4f89-abd8-ac889b5b11df,0.0,Respiratory disease
+7f992adb-d5d7-4272-9d05-20cdc477945a,0.0,Cancer
+7fcfb348-48e1-4ec1-b45f-3d298d087cff,0.0,Diabetes
+7ff94a47-8ea3-49ae-bd17-bdea9b40acd3,0.0,Beri-beri
+8008eaa2-df89-47b9-bd37-1c0882b128d4,0.0,Hypertension
+8070bc83-b3ec-44f1-a4c6-8463838cf442,0.0,Diabetes
+807f6960-936e-4da2-a486-13535ec39bc0,0.0,Hypertension
+808d68ae-2b9e-41e8-8393-6de5ddeac18c,0.0,Cancer
+809c2c99-3bb7-472f-9b60-5becec77888d,0.0,Respiratory disease
+80b7e9fa-bf37-4a24-becd-ab728a133b3b,0.0,Cancer
+80cd9cd6-ca60-4f1c-9edb-a07038a7edbe,0.0,Tuberculosis
+80e4f80e-688c-4bdf-ba2a-647bd6cd2676,0.0,Diabetes
+80e6d85a-2361-496b-a603-ac2613500711,0.0,Skin Disease
+8105665b-5042-4e63-beb2-62533629cd69,0.0,Vomiting blood
+8106e1a5-89bd-442f-ba05-11cb46068004,0.0,Hypertension
+810e7d80-3a82-4de5-8a75-8f7ff95be7ff,0.0,Hypertension
+810fb0a1-3367-472f-a4b9-50da9ce4f187,0.0,Hypertension
+8131b378-ff3c-456e-b9a6-7c45c9be7da9,0.0,Hypertension
+813208e7-ad52-4d6b-8f30-88ece6640eb7,0.0,Hypertension
+817cefc7-5108-479b-9ebb-98e8faf70e9d,0.0,Diabetes
+81c8e476-8ad9-4b71-8fad-4dc579468b4a,0.0,Diabetes
+829a8547-6871-4f82-bfda-c759d48357df,0.0,Hypertension
+82a7d814-183b-4803-a393-e6904d6a81aa,0.0,Hypertension
+82a8c61e-3136-4211-991e-ebdf3c30effa,0.0,Hypertension
+82b23357-cd0e-42c4-a4db-e1b0835ded86,0.0,Hypertension
+82b41fb6-abca-49d3-b88c-0ac60932c363,0.0,Arthritis
+82d3e71d-72dc-4757-a074-ac08ab264930,0.0,Diabetes
+8307df0c-769f-43d2-8723-555fadd846e9,0.0,Diabetes
+830f5e2f-1ff2-4ccc-89f5-6a1bc56a3a61,0.0,Hepatitis
+83bccc49-302d-4228-aebd-bd4f5ec3766d,0.0,Hypertension
+83cab94b-2911-41d9-a802-3d5ea60bf0ec,0.0,Diabetes
+83f67f3a-b795-4a35-a10a-6b99510dc498,0.0,Hypertension
+83f8b338-7880-48d1-9066-73ccaabb0a20,0.0,Hypertension
+840e7c25-8517-4565-ab0c-27ecf172dac0,0.0,Hypertension
+843de06a-3327-4d44-853a-b2592a72db81,0.0,Hypertension
+8448f2b8-a886-4724-b2ad-72bb96a4dce3,0.0,Hypertension
+845a820b-aa02-422e-80a9-d6458737b419,0.0,Cancer
+84905300-775e-4aca-bb38-398bc995f54c,0.0,Hypertension
+84d03f25-071a-4c46-80e1-4a99a40dbdf2,0.0,Hypertension
+84d9e4cf-9f06-4e93-b225-c9cda9920e2f,0.0,Hypertension
+84f0f5b4-896e-44ef-9898-ca016af32226,0.0,Diabetes
+8519e4e2-31bd-4aee-b8fa-f20bd172c55f,0.0,Diabetes
+8587ee8c-c44d-4a52-abab-53325799697a,0.0,Kidney disease
+85986a5f-3750-41c0-8551-b3cd54d1dfdb,0.0,Diabetes
+85a8bd97-5c84-4be8-8fab-d0597d84edda,0.0,Hypertension
+8623506c-eebb-4456-b21a-93afdfdf95fb,0.0,Hypertension
+865f23e8-0de9-4ccd-9c22-659cea252fcf,0.0,Diabetes
+8694dd81-233d-4d94-855e-1271fc0a46a8,0.0,Cancer
+86b04655-c517-4bcf-ad2b-18ae537bf198,0.0,Hypertension
+86b93e10-33e0-4e97-bcea-88cbf2ad2fd2,0.0,Cancer
+86c2fb19-af62-4da1-9c48-49efe3b30e45,0.0,Arthritis
+870627aa-272c-41ff-9ac1-f8dfde8e71ef,0.0,Hypertension
+870d4567-9ac5-4b1e-ade9-96794ff722a4,0.0,Diabetes
+872bef6b-19d6-4488-8a8b-da1462cae628,0.0,Hypertension
+874deb01-d58e-4594-ab48-14babe669afa,0.0,Hypertension
+875789ec-4155-4043-933a-61c9d9405d3c,0.0,Cancer
+87b7500e-7b34-498d-9497-70894e495239,0.0,Diabetes
+87be33fd-0d8c-411b-8196-5c983767ca4c,0.0,Hypertension
+87cdd1be-acc7-4deb-8ed4-05626323fb37,0.0,Diabetes
+87f71e58-e0ed-471d-af32-3a49647a4cfc,0.0,Diabetes
+8825673a-543f-4506-9c62-da2588e49e53,0.0,Hypertension
+884cadf5-ac27-49b2-8677-bcd3d2f62411,0.0,Hypertension
+8852ea0f-2712-4bc6-aaf0-12362ef1d20f,0.0,Hypertension
+885b656f-44f2-4af9-9ef5-b88b02435f0f,0.0,Hypertension
+88b1cbca-1414-4d13-9869-084b2ba9773a,0.0,Hypertension
+88b2d7ec-d756-4b43-990a-b9371f2f7e15,0.0,Stroke
+88b949a2-e831-46f4-a387-a9fff2e10f22,0.0,Respiratory disease
+88f4c1c7-7577-4c0b-a9c8-d2a52dc830b0,0.0,Cancer
+895728b7-fda6-44de-a111-5036e2069734,0.0,Diabetes
+8963d2a0-effc-4e03-a7ee-0f4816860eb4,0.0,Respiratory disease
+89881ee3-b4da-49a7-9f36-69d18866e77b,0.0,Cancer
+89910862-27c6-4e4f-9f3e-263625c5f1d1,0.0,Hypertension
+8996f2b1-897d-44e4-af08-a809be8c3b52,0.0,Hypertension
+89cf1ac6-29a4-4527-8828-db441f219968,0.0,Rabies
+89dfce9d-c8fe-4612-a282-a9c32c6115d5,0.0,Hypertension
+89f3a6d9-75c1-4953-bb73-61e83039a49d,0.0,Cancer
+89fac478-fd09-4d70-bdb6-6823ed2b537a,0.0,Hypertension
+8a20cfe7-9936-44d6-adb4-269034cd11a2,0.0,Respiratory disease
+8a48c2e8-02ef-45fd-8cc5-2ec07bebe342,0.0,Kidney disease
+8a55c0fe-79c4-44ae-a8b7-953ac7a0d802,0.0,tb
+8ab276f3-fbd9-407e-a64b-b78de16605d8,0.0,Hypertension
+8ae7808e-3377-49d5-8327-af7272ce3683,0.0,Diabetes
+8b0be32f-e9c2-4ec9-9c4e-2ce24e45cdca,0.0,Cancer
+8b327459-e084-447a-984e-1407044b5135,0.0,Hypertension
+8b45e93c-631a-4116-ae66-1bae5edbca6b,0.0,Hypertension
+8b4770e3-c598-49e4-918d-87a436f09902,0.0,Respiratory disease
+8b59985b-6366-4dc7-83f0-f0563ff420ef,0.0,Respiratory disease
+8b5e84a6-d8b0-4394-909a-25d26e51a0e4,0.0,Hypertension
+8b741578-531c-4ae3-83a7-9a6b4b5fccdc,0.0,Hypertension
+8bc41f93-0356-4c42-b4f7-fb65d3124503,0.0,Hypertension
+8bd124c2-8ccb-4496-ab05-73113401c972,0.0,Hypertension
+8be54d94-5809-4985-9569-d09c24a45f99,0.0,
+8c1ec6f7-417e-488a-b75f-d5a2367d5b7d,0.0,Diabetes
+8c2ba768-b42f-45e9-a633-65710a2ac7e3,0.0,Hypertension
+8c3071a3-875b-4556-85ea-764be6dedd8e,0.0,Cancer
+8c566439-42c3-4bba-9bb6-2121c2de106d,0.0,Hypertension
+8c6ca36e-fcf0-424f-b51f-f4abcd0c5561,0.0,Hypertension
+8ce42a89-6590-4c00-bca6-776c514bdb91,0.0,Hypertension
+8d2a74e5-adf7-4922-9003-7a4f4999b830,0.0,Diabetes
+8d60a1ee-f3b8-41ee-ba3a-58cfa5af08d6,0.0,Tuberculosis
+8d6600da-5371-4c9d-a5a2-63ca0d3c1d2a,0.0,Hypertension
+8daecc12-87c2-4d35-ace3-41a3d631b1a7,0.0,Diabetes
+8dbd0c7f-0dd2-4851-9e6f-c462857e3b88,0.0,Cancer
+8df5f7b8-8674-48de-bbcf-a15badc4f98d,0.0,Respiratory disease
+8e04f21d-5cdd-4b84-a5ff-bdc1f9ffb65a,0.0,Hypertension
+8e1b2b0a-260c-44d3-96c7-956fb5581e57,0.0,Stroke
+8e2d1524-9d94-4d6b-9165-af9a669e8612,0.0,Cancer
+8e324d5e-8ce7-44f4-86bf-27e9456a0330,0.0,Respiratory disease
+8e3eab0e-f8ce-4f5d-a381-dd1511cb9c7c,0.0,Diabetes
+8e6abfa8-c607-4a5e-9070-fc7bde6b064a,0.0,Diabetes
+8e73fdc3-295f-4e7d-b2bf-8e4280a78ff5,0.0,Cancer
+8ead10f8-1270-4516-b741-c489726380d4,0.0,Diabetes
+8ec15bb6-be5a-43a1-b315-896788d3bff9,0.0,Respiratory disease
+8ed27eed-266e-469b-88c0-14997d323041,0.0,Hypertension
+8ee4fac6-d6de-4ed6-bc06-dd7667128df4,0.0,Hypertension
+8eef8a20-e2b4-4475-9b38-548982fd28e8,0.0,Diabetes
+8ef9470f-3762-4a4a-969e-7a2dddfc4309,0.0,Diabetes
+8f065d8e-5544-4630-8e0c-848fc3741e5f,0.0,"mental illness
+epilepsy"
+8f40e9b4-beda-4130-a59c-51ce7e8f1732,0.0,Diabetes
+8f5e720b-b848-416f-bbe8-d4995c856396,0.0,Respiratory disease
+8f79c5a8-6d1e-4a9c-9ba9-1f55907d683f,0.0,Diabetes
+8f7ad782-2330-405e-9f1f-78481df54384,0.0,Cancer
+8fb0db1b-7fc4-418f-aabc-79b104c6a727,0.0,Diabetes
+8fbdfdf5-5c46-4608-a3f4-1df941392c2e,0.0,Hypertension
+8fd6e40b-8bb2-4b4b-aed3-c937765f0e6c,0.0,Hypertension
+8feb21c4-f582-4509-b798-816e7e6ae262,0.0,Hypertension
+900bd905-fe16-4ccc-b274-60702f04823c,0.0,Respiratory disease
+903af4ec-efef-4263-b3ae-a1eb74cbbdb9,0.0,Diabetes
+90a06edd-aed7-4c43-a407-829764cef68a,0.0,Hypertension
+90ee510f-3558-4cd6-9532-a01faf35a693,0.0,Tuberculosis
+910be378-0511-4c75-ae58-deb4f616bc60,0.0,Hypertension
+9125134f-138a-488f-aea8-a80ffbb6e0c6,0.0,Hypertension
+91328c34-b3e6-4ee1-97fa-c839b48565e4,0.0,Cancer
+9178edcc-43c8-4807-af00-fe18bc835961,0.0,Hypertension
+917fb040-512e-4ff0-b540-c359dbfdac4d,0.0,Hypertension
+918553a7-b908-4ef1-b4e7-ed73d754f6f6,0.0,Cancer
+918f5e3f-8915-4fbc-9ce3-126a91b46e6b,0.0,Respiratory disease
+91b54c6b-4659-47d1-bc93-779a19604abe,0.0,Hypertension
+91c618f4-16ae-4943-b343-b42e57326630,0.0,Hypertension
+91e2f023-1d6a-43f9-9696-d770b194e156,0.0,Hypertension
+91eaa7de-4bec-4bbb-9c7e-72fe55f3b478,0.0,Hypertension
+91ee3232-c700-44b3-a958-979195c6ecad,0.0,Stroke
+91fbbba1-040b-48cb-beda-a9cc1922d02f,0.0,Hypertension
+9224ca55-9f54-42f8-a04e-7bf551f6dda3,0.0,Tuberculosis
+92319003-06e2-446e-97a5-26a075048b75,0.0,Diabetes
+9233fb08-4298-427d-9b49-9c7624226f93,0.0,Stroke
+923515dd-99d1-42a8-bd29-1eb88ca08062,0.0,Respiratory disease
+92391d2b-56af-4f75-8d07-73c240fa4c50,0.0,Diabetes
+92516642-9c17-41ba-9b7a-6c5ad4979e75,0.0,Hypertension
+9256bf5a-1174-474c-a718-ccacb98302b6,0.0,Diabetes
+92804d0d-e1b1-4088-a2d4-865d9b80fdcd,0.0,Cancer
+9297935e-d657-4b51-9870-df0100575b2f,0.0,Hypertension
+92b050cd-f751-4791-966e-20586bf72ca5,0.0,Respiratory disease
+92d8f014-f8f8-4a35-984a-25628ab9d409,0.0,Tuberculosis
+92f3f234-815a-46de-92b1-c9f42d338170,0.0,Stroke
+9340079f-bb69-4b9d-a937-9c1dd3a4313c,0.0,Hypertension
+93593a45-76f9-4bbf-997c-4d2584fbceff,0.0,Diabetes
+93790aff-6673-42fd-a625-15995166e754,0.0,Hypertension
+93cbef03-3dad-46ed-85e7-514384d0a932,0.0,Diabetes
+9400c146-7eeb-4dda-ae47-208f91627cec,0.0,Respiratory disease
+941bda70-e524-424d-8d08-150d8adc120a,0.0,Hypertension
+94320c38-96d3-4956-b8b8-6d58fb325379,0.0,Respiratory disease
+945143bd-006d-4e85-9759-f97a47ea90d1,0.0,Respiratory disease
+9457ae32-f888-4890-a3da-421f35f09729,0.0,Diabetes
+947d471e-cf52-4121-9c27-ee136a0384d1,0.0,Diabetes
+9497f7af-642e-4c8e-b61d-aa9372cc6f5d,0.0,Diabetes
+94a9617f-1af0-4354-97c8-fb5568bd907c,0.0,Cancer
+94ad6b04-2c27-4216-a1df-baf3fd5fc35a,0.0,Cancer
+9563acdb-f643-4e60-80a4-bb5a1586c341,0.0,Hypertension
+957a1575-2762-40fd-937e-60c12ab23f7d,0.0,Hypertension
+95965812-4481-4788-aade-1aea477bc7ee,0.0,Cancer
+95d87ba8-964a-4fb3-b0f1-6859c76b5a60,0.0,Hypertension
+95eea309-f2d1-4cb2-b2cb-5051806909a6,0.0,Hypertension
+960ab9a7-0713-4c04-b081-b83dc003cdcc,0.0,Hypertension
+964f4fdd-4799-41c3-a482-870a7af952c6,0.0,Cancer
+96aaee23-9fa3-42e6-b342-8c68a6596614,0.0,Diabetes
+96b2d0ae-65b0-45ce-a96d-a91a0dc44a47,0.0,Diabetes
+96e8f899-9c9e-4ddf-b84a-efd2d892a0ca,0.0,Diabetes
+971c3a7d-9bb2-4dd8-9829-730561acd5c8,0.0,Cancer
+97521c2b-6a18-4cec-8191-37e4ac53e13d,0.0,Cancer
+978ec2ff-d0a9-4dd2-99b1-ce7b1271a6bd,0.0,Hypertension
+97ada0b1-7f89-43ce-94fe-4424a41a0a27,0.0,Hypertension
+97b0263a-10ad-4948-95c7-0b6a33382cf9,0.0,Hypertension
+97f6f9c2-13ed-4918-b5b5-41f498da2973,0.0,Respiratory disease
+98155ece-0e61-46f3-a722-a8cc4ad9218c,0.0,Hypertension
+9842e664-37f7-4db1-bc5a-bce41999f886,0.0,Hypertension
+98590a67-a9cd-4414-8da0-c01a20d32226,0.0,Hypertension
+9863549b-c7ec-4b19-b0cf-5591946a13e4,0.0,Hypertension
+986fb50f-0e6e-4dff-9659-b321926dd49b,0.0,Hypertension
+987f5639-46b3-44c0-86e2-5498c0910448,0.0,Kidney disease
+988b2ba3-5ecd-4d86-97b6-c9a4fc9be532,0.0,Hypertension
+98d30f4f-28fa-47ad-af65-ff9be91addf0,0.0,Hypertension
+98ebbb3d-a720-4584-8729-d2e236ab1cdc,0.0,Kidney disease
+98f72be1-0a6d-4eb7-a063-5f6a46db9bc8,0.0,Cancer
+99484f2d-4c19-43c9-8423-93b3199f5ebe,0.0,Hypertension
+995a6e5a-d10e-4f97-a76e-6ab666636a82,0.0,Hypertension
+9963b840-0477-4c40-8e31-b148ae73d871,0.0,Hypertension
+996cf53b-82c6-4a07-b520-9cd5ab0fa7cb,0.0,Diabetes
+99770a27-58b5-4684-a102-a6d36be6b51d,0.0,Hypertension
+99b144e2-f70d-47e4-8a98-00e46a4acdaf,0.0,Hypertension
+99b5c319-e075-41f5-9936-fc3c25e79551,0.0,Hypertension
+99d42758-548d-4486-bbb2-1541ff5a1f9a,0.0,asthma
+99d59b94-022f-4cdf-9bbb-7689465ac722,0.0,Cancer
+9a203620-38d1-4e53-8b5b-49a249da88d9,0.0,Respiratory disease
+9a2076d4-95cc-446c-bcea-e50d46f7eecf,0.0,Tuberculosis
+9a567b4a-bd9c-496a-be72-94b947ef3e4c,0.0,Stroke
+9a675893-3e09-453f-970b-611cb256b972,0.0,Hypertension
+9a758a71-c4b6-4970-9475-f9fecdfba594,0.0,rheumatism
+9abecc85-3947-4c7b-814f-e3478d174065,0.0,Respiratory disease
+9adbe510-736b-4418-948d-6a3ecf087bd6,0.0,Respiratory disease
+9b0944ca-d47f-44b9-bc9d-0c5682325f46,0.0,Cancer
+9b5d22af-5ef8-4707-9856-7614b808190a,0.0,Hypertension
+9bc71b93-0dc1-4cc4-9d85-b1efa8bd5cd3,0.0,Cancer
+9bd3092f-1135-45c3-928a-5c54f13926f1,0.0,Diabetes
+9c7c579b-bcaf-4c35-8fcb-1c87d61f700d,0.0,Hypertension
+9c82eda3-8c26-4641-8a19-0e1fa9806430,0.0,Cancer
+9cf6f771-64e8-42bb-b646-24cc2b3d07af,0.0,Stroke
+9d240a83-de22-4b38-beb6-dd42a31f6f72,0.0,Hypertension
+9d3d7fc5-abaf-4a39-a066-6d478ca650a3,0.0,Diabetes
+9d5f44b2-bd67-4af7-811b-09ec17e7af2d,0.0,Hypertension
+9d6e7951-8986-4653-a313-16960b018cb7,0.0,Hypertension
+9d80feb5-9663-4fcb-9b91-44d6b732ccb0,0.0,Cancer
+9d896d7a-b465-4e65-88a0-e5994ec8ff2d,0.0,Cancer
+9de3e4fb-aba4-4871-a409-2124b594911c,0.0,Hypertension
+9dfdf945-fe23-4ac1-8462-6e85dc518e53,0.0,Hypertension
+9e2d58c8-dfe9-4178-b4c7-4bcc6e8451a7,0.0,Hypertension
+9e47ef23-047b-46de-8ad9-c505f463453d,0.0,Diabetes
+9e61cfce-5550-4370-ae10-2a3ac606c4ef,0.0,Respiratory disease
+9e6b6e48-4927-42ee-93a2-b078516be042,0.0,Diabetes
+9e7557f2-f883-4d0e-8bd5-842f6a525f1c,0.0,Diabetes
+9e9cd31c-3ac1-469e-9be2-060563262a3b,0.0,Hypertension
+9ea61393-6453-4555-8065-4ca86f2138cd,0.0,Respiratory disease
+9ecf85d7-0ba7-4100-8627-2dbfa7532ec0,0.0,Hypertension
+9ee517de-84d4-4afe-9a3e-087e85788b27,0.0,TB
+9ee74567-5168-4b73-a6c4-796c8a2e8ef7,0.0,Diabetes
+9f07bff9-802b-4c4f-a54a-3f5dc4589269,0.0,Cancer
+9f246248-86fb-46aa-8dfe-ddc875bb7ce0,0.0,Tuberculosis
+9f24c413-bbc5-4efd-a7bc-d03b82162b4b,0.0,Hypertension
+9f489d6f-56c7-4338-9f6f-b8c611abbe88,0.0,Hypertension
+9f624dc2-d5d3-4e3a-b78d-2e711549dcea,0.0,Diabetes
+9f9fc062-95a3-4740-8945-4ce840a470e5,0.0,Hypertension
+9fd39040-f72f-4150-8a36-1c5f891d7428,0.0,Diabetes
+a0030d5d-7d40-4b5b-90ed-a4ddca0e9da9,0.0,Cancer
+a00d64b2-9865-4435-8fa1-da0eaab80576,0.0,Hypertension
+a042c252-d8c5-4229-a845-fcfca5196c77,0.0,Diabetes
+a053e2ad-3a5a-4504-a8f3-6259bf72eaff,0.0,Hypertension
+a064efeb-c37e-48b9-ad10-052704678588,0.0,Diabetes
+a0b34021-3214-4d3c-a394-1fd7c6dda273,0.0,Hypertension
+a0b95f21-78fd-4097-90aa-86005cb96a18,0.0,Hypertension
+a0e9d867-2639-47ac-9e51-005e7bc25b31,0.0,Kidney disease
+a12d260f-7c3c-4352-8865-3be4202cde2c,0.0,Diabetes
+a15414f9-59e2-4d2a-91c2-fc0f043aa3a9,0.0,Hypertension
+a19517f0-c9a5-49e8-af11-09d8eca149b8,0.0,asthma
+a1c574f1-b16a-4128-918d-62ddfd3de058,0.0,Stroke
+a1d6b2a5-4fa7-45e5-8ab2-6fca266a57bf,0.0,Hypertension
+a1df704a-52f6-4684-8992-cdccc967979b,0.0,Hypertension
+a200a79d-cf25-4382-88c0-307e0f38a004,0.0,Diabetes
+a23bbe88-0b1a-4a98-b88e-49d5d3fd1d91,0.0,Stroke
+a248236d-48d6-4c6a-ac34-0d3ae7323a49,0.0,Hypertension
+a249ed42-51f5-4f5a-9c23-a8784d8b32ea,0.0,Diabetes
+a24a5717-10c1-4a99-85b4-abca5140c743,0.0,Hypertension
+a261e9bc-7b2b-431c-8143-a34353d65890,0.0,Cancer
+a265f900-468c-42f2-a07e-7b5ad2ba051e,0.0,Hypertension
+a2a866f0-3233-4af9-bd6c-df84aa07040e,0.0,Cancer
+a2d79ab2-bdc1-4e1e-bfe8-c8538ca758dd,0.0,Stroke
+a2db2534-d9ff-4022-8b2e-d1e4381a222a,0.0,Hypertension
+a2fb259b-36ab-4c40-be04-e1a0475c8ac7,0.0,Hypertension
+a308f1b8-26da-4e3f-a46f-6ddeb3981f92,0.0,Hypertension
+a3782932-8c35-4729-aa6f-d7d78ff44d38,0.0,Diabetes
+a3818712-f2a0-4bca-848d-c2c85a6020af,0.0,Respiratory disease
+a393a04a-34b5-4b24-b7ea-213b248b8641,0.0,Respiratory disease
+a3dfeaaf-7ab6-4031-85bf-94acb5edf259,0.0,Cancer
+a426dfa7-9fe6-46a0-9b8a-025b23b87549,0.0,Hypertension
+a44327a3-ae36-4266-9e73-108cc991d3b1,0.0,Hypertension
+a47556bf-082f-4b2e-ac83-dc14bc88a533,0.0,Respiratory disease
+a484573a-e793-4290-9846-c0bc354741aa,0.0,Respiratory disease
+a59a8e43-3faa-4e9d-beee-4f5690a31ddf,0.0,Cancer
+a5b3a11b-01f1-43bc-8489-b2210a7d2f3c,0.0,Cancer
+a5c6034b-daee-470f-a206-9d01664251c9,0.0,Hypertension
+a5f42b9c-f556-4134-977d-ec824ceca4a5,0.0,Hypertension
+a6354931-e3bb-42bf-b664-61717c8dafb3,0.0,Respiratory disease
+a6b41a2f-f837-4644-b09c-1535b0975ad2,0.0,Hypertension
+a6f6a794-420c-43f6-987c-8124cadec410,0.0,Hypertension
+a78ca16b-bacc-4aa5-98c4-19a4bf53dac2,0.0,Respiratory disease
+a7a6b6a0-80d7-47cd-9ced-6c098a291a37,0.0,Hypertension
+a7aa7779-076b-49c2-ac94-3e80363199e9,0.0,Hypertension
+a7c5bc99-8b8e-4ffd-8da0-c20d1c1723b6,0.0,Hypertension
+a7ff58fa-9d9f-4877-9fec-e1dc7844a7c2,0.0,Hypertension
+a81b9659-7b41-48dc-8370-10fa6f4716e5,0.0,Hypertension
+a82a326d-5c68-48aa-8d94-5ad500b795ee,0.0,Hypertension
+a82a73a0-bf99-4ed3-a57a-479c65d3af4e,0.0,Respiratory disease
+a878d5b0-49c6-4e28-b3e3-4b7231680ac2,0.0,Diabetes
+a87bf2ac-0570-4159-a112-40049b206a63,0.0,Hypertension
+a8afdfc8-c689-4c68-ba7e-701ea0f8b33c,0.0,Hypertension
+a8f557e2-caa4-4033-9f0e-106f63576ef7,0.0,Diabetes
+a8f7313a-b9de-4f19-9f15-6082faf0fe93,0.0,Hypertension
+a920f43d-aa28-4b5a-8588-71b3e5b39798,0.0,Diabetes
+a9304e4f-4eae-4fc6-80a0-52fb9a347e42,0.0,Diabetes
+a93ca2ee-5e7e-4de4-8021-26904b8e490f,0.0,Respiratory disease
+a9466b57-753e-407e-ba0d-94eb97cd9e5d,0.0,Diabetes
+a95f7210-1144-4920-b689-315ef297e7ca,0.0,tb
+a9e08e33-4c88-4d19-bd18-e606367bb8a1,0.0,Hypertension
+a9ef2a8a-f637-4f28-8f77-71ef0a7db9df,0.0,Cancer
+a9ff3591-7eee-41c1-af11-f6a5fccb5016,0.0,Hypertension
+aa28ae73-0d3e-480a-84cb-b1278665e111,0.0,rayuma
+aab3c95e-fb94-4d51-9d22-85c586046dd0,0.0,Ulcer
+aac9e536-57b2-49c0-9edc-6bbdca8b3d6e,0.0,Hypertension
+aad52df6-5ea7-4de5-8cfd-ef717c28b0b6,0.0,Diabetes
+aafa87ed-b6d5-4ce7-851e-d6eff3d967f0,0.0,Cancer
+ab047913-7f5b-4033-8ac5-3e2ee8b3244c,0.0,Hypertension
+ab519a92-7dff-4869-b070-abe2445adfbe,0.0,Hypertension
+ab7a1dbe-f9b5-4704-ae2a-e21e5764b92d,0.0,Hypertension
+ab7a97f2-cad1-4fa4-90ea-ff9078d2db88,0.0,Hypertension
+ac3337b9-c152-4931-86f8-87027f174527,0.0,Hypertension
+ac3b1667-3f9d-4656-aa54-e4195ad85024,0.0,Respiratory disease
+ac579d82-bf02-4299-9d68-85e5ad78639d,0.0,Hypertension
+aca93f41-9227-4ba7-b289-43f1a8c4a0de,0.0,Diabetes
+acbbb1af-17f8-4705-b642-ca2090e1ac34,0.0,Diabetes
+ad1e7c4d-4619-41c7-be92-4957b068ce20,0.0,Diabetes
+ad2961f1-62fe-46f7-b98d-68ed03232e70,0.0,Hypertension
+ad41f3ba-8414-4cb9-ae4c-56804bdefd5e,0.0,Diabetes
+ad595e8b-9637-4ab4-870d-310e9fc44bed,0.0,Hypertension
+ad714889-36a2-476b-b4fc-7e96b80c4e72,0.0,Cancer
+adcb0e3f-4b7c-4cdd-8d5f-60d6ab800dd4,0.0,Hypertension
+ae0fc68f-3984-4dcb-a78d-25c8a78d5beb,0.0,Respiratory disease
+ae8992f2-60ec-40de-be05-2f8fea7feb9e,0.0,Diabetes
+ae9b1753-3dac-4e4c-af20-385b60cc7d27,0.0,Hypertension
+aeaa8641-ab80-44ba-9432-47e6982a261b,0.0,Rheumatic Heart
+aec07051-cbe4-4637-92a9-defacce1901f,0.0,Hypertension
+aec64a20-2778-495f-a9f3-3354fd7744cf,0.0,Diabetes
+aeef47f9-ddd3-44c1-b54e-31e39312bb2d,0.0,Hypertension
+af0c53ff-ef98-4d3b-b0d7-aad6ef9ac442,0.0,Hypertension
+af1eab11-f57d-4312-884c-2d4673703c60,0.0,Respiratory disease
+af2ca27f-33fe-4b44-9749-82775b4a6252,0.0,Diabetes
+af574519-6a60-4f33-ba05-2438f9a9c4bf,0.0,Hypertension
+af668671-6e31-4f5d-8ac1-707493c3cf4d,0.0,Diabetes
+afb052ce-c189-4c9b-b365-12a9724afb3e,0.0,Hypertension
+afc51525-ccaf-48a7-93eb-77498978add9,0.0,Arthritis
+afcba47b-7ea5-4c89-be2d-314cd0b28b3b,0.0,Hypertension
+afe7a0b1-9111-4422-b362-64a34f5842a4,0.0,Cancer
+aff54336-8827-48e6-85e1-275b96819bed,0.0,Diabetes
+aff7780d-b85b-4c06-91f5-4248c06d0ee9,0.0,Cancer
+affbef61-027c-424a-b9df-e3d69a959df0,0.0,Hypertension
+b006d8cf-3cb1-4104-ab7c-6de439e9958f,0.0,Respiratory disease
+b0237059-6aad-42f6-aaef-7a607e0ddaff,0.0,Hypertension
+b05d7505-902d-4aba-a516-24c65fe1e3b2,0.0,Hypertension
+b0bbdf45-50af-43cd-ab74-104123ecf746,0.0,Respiratory disease
+b1497227-583c-486a-8876-2907424e64b2,0.0,Hypertension
+b16b338e-20fb-4e7a-934c-0b777ac08ceb,0.0,Diabetes
+b16d2bc9-ebce-4730-8434-76bfe4bb031a,0.0,Hypertension
+b19b3d87-d692-441e-beb0-133445f5762c,0.0,Cancer
+b1a0a950-7210-47ba-b048-5851ea877dfe,0.0,Hypertension
+b1a91701-1751-42e6-a1e6-9e9a60768e33,0.0,Cancer
+b1bddf68-866a-4c56-a209-1d6f632b7324,0.0,Hypertension
+b23ba654-eb78-444f-93ce-0a4b4b1ffd1e,0.0,Hypertension
+b278a77c-bd0c-4f94-981f-6d62e3c0571b,0.0,Cancer
+b296eba1-fb0b-4464-b389-8a23c7979d71,0.0,Hypertension
+b2ab91be-2471-4d0f-abe7-bf40a18b45d9,0.0,Cancer
+b2b9da2a-6647-4c78-9c74-3514e98cbbf5,0.0,Cancer
+b2f55190-a0ab-497e-91b9-e920331af3af,0.0,Hypertension
+b2fc6b8a-9cd1-48f5-95e5-17f9845fb266,0.0,Hypertension
+b30e3fb5-3e75-472a-8e6b-28306b68a9e4,0.0,Diabetes
+b3117bb5-c373-4ed2-9d34-04abeae41336,0.0,Arthritis
+b3439d1d-0e1d-47ee-bef3-d580b4c740ce,0.0,Diabetes
+b356edd5-6700-4428-b790-50efa9fdd471,0.0,Cancer
+b3751b11-e98b-443d-bc32-e85793ac7e8d,0.0,Diabetes
+b3843e0f-e2e3-45b7-a432-0f67d452fbb2,0.0,Diabetes
+b39e455c-094b-4b00-8b97-ac0470891949,0.0,Hypertension
+b3a91867-a4b8-4c02-8c5e-0d89eb0d6456,0.0,Hypertension
+b3fdbfcc-1fe1-413b-90e5-229f254a1600,0.0,Kidney disease
+b43c33fa-fe37-460f-af54-628cd2234dbf,0.0,Respiratory disease
+b46f5b06-7607-437c-9956-d60b1c479b9b,0.0,Hypertension
+b4986a61-1759-4fbe-94f0-c507f3055f14,0.0,Cancer
+b4b06feb-ca2e-4bd3-9c11-7a89d1831f53,0.0,Diabetes
+b50d68b1-7681-4bf7-b8fe-b4929d165ef6,0.0,Hypertension
+b51a97f7-fdb3-4e24-9023-480aa8b4b455,0.0,Hypertension
+b5401f22-adfd-43bc-ab09-a0dda5177794,0.0,Hypertension
+b543b7c5-a621-435c-bc34-6420c034c987,0.0,Hypertension
+b5665c2b-3d1e-4440-8fd0-ef46d0d685a3,0.0,Cancer
+b61b6ed8-94fd-4195-8e9e-d13069c45a0d,0.0,Respiratory disease
+b61ff404-1839-496c-be65-dbbaefda0202,0.0,Diabetes
+b6251881-c014-4cc4-9cd9-01a87ce51111,0.0,Hypertension
+b675a942-8018-4a40-9166-46aae47a1b88,0.0,Hypertension
+b68e2b2c-9425-40e5-a0b4-f69bb41f2912,0.0,Hypertension
+b6b3ce9c-4afa-421f-9067-e25c7dc32e53,0.0,Diabetes
+b6c33798-75e6-445e-9059-7a893ab5ef30,0.0,Cancer
+b6cbd01e-aee5-421a-83b8-2f612552ea57,0.0,Hypertension
+b6d2f688-d05d-40a7-b3d5-21a530b7104f,0.0,Hypertension
+b6dc5993-03a8-43c0-9151-a6201651e305,0.0,Diabetes
+b6e14855-a756-44ff-8b23-4611d81dc2c8,0.0,Diabetes
+b6f84e9b-cf0e-4a3c-9d48-8e8217415b89,0.0,Diabetes
+b6fb3e69-f5c4-4a80-9631-24be4d5e466c,0.0,Hypertension
+b7133c39-199f-4637-a42b-edd39e400035,0.0,Cataract
+b71e25d4-0b60-4ad4-a692-0c27507abda4,0.0,Diabetes
+b765ebd8-7128-41ae-95eb-39d060c96b10,0.0,Hypertension
+b7662469-6dc2-4f92-8b08-e24b36743ca9,0.0,Cancer
+b772e6ad-8825-45aa-8c67-fc20deffd515,0.0,Hypertension
+b7771df1-e295-4035-82c3-f37994ed2afb,0.0,Diabetes
+b7943ba0-42dc-44b3-a9cb-8810704810b4,0.0,Diabetes
+b79d9289-99f1-4613-85e2-e9e3d9696df2,0.0,Hypertension
+b7a94ac0-f832-4f29-b19d-696482739f4d,0.0,Cancer
+b82a2b52-f1b5-4791-a3e4-04bc9d6484ef,0.0,Hypertension
+b832e6e8-fdf3-4c7d-8cfb-8e828a31d4e6,0.0,Hypertension
+b83a3e22-6700-4638-8f2b-1ae9819f5ac4,0.0,Respiratory disease
+b8414f94-5d93-4e39-b5da-a3ca2cc4d5b9,0.0,Hypertension
+b892323b-f3af-4bf7-9232-1cb5c7eac506,0.0,Diabetes
+b8a375a2-7f55-48d9-ab10-b869ee27406c,0.0,Hypertension
+b8cd092c-1358-46c4-b7f7-d7f8cf44d153,0.0,Hypertension
+b906db38-e06f-4a52-8da6-321a8fc47dfb,0.0,Stroke
+b916e018-d2ea-411a-ad0e-4ebfb58e0ee9,0.0,Hypertension
+b94f685a-087c-4a59-b945-6378bf462d83,0.0,Hypertension
+b97f64fd-a9d4-4dd5-b402-6d79484c43ea,0.0,Hypertension
+b9afebfb-5911-416e-bd30-5e0db3e8877e,0.0,Hypertension
+b9d3adcb-776e-4935-897c-76239f99b054,0.0,Respiratory disease
+b9d796f3-976b-491b-884e-003c7382342e,0.0,Diabetes
+ba0871d3-c0c4-4e94-8824-a52b427b2550,0.0,Hypertension
+ba1da44f-7d79-4e32-b309-1ee5744db035,0.0,Diabetes
+ba3b3414-ab18-4336-96ed-57b810c5f1d2,0.0,Respiratory disease
+ba47a58b-85cf-475d-8929-a055c5d36db3,0.0,Cancer
+ba7951d9-cb6e-41a9-a721-967d35a06fc9,0.0,Diabetes
+ba905512-a11b-4058-af8e-881c798970c7,0.0,Hypertension
+baa72593-1342-4d46-87eb-2ac5c096909b,0.0,arthritis
+baac0380-ddae-448a-87d7-822d62103b1d,0.0,Diabetes
+bab00852-dfc5-4ae3-bff1-ea52f2263d19,0.0,Respiratory disease
+baf63c62-4841-470a-bbda-6f0acab54fb4,0.0,Hypertension
+bb00dc56-8998-47ca-a121-f0eebab960e3,0.0,Kidney disease
+bb0219df-f9e0-48c9-a3e3-e9757cad61bc,0.0,psoriasis
+bb05971e-5613-4a41-b293-d5022ba9ed57,0.0,Cancer
+bb18724f-0ca0-47ea-8c05-84cda30836f3,0.0,Hypertension
+bb8fe2cf-6fe7-4106-8195-fc50f4874d56,0.0,Hypertension
+bb99d164-55d8-44e2-b298-d00e33203017,0.0,Cancer
+bba0cc66-46a3-429e-9681-d21637a1284f,0.0,Cancer
+bba15c6e-2c17-46dc-b63c-b47c02690c95,0.0,Respiratory disease
+bba3764b-4b0f-45a5-b704-d7f854f489e3,0.0,Hypertension
+bba854e9-4601-47ba-a621-442112b15a9c,0.0,Cancer
+bbc99a18-58d9-49c1-91fb-b8fd0235e5e4,0.0,Diabetes
+bbe81ea5-6cff-4b9d-9dd6-1d7450b452c5,0.0,Respiratory disease
+bbef31f5-5fa8-4bf3-84b7-a9f3a15c9e7d,0.0,Hypertension
+bc5137fe-13bb-4075-9f6a-9c667c0bb1ed,0.0,Respiratory disease
+bc61c700-8585-4423-a0c0-0db5f9a7c376,0.0,Arthritis
+bc8e5b4a-54fd-4fb9-8c4c-1f198ff547ab,0.0,Cancer
+bc8f2cf9-e2c1-48a1-a02b-1a0eee773169,0.0,Diabetes
+bc8fe759-79cb-4e15-b00c-2e3eba690caa,0.0,Diabetes
+bc901816-32fc-42e9-9167-89b3183a291c,0.0,Hypertension
+bc9b4938-df78-44cc-bbb5-8334011c153e,0.0,Diabetes
+bca7a364-f67a-4b59-9b1d-027f9610f63c,0.0,Hypertension
+bccefd48-44e2-4d0c-99ec-68d8fdc8157a,0.0,Hypertension
+bcd92fcc-78bb-4f19-825c-fa6773409748,0.0,Hypertension
+bcf0ed00-7efb-4003-a13e-3bca79d04dfc,0.0,Diabetes
+bd0e1f22-1013-4b6f-80bc-468f00a7811d,0.0,Cancer
+bd10257f-4aff-4c0b-9603-9855c31b460a,0.0,Hypertension
+bd3dacae-fa7f-4269-8efe-444360a01bf5,0.0,Hypertension
+bd408c14-e04a-4144-bd0e-84be17e77283,0.0,Diabetes
+bd9211e5-c679-4761-a360-3500c6c30da2,0.0,Diabetes
+bdbd6093-d371-4134-8c62-8123f7103d2a,0.0,Hypertension
+bde92366-dff3-4c47-89cd-37608be0300e,0.0,Cancer
+bde97ae4-6b8e-49a3-8a77-8f0706c7c06a,0.0,Cancer
+be1637a5-1d5e-4116-96e3-1d734c155bb4,0.0,Cancer
+be26044e-826a-40e8-8024-78710cf674d1,0.0,Respiratory disease
+bef2735c-9efd-483d-b79a-7d94312f8cb4,0.0,Diabetes
+bf072433-834a-43d7-acde-a3b66df1d058,0.0,Cancer
+bf11a3e1-f966-45e7-a5d2-98336de1d135,0.0,Hypertension
+bf137d7a-3cd7-4fd3-9772-7f8ed5da2d3f,0.0,Diabetes
+bfaf72a8-9988-40eb-a333-615be63db2fe,0.0,sinusitis
+c049f60d-a45d-4b21-ac2e-d39f50df4d0b,0.0,Diabetes
+c0a6d0c5-de13-461b-9498-073354e82853,0.0,Diabetes
+c0da243c-db01-43d2-86f6-4005aa1acd87,0.0,Diabetes
+c108b1a1-13dc-416b-bdd7-675166257361,0.0,Diabetes
+c170d8e5-f8d3-442e-9058-6c2e0accbb11,0.0,Diabetes
+c185188e-f002-4793-a709-c7960f7f3d21,0.0,Diabetes
+c18c2012-7be6-4770-a868-ca9480388764,0.0,Hypertension
+c19e1b09-991d-4d40-8e29-27df85ea33b8,0.0,Hypertension
+c211c224-789b-4cf1-806f-a8d7f355f791,0.0,Hypertension
+c26dbd2d-cbdc-4912-b9a1-74f44756fc5b,0.0,Hypertension
+c26ef0a8-8316-477d-8bb4-4a610203b666,0.0,Hypertension
+c28705cb-9d12-4760-bcfa-86b1dd88d088,0.0,Hypertension
+c295020a-46f2-44c3-8d30-dc075e654ad6,0.0,Respiratory disease
+c2969a22-a99a-4d01-93cc-1577280fcec5,0.0,Diabetes
+c29e6225-568f-4cfd-9335-b743a83df36c,0.0,Cancer
+c29fb7bb-620c-44bf-b147-f174e8bf57e3,0.0,Hypertension
+c2a6cc9d-3464-4916-ad25-788f97a81bc4,0.0,Cancer
+c2a84479-4657-41f7-bfbf-51535da86324,0.0,Cancer
+c2b5cba9-0728-4377-ba90-d13fbc573327,0.0,Cancer
+c2b9c585-5e3e-48be-a0b0-597983b63ceb,0.0,Hypertension
+c2f59faf-3c78-4409-bf19-943de5da4f0c,0.0,Hypertension
+c2fd3636-3918-43d9-a121-695bd536a7f8,0.0,Cancer
+c33f0312-0611-4c6c-ab31-5bc37a531389,0.0,Diabetes
+c3631998-c796-4762-b54a-190e0cc35d67,0.0,Hypertension
+c397c173-917a-4674-9dfa-c13b26816da8,0.0,Respiratory disease
+c3ce6522-0a9d-457c-9402-8f95dbc30bf8,0.0,Tuberculosis
+c3e36c0e-fbc2-4d68-a3c5-b7b3ce32fa8c,0.0,Respiratory disease
+c4237580-8f73-44c2-9d68-ee2cc950ae1b,0.0,asthma
+c4604ce1-77c7-432c-8d92-12fb530ca31b,0.0,Diabetes
+c4828127-d7fa-43ff-83b9-7432f59ad7ed,0.0,Diabetes
+c48a70a8-78ec-442b-af1e-ca892722460e,0.0,Hypertension
+c4e48278-e6a4-440e-b20f-2e26372675f1,0.0,Hypertension
+c522d9a6-cc3c-4d0f-9cd0-407cdcee67bb,0.0,Hypertension
+c5310983-aa69-4f78-9465-fe4f45aa5a03,0.0,Diabetes
+c54cc9e0-bbc3-4dba-b90c-14d6ed8f2972,0.0,Hypertension
+c5562e0e-4317-408a-96b7-2d32118f5539,0.0,Hypertension
+c58d422e-20ea-425a-9620-00990d4135b5,0.0,Cancer
+c58f4c55-8523-4630-bcc5-5e5129ff8bf2,0.0,Diabetes
+c5989c8b-2522-4e8a-af42-4e655f625210,0.0,Hypertension
+c61aa83d-ed2e-44bb-aa96-3fae3a54aef9,0.0,Diabetes
+c6b732d8-66af-4db0-aa8b-40ee4563a5aa,0.0,Diabetes
+c753b37f-ffd1-4dd3-a43b-054107dcbd37,0.0,Respiratory disease
+c77e3778-3ac7-426a-9c0a-3aa59194c50c,0.0,Hypertension
+c7b6085a-bd15-4dfb-bbd9-dcba9823c329,0.0,Hypertension
+c7eeea5e-5dee-4e0f-80e2-cc8343c6bb7f,0.0,Hypertension
+c8298980-2025-427d-874b-bd7268a81bcd,0.0,Diabetes
+c8336f42-c746-4c42-bdbe-2ca796757168,0.0,Hypertension
+c85c359e-fcc0-4244-a416-8ca19a95157e,0.0,Hypertension
+c8791d47-179e-42c9-a8eb-0f7c10354e30,0.0,Kidney disease
+c88536d4-9d3e-41d3-8526-78a946acb221,0.0,Cancer
+c8b2a4f3-df4f-47de-93e6-3ce565ff8e18,0.0,Hypertension
+c8c7a9e6-ed4a-44c0-84e8-7524a7088665,0.0,Hypertension
+c8d2241a-b5dd-4df2-866a-a3f6d617b65b,0.0,Hypertension
+c8d2caba-35f7-4caa-bb11-8a7c341ebaa6,0.0,Hypertension
+c8eb133c-d8d2-46d3-82ff-7391b3de1794,0.0,Diabetes
+c918fd48-be1c-413c-9058-b0de7e63e49a,0.0,Diabetes
+c9369524-a249-4415-98ab-1a1672120289,0.0,Hypertension
+c94ca58d-2e63-4e49-9baa-f9363ac088be,0.0,Diabetes
+c9888324-fb8b-4756-be6b-e4c2c5753a24,0.0,Cancer
+c99c75c8-d695-49ad-97fa-346656529636,0.0,Cancer
+c9aba9a0-cf1d-46a0-92b2-eb419d4ed9e3,0.0,Hypertension
+c9d3296b-fd5c-4a9b-898d-8addc18908e1,0.0,Hypertension
+c9f1bcc2-9df5-43e2-91ec-99ec6613b757,0.0,Hypertension
+ca2ebd2c-c6a8-4cb9-a9aa-3e19d447d70f,0.0,Diabetes
+ca37bf1e-ec65-4cb6-8325-e91b2f71caaa,0.0,Hypertension
+ca6a6333-05bd-44db-aca6-afa254132004,0.0,Cancer
+ca87dc28-2650-4f2e-8526-34e19f0f7ee2,0.0,Hypertension
+ca9543fa-6a9d-4b64-b7b7-34abc27d7997,0.0,Hypertension
+cab1d43e-9045-4ca0-8904-51f1eb3c7bc3,0.0,Hypertension
+cab9ff5a-f190-434c-a9d0-e0300e68734b,0.0,Hypertension
+cac2dd5d-8b0c-4a7c-9e96-d0560d23b3e9,0.0,Diabetes
+cb42e88f-a3e1-4dd2-b9c6-6ef42962c3ef,0.0,Hypertension
+cb528ee7-5df8-4417-a1e8-55c3eb8f4716,0.0,Hypertension
+cb88b410-ce7a-40e2-9041-76cbaf89f199,0.0,Hypertension
+cb94ccf8-d508-4248-9368-2601d5751175,0.0,Diabetes
+cba750ad-0f78-4826-93e1-e85f30fb0b86,0.0,Cancer
+cbe02476-1866-485f-a7c4-445c95c68de9,0.0,Diabetes
+cbf142db-2d58-4544-81dd-b4bbd3efdbc3,0.0,Cancer
+cbf5e8d7-57c5-421b-9a17-5765942b979f,0.0,Hypertension
+cc5c953d-5f29-4a32-bb6f-4d149a328166,0.0,Diabetes
+cc5ce124-8308-43b7-94ac-c93d4fb23e2f,0.0,Hypertension
+cc807e12-f70e-4d26-bd16-78bd9eb3b65b,0.0,Diabetes
+cc88b9a8-cfec-453b-a08c-94f3ec2af715,0.0,Hypertension
+cca2370e-6b51-423d-8d98-03716f56a109,0.0,Hypertension
+ccecf1cb-5587-4829-9357-7ca86d06fbf6,0.0,Diabetes
+ccfd1c58-97f9-4870-8c5c-8166f6ef3f8c,0.0,Hypertension
+cd60a2db-cfd8-416d-ad41-cbf06d6f4c62,0.0,Cardiovascular Diseases
+cd98a492-f58d-4d8b-a78e-b4802239b277,0.0,Cancer
+cd9ea460-0e60-49e5-8566-b7ee13d8ced9,0.0,Hypertension
+cdd7d197-ae55-4443-97de-193816e49129,0.0,history of cardiac arrest
+ce1ac400-8af7-4552-bfc0-a27a04a934bc,0.0,Diabetes
+ce243211-f31d-4f1d-8d27-2978f6bfced6,0.0,Hypertension
+ce634292-d322-463a-bec9-3ace02f6b057,0.0,Diabetes
+ce9a3e9d-f6ae-46d2-bbff-b154aab9561e,0.0,Hypertension
+ceb0cd10-1cc2-4260-a00a-5f09b48c5b65,0.0,Diabetes
+ceed3992-c88a-40d6-992e-39c497f2e63b,0.0,Diabetes
+ceef55cd-8142-4ffd-9422-26315c8cb887,0.0,Cancer
+cf043310-d7fd-4ac7-b308-56b7d54cfc9c,0.0,Diabetes
+cf0b2b5a-6e19-4c4e-90d9-33973d21cd05,0.0,Kidney disease
+cf236884-9530-4363-b5ee-5079ca3270b3,0.0,Respiratory disease
+cf62dec9-80a7-496a-b090-d1cbc45a0d80,0.0,Hypertension
+cf7f7c5b-04c0-4e92-8937-7c10261f645c,0.0,arthritis
+cf958f7a-001a-40d8-ae9c-0b9fd182caf3,0.0,Hypertension
+cf96a210-da48-4f78-948a-360f03261045,0.0,Hypertension
+cfa4a2af-780d-4a70-9db4-4e0cb8371c84,0.0,Diabetes
+cfad431c-b0b7-4454-a2a0-c26a9f1330ec,0.0,Hypertension
+d00d0bae-5362-41d1-88f3-f4db0f948c68,0.0,Cancer
+d0278ac5-6e32-448f-b18e-e0c05c85d238,0.0,Diabetes
+d051b3fe-ac5f-4a6d-ac8e-e16dbf05e39b,0.0,Hypertension
+d061471d-9f68-4468-b794-26c6098201d5,0.0,Cancer
+d08dab21-6b7b-4817-aa2c-119abbc904d8,0.0,Hypertension
+d099c361-57ca-4c15-b68c-a0dc06c0dbb5,0.0,Diabetes
+d0a0a90d-a437-495f-891f-0681f6d3029d,0.0,Hypertension
+d0c37784-bcc4-4cfb-b1b3-81e2ebf94f21,0.0,Diabetes
+d0d75f2e-54c2-4e82-be01-39f5d90c0e11,0.0,Diabetes
+d0dd6019-f638-4682-a343-ec51f3b1240b,0.0,Diabetes
+d0f66f77-a35c-43eb-8cb4-89167c5bc9e3,0.0,Hypertension
+d0f8fa96-c5bc-478d-8cfc-bd5ac2d9a262,0.0,Diabetes
+d0fcf910-4487-4729-926b-d44c513342ac,0.0,Cancer
+d115bfa7-1bb9-4033-80e8-c1b4091aba26,0.0,Cancer
+d17fe156-ecdb-4fd9-ab38-8cbe848ab9d1,0.0,Diabetes
+d1c0c13c-0eb4-47d3-9b3c-97fe477bc355,0.0,Diabetes
+d1eb6d83-0b24-4774-9ec5-404b9e909202,0.0,Diabetes
+d21ae43a-d5dd-465e-8859-1dadc2a32306,0.0,Hypertension
+d245ad52-419c-4925-b59d-8f18a2fa940b,0.0,Hypertension
+d24a05cd-7b09-45b4-a863-8ba5fa085cdd,0.0,Hypertension
+d28467ed-020b-4144-a875-b9bc5f1a0599,0.0,Hypertension
+d2b591c3-88b5-4427-8918-5c369273c80f,0.0,Hypertension
+d2c82187-2d44-4d2d-9a68-eef0783c9571,0.0,Hypertension
+d2d73fbf-8c17-4e5b-848f-030ceccd98b9,0.0,Tuberculosis
+d2e5bf84-94fe-4918-bbb7-f70bff38ea4e,0.0,Diabetes
+d31b78ff-922b-485b-9987-3f0b954c1c64,0.0,Hypertension
+d371961f-0ccb-480a-a096-1037a90226cf,0.0,Cancer
+d3941d82-257a-468b-bf3c-0f9a679d6c89,0.0,Respiratory disease
+d3a9647e-1a38-4004-a32a-d9006120f9d5,0.0,Hypertension
+d3e3ee9c-8ba2-4063-a44f-a8e513f953f2,0.0,Diabetes
+d41114df-759f-42ad-ba3d-2e420cc54906,0.0,Diabetes
+d4143afb-55b2-4591-b587-43956815e8e1,0.0,Stroke
+d415204b-b41d-4616-9895-a9d1aae7cec4,0.0,Hypertension
+d4a507dd-42b3-4f89-987a-8f8dafbab4b5,0.0,Hypertension
+d4d54f67-049d-4514-906c-301bb10f47ee,0.0,Cancer
+d4e7e258-ad4a-4c3d-a80d-ff04c6892e3a,0.0,Hypertension
+d5084ddf-53af-448b-938e-f5795b99db27,0.0,Hypertension
+d542735f-6a59-4698-8468-79f74027f1d7,0.0,Cancer
+d549bdd2-e41c-4a26-a2ab-d7fdd42bbb02,0.0,Hypertension
+d561d061-8f85-4b16-a5d2-ade20fa22aa0,0.0,blood disease
+d596781f-807b-42e6-ad10-fe77efd00510,0.0,Hypertension
+d59cd2f1-a090-4668-8de9-f3c2588836a2,0.0,Stroke
+d5ade089-505d-4880-a543-59d744263758,0.0,Diabetes
+d5e5694c-ab97-4be0-9179-566dbd510557,0.0,Diabetes
+d5ea8a7e-0739-425f-ab5a-917decea6e6f,0.0,Respiratory disease
+d5f0d9d8-e38e-4c00-8931-b8a91182a499,0.0,Tuberculosis
+d61eecb8-fb96-4679-b25c-ab0c5a03cbba,0.0,Hypertension
+d62ece17-8e1a-4fbd-89a2-ca0a5e8afe79,0.0,Cancer
+d699cbb3-1151-4521-9975-12193c43ffa6,0.0,Diabetes
+d6b753cf-5a41-4f85-8a76-584cc7dba800,0.0,Cancer
+d6edb13b-9197-4922-b615-db29bb9dde8b,0.0,Hypertension
+d6f86821-85d8-4cb3-97cc-25b28cbdc19d,0.0,
+d7342373-6749-480e-8be3-6bc87d769fea,0.0,Hypertension
+d76bbcb4-e097-4b31-89e1-1d12b0054a31,0.0,Cancer
+d7711aa3-303a-489d-9cf0-452fb73709bc,0.0,Diabetes
+d7726780-a820-403b-a193-73131fbc4e5e,0.0,Cancer
+d7bec672-c1e3-4827-a527-4b3e1be06674,0.0,Diabetes
+d7e5512a-620b-4500-8b9b-2ca39f29a377,0.0,Diabetes
+d815a7c3-bfae-4553-96d9-a87640989a95,0.0,Diabetes
+d847efb0-9c99-4be6-8c58-2958388d1b20,0.0,Cancer
+d8653b65-505a-4f89-9e46-150359912154,0.0,Hypertension
+d88cc8e6-a636-4206-b8cd-77e352f1a1e0,0.0,Hypertension
+d894905b-ee2d-461c-8fce-18269a5a63e3,0.0,Hypertension
+d89f1e22-9b96-4e66-afce-157dafa3620c,0.0,Diabetes
+d8a46b58-934f-4b1b-853f-57888dc82ef7,0.0,Hypertension
+d8bf7602-ba02-46f2-ac0c-4ad7aeb5e503,0.0,Hypertension
+d8d5a65c-56ee-4bfa-9eda-ce4f1efa4a59,0.0,intestinal disease
+d8f248fd-1d3e-4f21-8d17-0fcb7014c002,0.0,Hypertension
+d90b4e52-5f54-450a-b975-30f0fbe1e452,0.0,Stroke
+d9481d23-b59c-4733-906d-ddc1559026c2,0.0,arthritis
+d957b008-8e47-46ed-a206-636e44741bc6,0.0,Cancer
+d9c7bd2c-e94e-40dc-bdc3-6afce1d2c64b,0.0,
+d9d11ead-fe06-4812-af7f-05ce6ca3a6a8,0.0,Hypertension
+da35a815-b8fd-463e-b1c4-a1b6c92f32d1,0.0,Diabetes
+da420b49-c3c5-452b-8ba1-23b3d169aa0d,0.0,Hypertension
+da4a632c-1796-438f-a832-c947e25c8f77,0.0,Stroke
+da4d3102-daf7-49a0-8ee3-ffa0ed1203df,0.0,Respiratory disease
+dad3d34d-b3e4-4825-abea-af654b4d80ce,0.0,Diabetes
+dadee626-d113-4ed1-9465-6ca951cdc7af,0.0,Hypertension
+db0f8d57-e843-42d1-895f-3f11b2dce2cf,0.0,Cancer
+db2e4b1d-e28d-4b8f-9497-0e4fbc3c6409,0.0,Hypertension
+db2ffef1-e11d-44e3-9792-085777e7d5f3,0.0,Diabetes
+db3ee613-e6f4-486a-8245-0b03ed50e293,0.0,Diabetes
+db5c382d-2e6b-43e0-a42c-f4a5be9a679d,0.0,Hypertension
+db6c94b3-1fcc-4442-b6a0-6b9fd969c406,0.0,Hypertension
+dba1454c-a077-4fa6-a26f-12c4ddeaad69,0.0,Diabetes
+dbc11c8d-a67c-4b50-8d7d-147fda4fefc3,0.0,Diabetes
+dbd8b26f-2ec2-42fa-b8fb-2ebcab102291,0.0,Hypertension
+dc062d68-443a-41a4-8a2f-aa4dccba0d35,0.0,Hypertension
+dc19c0cb-681b-44f2-ad26-d264c22bc535,0.0,Hypertension
+dc693d06-15f0-4ba4-b180-ba7156b4b834,0.0,Hypertension
+dc7a8d5e-f52b-44e7-8ab9-c0f474af20fa,0.0,Liver Disease
+dc87909b-c758-49de-9df5-8be3bb310db9,0.0,Hypertension
+dc95c523-6123-4abc-89c0-62b0bc76d0c4,0.0,Hypertension
+dc95cff5-959c-40f8-b29d-c5545718afc2,0.0,Diabetes
+dca016bb-c198-4139-bf80-4419fbf08fdc,0.0,Cancer
+dca166a6-adbc-4c6b-8d44-1583b69dcfb4,0.0,Cancer
+dcaa3461-5dd5-48bd-90fc-6e00ab891c0b,0.0,Respiratory disease
+dcabd116-3120-4a75-9b6d-5411ef2e5c0b,0.0,Respiratory disease
+dcad0873-5c38-4ef4-93ba-3f0ce58957ab,0.0,Diabetes
+dce3a1e8-c320-4784-b955-0a310d8ae793,0.0,Diabetes
+dd1f0542-f03b-4595-a6f8-ad66686cef13,0.0,Respiratory disease
+dd2b8620-a4ca-40c6-84a3-d1137b089377,0.0,Diabetes
+dd4cd764-e3e6-49ee-90c7-c741bcb4e73e,0.0,Diabetes
+dd508eaa-73ed-4c66-8eb4-be0f30d744cf,0.0,Hypertension
+dd567d86-6087-450a-93fa-7443326d941e,0.0,Hypertension
+dd5bf546-7089-4190-bd4a-3efab950d8fc,0.0,Hypertension
+dd600ebf-1265-47d2-ac97-3ee17a1134bc,0.0,Hypertension
+dd71c6d2-03d9-4635-aac9-32b7b548f190,0.0,Cancer
+dd77122e-603f-44a2-bc38-4ca5cd57f826,0.0,Hypertension
+ddf814f2-bfad-4592-9b39-db814d22ddb2,0.0,Hypertension
+de0a4008-0dc2-4086-ad78-9c9fcd08fba1,0.0,Hypertension
+de21dff4-0856-48aa-bb3f-38b2e753a489,0.0,Stroke
+de2fedf1-bfd1-4aeb-aa17-94b90c693b19,0.0,Hypertension
+de3aac1b-272f-44b3-8f66-eb3fa7296e52,0.0,Hypertension
+de5c7098-986b-491f-a588-c67a3f0a48e4,0.0,Hypertension
+de8f1478-2878-4e25-a88c-2fc91a54744e,0.0,Hypertension
+dedec058-9cac-42c6-a81b-182fc5bdb29e,0.0,Hypertension
+df0da11b-941c-419b-864a-b7ce795919ff,0.0,Diabetes
+dfb97213-355f-4f73-bacf-8e637cf80aad,0.0,Hypertension
+dfbf0454-b9c8-48f2-804a-165e56bb5f96,0.0,Cancer
+dfd7284b-803a-41fb-92ea-1ea3112c84c6,0.0,Hypertension
+e00ef07c-fdb8-4441-995c-021f8f64ebb6,0.0,Hypertension
+e0385a91-5f37-4169-9967-086be636ac81,0.0,Hypertension
+e068bf1d-999d-4fa6-b5d2-633d0ba65152,0.0,Respiratory disease
+e07a90a6-6e1e-4fc4-ba7a-e7d162e6f851,0.0,Hypertension
+e0e3c5e6-b9ed-44c5-bb98-4545d748816e,0.0,Cancer
+e0f483a6-5fc0-4513-9e46-c97b2bc6bc45,0.0,Hypertension
+e1243a8f-e061-4caa-a26b-edba0a76aa9e,0.0,Diabetes
+e136bae4-db68-4a33-9e62-2a16097e9f95,0.0,Diabetes
+e14637c3-7dd8-4c2f-87c5-54d7dd2721a8,0.0,Cancer
+e17d20d1-1d96-44f8-a36f-fd1133654a28,0.0,Cancer
+e1a437bb-12ca-4702-b92f-c920d7a25257,0.0,Hypertension
+e1d9f553-a3c5-49e0-a1dc-289bc3e367e8,0.0,Cancer
+e207e13a-175c-41cd-b2a5-f1fab4e112d4,0.0,Hypertension
+e219c1a5-d21d-460d-a10d-17626c0a6c15,0.0,Hypertension
+e22d0c30-2313-4910-95e2-9a7a08d0e206,0.0,Diabetes
+e23433ea-a695-4570-8e87-dd50061a458f,0.0,Respiratory disease
+e262a179-b434-48b4-9be4-221f96b7e751,0.0,Diabetes
+e26fc042-1789-4c1c-a35c-12e60038febc,0.0,Stroke
+e28b26d4-e256-4494-abe3-3926e5bea178,0.0,Diabetes
+e2abb732-1e7d-432c-bd5f-b55e652503e1,0.0,Diabetes
+e3b3762c-0e58-48c3-973b-d339341f3c56,0.0,Hypertension
+e3bb5b43-0bdc-45b7-8c22-324615e826b2,0.0,PTB
+e3f313eb-9221-436c-ab7b-9efa05e1cfe1,0.0,Cancer
+e40cd0f0-4fdc-4673-9c23-cc79b37f5589,0.0,Diabetes
+e4130635-0569-46ff-8037-51a4ae2ea447,0.0,Hypertension
+e416ef2e-05c3-42a5-9e1f-2319aad540c5,0.0,Diabetes
+e42e98e1-5a7e-4587-8889-e033eda5fc37,0.0,Diabetes
+e4405d4f-b1e5-40c8-9c0f-bd247a929b66,0.0,Diabetes
+e458049f-1fd5-4a58-8737-d7aad43e36e1,0.0,Hypertension
+e4730d67-86e3-469a-a93c-8aee3dd5a8c0,0.0,Hypertension
+e47ceacf-5063-4c07-99c0-f194c62e3a97,0.0,Diabetes
+e4a2faa6-3809-4b7f-9816-1b7e95bb1456,0.0,Hypertension
+e4a629c8-dd65-40ee-8cd8-bc0185700a02,0.0,Hypertension
+e4be1f15-acad-4c02-8eca-c92549a8715d,0.0,Hypertension
+e4c6c8de-c8c6-4266-a53d-6ce3f6249658,0.0,Hypertension
+e4db3df3-1c16-4fa0-9bc6-02df7a334685,0.0,Hypertension
+e5126397-741e-44a7-a194-f9461be8aea2,0.0,Hypertension
+e513f149-8e2c-4606-b109-e102736a2703,0.0,Hypertension
+e5262e4d-de39-45ad-9952-6a454acf285c,0.0,Hypertension
+e5479368-bd0a-4432-b059-8ff9cb772436,0.0,lumps
+e551e4df-42a9-4fb8-9aba-3ec580eee25a,0.0,Hypertension
+e5c0cb39-629d-465d-b6b3-da94cb5c766a,0.0,Cancer
+e605fe2c-445f-4c6d-b59c-942a419a5bb9,0.0,Diabetes
+e61df325-9f1d-452c-adfa-d5c4f1bcab29,0.0,Hypertension
+e63c4649-d415-4470-8bb4-c11aa838d62b,0.0,Cancer
+e65d0495-59a4-4632-a17d-fac5c19ba38d,0.0,Respiratory disease
+e6b0bb96-97f7-4773-8b2a-9dce97c6727e,0.0,Hypertension
+e6c741f6-774d-46e4-928e-6aa4e2119627,0.0,Hypertension
+e6f88f82-b6e6-421e-aa82-dbcb91af0d33,0.0,Hypertension
+e70d4c68-3d94-40f7-ab51-3dbc18113e72,0.0,Hypertension
+e73a9ba1-5cb2-41fa-a9ca-340d6e6fc39c,0.0,Diabetes
+e742ae89-ce7b-47c7-9a58-bc475b05c4b5,0.0,Hypertension
+e75474b5-f024-4fe7-b63e-8ec4b2a7ea99,0.0,Hypertension
+e77f9587-9cbf-42d9-958a-c8faff0bdf50,0.0,Hypertension
+e78640a2-4055-4fbf-af12-203d3bb38b01,0.0,Stroke
+e792e06f-20c6-4ee2-abc3-0a3f01c6165a,0.0,Hypertension
+e7d00d13-6fdd-46a7-949d-7d352d5227e1,0.0,Hypertension
+e7d23825-61a4-49bc-9131-3a676852232d,0.0,Hypertension
+e7e94de8-8cea-4fe0-b804-9f9891ba24fa,0.0,Respiratory disease
+e7ec3209-04d8-49c7-8985-b61bc120e045,0.0,Cancer
+e7f25c13-0891-48b5-817a-1ced58d03eb4,0.0,Tuberculosis
+e83f32f8-b467-45fd-b982-f93ccca8b1b5,0.0,Hypertension
+e86ac23f-efe7-41a6-88ac-f30eeca64555,0.0,Diabetes
+e87752d2-ce67-4224-b4c0-795efdb91330,0.0,Ulcer
+e879703d-f907-4999-a838-cef25c296cd9,0.0,Hypertension
+e8845ef6-49b6-479d-bfa2-08caa801e49b,0.0,Kidney disease
+e88539bd-670f-4af1-aaa1-07e5f4ea4e75,0.0,Hypertension
+e8b40f57-b3dc-4ca6-9641-6cc4b252ed11,0.0,Diabetes
+e8d15aa5-4a60-4bb3-9a6e-8d858971599f,0.0,Diabetes
+e8fc7444-8316-4e26-9d67-b66b475b269b,0.0,Diabetes
+e92e9cdf-bc96-4a17-98bd-6b6a7a258bd4,0.0,Respiratory disease
+e93bdd82-a77a-4fa6-9f8d-5fe81c303a2d,0.0,Hypertension
+e98fb175-27a8-45b4-80af-19241f7fd53a,0.0,Hypertension
+e9b15886-7f8f-491b-933f-174c179c85e6,0.0,Respiratory disease
+e9cb71ae-1c23-4102-8ae9-b533e50e9c79,0.0,Diabetes
+e9d5451b-99a6-40de-921a-4f509a2b666d,0.0,Hypertension
+ea33dd1e-b91e-40f7-8ed3-c0f2f04a7620,0.0,Hypertension
+ea62a824-fd72-4de2-be06-55c8ab5bec98,0.0,Hypertension
+ea673055-b0de-4e57-b5a7-7a9e052f0af8,0.0,Heart disease
+eaa2f112-18c5-4dfc-902c-eb3ebfd0f8b7,0.0,Stroke
+eaa321ec-03a6-4b74-9dd6-4562c5e91047,0.0,Diabetes
+eaafaaba-829d-48ec-8ef3-b62eb06e4d4c,0.0,Cancer
+eac3e3b0-a075-4bf8-8328-a34398fc3706,0.0,Hypertension
+eaff26ba-6415-4f05-bdc3-49b13fe773c3,0.0,Diabetes
+eb0daedf-8027-482f-831b-f4d6f7248feb,0.0,Diabetes
+eb5d231f-d9d8-4294-9c2f-730c6b42bf09,0.0,Diabetes
+eb5f6a8c-736f-4a9f-935e-2ce85bd4ab52,0.0,Cancer
+eb78197c-51ab-422d-b610-89e81425306e,0.0,Diabetes
+eb7aa874-8908-4f20-94dc-8243903f92e8,0.0,Cancer
+ebb6f8cb-bc73-4eae-affb-98caa8314118,0.0,Diabetes
+ebdb7881-2432-4d66-9e6f-d33dd5f8663c,0.0,Stroke
+ec18d9fe-7f00-4ee8-97aa-0a839f5a6ebd,0.0,Hypertension
+ec1be2ae-dcf1-4360-9705-4832567bec4f,0.0,Hypertension
+ec4af2d9-92f5-4ddf-ae38-def6e7866604,0.0,Hypertension
+ec637d65-755f-4d78-bc1d-8da4531f5630,0.0,Respiratory disease
+eca466d9-6d6b-4bdd-bad1-972001885154,0.0,Hypertension
+eca721ce-28be-4eb0-b3e2-e43fb3b811ea,0.0,Hypertension
+ecc9b813-5aea-4466-8cac-3572ecba80c4,0.0,Stroke
+ecda8451-d33f-4ca7-844a-0942238a7203,0.0,Diabetes
+ed202018-25d6-4316-b85b-97d4884dda07,0.0,Respiratory disease
+ed44a97d-98f7-4fa0-b454-c95f1d001257,0.0,Diabetes
+ed4a9cfb-abf9-4529-99e8-29992868c8a8,0.0,Hypertension
+ed54586d-0d79-4c19-9888-484d95f23c0e,0.0,Cancer
+ed660b6f-5770-4530-bba2-9e3c82aa9290,0.0,Hypertension
+ed984aae-eb9d-4efa-aa5b-f3a2badc1ea1,0.0,Hypertension
+edd8d729-900d-43a2-9257-fb3e8732ceab,0.0,Diabetes
+ee20b602-9e3e-402f-978e-13a48eab6ee6,0.0,Diabetes
+ee3b3349-58bd-4200-bb52-55b9d13362fd,0.0,Stroke
+ee48b520-0adb-43f1-a4c0-208afb012b42,0.0,Diabetes
+ee8eb79f-fd5c-4095-9d87-4c8813a59293,0.0,Hypertension
+ee8f9891-2503-472c-b13c-4c4acc3ab1db,0.0,Hypertension
+ee9b5022-873d-40b0-bdee-15b5c9f1f037,0.0,asthma
+eea58670-7353-4d61-a948-6947067eeff6,0.0,Hypertension
+eeccc0fb-4fe0-42ee-853e-2ac373f1f8e1,0.0,meningitis
+eedaafd5-248f-42ca-b1ed-e9d4565b3ea4,0.0,Hypertension
+ef3c367c-20aa-4fcd-b4e3-bcc948c038be,0.0,Diabetes
+ef8ef2ca-1ea5-46f2-8887-4818ed90efec,0.0,Hypertension
+efd63f66-b5f8-4d5b-a36b-4209d3246fb9,0.0,Cancer
+efd91f4e-fd3d-4944-aceb-41017651e4b9,0.0,Hypertension
+efef833d-57a6-4d75-b8d2-82ee95345db6,0.0,Hypertension
+f004cb37-f289-4a73-9357-c51eeb6348d7,0.0,Diabetes
+f03c015d-fa19-41ac-adef-3f28feb2ef99,0.0,Diabetes
+f06d7f2d-bf67-4ba7-80bf-63718b0af2ae,0.0,Hypertension
+f095c088-7cfa-4448-a0ac-5f3127f1380a,0.0,Respiratory disease
+f09c86b9-c321-4f9e-839c-120ee13dcdc3,0.0,Hypertension
+f0b291da-3d23-4498-8c31-89a31fe9e29a,0.0,Diabetes
+f0cd4d4c-2b73-4505-a937-167ad21281f3,0.0,Hypertension
+f0dc5d43-2437-40b8-bf6c-37f7a7a1ee02,0.0,Cancer
+f0e3cd58-6085-4da9-b0f6-b93e3b33b52a,0.0,Hypertension
+f1025640-8751-49f7-81a2-8ff7c0f75ea1,0.0,Cancer
+f11233a5-11ee-471a-bcaf-2b19f27c8b4f,0.0,Diabetes
+f11782c8-3d5c-412e-96f5-1e8be57b8853,0.0,Athritis
+f17ce6c4-5ff0-4269-9abe-e88c07176823,0.0,Hypertension
+f1cb388a-4a2f-41b5-999d-b29d25e9a204,0.0,Diabetes
+f20633c8-215c-45fb-b30e-0bfb0be72bc2,0.0,Diabetes
+f2298d04-7806-4936-95dd-34dcabce95de,0.0,Hypertension
+f23cedaf-3f7d-4b6a-9e50-e77547246599,0.0,Diabetes
+f2414af3-13df-415d-a6b0-c4bde8414807,0.0,Diabetes
+f28a490d-5df2-4148-afe7-20614cd0a708,0.0,Hypertension
+f28b8acc-1cfa-461e-b819-731abb476a87,0.0,Hypertension
+f2acffeb-0e73-43a0-a1b4-69dd15a15138,0.0,Hypertension
+f2bcbb98-dc0a-4b4a-8c51-a7fc68ac179d,0.0,Diabetes
+f3364ae6-bf24-437b-9acb-f847569b5818,0.0,Hypertension
+f360aeb4-f673-4c66-ac4e-77b08b0adf8e,0.0,Diabetes
+f38c4bfc-9f95-40a2-9cae-b9401f041090,0.0,Diabetes
+f3a2e896-3e47-473f-b923-e2c84f26dccc,0.0,Diabetes
+f3c72a93-8275-4330-8c32-c07b65e1c163,0.0,Hypertension
+f3d39e8e-fead-42cd-ba9b-0aa87aa4c5ee,0.0,Cancer
+f3dfd351-0b7e-4c82-a82b-1c0806188b53,0.0,Hypertension
+f3e64957-32dc-4c5b-8331-aba0c8b8c270,0.0,Diabetes
+f406a6ba-a9ef-4a83-9eb4-eff101c9760a,0.0,Hypertension
+f40b130a-a2bf-404e-be7c-266e849220b9,0.0,Hypertension
+f41ccf99-9a50-42e1-9a16-77903535194f,0.0,Hypertension
+f4283ab8-73aa-4452-a84c-692859f08e4e,0.0,Diabetes
+f4439d49-bc53-46a1-a3bb-b8af7d3f04c8,0.0,Hypertension
+f46a4720-8a5f-4f51-aafc-994b27d4f4bf,0.0,Hypertension
+f46dae6b-17ca-4c83-b477-c1ecb2cc95be,0.0,Hypertension
+f4af16b9-ae7c-49cb-9009-afecab7294ae,0.0,Hypertension
+f4e7796c-79b8-4a02-938f-35a5959720c7,0.0,Asthma and Tuberculosis
+f511b23d-a101-4102-bd93-6a02d62069d6,0.0,Hypertension
+f51977fe-0bc6-4db0-bfe7-d1e4e9e91059,0.0,Hypertension
+f53b46e0-a708-42d1-bd85-6153e63d77a8,0.0,Hypertension
+f55ef0a0-3938-4773-931a-8b2e3fda8f19,0.0,Hypertension
+f57615c8-f37c-450f-8b46-64d26a217b2d,0.0,Cancer
+f5a19a47-2dd4-48ae-a477-5945c5ea9157,0.0,Hypertension
+f5b80c0b-d747-4bee-9176-7922b2e55c85,0.0,Hypertension
+f5c8d938-03d9-4ded-b54a-673589023429,0.0,Tuberculosis
+f5ce20ba-b708-41b2-bc0c-775b9c8e69cb,0.0,Hypertension
+f5d1bdc8-2c8d-45f1-8d68-d3b4ac8643d8,0.0,Kidney disease
+f5e739e0-028f-4a26-87de-0236dce0615c,0.0,Hypertension
+f60fb3c0-33a3-4892-96bd-5ed0fbe2cb59,0.0,Hypertension
+f624bf43-707f-4feb-821b-b759d83d891e,0.0,Diabetes
+f6315cb0-ba31-4083-b973-35d291816f3d,0.0,Diabetes
+f6b67932-0ebb-4d14-a7f4-779be548a381,0.0,Diabetes
+f6ee9e53-553d-493a-a269-f5cb5abd5f99,0.0,Cancer
+f6f10a32-3499-4c51-bf69-fd770dd5891f,0.0,Diabetes
+f70726d0-7354-4b9c-b4e1-e6c27ef8bba9,0.0,Diabetes
+f72a216c-184a-4357-a0a6-bdc776d18f25,0.0,Respiratory disease
+f750baea-1ac8-4153-b777-73439f4e8f67,0.0,Hypertension
+f8310f57-af48-470b-9fae-0c8b70ce3f5d,0.0,Hypertension
+f8e1e114-a5e4-4a27-b1da-e623e0f88f86,0.0,Hypertension
+f9124a01-87ad-4999-99f9-8ed4403eb7d8,0.0,Respiratory disease
+f92ebb4a-3d1f-4d0d-a456-0edb5c656e61,0.0,Hypertension
+f95e8ccc-d2c4-40fd-916a-7fdc600036d9,0.0,Diabetes
+f985b9dd-d4f5-4d09-aeb1-731e421eea80,0.0,Respiratory disease
+f9a5732b-20f6-4469-8777-bcef90a5e1b8,0.0,Hypertension
+f9a8024a-c0a9-4870-9732-4f2e94525493,0.0,Diabetes
+f9b71d61-7bb7-49c8-ab1a-1627e81d44ee,0.0,Hypertension
+fa10d792-f118-411e-a135-1d916946a9c0,0.0,Cancer
+fa42d66a-4da3-42fe-bc82-63b719b4d07f,0.0,Hypertension
+fa6df383-4d42-4221-aeb3-f489a849424f,0.0,Respiratory disease
+faa804cc-a256-43b3-a721-f0fd53a4e316,0.0,Diabetes
+faf26649-0192-4704-b7e2-bbcd3a100ce5,0.0,Diabetes
+fb30544c-9d3a-49ae-af73-56e6c866a04f,0.0,Diabetes
+fb322d4d-df6d-429a-8726-1f52559b5dc4,0.0,Hypertension
+fb3c9cfd-add9-41bd-8e13-a4e8ee90342b,0.0,Cancer
+fb6d52b5-4baf-40e9-8294-a52302af9506,0.0,Hypertension
+fba5b7d5-f2fe-4b37-a9cc-073c0701d6cc,0.0,Diabetes
+fba6426a-caf8-4e05-8589-7cb53909f736,0.0,Diabetes
+fbd39dfa-d0b3-43c4-ac27-fea5a5a6d067,0.0,Arthritis
+fbf67197-5adb-4216-89fa-238c0d6fc736,0.0,Hypertension
+fc146379-c9c4-45d9-b486-11cf4485aafc,0.0,Hypertension
+fc5c670c-b9e9-46cc-a45d-53c21f20209e,0.0,Hypertension
+fc9bdaf7-b47f-4d2d-a5a6-5738e2fc6c2d,0.0,Diabetes
+fca0da2d-4947-4c72-852e-8de41381e2f5,0.0,Kidney disease
+fce0a5e1-9ba1-4ce7-a100-ed604d26237b,0.0,Respiratory disease
+fd292b53-f39c-4a64-8c56-6404dc0cc871,0.0,Hypertension
+fd2d5db0-ea01-4bc2-b0fe-5e1b3f5db071,0.0,Cancer
+fdd6f3fb-8347-4c74-ab1d-e9036b7f650f,0.0,Diabetes
+fe1c7573-36d6-4b95-aad4-90352690345d,0.0,Diabetes
+fe6c2b3e-e96c-447f-8da9-deb32f026c88,0.0,Diabetes
+fe987bac-b2c7-40c3-bf79-8ca3a7f13817,0.0,Hypertension
+fec30f42-a2e3-4002-a115-10f4962b1618,0.0,Hypertension
+fec59146-4091-48ea-a559-a3f363f1bada,0.0,Diabetes
+feca712b-e7aa-43f4-8358-f8e88480be25,0.0,Hypertension
+fed561c8-36c8-4a33-a046-8c3f636e3605,0.0,Hypertension
+ff0286e4-e849-4505-b27e-14769573b554,0.0,Diabetes
+ff3239cd-ab9f-4008-b890-c630091453f9,0.0,Cancer
+ff3f01bb-3048-48c3-8e6a-66ab42777530,0.0,Hypertension
+ff5a288d-9c77-4b58-bc40-74f4f20a0e25,0.0,Respiratory disease
+ff636407-580b-4dcd-a5b1-50b236dfcfaf,0.0,Cancer
+ff984163-2d0a-46f4-aa70-5811f05012ec,0.0,Hypertension
+ffd38085-3e0d-4bd5-a794-9203e7c27bab,0.0,Hypertension
+004dae03-e038-4819-a4d5-571178ea928c,0.1,Hypertension
+0081689c-12ad-43b8-96d4-5c122134b894,0.1,Hypertension
+00acd0f6-da26-4d5e-bde9-452d9ed29d26,0.1,Hypertension
+00fcd939-16d7-4254-9658-d875fb94abf5,0.1,Stroke
+016346a5-1799-4932-a0c8-a9fe7ecdb498,0.1,Stroke
+016c53a9-d947-490d-97b7-59db682088b5,0.1,Hypertension
+01aef973-97fc-4200-98ff-76b03002703d,0.1,Stroke
+01e2e7db-1f76-477d-9542-763e832eb442,0.1,Stroke
+022168e0-fa94-4e8f-9e21-66528a6632ce,0.1,Hypertension
+02438132-9b20-498d-a845-c3de56a3d6e3,0.1,Hypertension
+02929881-0937-4cbd-b490-26646f7a8f9b,0.1,Stroke
+02c9c57b-3be3-4326-8160-1985c35d7414,0.1,Respiratory disease
+0333039b-7b5a-444a-830f-c590c335059f,0.1,Stroke
+0377bab0-0108-4bf3-bb43-d88a17ec8e9f,0.1,Arthritis
+03cb851a-f439-4483-b610-3bba56ed990d,0.1,Kidney disease
+03f148f2-50cc-421d-858c-dd857cc1690a,0.1,Respiratory disease
+041167c6-f3d3-4650-b275-2574a0f63be0,0.1,Hypertension
+04148911-0a44-4451-b43c-78ddb5195965,0.1,Hypertension
+043933e2-4fd6-48f5-9f60-9033199d1b77,0.1,Stroke
+0485248d-4f6e-49e3-aaeb-eca8127af182,0.1,Respiratory disease
+060a476f-96ab-4ddc-80d5-ab7ffaf8c8ff,0.1,Stroke
+060a7577-ffe2-4e12-bbed-2dc5ec311b07,0.1,Stroke
+067b8f84-10fe-4d4b-81f2-d888f32d1646,0.1,Diabetes
+06976737-7b8b-4428-a211-6b5664d2d2dd,0.1,Diabetes
+069d33c6-adbf-433a-9900-24ee2dc77193,0.1,Respiratory disease
+06e6227e-7a66-4c22-a513-fa1a4f8a94cd,0.1,Hypertension
+071003a3-5df5-4ad6-bdb2-4ba78a926a82,0.1,Kidney disease
+07235d59-6a71-421c-949f-aa5469fcfe2d,0.1,Hypertension
+074d811d-b6df-4fe5-bd85-cbe67b64a7ba,0.1,Stroke
+075ece4d-ba05-4435-a6ff-19f2ca2473ff,0.1,Hypertension
+078bcc7e-1ac3-4664-be5e-c3662c24dbc4,0.1,Hypertension
+079c738b-1968-4cfe-9da2-06d18c014163,0.1,Respiratory disease
+082ad1b0-f8bd-4e17-9164-b7c42913537f,0.1,Respiratory disease
+083a6028-c945-415e-8892-ce1f4cd9ac0b,0.1,Stroke
+08b3571e-4565-4fd2-8ef7-c281f90ca05a,0.1,Hypertension
+08cd450e-69e9-40b0-aa8a-04f2148e7da0,0.1,Stroke
+08d5cdd3-1c1c-4de8-8832-8caef4427103,0.1,Stroke
+08d65df9-197c-43db-9e09-fb9470f48a4c,0.1,Hypertension
+08e633a2-192a-4b87-bdc9-960de9ab45b2,0.1,Diabetes
+0a06e223-d2d3-4725-8337-eb6a3192d464,0.1,Hypertension
+0a66c135-ac3c-4766-9fc4-2cc9aea0649f,0.1,Hypertension
+0a74bb7d-8eae-46b6-aa08-b1599d08b493,0.1,Stroke
+0a8b7892-3607-4781-b940-aa7425f809a0,0.1,Kidney disease
+0ac036df-b7a0-4b35-84d8-aa70bafb9c9c,0.1,Diabetes
+0aec0559-ce3a-4e9c-a1a8-23c91ab93f45,0.1,Cardiac arrest
+0af909aa-4863-4ee1-b701-8b49abbf1149,0.1,Stroke
+0c298d41-621c-4c55-888f-4956dd38515b,0.1,Hypertension
+0c46552e-0fe3-4d59-856e-80f63fe86f8c,0.1,Stroke
+0c517fea-78ec-44fc-a56c-a26eb4c061a4,0.1,Stroke
+0c5e3222-2f8a-428e-bbb5-b17bc56ca507,0.1,Stroke
+0ca5d752-51bb-4299-ad7a-b85828224fe5,0.1,Respiratory disease
+0cc0ae71-0388-4ccf-a772-b8b448b4d34d,0.1,Hypertension
+0ced6a7d-5905-4f3d-868c-6ac8c51e2a34,0.1,Hypertension
+0cef20d5-6ddb-41b0-9b2d-bae63f4d2f7d,0.1,Stroke
+0df46f34-3ff2-4af2-8322-cf5a01982299,0.1,Hypertension
+0e644a88-dc61-49f0-9e03-00ab8b1abfa4,0.1,PTB
+0f2a4026-a239-4c2d-893e-74f244433a28,0.1,Hypertension
+0f911f94-9885-4a80-a50a-4742e20e448c,0.1,Stroke
+0f9cf135-664c-4f03-bfb6-19ac94565be1,0.1,Diabetes
+1056ed4e-39fc-4473-a8d6-5460d97e665d,0.1,Diabetes
+1061c194-150b-4158-ab2f-878e804d5ded,0.1,Hypertension
+10cf160a-965c-400a-ba78-ee9555f33390,0.1,TB
+11188a29-03c9-4f85-846a-5c189e83daae,0.1,Respiratory disease
+1170a5fe-b10b-4b91-b66b-c9ea3b4de988,0.1,Stroke
+11d793cd-7548-48bc-a26f-0916dc932637,0.1,Hypertension
+124e98d1-6a21-4574-86fb-23c3bf62597f,0.1,Hypertension
+12c66d98-59f9-4a9e-b4fa-83b5b59104a2,0.1,Hypertension
+12dbef8f-2343-4ec9-a7b1-bd3e2e1fbe75,0.1,Respiratory disease
+12f9c4cf-802a-4c3a-8c68-f5fbcf392373,0.1,Respiratory disease
+130aa25e-a04d-4c45-a2aa-704b68a60589,0.1,Hypertension
+130ccd82-a406-4e7c-9ca9-cb71671fc281,0.1,Kidney disease
+1313dfb6-27e7-445c-b514-7d7bb0d7eed6,0.1,Respiratory disease
+1356ceb1-8f3e-4923-aec0-91067d42a0ff,0.1,Respiratory disease
+136448f0-8187-474a-8a17-9edd89e0c5bc,0.1,Stroke
+13746df0-6902-4736-93c3-29f39a5a17c6,0.1,Respiratory disease
+13757ff2-afb4-46e7-a66c-db0bd8724a56,0.1,Respiratory disease
+138b6c26-82f6-453c-b981-4eaf2924c191,0.1,Hypertension
+13ebb307-6bb5-4550-bb6d-690d14784a96,0.1,Liver Disease
+13fce445-1d67-4dcb-803b-dc268946cc09,0.1,Respiratory disease
+1405babc-3c7f-484e-9ef9-318cf84d5ebc,0.1,Respiratory disease
+145aadc7-9b61-450c-a7f0-e818b96ede9f,0.1,Hypertension
+14d00212-1da3-44d1-adac-fa0fb3b73531,0.1,Diabetes
+14e7e330-500f-4b8f-b87b-e231c75dec12,0.1,Hypertension
+15405b58-5ec5-4e2d-a883-6ebd162b8402,0.1,Hypertension
+1550f52d-a536-44f2-b2e3-b728f52cd83f,0.1,Hypertension
+15637f4d-0531-4f81-93e8-592a247733ae,0.1,Hypertension
+1609ed0d-f213-471e-adb6-22c254ca4b04,0.1,Hypertension
+162fdbde-7ea6-4a0f-90fd-d8397dac890e,0.1,Kidney disease
+16836d77-bd1b-4af0-8b43-f120a4ac3853,0.1,Stroke
+16de6a52-9e1b-4c69-ba9d-a5f79b4d3b70,0.1,Respiratory disease
+16ee2b45-a638-48dd-ae81-fb7423bc517f,0.1,Hypertension
+16f31906-8711-46a6-a037-34d2c9792245,0.1,Respiratory disease
+16f95131-3a51-41a7-a983-a749999315da,0.1,Stroke
+1760b0cf-68fb-4887-ab5b-119289ffc11d,0.1,Hypertension
+17a21efb-f173-4bdb-9806-609d43f6d822,0.1,Respiratory disease
+18035903-b341-445b-823e-1b5d3d3e007e,0.1,Hypertension
+1816a54a-45a1-44f7-aacf-fa7f219e88db,0.1,Hypertension
+188848e5-66eb-4a86-8071-cfd46c1934c1,0.1,Kidney disease
+18f34af5-aa01-4b16-a102-66d034303c5d,0.1,Stroke
+1906afed-62ad-4b4d-940c-bbd1cd1c07f2,0.1,Goiter
+19320053-4d7f-4066-8b2c-d07c617c8924,0.1,Hypertension
+19483567-83fa-4533-9fdc-1ce8ddb60bca,0.1,Respiratory disease
+194be85f-9372-456e-8b4e-1ea79efb0866,0.1,Hypertension
+19930fa0-062b-420d-bfc4-2121cd590f71,0.1,Stroke
+19bd783c-e1d0-4a2c-93ee-2f846ad5bfcb,0.1,Diabetes
+19bf13c1-c7bf-4ef6-8b35-8e36c77a03ca,0.1,Kidney disease
+1a2dcfdc-4383-43db-894b-f41874056399,0.1,Hypertension
+1a71142c-48ca-4fc8-83c8-7d89b005c0a2,0.1,Stroke
+1a83df6c-a9ec-4353-9d48-4339d0f22157,0.1,Hypertension
+1afe66d1-fd12-475a-a374-5852e6e7162d,0.1,Kidney disease
+1b1d4f09-3164-47e2-b1e0-cc2d9d148a1a,0.1,Stroke
+1bb7b9ff-c710-4ac0-b945-c804b01f9fa5,0.1,Respiratory disease
+1c44ccb0-e351-4944-a021-25e0bef0324b,0.1,Hypertension
+1d60c49c-1bf1-4d5a-9f9f-52739336daad,0.1,Hypertension
+1daf04aa-7b9f-4b46-a140-42d255c566d9,0.1,Hypertension
+1db0f84f-2c52-4815-a995-398a9c16808b,0.1,Hypertension
+1dc392b0-cd6d-4690-a85f-1950a9f8fe1b,0.1,Kidney disease
+1dcc5c38-4263-40e6-8392-3db56a3c7a2e,0.1,breast mass
+1e364a54-05f8-4062-ab32-9bf8a99a54d4,0.1,Stroke
+1e453b6d-9774-4f0e-ab0d-56d3419850ae,0.1,Kidney disease
+1e4e8602-0014-40e0-84ee-de52b6295ce5,0.1,Diabetes
+1e574293-e3db-48b7-a49d-d95cfa2a0188,0.1,Hypertension
+1f00feda-3287-46bf-aab9-7549c30f89d6,0.1,Kidney disease
+1f0d1e66-2638-40a4-a356-9715ede43f27,0.1,Stroke
+1fe29372-e352-41dd-92c9-1a514d35a1e0,0.1,Stroke
+1ff23340-4297-487e-b041-0a80dd77344e,0.1,Hypertension
+202c42c7-dcb9-493f-b89f-abc95af9811f,0.1,Hypertension
+206ad3bf-02f7-4ac4-bfdd-f6bed6d1e2e1,0.1,Stroke
+2070b9c2-4f0f-48e0-bc9a-dd02c737145d,0.1,Kidney disease
+2080ae0f-211c-41db-85d6-23e4011b8ac4,0.1,Stroke
+20f749f6-e27a-4172-8cf8-e172f819d2ad,0.1,Hypertension
+2165c945-d03b-41e4-aa6c-e9171850e9ea,0.1,Diabetes
+21c1e589-b1cf-47bd-b303-fab943bdc52c,0.1,Diabetes
+21e97afb-f777-41dd-bf02-fa8a99238aa7,0.1,Stroke
+221329df-c39a-49a5-816a-649b8ac07773,0.1,Stroke
+224e5b78-d4d4-4162-a291-16887a4773c7,0.1,Respiratory disease
+22c26f3d-bf2e-4f08-833b-011ffc0c82fe,0.1,Athritis
+22c2e947-1a13-4ae0-9746-fc5ceead9533,0.1,Respiratory disease
+235affa1-76ea-44cc-bed9-5960e2998f98,0.1,Stroke
+23e0852f-3a85-45f2-9731-ca7c76c61c28,0.1,Stroke
+23e3e8f5-62e9-4f53-844b-91696c1e7576,0.1,Stroke
+23f4f00c-4fa8-4996-a25f-92e51b4d386f,0.1,Hypertension
+23fb0597-a357-4dea-949c-d084a65a8aa3,0.1,Hypertension
+24059a51-ec91-40e7-a696-876eba5f9b89,0.1,Hypertension
+243230cc-239b-4a84-8b7e-5fa3c09c5223,0.1,Diabetes
+24adaea1-5bac-4612-a447-c829b80ede20,0.1,Stroke
+24e49548-bcfb-4259-9965-feaf6ec66782,0.1,Stroke
+25f0d398-4ea1-4df0-9a4b-8664da00fa28,0.1,Hypertension
+26a671b1-29ad-47ee-8f20-b92bf9931dbf,0.1,Respiratory disease
+26bfd443-8562-4154-b1ed-e170a5349f3f,0.1,Stroke
+26fe20b1-5d18-4fab-9136-f261d4523087,0.1,Stroke
+27321d0d-b212-4071-9d80-89beb904f1cb,0.1,Diabetes
+273c67ab-8edc-48d2-b337-0503f094ae35,0.1,Hypertension
+2766098f-5700-4e8c-987d-3d338d424bbf,0.1,Diabetes
+278cc348-686b-440a-b01f-c99b3904a38d,0.1,Hypertension
+27a4f152-8280-46f0-86b4-cbe589ea0dcb,0.1,Respiratory disease
+27f77183-7c7a-4f33-a3f3-7629b9c2d60c,0.1,Respiratory disease
+28050f99-8c6d-4243-9fc0-227bdfe21d49,0.1,Respiratory disease
+2878df4b-c031-4bff-8dde-444363296d60,0.1,Stroke
+2932ca28-7d7c-4e35-a3d9-588720f9177e,0.1,Kidney disease
+293bb06f-a2b8-4b36-8397-6293d45855f3,0.1,Hypertension
+2966b94a-d288-4a19-804a-eee9c2c582a8,0.1,Diabetes
+296ac988-9c7a-4632-8e9f-4ff2e5767f58,0.1,Respiratory disease
+2974e820-cd24-4a4f-b90f-f07a14c403ec,0.1,Respiratory disease
+298a0a27-797a-492d-a97c-f4f81742c0c8,0.1,Diabetes
+299344c0-9fed-4460-ac9b-f5cf79fdd763,0.1,Diabetes
+29e383f0-c109-4650-be6e-981ee0b3b72a,0.1,Hypertension
+29f03fa6-6608-4cbb-806b-1a1ec4da8081,0.1,Stroke
+2a04df8f-5412-4d4f-a176-a4b5dd66b877,0.1,Respiratory disease
+2a0e2031-8844-4f95-84e7-5f7a198a38ac,0.1,Diabetes
+2b065dfd-7599-4c42-a206-5f5117a4ec8d,0.1,Stroke
+2b4e3cde-74df-4ae9-b480-7b9503b64f81,0.1,Hypertension
+2b571a09-ad54-4aa6-9538-3bd78b8ca616,0.1,Respiratory disease
+2bd48bac-60ec-475b-87d8-9039b03ce5d9,0.1,Hypertension
+2c1e7e3e-717a-4d1d-a91b-712cb8a2d757,0.1,Hypertension
+2c2ad374-30db-4e56-b4d5-19688fd84d30,0.1,Hypertension
+2c3e7f3a-fb16-4ecd-a346-d55dafb67809,0.1,Stroke
+2c477400-821a-4080-b4b4-0c523a54f581,0.1,Anemia
+2c602409-b479-44e8-83dd-d8911c300213,0.1,Hypertension
+2c7d8143-4f22-4fd9-93a5-8ccabf08e40e,0.1,Stroke
+2c867354-4b9b-45e2-8477-c21c3ca0fcfa,0.1,Diabetes
+2ce7cf20-bac5-435d-93b9-0fc3de825462,0.1,Hypertension
+2d03ac3b-2691-421a-b768-07cf420cebff,0.1,Hypertension
+2d7892b6-256f-445d-b97a-1522a2a13772,0.1,Hypertension
+2dd42f5a-fca9-49a0-bf07-30d41f003377,0.1,Kidney disease
+2ddecb73-8cfe-4aa3-af2a-9fbfa4238667,0.1,Hypertension
+2df59ede-2ae5-455f-98b5-277a312b768d,0.1,Stroke
+2ea701bf-94f3-468e-9110-2131d7fc1b36,0.1,Stroke
+2effe159-db2d-44d2-8e61-f549c2ebd5a4,0.1,Diabetes
+2f584280-1096-45c2-9bfd-0b34dd20dc60,0.1,Hypertension
+2f64be26-a89f-4a9a-bdb7-eec1930896e1,0.1,Diabetes
+2f7e448d-2ac4-49da-b701-eccaa97ddd96,0.1,Diabetes
+2ffcf24e-b190-49a2-9e90-e27560b85a8d,0.1,Stroke
+2ffe99d1-2017-4925-a383-0ae3f469bbb9,0.1,Diabetes
+30226500-7923-4821-bc9a-f3d970ca0a17,0.1,Diabetes
+304dd8da-92a9-4e3d-bb3d-f17e5abaa6a5,0.1,Hypertension
+30b06457-2827-4b0d-8b7a-3b9182de3c2f,0.1,Kidney disease
+30e6c98a-59a2-464e-8834-32d67b85d0e0,0.1,Stroke
+317992bd-9acd-4f36-b6c1-7b1c2e5b0956,0.1,Diabetes
+31c745e7-ba14-45d0-8345-62ebc0388642,0.1,Hypertension
+31c8c4bd-0844-4bd1-91aa-0cbe6aefccbb,0.1,Hypertension
+324f649c-0680-47e0-ba97-8daabe80f260,0.1,Respiratory disease
+32881590-fe60-4494-b3eb-673502b9a60a,0.1,Hypertension
+32aee9f9-4bfc-44d6-a88d-344e59155660,0.1,arthritis
+32e1bfa8-eb88-493e-92ca-c5efbbb9b0e6,0.1,Respiratory disease
+32e87660-4dac-4f88-9152-aaf9c08dc70d,0.1,Hypertension
+32ec8b06-9114-4049-9a57-1efe04679ffe,0.1,Stroke
+3475fd7b-78ac-4219-a802-b94d3990a6b7,0.1,Hypertension
+3479ee41-83fc-4d4f-a568-d989013d7557,0.1,Stroke
+34819b0e-8eff-4b64-826d-bc7dc8f97ead,0.1,Kidney disease
+34cac34e-2267-4fb7-b7af-18626b5cbfdd,0.1,Stroke
+34e3af8e-89dc-4651-b16f-8dbcbead6081,0.1,Stroke
+350cc429-a5d1-4a29-a722-c05ac420668c,0.1,Hypertension
+352b0da7-b9fe-4db4-bfe1-0218b7fdc34a,0.1,Hypertension
+354c036b-45b7-4b5d-8c52-4e4897f7f83c,0.1,Respiratory disease
+35539dc7-1bc6-4168-b3d1-e7d0b0b1cda6,0.1,Stroke
+355a7ffd-36a4-4cec-8bf9-ab9779741185,0.1,Stroke
+3587c166-6ec5-45c9-b2f2-c9cb68e513ad,0.1,Hypertension
+359fb982-5cad-4395-8ccd-844f74dc8007,0.1,Hypertension
+36a641f0-1dbd-4e3c-a0c2-e6ab451298cc,0.1,Hypertension
+36af3064-8dbe-4bb4-8647-12f5ec6ed792,0.1,Hypertension
+36eedf0c-dee6-4241-b660-14b0917df50a,0.1,Stroke
+3720428a-3a68-46e1-89f2-834b68d31f83,0.1,Respiratory disease
+37f75006-33fa-40d3-a4cf-a51b91c4d97a,0.1,Stroke
+38001afb-ade0-4c29-8f2e-f5485d43c581,0.1,Diabetes
+3826cc14-75f5-46fc-a04e-0049ef19a321,0.1,Stroke
+39605780-5b95-4810-9748-308f0523fe50,0.1,Hypertension
+3980a890-7d40-4bce-89c8-65de19b441c3,0.1,Respiratory disease
+39c51447-28ff-475e-9637-3087c03b3f45,0.1,Hypertension
+3a1d1a4e-84f5-4df6-b97e-6bd1a154f587,0.1,Respiratory disease
+3b59ea7c-bb76-46b7-b271-a2437cb892c6,0.1,Diabetes
+3b5d3548-1f79-4e30-9525-7f6a928bda9b,0.1,Respiratory disease
+3b7ddfd4-1022-419c-877e-ba61fd86cae3,0.1,Hypertension
+3c01381d-03a4-4767-bb90-c2b4f2edf15f,0.1,Hypertension
+3c45333f-0801-4c91-8159-628534f2f249,0.1,Hypertension
+3ccf58d6-1732-42bc-9a33-afb313d2a968,0.1,Hypertension
+3ceb0ae3-11df-47dc-80bd-062b76fd8e6b,0.1,Stroke
+3d7893bf-19df-4ab4-8e92-1788640573ce,0.1,Respiratory disease
+3d81b64d-8a1f-42da-896a-ca9465e6c857,0.1,Diabetes
+3db577c7-be1e-4127-b394-4b36583b3b7f,0.1,Hypertension
+3dbb166e-6b0c-4405-9647-00517fa2d190,0.1,Hypertension
+3e4e529d-55a0-4702-b61f-672ec189a85f,0.1,Respiratory disease
+3f9d48e8-4135-47e7-ae0d-92da57c05e90,0.1,Hypertension
+3fb5a25e-dc27-404a-bdcc-83ace7a58ba4,0.1,Diabetes
+3fc6c62f-b9f2-4300-97f8-281402aaa3b2,0.1,Stroke
+4025e463-e8c2-4863-96fa-d15862682f9f,0.1,Stroke
+40280573-6d63-45a2-87e7-9e7a5ce7d602,0.1,Kidney disease
+40317433-90df-43e4-ac34-6a1c02588428,0.1,Hypertension
+403321b3-10f7-4561-82f8-18d99ee14912,0.1,Hypertension
+406ecc3c-e06d-4bba-aa6c-d809c50022db,0.1,Hypertension
+40829d07-d95a-4a0b-ac79-5b25b2375f16,0.1,Stroke
+40f7cb75-1682-48f3-9038-b9ec9b5c56a3,0.1,Hypertension
+41753d57-375a-46d7-a344-50887289726a,0.1,Hypertension
+417c6d38-d0df-44aa-81c8-4c3d22506409,0.1,Respiratory disease
+41ac9cf5-5f31-41c5-943b-ae5912cc601a,0.1,Hypertension
+424b0332-d244-4308-81f0-20237a782002,0.1,Diabetes
+432732ba-ab72-49af-b3f5-741b4818848e,0.1,Hypertension
+4351e985-8882-4279-a183-65e4bff61621,0.1,Kidney disease
+43a62619-97af-40ef-b48f-7820731874ba,0.1,Respiratory disease
+43c096b6-f33e-495e-8fdf-9e01fb778b21,0.1,Stroke
+4419f0a4-5bf9-4340-9e5e-5c415d3b7e48,0.1,Stroke
+441f21f8-a922-4f88-b58d-1ddab2ed5e70,0.1,Stroke
+44b25f8b-7edf-4dfa-8896-cca6b4139871,0.1,Diabetes
+4546c267-3993-47c0-a7cf-eef082f51599,0.1,Diabetes
+455b13c8-fd3c-4ac7-b85e-741c51eeb85e,0.1,Kidney disease
+45700454-e0aa-4659-8708-f1b8c129c37d,0.1,Stroke
+466035ba-2378-417b-b930-5d35daf99afc,0.1,Diabetes
+46f9edd1-8995-4aa3-ad15-d565c95d723c,0.1,Respiratory disease
+474d07ce-9269-4e60-b872-617e48f69b03,0.1,Tuberculosis
+478a12dd-aca5-4c07-87fa-24d982fdec54,0.1,Stroke
+47905db0-481c-4f36-ad0d-865ce37d4c0e,0.1,Stroke
+47c96411-048c-4c88-a6b5-c022da9e7db3,0.1,Hypertension
+47e8b8a0-87de-4820-a88d-e1c80f26aaba,0.1,Stroke
+48b118a9-b0ec-4e95-a8de-d8fea85b61ff,0.1,Diabetes
+490ef4e6-a25b-4a2d-b376-c6dc9cb4e7e1,0.1,Hypertension
+4921d31c-e01f-447b-9fe2-5b5a65c4ac36,0.1,Kidney disease
+494f62f0-2664-44c4-a23f-a8cc99fc2b97,0.1,Hypertension
+49515638-02da-4fa4-bf84-62b22e38ca6a,0.1,Stroke
+4978939e-cde3-4771-86eb-7ac6eea9da71,0.1,Stroke
+49a1b605-f599-4b47-893d-3cd083790368,0.1,Hypertension
+49c7723f-9bb2-402b-a30b-43199f6aa199,0.1,Stroke
+49d1c148-2142-4883-873e-54c8f13ea713,0.1,Hypertension
+49dd1884-b2d6-4ffd-8442-a55a8b81d547,0.1,Hypertension
+49fcc77d-1d15-4b61-9fad-2699b782a65a,0.1,Stroke
+4a20f41f-a8ad-4abe-97c4-3d5ffc9f119d,0.1,Stroke
+4a4c86a8-4dde-4ce9-b381-926d37980ae2,0.1,Hypertension
+4b352e57-fa8a-4024-8a37-7e5fa0b72ca8,0.1,Hypertension
+4b6157eb-8182-47d1-9346-d771dd1a0b2d,0.1,Stroke
+4b8dfc43-bc76-45f6-be26-c64556b0d6ff,0.1,Kidney disease
+4bab2615-2cf1-495e-baa7-8b0c368821d9,0.1,Diabetes
+4c02fa70-fbaa-4db7-a9b8-ea7cf044214e,0.1,Stroke
+4c418895-84a7-47bc-a86b-261a12a21df0,0.1,Asthma
+4c8d09c9-a548-405a-a130-2ec7f7cfb53e,0.1,Kidney disease
+4c96e284-6552-4acd-a195-e3444c20f7a9,0.1,Hypertension
+4cc83813-c316-406a-8673-c0d5c5e91c2a,0.1,Stroke
+4d675810-ccdb-488c-af2b-a30338ce2440,0.1,Respiratory disease
+4d7da846-3a4e-4588-b570-d6e57d215824,0.1,Hypertension
+4d87a02b-09c4-4766-bb61-99aa87a1021f,0.1,Hypertension
+4db1f1fe-3ed3-411f-a7d8-ef7780d338ff,0.1,Hypertension
+4dd13a13-d3d1-4b28-832d-2a76bdab3155,0.1,Respiratory disease
+4e0f9f67-11d6-4065-bd7a-a79069eeb20f,0.1,Stroke
+4e64f2f3-e1a0-4617-b142-6252c4562989,0.1,Stroke
+4e679a26-1107-4970-b100-6de4036c6b59,0.1,Respiratory disease
+4e73f03b-9bd9-4a14-a74c-b75b7e79af27,0.1,Hypertension
+4eacef9d-219e-4752-a009-0165065e3ba8,0.1,Stroke
+4eeb5e1e-a58d-4724-9f06-c7ef3c90fc80,0.1,Stroke
+4f197c44-f0db-45ac-abf0-797f224b0d93,0.1,Tuberculosis
+4f45f38d-9a9f-4cf6-88f5-9e45ec652eb1,0.1,Arthritis
+4f4b1e16-4a12-461d-8b5d-cc60bc6d11ce,0.1,Hypertension
+4f82170f-e417-45d6-a502-553d4a129098,0.1,Stroke
+4f8ae701-9e36-4a72-ae72-217d4b5fb47c,0.1,Stroke
+4f8f42cd-3979-42a4-aaad-d55d1f875edc,0.1,Respiratory disease
+4f9fa67e-81e3-401d-99d4-5ae47d7ca62a,0.1,Kidney disease
+501edc60-fccf-4166-bedc-45356f90eacf,0.1,Diabetes
+50f47671-deea-4265-9054-3e701389a969,0.1,Diabetes
+50f5321b-8487-4376-8b7a-e059c49b780b,0.1,Hypertension
+51e7a3d6-a059-4a70-9dd9-119431a515c0,0.1,Hypertension
+51ff3722-709a-424b-8a4d-2a26767ea8cb,0.1,Respiratory disease
+5234c2c8-6bf8-4020-94dc-fa1120a4cbe7,0.1,Diabetes
+52471dc2-08b1-4194-b5c6-dfd4d005331c,0.1,Hypertension
+525d5a6f-2608-410d-9eac-adfd0227c707,0.1,Respiratory disease
+52f72e36-312f-443f-be4a-7c09a5e0b7fa,0.1,heart diseases
+53d95f6f-eeb9-4fde-8a8c-51060243359e,0.1,Hypertension
+54207c96-c287-4c28-a9df-2e6db4fab822,0.1,Respiratory disease
+5478eabd-35be-4b51-9c5a-b97dc3952e00,0.1,Hypertension
+5491dcdf-6449-4f05-bac6-6ebd9120d386,0.1,Kidney disease
+54f96919-bf06-454c-9832-ff4d773da0f9,0.1,Respiratory disease
+550dc469-a664-4960-913e-1df3da26d4ab,0.1,Stroke
+5511960d-3bc8-49aa-bfbc-3bbaa56f2daf,0.1,Hypertension
+554548f6-956b-4d35-be2f-896a2f158861,0.1,Respiratory disease
+5616f9d5-f9b4-45ef-9836-82b512bba254,0.1,Stroke
+56a29dac-a4c8-4c99-83b7-45a91edacd23,0.1,Respiratory disease
+56e90ca4-2c6a-4bf4-9723-48f1ab8b91f4,0.1,Hypertension
+57199276-d4c2-46f6-80ae-19ecd4565a9f,0.1,Hypertension
+57f98e24-9d80-4b55-927f-3a02f9c9e212,0.1,Hypertension
+57fcd17e-436b-46b6-a7bb-5e94ac537e50,0.1,Respiratory disease
+580e25ae-155b-4ad9-8925-dc8d2d1e3316,0.1,Diabetes
+582d2554-e8cb-4258-98e9-3313cc375bf0,0.1,Hypertension
+5844195b-3ac3-4293-a6ce-f51571b02e9e,0.1,Respiratory disease
+5846eaf0-e3a3-4bd3-8792-4d25ec30d247,0.1,Hypertension
+5875959f-591b-4d47-b1aa-d725229f9f7a,0.1,Stroke
+58a73672-b837-4057-a6af-cb6f8a8b0b08,0.1,Hypertension
+58bc763b-2a39-484a-8cd3-13739237ba5f,0.1,Respiratory disease
+58dfad68-a8d5-4b52-abfb-9ddc2c6b287b,0.1,Hypertension
+590a3db9-d530-4c32-9004-33a3850c54e5,0.1,Stroke
+5911982e-cae6-466e-959f-53498afa9ea4,0.1,Diabetes
+5939dde5-3c5c-4fdb-83d6-fcd874cd41a7,0.1,Stroke
+5940bcb9-07c2-4c4d-831f-983f3e660f15,0.1,Hypertension
+59e8129a-6669-4c7f-a6e3-14ceb09ed0b3,0.1,Hypertension
+5a2b9251-88f8-4287-8900-447ea82042bd,0.1,Hypertension
+5a2dea36-5f79-4cd0-962c-40e424073e40,0.1,Stroke
+5a6d94b3-1d7c-4dc7-8a97-5a1b62de8bcc,0.1,Hypertension
+5a73f219-3aab-47ac-aeb9-14de9b97129a,0.1,Stroke
+5aefea1b-a896-4db2-9054-827587ab02cd,0.1,Stroke
+5b3da875-c995-4781-b097-8cb1e63cd14c,0.1,Diabetes
+5b5dfdb3-135f-447a-8b6e-891b2982495e,0.1,Hypertension
+5b82363e-7461-4589-a3e0-93d25fb1eea7,0.1,cvd
+5b9d83db-00fb-4ae4-8a22-6684a1368c3c,0.1,Hypertension
+5bcf603e-f154-464c-9915-a40207286477,0.1,Respiratory disease
+5bf2f27f-5522-45aa-a1de-b51a058b2790,0.1,Diabetes
+5c1eb1b1-b92c-44aa-801e-92b09fd562a6,0.1,Diabetes
+5f9834d5-50e2-46f4-8549-67f753e1e422,0.1,Respiratory disease
+5fbf9e16-eea4-4b66-aae9-06a0f242d12b,0.1,Hypertension
+5fc6e313-b32d-45de-9ebc-35b657ed3a05,0.1,Respiratory disease
+6018328d-c61a-479d-818a-0979d8c59005,0.1,Kidney disease
+601c0f3a-4c49-4744-a64d-6926d4afc0c1,0.1,Respiratory disease
+602ce935-411a-43c9-b443-8d4102406349,0.1,Hypertension
+6062ead0-fd35-414f-b5fb-1c1e020e9c32,0.1,Stroke
+6105cc1c-646d-4a35-8046-7a2f3bcb19fb,0.1,Tuberculosis
+614e16eb-5316-4893-897e-7a5f75597118,0.1,Diabetes
+615e3f96-e178-4563-b5ec-dcd0621d731a,0.1,Hypertension
+618b371d-cc81-407e-93e7-1d397784d1da,0.1,Diabetes
+61b398c5-440e-441a-96d6-fed092f41925,0.1,Diabetes
+62306e6e-3150-426a-82a4-3f8e1c4ff5cf,0.1,Stroke
+62b585a9-6415-4609-a5a2-320bd45d5171,0.1,Hypertension
+635f21fd-c866-4de6-b6a1-8a91d8b8969f,0.1,Hypertension
+63b048bf-9407-4e78-b9aa-74152354fad4,0.1,Respiratory disease
+63f53fac-aae0-4589-aa93-3a9e42605e67,0.1,Stroke
+645d7d54-2bd2-423d-8b02-26edaa8d57d8,0.1,Hypertension
+650f7ba3-c8e0-42d8-a3bc-e5425b79d196,0.1,"Tuberculosis,Arthritis"
+65424bb1-6e92-4333-816b-ab8ca599e969,0.1,Hypertension
+655ee41a-48fe-47e8-bd10-d09a5eff378c,0.1,Respiratory disease
+65b11eff-d1f5-4913-8045-31ca74bfdfc4,0.1,Hypertension
+65ed2ffe-1bea-4dbf-8d59-16c1e2e2dc4d,0.1,Stroke
+66362073-63df-461e-b269-d39ae05a8787,0.1,Hypertension
+669385ac-00a8-4a16-9d31-7706557d9a02,0.1,Stroke
+66b2f8f6-e8b9-4ba3-b644-b004cf5a36f0,0.1,Hypertension
+66b71ae1-e10a-4b02-a289-54d30a371a51,0.1,Hypertension
+66e4ae7a-dcf3-446e-8f02-d2bb302334a6,0.1,Respiratory disease
+6712ff65-48c3-45bd-bb23-7485534cd644,0.1,aneurysm
+677405a8-1090-4b98-915c-a7b4ca7d55d0,0.1,Respiratory disease
+6800d2aa-e214-4d30-95ea-4e9803027590,0.1,Diabetes
+680f71f6-3aee-480e-8200-01dde60f36bc,0.1,Stroke
+6838ea90-02c0-443f-b8ed-1a796835d05f,0.1,Kidney disease
+6843d494-ee27-4011-8977-fecffecf1b17,0.1,Diabetes
+6869ff7e-4557-4270-87d3-1de54a5fdec9,0.1,Hypertension
+68a3b3b2-5069-48c9-b4b9-f6c0829903ae,0.1,Stroke
+68d62a18-b174-4c1e-9e4f-0b34321933cd,0.1,Respiratory disease
+690cee50-9450-477a-8498-9f492ce3fbc3,0.1,Diabetes
+691cbc7f-302f-4a7a-803c-38d9c972bf81,0.1,Hypertension
+69a61fc5-646e-4051-9053-a3a33b48718c,0.1,Stroke
+69e69ed4-77af-4842-bd12-adbdd8586f68,0.1,Respiratory disease
+6a1fef41-74c5-4448-9bca-ad29277b4003,0.1,Diabetes
+6a783227-b557-4793-99b7-2c7d5fa6b480,0.1,Hypertension
+6a950f15-e43e-4f1b-9a8c-89222728260e,0.1,Diabetes
+6afad424-3c63-403a-803a-583b2391c6c4,0.1,Hypertension
+6b2ac722-ae11-4068-bb3d-7b49c1d2cb4b,0.1,Stroke
+6b6a508d-94c8-4599-8c77-53e0c979803a,0.1,Hypertension
+6b6ac0a7-b9c2-4c6d-a075-9c301a2ce2e2,0.1,Stroke
+6bc3ce0a-00fd-4eaf-a6f7-c0fe6a3a7731,0.1,Stroke
+6bfd4b14-b2a8-498b-b168-d4d4b1f5ac92,0.1,Hypertension
+6c5f8efb-d0df-4b1f-8eb9-95efc9f687c7,0.1,"rheumatism, arthritis"
+6cac7af3-2113-426d-bbc4-4fa4506d5a46,0.1,Hypertension
+6cf99e96-cd9d-46e9-aadc-fd958aaadf8a,0.1,Hypertension
+6d161773-7775-4609-8373-05b06b7a6cdb,0.1,heart diseases
+6d2cd2f6-c661-4d50-8e39-8043beae6d5f,0.1,Hypertension
+6d55efbe-c0c4-420a-879a-170acf782576,0.1,Stroke
+6da00bdd-d334-4e30-b068-3d633e991b11,0.1,Respiratory disease
+6de86450-fb8b-4b36-b61e-25f82431bff8,0.1,Stroke
+6df33f21-d2d6-4755-a217-10ae1094d2ef,0.1,Respiratory disease
+6e4e9276-b21f-4dd4-917f-2bfc30fc180f,0.1,Hypertension
+6ea69eaa-36f1-4980-9ef0-1dcc51d44a38,0.1,Hypertension
+6ee29228-08c7-465f-aceb-a0c1d8ae9ece,0.1,Respiratory disease
+6efb6087-36d0-4414-8515-5229d5ffb611,0.1,Hypertension
+6f43d137-7031-4b9c-a608-adfca604b5bd,0.1,Hypertension
+6f68aa19-3833-4df9-997c-48681a980f8d,0.1,Respiratory disease
+6fef11c8-f726-4697-8a06-d4ab5a65cb07,0.1,Hypertension
+6ff65126-d38b-4abf-bb8f-e0362a41a5cc,0.1,Kidney disease
+70254070-7c83-4aea-9155-d0d08a9cdc28,0.1,Respiratory disease
+702ec3cb-c24f-4e94-b136-7e485d794c7e,0.1,Hypertension
+70f2f6d3-6c7a-48a2-9352-e7e9965848ce,0.1,Stroke
+71072f5d-c74d-4d81-a053-2232d8acf4e0,0.1,Hypertension
+713bae28-49d1-4d48-9258-642674925b8b,0.1,Diabetes
+71694889-f54a-4915-8cb7-12c656712311,0.1,Hypertension
+71c729de-7008-4f5c-ae67-4895cd4085de,0.1,Stroke
+71f2bd69-40a6-48f1-96e4-149732d0e3d0,0.1,Stroke
+71f3ebaf-105a-48a9-b38a-942225931daf,0.1,Hypertension
+71f87b79-de4d-461c-b8e7-dcca95440b39,0.1,Stroke
+722a7913-a769-479b-b940-16cf5786cf1b,0.1,Respiratory disease
+7230286a-9c73-4680-a9a8-953638ac4cb9,0.1,Kidney disease
+7255f4ad-4163-4dce-b734-42d931904ddd,0.1,Respiratory disease
+72b3b58a-5553-42fd-b178-802e4f0d7eb9,0.1,HEPA A
+72bc3662-9e86-44f9-9237-92ae0304e1ea,0.1,Stroke
+7326842d-ed70-4593-a360-f0e82b9a9faa,0.1,Hypertension
+735f8288-2dce-4fce-a60d-e8361b2a129e,0.1,Hypertension
+73896081-772d-4e92-8f82-dffe1906d82a,0.1,Hypertension
+73a54106-bee1-4657-b0fd-6b2cd33a2a78,0.1,Respiratory disease
+73e4b319-90e4-476e-a67c-e8397d58d137,0.1,Respiratory disease
+73edb1f3-b363-4156-b5d8-cc9af7bc85ef,0.1,Diabetes
+741cb07d-c531-434b-9001-6ee65e6df6f5,0.1,Respiratory disease
+74397f44-c0fc-4290-89b5-5bc732c6f291,0.1,Respiratory disease
+744295d4-91b6-4945-8756-27f7e7c09e10,0.1,Hypertension
+74805e4a-fcd9-4428-ad4e-020635119db4,0.1,Stroke
+7488d75e-e081-4a82-a119-8776a23b460c,0.1,Hypertension
+748f945a-6fbf-4ade-adc3-18bcb626f1e1,0.1,Hypertension
+7493b742-59de-4331-9f31-a51c60b8039c,0.1,Hypertension
+7493d5ed-f6b7-415a-9a10-62078713e27f,0.1,Stroke
+753b5adc-ceb9-444b-8944-1f1e76768a9d,0.1,Stroke
+75b7ac0e-6448-4fbc-a975-aa65524c1827,0.1,Hypertension
+75d35ea0-8bb6-4fba-a1b0-c25bf4aadada,0.1,Hypertension
+75d93da7-49a1-4b87-875f-8ace58f36c50,0.1,Diabetes
+75dc5df7-3fbc-4e4b-bce7-2750a2dbd352,0.1,Stroke
+75dfd6cc-002c-4d52-a803-c24ea2d899a4,0.1,Hypertension
+75e9ad5d-684f-4a4e-b19a-cfb01f43b88f,0.1,Stroke
+761e527e-8bc0-4074-99e5-4728b1c6c3fa,0.1,Hypertension
+762d6045-b911-4921-80a1-56a76a387889,0.1,Hypertension
+76cd88ba-8caa-42f5-a55a-56aa72f7bbf0,0.1,Hypertension
+783532f0-316f-40c3-88db-75b01ac45925,0.1,Stroke
+78464163-e7f7-4e8c-a662-faef3007dcbd,0.1,Respiratory disease
+78cc732d-9bfa-4497-94bf-73dad7135ac5,0.1,Stroke
+78e223b4-b578-47d7-88a3-304cae2e53d4,0.1,Hypertension
+78f30bde-d254-4270-9dd0-4974746b8ba8,0.1,Hypertension
+793feed9-fccf-4ff9-bfa2-596efe7ca644,0.1,Hypertension
+794081ae-add9-4d37-963d-6db63ca87aea,0.1,Respiratory disease
+79791d03-3a3d-4cd8-8119-409de417012f,0.1,Stroke
+79a8d5c5-b8f5-4b9d-9427-ddc9c6d876b6,0.1,Diabetes
+7a4296d0-9715-45bf-adbe-092d472c5751,0.1,Diabetes
+7a476534-0f91-46c0-858b-a7bd2214804e,0.1,Respiratory disease
+7a5477a7-3c70-4b1b-a1e7-fb8af07b4fee,0.1,Hypertension
+7a7a352a-3ac1-47cc-a25d-9a566bd611f3,0.1,Hypertension
+7acd301d-1710-4c60-b61d-182ef23bf9ba,0.1,Hypertension
+7b3faf6a-cda9-4f8b-a7e7-81a21b7de3f6,0.1,Hypertension
+7b539b8f-cddd-48aa-a07d-4a9b9d8489f3,0.1,Respiratory disease
+7b75f4ba-67ac-4850-9016-5f882ec4a4b0,0.1,Stroke
+7b79a2ae-7f30-4fc3-a60f-c5cf1ab627bb,0.1,Hypertension
+7b7b991d-cc3a-4d0f-be41-4400e4be85fa,0.1,Respiratory disease
+7b8d4bfd-3672-4e9e-a88f-7e7f3c0880ed,0.1,Diabetes
+7c0c7d6e-9ee0-48a0-bd4f-af84fc324ee0,0.1,Tuberculosis
+7c1be327-b135-435c-8404-405a486e68a0,0.1,Stroke
+7d03ef04-8a22-4315-be10-76591859943f,0.1,Hypertension
+7d3fe33c-7a4d-49f6-8ef2-21f9c4bcfccf,0.1,Hypertension
+7d41b27c-6800-40f2-b4c5-1850bc024944,0.1,Kidney disease
+7d47a262-78e7-4b80-aa11-aea2505cc1f0,0.1,Respiratory disease
+7d641734-c29a-421d-bcef-1534d46a7695,0.1,Tuberculosis
+7dc5de64-dc62-4e6f-afbb-522e2dfde2a2,0.1,Respiratory disease
+7e3179af-07aa-4aaf-b634-7b5805137e9d,0.1,Stroke
+7e66d5ce-b816-486c-a041-6ad77c076654,0.1,Kidney disease
+7effb2aa-823e-4ad7-bad1-01dca4acae6d,0.1,Hypertension
+7f27c409-1d24-4484-8bd4-11c11a0c6ffb,0.1,Hypertension
+7f992adb-d5d7-4272-9d05-20cdc477945a,0.1,Hypertension
+7fcfb348-48e1-4ec1-b45f-3d298d087cff,0.1,Hypertension
+8070bc83-b3ec-44f1-a4c6-8463838cf442,0.1,Hypertension
+808d68ae-2b9e-41e8-8393-6de5ddeac18c,0.1,Hypertension
+80e4f80e-688c-4bdf-ba2a-647bd6cd2676,0.1,Hypertension
+8106e1a5-89bd-442f-ba05-11cb46068004,0.1,Respiratory disease
+810fb0a1-3367-472f-a4b9-50da9ce4f187,0.1,Respiratory disease
+8131b378-ff3c-456e-b9a6-7c45c9be7da9,0.1,Stroke
+817cefc7-5108-479b-9ebb-98e8faf70e9d,0.1,Hypertension
+81c8e476-8ad9-4b71-8fad-4dc579468b4a,0.1,Hypertension
+82a7d814-183b-4803-a393-e6904d6a81aa,0.1,Stroke
+82a8c61e-3136-4211-991e-ebdf3c30effa,0.1,Stroke
+82b23357-cd0e-42c4-a4db-e1b0835ded86,0.1,Stroke
+82d3e71d-72dc-4757-a074-ac08ab264930,0.1,Hypertension
+8307df0c-769f-43d2-8723-555fadd846e9,0.1,Hypertension
+83bccc49-302d-4228-aebd-bd4f5ec3766d,0.1,Kidney disease
+83cab94b-2911-41d9-a802-3d5ea60bf0ec,0.1,Hypertension
+840e7c25-8517-4565-ab0c-27ecf172dac0,0.1,Kidney disease
+845a820b-aa02-422e-80a9-d6458737b419,0.1,Hypertension
+84905300-775e-4aca-bb38-398bc995f54c,0.1,Stroke
+84d9e4cf-9f06-4e93-b225-c9cda9920e2f,0.1,Respiratory disease
+84f0f5b4-896e-44ef-9898-ca016af32226,0.1,Tuberculosis
+8519e4e2-31bd-4aee-b8fa-f20bd172c55f,0.1,Hypertension
+85986a5f-3750-41c0-8551-b3cd54d1dfdb,0.1,Hypertension
+8694dd81-233d-4d94-855e-1271fc0a46a8,0.1,Diabetes
+86b04655-c517-4bcf-ad2b-18ae537bf198,0.1,Stroke
+86b93e10-33e0-4e97-bcea-88cbf2ad2fd2,0.1,Diabetes
+870d4567-9ac5-4b1e-ade9-96794ff722a4,0.1,Stroke
+872bef6b-19d6-4488-8a8b-da1462cae628,0.1,Respiratory disease
+874deb01-d58e-4594-ab48-14babe669afa,0.1,Stroke
+875789ec-4155-4043-933a-61c9d9405d3c,0.1,Diabetes
+87b7500e-7b34-498d-9497-70894e495239,0.1,Hypertension
+87be33fd-0d8c-411b-8196-5c983767ca4c,0.1,Anemia
+87cdd1be-acc7-4deb-8ed4-05626323fb37,0.1,Hypertension
+87f71e58-e0ed-471d-af32-3a49647a4cfc,0.1,Hypertension
+8825673a-543f-4506-9c62-da2588e49e53,0.1,Stroke
+884cadf5-ac27-49b2-8677-bcd3d2f62411,0.1,Respiratory disease
+8852ea0f-2712-4bc6-aaf0-12362ef1d20f,0.1,heart disease
+88b1cbca-1414-4d13-9869-084b2ba9773a,0.1,Kidney disease
+88f4c1c7-7577-4c0b-a9c8-d2a52dc830b0,0.1,Hypertension
+895728b7-fda6-44de-a111-5036e2069734,0.1,Stroke
+8996f2b1-897d-44e4-af08-a809be8c3b52,0.1,Stroke
+89dfce9d-c8fe-4612-a282-a9c32c6115d5,0.1,Stroke
+89f3a6d9-75c1-4953-bb73-61e83039a49d,0.1,Hypertension
+8ab276f3-fbd9-407e-a64b-b78de16605d8,0.1,Kidney disease
+8ae7808e-3377-49d5-8327-af7272ce3683,0.1,Hypertension
+8b0be32f-e9c2-4ec9-9c4e-2ce24e45cdca,0.1,Hypertension
+8b327459-e084-447a-984e-1407044b5135,0.1,Stroke
+8b45e93c-631a-4116-ae66-1bae5edbca6b,0.1,Stroke
+8b5e84a6-d8b0-4394-909a-25d26e51a0e4,0.1,Stroke
+8bd124c2-8ccb-4496-ab05-73113401c972,0.1,Respiratory disease
+8c1ec6f7-417e-488a-b75f-d5a2367d5b7d,0.1,Hypertension
+8c2ba768-b42f-45e9-a633-65710a2ac7e3,0.1,Stroke
+8c3071a3-875b-4556-85ea-764be6dedd8e,0.1,Hypertension
+8c566439-42c3-4bba-9bb6-2121c2de106d,0.1,Stroke
+8c6ca36e-fcf0-424f-b51f-f4abcd0c5561,0.1,Asthma
+8ce42a89-6590-4c00-bca6-776c514bdb91,0.1,Respiratory disease
+8d2a74e5-adf7-4922-9003-7a4f4999b830,0.1,Hypertension
+8d6600da-5371-4c9d-a5a2-63ca0d3c1d2a,0.1,Respiratory disease
+8daecc12-87c2-4d35-ace3-41a3d631b1a7,0.1,Hypertension
+8dbd0c7f-0dd2-4851-9e6f-c462857e3b88,0.1,Hypertension
+8e04f21d-5cdd-4b84-a5ff-bdc1f9ffb65a,0.1,Respiratory disease
+8e2d1524-9d94-4d6b-9165-af9a669e8612,0.1,Diabetes
+8e3eab0e-f8ce-4f5d-a381-dd1511cb9c7c,0.1,Hypertension
+8e6abfa8-c607-4a5e-9070-fc7bde6b064a,0.1,Hypertension
+8e73fdc3-295f-4e7d-b2bf-8e4280a78ff5,0.1,Hypertension
+8ead10f8-1270-4516-b741-c489726380d4,0.1,Hypertension
+8ec15bb6-be5a-43a1-b315-896788d3bff9,0.1,Stroke
+8eef8a20-e2b4-4475-9b38-548982fd28e8,0.1,Hypertension
+8ef9470f-3762-4a4a-969e-7a2dddfc4309,0.1,Hypertension
+8f79c5a8-6d1e-4a9c-9ba9-1f55907d683f,0.1,Hypertension
+8f7ad782-2330-405e-9f1f-78481df54384,0.1,Hypertension
+8fb0db1b-7fc4-418f-aabc-79b104c6a727,0.1,Hypertension
+8fd6e40b-8bb2-4b4b-aed3-c937765f0e6c,0.1,Stroke
+903af4ec-efef-4263-b3ae-a1eb74cbbdb9,0.1,Hypertension
+9125134f-138a-488f-aea8-a80ffbb6e0c6,0.1,Tuberculosis
+91328c34-b3e6-4ee1-97fa-c839b48565e4,0.1,Hypertension
+9178edcc-43c8-4807-af00-fe18bc835961,0.1,Stroke
+918553a7-b908-4ef1-b4e7-ed73d754f6f6,0.1,Hypertension
+91c618f4-16ae-4943-b343-b42e57326630,0.1,Stroke
+92391d2b-56af-4f75-8d07-73c240fa4c50,0.1,Hypertension
+9256bf5a-1174-474c-a718-ccacb98302b6,0.1,Hypertension
+9297935e-d657-4b51-9870-df0100575b2f,0.1,Stroke
+92b050cd-f751-4791-966e-20586bf72ca5,0.1,Stroke
+92f3f234-815a-46de-92b1-c9f42d338170,0.1,Arthritis
+9340079f-bb69-4b9d-a937-9c1dd3a4313c,0.1,Kidney disease
+93593a45-76f9-4bbf-997c-4d2584fbceff,0.1,Respiratory disease
+93790aff-6673-42fd-a625-15995166e754,0.1,Respiratory disease
+93cbef03-3dad-46ed-85e7-514384d0a932,0.1,Hypertension
+941bda70-e524-424d-8d08-150d8adc120a,0.1,Respiratory disease
+9457ae32-f888-4890-a3da-421f35f09729,0.1,Hypertension
+947d471e-cf52-4121-9c27-ee136a0384d1,0.1,Hypertension
+9497f7af-642e-4c8e-b61d-aa9372cc6f5d,0.1,Hypertension
+94a9617f-1af0-4354-97c8-fb5568bd907c,0.1,Diabetes
+94ad6b04-2c27-4216-a1df-baf3fd5fc35a,0.1,Hypertension
+95965812-4481-4788-aade-1aea477bc7ee,0.1,Hypertension
+95d87ba8-964a-4fb3-b0f1-6859c76b5a60,0.1,Stroke
+95eea309-f2d1-4cb2-b2cb-5051806909a6,0.1,Stroke
+964f4fdd-4799-41c3-a482-870a7af952c6,0.1,Hypertension
+96aaee23-9fa3-42e6-b342-8c68a6596614,0.1,Stroke
+96b2d0ae-65b0-45ce-a96d-a91a0dc44a47,0.1,Hypertension
+96e8f899-9c9e-4ddf-b84a-efd2d892a0ca,0.1,Hypertension
+971c3a7d-9bb2-4dd8-9829-730561acd5c8,0.1,Diabetes
+97521c2b-6a18-4cec-8191-37e4ac53e13d,0.1,Diabetes
+978ec2ff-d0a9-4dd2-99b1-ce7b1271a6bd,0.1,Respiratory disease
+9842e664-37f7-4db1-bc5a-bce41999f886,0.1,Respiratory disease
+9863549b-c7ec-4b19-b0cf-5591946a13e4,0.1,Stroke
+986fb50f-0e6e-4dff-9659-b321926dd49b,0.1,Respiratory disease
+987f5639-46b3-44c0-86e2-5498c0910448,0.1,Respiratory disease
+988b2ba3-5ecd-4d86-97b6-c9a4fc9be532,0.1,Stroke
+98d30f4f-28fa-47ad-af65-ff9be91addf0,0.1,Stroke
+99484f2d-4c19-43c9-8423-93b3199f5ebe,0.1,Stroke
+9963b840-0477-4c40-8e31-b148ae73d871,0.1,Respiratory disease
+996cf53b-82c6-4a07-b520-9cd5ab0fa7cb,0.1,Hypertension
+99770a27-58b5-4684-a102-a6d36be6b51d,0.1,Stroke
+99b144e2-f70d-47e4-8a98-00e46a4acdaf,0.1,Stroke
+99b5c319-e075-41f5-9936-fc3c25e79551,0.1,Stroke
+99d59b94-022f-4cdf-9bbb-7689465ac722,0.1,Hypertension
+9adbe510-736b-4418-948d-6a3ecf087bd6,0.1,Stroke
+9b0944ca-d47f-44b9-bc9d-0c5682325f46,0.1,Hypertension
+9bc71b93-0dc1-4cc4-9d85-b1efa8bd5cd3,0.1,Diabetes
+9bd3092f-1135-45c3-928a-5c54f13926f1,0.1,Hypertension
+9c7c579b-bcaf-4c35-8fcb-1c87d61f700d,0.1,Stroke
+9d3d7fc5-abaf-4a39-a066-6d478ca650a3,0.1,Hypertension
+9d896d7a-b465-4e65-88a0-e5994ec8ff2d,0.1,Hypertension
+9de3e4fb-aba4-4871-a409-2124b594911c,0.1,Respiratory disease
+9e47ef23-047b-46de-8ad9-c505f463453d,0.1,Hypertension
+9e6b6e48-4927-42ee-93a2-b078516be042,0.1,Hypertension
+9e9cd31c-3ac1-469e-9be2-060563262a3b,0.1,Kidney disease
+9ecf85d7-0ba7-4100-8627-2dbfa7532ec0,0.1,Stroke
+9f07bff9-802b-4c4f-a54a-3f5dc4589269,0.1,Hypertension
+9f24c413-bbc5-4efd-a7bc-d03b82162b4b,0.1,Stroke
+9f489d6f-56c7-4338-9f6f-b8c611abbe88,0.1,Stroke
+9f624dc2-d5d3-4e3a-b78d-2e711549dcea,0.1,Hypertension
+9f9fc062-95a3-4740-8945-4ce840a470e5,0.1,Stroke
+9fd39040-f72f-4150-8a36-1c5f891d7428,0.1,Hypertension
+a0030d5d-7d40-4b5b-90ed-a4ddca0e9da9,0.1,Diabetes
+a00d64b2-9865-4435-8fa1-da0eaab80576,0.1,Respiratory disease
+a064efeb-c37e-48b9-ad10-052704678588,0.1,Hypertension
+a0b34021-3214-4d3c-a394-1fd7c6dda273,0.1,Stroke
+a0b95f21-78fd-4097-90aa-86005cb96a18,0.1,Kidney disease
+a15414f9-59e2-4d2a-91c2-fc0f043aa3a9,0.1,Respiratory disease
+a1c574f1-b16a-4128-918d-62ddfd3de058,0.1,Heart disease
+a1d6b2a5-4fa7-45e5-8ab2-6fca266a57bf,0.1,Stroke
+a1df704a-52f6-4684-8992-cdccc967979b,0.1,Kidney disease
+a200a79d-cf25-4382-88c0-307e0f38a004,0.1,Hypertension
+a23bbe88-0b1a-4a98-b88e-49d5d3fd1d91,0.1,arthritis
+a249ed42-51f5-4f5a-9c23-a8784d8b32ea,0.1,Hypertension
+a24a5717-10c1-4a99-85b4-abca5140c743,0.1,Stroke
+a265f900-468c-42f2-a07e-7b5ad2ba051e,0.1,Respiratory disease
+a2a866f0-3233-4af9-bd6c-df84aa07040e,0.1,Diabetes
+a308f1b8-26da-4e3f-a46f-6ddeb3981f92,0.1,Stroke
+a3782932-8c35-4729-aa6f-d7d78ff44d38,0.1,asthma
+a3818712-f2a0-4bca-848d-c2c85a6020af,0.1,meningitis
+a393a04a-34b5-4b24-b7ea-213b248b8641,0.1,Stroke
+a3dfeaaf-7ab6-4031-85bf-94acb5edf259,0.1,Hypertension
+a426dfa7-9fe6-46a0-9b8a-025b23b87549,0.1,Kidney disease
+a59a8e43-3faa-4e9d-beee-4f5690a31ddf,0.1,Diabetes
+a5b3a11b-01f1-43bc-8489-b2210a7d2f3c,0.1,Hypertension
+a5c6034b-daee-470f-a206-9d01664251c9,0.1,Stroke
+a5f42b9c-f556-4134-977d-ec824ceca4a5,0.1,Stroke
+a6b41a2f-f837-4644-b09c-1535b0975ad2,0.1,Stroke
+a6f6a794-420c-43f6-987c-8124cadec410,0.1,Stroke
+a78ca16b-bacc-4aa5-98c4-19a4bf53dac2,0.1,Stroke
+a7aa7779-076b-49c2-ac94-3e80363199e9,0.1,Respiratory disease
+a7ff58fa-9d9f-4877-9fec-e1dc7844a7c2,0.1,Kidney disease
+a82a326d-5c68-48aa-8d94-5ad500b795ee,0.1,Stroke
+a878d5b0-49c6-4e28-b3e3-4b7231680ac2,0.1,Hypertension
+a8afdfc8-c689-4c68-ba7e-701ea0f8b33c,0.1,Kidney disease
+a8f557e2-caa4-4033-9f0e-106f63576ef7,0.1,Hypertension
+a920f43d-aa28-4b5a-8588-71b3e5b39798,0.1,Hypertension
+a9466b57-753e-407e-ba0d-94eb97cd9e5d,0.1,Hypertension
+aac9e536-57b2-49c0-9edc-6bbdca8b3d6e,0.1,meningitis
+aafa87ed-b6d5-4ce7-851e-d6eff3d967f0,0.1,Diabetes
+ab7a1dbe-f9b5-4704-ae2a-e21e5764b92d,0.1,Stroke
+ac3337b9-c152-4931-86f8-87027f174527,0.1,Stroke
+acbbb1af-17f8-4705-b642-ca2090e1ac34,0.1,Hypertension
+ad1e7c4d-4619-41c7-be92-4957b068ce20,0.1,Hypertension
+ad2961f1-62fe-46f7-b98d-68ed03232e70,0.1,Stroke
+ad41f3ba-8414-4cb9-ae4c-56804bdefd5e,0.1,Hypertension
+ad714889-36a2-476b-b4fc-7e96b80c4e72,0.1,Hypertension
+ae9b1753-3dac-4e4c-af20-385b60cc7d27,0.1,Stroke
+aec07051-cbe4-4637-92a9-defacce1901f,0.1,Respiratory disease
+aec64a20-2778-495f-a9f3-3354fd7744cf,0.1,Hypertension
+aeef47f9-ddd3-44c1-b54e-31e39312bb2d,0.1,Respiratory disease
+af668671-6e31-4f5d-8ac1-707493c3cf4d,0.1,Hypertension
+afe7a0b1-9111-4422-b362-64a34f5842a4,0.1,Diabetes
+aff54336-8827-48e6-85e1-275b96819bed,0.1,Stroke
+aff7780d-b85b-4c06-91f5-4248c06d0ee9,0.1,Hypertension
+b0237059-6aad-42f6-aaef-7a607e0ddaff,0.1,Kidney disease
+b05d7505-902d-4aba-a516-24c65fe1e3b2,0.1,Stroke
+b0bbdf45-50af-43cd-ab74-104123ecf746,0.1,Stroke
+b16b338e-20fb-4e7a-934c-0b777ac08ceb,0.1,Kidney disease
+b19b3d87-d692-441e-beb0-133445f5762c,0.1,Diabetes
+b1a91701-1751-42e6-a1e6-9e9a60768e33,0.1,Hypertension
+b1bddf68-866a-4c56-a209-1d6f632b7324,0.1,Stroke
+b23ba654-eb78-444f-93ce-0a4b4b1ffd1e,0.1,Kidney disease
+b278a77c-bd0c-4f94-981f-6d62e3c0571b,0.1,Hypertension
+b2ab91be-2471-4d0f-abe7-bf40a18b45d9,0.1,Diabetes
+b2b9da2a-6647-4c78-9c74-3514e98cbbf5,0.1,Diabetes
+b2fc6b8a-9cd1-48f5-95e5-17f9845fb266,0.1,Stroke
+b30e3fb5-3e75-472a-8e6b-28306b68a9e4,0.1,Hypertension
+b3439d1d-0e1d-47ee-bef3-d580b4c740ce,0.1,Hypertension
+b356edd5-6700-4428-b790-50efa9fdd471,0.1,Hypertension
+b3a91867-a4b8-4c02-8c5e-0d89eb0d6456,0.1,Stroke
+b3fdbfcc-1fe1-413b-90e5-229f254a1600,0.1,pneumonia
+b46f5b06-7607-437c-9956-d60b1c479b9b,0.1,Stroke
+b4986a61-1759-4fbe-94f0-c507f3055f14,0.1,Hypertension
+b4b06feb-ca2e-4bd3-9c11-7a89d1831f53,0.1,Hypertension
+b51a97f7-fdb3-4e24-9023-480aa8b4b455,0.1,Kidney disease
+b5401f22-adfd-43bc-ab09-a0dda5177794,0.1,Stroke
+b5665c2b-3d1e-4440-8fd0-ef46d0d685a3,0.1,Hypertension
+b61ff404-1839-496c-be65-dbbaefda0202,0.1,Hypertension
+b6251881-c014-4cc4-9cd9-01a87ce51111,0.1,Respiratory disease
+b6b3ce9c-4afa-421f-9067-e25c7dc32e53,0.1,Hypertension
+b6dc5993-03a8-43c0-9151-a6201651e305,0.1,Hypertension
+b71e25d4-0b60-4ad4-a692-0c27507abda4,0.1,Hypertension
+b765ebd8-7128-41ae-95eb-39d060c96b10,0.1,Pulmonary Tuberculosis
+b7662469-6dc2-4f92-8b08-e24b36743ca9,0.1,Diabetes
+b772e6ad-8825-45aa-8c67-fc20deffd515,0.1,Kidney disease
+b7771df1-e295-4035-82c3-f37994ed2afb,0.1,Hypertension
+b7943ba0-42dc-44b3-a9cb-8810704810b4,0.1,Hypertension
+b7a94ac0-f832-4f29-b19d-696482739f4d,0.1,Hypertension
+b82a2b52-f1b5-4791-a3e4-04bc9d6484ef,0.1,Respiratory disease
+b8414f94-5d93-4e39-b5da-a3ca2cc4d5b9,0.1,Stroke
+b892323b-f3af-4bf7-9232-1cb5c7eac506,0.1,Hypertension
+b8a375a2-7f55-48d9-ab10-b869ee27406c,0.1,Stroke
+b916e018-d2ea-411a-ad0e-4ebfb58e0ee9,0.1,Respiratory disease
+b9d796f3-976b-491b-884e-003c7382342e,0.1,Respiratory disease
+ba47a58b-85cf-475d-8929-a055c5d36db3,0.1,Diabetes
+ba7951d9-cb6e-41a9-a721-967d35a06fc9,0.1,Hypertension
+baac0380-ddae-448a-87d7-822d62103b1d,0.1,Hypertension
+bb00dc56-8998-47ca-a121-f0eebab960e3,0.1,Tuberculosis
+bb05971e-5613-4a41-b293-d5022ba9ed57,0.1,Hypertension
+bb18724f-0ca0-47ea-8c05-84cda30836f3,0.1,Respiratory disease
+bb8fe2cf-6fe7-4106-8195-fc50f4874d56,0.1,Stroke
+bb99d164-55d8-44e2-b298-d00e33203017,0.1,Diabetes
+bba0cc66-46a3-429e-9681-d21637a1284f,0.1,Diabetes
+bba3764b-4b0f-45a5-b704-d7f854f489e3,0.1,Stroke
+bba854e9-4601-47ba-a621-442112b15a9c,0.1,Hypertension
+bbc99a18-58d9-49c1-91fb-b8fd0235e5e4,0.1,Hypertension
+bbe81ea5-6cff-4b9d-9dd6-1d7450b452c5,0.1,Stroke
+bc8e5b4a-54fd-4fb9-8c4c-1f198ff547ab,0.1,Diabetes
+bc8f2cf9-e2c1-48a1-a02b-1a0eee773169,0.1,Hypertension
+bc8fe759-79cb-4e15-b00c-2e3eba690caa,0.1,Hypertension
+bc9b4938-df78-44cc-bbb5-8334011c153e,0.1,Hypertension
+bca7a364-f67a-4b59-9b1d-027f9610f63c,0.1,Stroke
+bccefd48-44e2-4d0c-99ec-68d8fdc8157a,0.1,Kidney disease
+bcf0ed00-7efb-4003-a13e-3bca79d04dfc,0.1,Hypertension
+bd0e1f22-1013-4b6f-80bc-468f00a7811d,0.1,Respiratory disease
+bd10257f-4aff-4c0b-9603-9855c31b460a,0.1,Respiratory disease
+bd408c14-e04a-4144-bd0e-84be17e77283,0.1,Hypertension
+bd9211e5-c679-4761-a360-3500c6c30da2,0.1,Hypertension
+bde92366-dff3-4c47-89cd-37608be0300e,0.1,Diabetes
+be1637a5-1d5e-4116-96e3-1d734c155bb4,0.1,Hypertension
+bef2735c-9efd-483d-b79a-7d94312f8cb4,0.1,Hypertension
+bf072433-834a-43d7-acde-a3b66df1d058,0.1,Diabetes
+bf137d7a-3cd7-4fd3-9772-7f8ed5da2d3f,0.1,Hypertension
+c049f60d-a45d-4b21-ac2e-d39f50df4d0b,0.1,Respiratory disease
+c170d8e5-f8d3-442e-9058-6c2e0accbb11,0.1,Hypertension
+c185188e-f002-4793-a709-c7960f7f3d21,0.1,Kidney disease
+c19e1b09-991d-4d40-8e29-27df85ea33b8,0.1,Respiratory disease
+c29e6225-568f-4cfd-9335-b743a83df36c,0.1,Stroke
+c29fb7bb-620c-44bf-b147-f174e8bf57e3,0.1,Respiratory disease
+c2a6cc9d-3464-4916-ad25-788f97a81bc4,0.1,Diabetes
+c2a84479-4657-41f7-bfbf-51535da86324,0.1,Hypertension
+c2f59faf-3c78-4409-bf19-943de5da4f0c,0.1,Stroke
+c2fd3636-3918-43d9-a121-695bd536a7f8,0.1,Diabetes
+c33f0312-0611-4c6c-ab31-5bc37a531389,0.1,Hypertension
+c3631998-c796-4762-b54a-190e0cc35d67,0.1,Stroke
+c4e48278-e6a4-440e-b20f-2e26372675f1,0.1,Respiratory disease
+c522d9a6-cc3c-4d0f-9cd0-407cdcee67bb,0.1,Stroke
+c5310983-aa69-4f78-9465-fe4f45aa5a03,0.1,Stroke
+c54cc9e0-bbc3-4dba-b90c-14d6ed8f2972,0.1,Respiratory disease
+c58f4c55-8523-4630-bcc5-5e5129ff8bf2,0.1,Hypertension
+c6b732d8-66af-4db0-aa8b-40ee4563a5aa,0.1,Hypertension
+c8298980-2025-427d-874b-bd7268a81bcd,0.1,Respiratory disease
+c8336f42-c746-4c42-bdbe-2ca796757168,0.1,Stroke
+c85c359e-fcc0-4244-a416-8ca19a95157e,0.1,Respiratory disease
+c8791d47-179e-42c9-a8eb-0f7c10354e30,0.1,Respiratory disease
+c88536d4-9d3e-41d3-8526-78a946acb221,0.1,Tuberculosis
+c8b2a4f3-df4f-47de-93e6-3ce565ff8e18,0.1,Cardiovascular Disease
+c8c7a9e6-ed4a-44c0-84e8-7524a7088665,0.1,Stroke
+c8d2241a-b5dd-4df2-866a-a3f6d617b65b,0.1,Asthma
+c8eb133c-d8d2-46d3-82ff-7391b3de1794,0.1,Hypertension
+c918fd48-be1c-413c-9058-b0de7e63e49a,0.1,Hypertension
+c94ca58d-2e63-4e49-9baa-f9363ac088be,0.1,Hypertension
+c9888324-fb8b-4756-be6b-e4c2c5753a24,0.1,Diabetes
+c99c75c8-d695-49ad-97fa-346656529636,0.1,Diabetes
+c9f1bcc2-9df5-43e2-91ec-99ec6613b757,0.1,Stroke
+ca2ebd2c-c6a8-4cb9-a9aa-3e19d447d70f,0.1,Respiratory disease
+ca87dc28-2650-4f2e-8526-34e19f0f7ee2,0.1,heart disease
+ca9543fa-6a9d-4b64-b7b7-34abc27d7997,0.1,Stroke
+cab9ff5a-f190-434c-a9d0-e0300e68734b,0.1,Stroke
+cac2dd5d-8b0c-4a7c-9e96-d0560d23b3e9,0.1,Hypertension
+cb528ee7-5df8-4417-a1e8-55c3eb8f4716,0.1,Respiratory disease
+cba750ad-0f78-4826-93e1-e85f30fb0b86,0.1,Diabetes
+cc5c953d-5f29-4a32-bb6f-4d149a328166,0.1,Hypertension
+cc807e12-f70e-4d26-bd16-78bd9eb3b65b,0.1,Hypertension
+cc88b9a8-cfec-453b-a08c-94f3ec2af715,0.1,Respiratory disease
+cca2370e-6b51-423d-8d98-03716f56a109,0.1,Stroke
+ccecf1cb-5587-4829-9357-7ca86d06fbf6,0.1,Tuberculosis
+cd9ea460-0e60-49e5-8566-b7ee13d8ced9,0.1,Stroke
+ce1ac400-8af7-4552-bfc0-a27a04a934bc,0.1,Hypertension
+ce634292-d322-463a-bec9-3ace02f6b057,0.1,Hypertension
+ceed3992-c88a-40d6-992e-39c497f2e63b,0.1,Hypertension
+cf043310-d7fd-4ac7-b308-56b7d54cfc9c,0.1,Hypertension
+cf958f7a-001a-40d8-ae9c-0b9fd182caf3,0.1,Respiratory disease
+d00d0bae-5362-41d1-88f3-f4db0f948c68,0.1,Hypertension
+d0278ac5-6e32-448f-b18e-e0c05c85d238,0.1,Hypertension
+d051b3fe-ac5f-4a6d-ac8e-e16dbf05e39b,0.1,Stroke
+d061471d-9f68-4468-b794-26c6098201d5,0.1,Diabetes
+d099c361-57ca-4c15-b68c-a0dc06c0dbb5,0.1,Hypertension
+d0a0a90d-a437-495f-891f-0681f6d3029d,0.1,Stroke
+d0c37784-bcc4-4cfb-b1b3-81e2ebf94f21,0.1,Kidney disease
+d0d75f2e-54c2-4e82-be01-39f5d90c0e11,0.1,Hypertension
+d0dd6019-f638-4682-a343-ec51f3b1240b,0.1,Hypertension
+d0f66f77-a35c-43eb-8cb4-89167c5bc9e3,0.1,Stroke
+d0fcf910-4487-4729-926b-d44c513342ac,0.1,Diabetes
+d115bfa7-1bb9-4033-80e8-c1b4091aba26,0.1,Diabetes
+d17fe156-ecdb-4fd9-ab38-8cbe848ab9d1,0.1,Hypertension
+d1c0c13c-0eb4-47d3-9b3c-97fe477bc355,0.1,Hypertension
+d1eb6d83-0b24-4774-9ec5-404b9e909202,0.1,Hypertension
+d21ae43a-d5dd-465e-8859-1dadc2a32306,0.1,Stroke
+d28467ed-020b-4144-a875-b9bc5f1a0599,0.1,Tuberculosis
+d2c82187-2d44-4d2d-9a68-eef0783c9571,0.1,Stroke
+d371961f-0ccb-480a-a096-1037a90226cf,0.1,Diabetes
+d3941d82-257a-468b-bf3c-0f9a679d6c89,0.1,TB
+d3a9647e-1a38-4004-a32a-d9006120f9d5,0.1,Stroke
+d3e3ee9c-8ba2-4063-a44f-a8e513f953f2,0.1,Hypertension
+d41114df-759f-42ad-ba3d-2e420cc54906,0.1,Hypertension
+d4a507dd-42b3-4f89-987a-8f8dafbab4b5,0.1,Respiratory disease
+d4d54f67-049d-4514-906c-301bb10f47ee,0.1,Respiratory disease
+d542735f-6a59-4698-8468-79f74027f1d7,0.1,Diabetes
+d596781f-807b-42e6-ad10-fe77efd00510,0.1,Stroke
+d5ade089-505d-4880-a543-59d744263758,0.1,Hypertension
+d62ece17-8e1a-4fbd-89a2-ca0a5e8afe79,0.1,Diabetes
+d7342373-6749-480e-8be3-6bc87d769fea,0.1,Stroke
+d76bbcb4-e097-4b31-89e1-1d12b0054a31,0.1,Diabetes
+d7711aa3-303a-489d-9cf0-452fb73709bc,0.1,Hypertension
+d7726780-a820-403b-a193-73131fbc4e5e,0.1,Hypertension
+d7bec672-c1e3-4827-a527-4b3e1be06674,0.1,Hypertension
+d7e5512a-620b-4500-8b9b-2ca39f29a377,0.1,Hypertension
+d815a7c3-bfae-4553-96d9-a87640989a95,0.1,Hypertension
+d847efb0-9c99-4be6-8c58-2958388d1b20,0.1,Diabetes
+d8653b65-505a-4f89-9e46-150359912154,0.1,Stroke
+d88cc8e6-a636-4206-b8cd-77e352f1a1e0,0.1,Stroke
+d894905b-ee2d-461c-8fce-18269a5a63e3,0.1,night blindness
+d89f1e22-9b96-4e66-afce-157dafa3620c,0.1,Hypertension
+d8a46b58-934f-4b1b-853f-57888dc82ef7,0.1,Stroke
+d957b008-8e47-46ed-a206-636e44741bc6,0.1,Diabetes
+d9d11ead-fe06-4812-af7f-05ce6ca3a6a8,0.1,Respiratory disease
+da35a815-b8fd-463e-b1c4-a1b6c92f32d1,0.1,Hypertension
+da420b49-c3c5-452b-8ba1-23b3d169aa0d,0.1,Respiratory disease
+da4d3102-daf7-49a0-8ee3-ffa0ed1203df,0.1,Stroke
+dad3d34d-b3e4-4825-abea-af654b4d80ce,0.1,Hypertension
+db0f8d57-e843-42d1-895f-3f11b2dce2cf,0.1,Diabetes
+db2e4b1d-e28d-4b8f-9497-0e4fbc3c6409,0.1,Stroke
+db2ffef1-e11d-44e3-9792-085777e7d5f3,0.1,Hypertension
+db3ee613-e6f4-486a-8245-0b03ed50e293,0.1,Hypertension
+dba1454c-a077-4fa6-a26f-12c4ddeaad69,0.1,Hypertension
+dbc11c8d-a67c-4b50-8d7d-147fda4fefc3,0.1,Hypertension
+dc87909b-c758-49de-9df5-8be3bb310db9,0.1,Stroke
+dc95cff5-959c-40f8-b29d-c5545718afc2,0.1,Hypertension
+dca016bb-c198-4139-bf80-4419fbf08fdc,0.1,Hypertension
+dca166a6-adbc-4c6b-8d44-1583b69dcfb4,0.1,Hypertension
+dcad0873-5c38-4ef4-93ba-3f0ce58957ab,0.1,Hypertension
+dce3a1e8-c320-4784-b955-0a310d8ae793,0.1,Hypertension
+dd2b8620-a4ca-40c6-84a3-d1137b089377,0.1,Hypertension
+dd4cd764-e3e6-49ee-90c7-c741bcb4e73e,0.1,Hypertension
+dd567d86-6087-450a-93fa-7443326d941e,0.1,Kidney disease
+dd600ebf-1265-47d2-ac97-3ee17a1134bc,0.1,Respiratory disease
+dd77122e-603f-44a2-bc38-4ca5cd57f826,0.1,Stroke
+ddf814f2-bfad-4592-9b39-db814d22ddb2,0.1,Kidney disease
+de0a4008-0dc2-4086-ad78-9c9fcd08fba1,0.1,Stroke
+de2fedf1-bfd1-4aeb-aa17-94b90c693b19,0.1,Stroke
+de3aac1b-272f-44b3-8f66-eb3fa7296e52,0.1,Stroke
+de5c7098-986b-491f-a588-c67a3f0a48e4,0.1,Respiratory disease
+de8f1478-2878-4e25-a88c-2fc91a54744e,0.1,Kidney disease
+df0da11b-941c-419b-864a-b7ce795919ff,0.1,Hypertension
+dfbf0454-b9c8-48f2-804a-165e56bb5f96,0.1,Hypertension
+e00ef07c-fdb8-4441-995c-021f8f64ebb6,0.1,Stroke
+e0e3c5e6-b9ed-44c5-bb98-4545d748816e,0.1,Kidney disease
+e0f483a6-5fc0-4513-9e46-c97b2bc6bc45,0.1,Stroke
+e1243a8f-e061-4caa-a26b-edba0a76aa9e,0.1,Hypertension
+e136bae4-db68-4a33-9e62-2a16097e9f95,0.1,Hypertension
+e14637c3-7dd8-4c2f-87c5-54d7dd2721a8,0.1,Diabetes
+e17d20d1-1d96-44f8-a36f-fd1133654a28,0.1,Hypertension
+e1d9f553-a3c5-49e0-a1dc-289bc3e367e8,0.1,Diabetes
+e22d0c30-2313-4910-95e2-9a7a08d0e206,0.1,Hypertension
+e23433ea-a695-4570-8e87-dd50061a458f,0.1,hernia
+e262a179-b434-48b4-9be4-221f96b7e751,0.1,Hypertension
+e28b26d4-e256-4494-abe3-3926e5bea178,0.1,Hypertension
+e2abb732-1e7d-432c-bd5f-b55e652503e1,0.1,Hypertension
+e3b3762c-0e58-48c3-973b-d339341f3c56,0.1,Stroke
+e3f313eb-9221-436c-ab7b-9efa05e1cfe1,0.1,Hypertension
+e40cd0f0-4fdc-4673-9c23-cc79b37f5589,0.1,Hypertension
+e416ef2e-05c3-42a5-9e1f-2319aad540c5,0.1,Hypertension
+e42e98e1-5a7e-4587-8889-e033eda5fc37,0.1,Hypertension
+e4405d4f-b1e5-40c8-9c0f-bd247a929b66,0.1,Hypertension
+e4730d67-86e3-469a-a93c-8aee3dd5a8c0,0.1,Stroke
+e47ceacf-5063-4c07-99c0-f194c62e3a97,0.1,Hypertension
+e4a629c8-dd65-40ee-8cd8-bc0185700a02,0.1,Stroke
+e4be1f15-acad-4c02-8eca-c92549a8715d,0.1,Stroke
+e4db3df3-1c16-4fa0-9bc6-02df7a334685,0.1,Respiratory disease
+e5126397-741e-44a7-a194-f9461be8aea2,0.1,Stroke
+e5c0cb39-629d-465d-b6b3-da94cb5c766a,0.1,Hypertension
+e605fe2c-445f-4c6d-b59c-942a419a5bb9,0.1,Hypertension
+e63c4649-d415-4470-8bb4-c11aa838d62b,0.1,Diabetes
+e6b0bb96-97f7-4773-8b2a-9dce97c6727e,0.1,Respiratory disease
+e6c741f6-774d-46e4-928e-6aa4e2119627,0.1,Stroke
+e70d4c68-3d94-40f7-ab51-3dbc18113e72,0.1,Kidney disease
+e73a9ba1-5cb2-41fa-a9ca-340d6e6fc39c,0.1,Hypertension
+e7d00d13-6fdd-46a7-949d-7d352d5227e1,0.1,Stroke
+e83f32f8-b467-45fd-b982-f93ccca8b1b5,0.1,Kidney disease
+e8845ef6-49b6-479d-bfa2-08caa801e49b,0.1,heart disease
+e8b40f57-b3dc-4ca6-9641-6cc4b252ed11,0.1,Hypertension
+e8d15aa5-4a60-4bb3-9a6e-8d858971599f,0.1,Hypertension
+e8fc7444-8316-4e26-9d67-b66b475b269b,0.1,rheumatoid arthritis
+e93bdd82-a77a-4fa6-9f8d-5fe81c303a2d,0.1,Respiratory disease
+e9cb71ae-1c23-4102-8ae9-b533e50e9c79,0.1,Hypertension
+e9d5451b-99a6-40de-921a-4f509a2b666d,0.1,Stroke
+ea33dd1e-b91e-40f7-8ed3-c0f2f04a7620,0.1,Respiratory disease
+ea62a824-fd72-4de2-be06-55c8ab5bec98,0.1,Stroke
+eaa321ec-03a6-4b74-9dd6-4562c5e91047,0.1,Hypertension
+eaafaaba-829d-48ec-8ef3-b62eb06e4d4c,0.1,Hypertension
+eac3e3b0-a075-4bf8-8328-a34398fc3706,0.1,Stroke
+eb5d231f-d9d8-4294-9c2f-730c6b42bf09,0.1,Kidney disease
+eb5f6a8c-736f-4a9f-935e-2ce85bd4ab52,0.1,Diabetes
+eb78197c-51ab-422d-b610-89e81425306e,0.1,Respiratory disease
+eb7aa874-8908-4f20-94dc-8243903f92e8,0.1,Diabetes
+ebb6f8cb-bc73-4eae-affb-98caa8314118,0.1,Hypertension
+ec18d9fe-7f00-4ee8-97aa-0a839f5a6ebd,0.1,Respiratory disease
+ec1be2ae-dcf1-4360-9705-4832567bec4f,0.1,Stroke
+ec4af2d9-92f5-4ddf-ae38-def6e7866604,0.1,Stroke
+eca466d9-6d6b-4bdd-bad1-972001885154,0.1,Kidney disease
+ecda8451-d33f-4ca7-844a-0942238a7203,0.1,Hypertension
+ed44a97d-98f7-4fa0-b454-c95f1d001257,0.1,Hypertension
+ed54586d-0d79-4c19-9888-484d95f23c0e,0.1,Diabetes
+ed660b6f-5770-4530-bba2-9e3c82aa9290,0.1,Stroke
+edd8d729-900d-43a2-9257-fb3e8732ceab,0.1,Hypertension
+ee20b602-9e3e-402f-978e-13a48eab6ee6,0.1,Respiratory disease
+ee48b520-0adb-43f1-a4c0-208afb012b42,0.1,Hypertension
+ee8eb79f-fd5c-4095-9d87-4c8813a59293,0.1,Respiratory disease
+ee8f9891-2503-472c-b13c-4c4acc3ab1db,0.1,Respiratory disease
+eea58670-7353-4d61-a948-6947067eeff6,0.1,Kidney disease
+ef3c367c-20aa-4fcd-b4e3-bcc948c038be,0.1,Stroke
+efd63f66-b5f8-4d5b-a36b-4209d3246fb9,0.1,Hypertension
+efef833d-57a6-4d75-b8d2-82ee95345db6,0.1,Respiratory disease
+f004cb37-f289-4a73-9357-c51eeb6348d7,0.1,
+f09c86b9-c321-4f9e-839c-120ee13dcdc3,0.1,"appendicitis, gall bladder surgery"
+f0b291da-3d23-4498-8c31-89a31fe9e29a,0.1,Hypertension
+f0e3cd58-6085-4da9-b0f6-b93e3b33b52a,0.1,Respiratory disease
+f1025640-8751-49f7-81a2-8ff7c0f75ea1,0.1,Hypertension
+f11233a5-11ee-471a-bcaf-2b19f27c8b4f,0.1,Hypertension
+f17ce6c4-5ff0-4269-9abe-e88c07176823,0.1,Kidney disease
+f1cb388a-4a2f-41b5-999d-b29d25e9a204,0.1,Hypertension
+f20633c8-215c-45fb-b30e-0bfb0be72bc2,0.1,Hypertension
+f23cedaf-3f7d-4b6a-9e50-e77547246599,0.1,Hypertension
+f2414af3-13df-415d-a6b0-c4bde8414807,0.1,Hypertension
+f2acffeb-0e73-43a0-a1b4-69dd15a15138,0.1,Respiratory disease
+f2bcbb98-dc0a-4b4a-8c51-a7fc68ac179d,0.1,Hypertension
+f360aeb4-f673-4c66-ac4e-77b08b0adf8e,0.1,Hypertension
+f38c4bfc-9f95-40a2-9cae-b9401f041090,0.1,Hypertension
+f3dfd351-0b7e-4c82-a82b-1c0806188b53,0.1,Kidney disease
+f406a6ba-a9ef-4a83-9eb4-eff101c9760a,0.1,Stroke
+f40b130a-a2bf-404e-be7c-266e849220b9,0.1,Respiratory disease
+f41ccf99-9a50-42e1-9a16-77903535194f,0.1,Respiratory disease
+f4283ab8-73aa-4452-a84c-692859f08e4e,0.1,Hypertension
+f4439d49-bc53-46a1-a3bb-b8af7d3f04c8,0.1,Respiratory disease
+f46dae6b-17ca-4c83-b477-c1ecb2cc95be,0.1,Stroke
+f511b23d-a101-4102-bd93-6a02d62069d6,0.1,Kidney disease
+f57615c8-f37c-450f-8b46-64d26a217b2d,0.1,Hypertension
+f5a19a47-2dd4-48ae-a477-5945c5ea9157,0.1,Stroke
+f5b80c0b-d747-4bee-9176-7922b2e55c85,0.1,Stroke
+f5ce20ba-b708-41b2-bc0c-775b9c8e69cb,0.1,Respiratory disease
+f5d1bdc8-2c8d-45f1-8d68-d3b4ac8643d8,0.1,Respiratory disease
+f624bf43-707f-4feb-821b-b759d83d891e,0.1,Stroke
+f6b67932-0ebb-4d14-a7f4-779be548a381,0.1,Hypertension
+f6ee9e53-553d-493a-a269-f5cb5abd5f99,0.1,Hypertension
+f6f10a32-3499-4c51-bf69-fd770dd5891f,0.1,Hypertension
+f70726d0-7354-4b9c-b4e1-e6c27ef8bba9,0.1,Hypertension
+f750baea-1ac8-4153-b777-73439f4e8f67,0.1,Respiratory disease
+f8e1e114-a5e4-4a27-b1da-e623e0f88f86,0.1,Respiratory disease
+f95e8ccc-d2c4-40fd-916a-7fdc600036d9,0.1,Hypertension
+f9a8024a-c0a9-4870-9732-4f2e94525493,0.1,Hypertension
+f9b71d61-7bb7-49c8-ab1a-1627e81d44ee,0.1,heart disease
+fb6d52b5-4baf-40e9-8294-a52302af9506,0.1,Stroke
+fba5b7d5-f2fe-4b37-a9cc-073c0701d6cc,0.1,Hypertension
+fc146379-c9c4-45d9-b486-11cf4485aafc,0.1,Respiratory disease
+fca0da2d-4947-4c72-852e-8de41381e2f5,0.1,Hepatitis
+fce0a5e1-9ba1-4ce7-a100-ed604d26237b,0.1,TB
+fdd6f3fb-8347-4c74-ab1d-e9036b7f650f,0.1,Hypertension
+fe1c7573-36d6-4b95-aad4-90352690345d,0.1,Hypertension
+fe6c2b3e-e96c-447f-8da9-deb32f026c88,0.1,Hypertension
+fe987bac-b2c7-40c3-bf79-8ca3a7f13817,0.1,Respiratory disease
+fec30f42-a2e3-4002-a115-10f4962b1618,0.1,Stroke
+fec59146-4091-48ea-a559-a3f363f1bada,0.1,Hypertension
+fed561c8-36c8-4a33-a046-8c3f636e3605,0.1,Asthma
+ff0286e4-e849-4505-b27e-14769573b554,0.1,Hypertension
+ff3239cd-ab9f-4008-b890-c630091453f9,0.1,Diabetes
+ff636407-580b-4dcd-a5b1-50b236dfcfaf,0.1,Respiratory disease
+ff984163-2d0a-46f4-aa70-5811f05012ec,0.1,Respiratory disease
+ffd38085-3e0d-4bd5-a794-9203e7c27bab,0.1,Respiratory disease
+0081689c-12ad-43b8-96d4-5c122134b894,0.2,Respiratory disease
+00acd0f6-da26-4d5e-bde9-452d9ed29d26,0.2,Stroke
+02c9c57b-3be3-4326-8160-1985c35d7414,0.2,Stroke
+041167c6-f3d3-4650-b275-2574a0f63be0,0.2,Stroke
+060a476f-96ab-4ddc-80d5-ab7ffaf8c8ff,0.2,Leukemia
+067b8f84-10fe-4d4b-81f2-d888f32d1646,0.2,Hypertension
+06e6227e-7a66-4c22-a513-fa1a4f8a94cd,0.2,Kidney disease
+071003a3-5df5-4ad6-bdb2-4ba78a926a82,0.2,Stroke
+07235d59-6a71-421c-949f-aa5469fcfe2d,0.2,Kidney disease
+075ece4d-ba05-4435-a6ff-19f2ca2473ff,0.2,Stroke
+078bcc7e-1ac3-4664-be5e-c3662c24dbc4,0.2,Respiratory disease
+08d65df9-197c-43db-9e09-fb9470f48a4c,0.2,Respiratory disease
+08e633a2-192a-4b87-bdc9-960de9ab45b2,0.2,Hypertension
+0a06e223-d2d3-4725-8337-eb6a3192d464,0.2,Kidney disease
+0a66c135-ac3c-4766-9fc4-2cc9aea0649f,0.2,Stroke
+0a74bb7d-8eae-46b6-aa08-b1599d08b493,0.2,Asthma
+0c298d41-621c-4c55-888f-4956dd38515b,0.2,Stroke
+0f9cf135-664c-4f03-bfb6-19ac94565be1,0.2,Hypertension
+1056ed4e-39fc-4473-a8d6-5460d97e665d,0.2,Hypertension
+11d793cd-7548-48bc-a26f-0916dc932637,0.2,Stroke
+12dbef8f-2343-4ec9-a7b1-bd3e2e1fbe75,0.2,Stroke
+130aa25e-a04d-4c45-a2aa-704b68a60589,0.2,Stroke
+130ccd82-a406-4e7c-9ca9-cb71671fc281,0.2,Hepatitis
+1313dfb6-27e7-445c-b514-7d7bb0d7eed6,0.2,Stroke
+1356ceb1-8f3e-4923-aec0-91067d42a0ff,0.2,Stroke
+13757ff2-afb4-46e7-a66c-db0bd8724a56,0.2,Stroke
+13fce445-1d67-4dcb-803b-dc268946cc09,0.2,
+145aadc7-9b61-450c-a7f0-e818b96ede9f,0.2,Kidney disease
+14d00212-1da3-44d1-adac-fa0fb3b73531,0.2,Hypertension
+14e7e330-500f-4b8f-b87b-e231c75dec12,0.2,Stroke
+15405b58-5ec5-4e2d-a883-6ebd162b8402,0.2,Stroke
+1550f52d-a536-44f2-b2e3-b728f52cd83f,0.2,Respiratory disease
+15637f4d-0531-4f81-93e8-592a247733ae,0.2,Stroke
+162fdbde-7ea6-4a0f-90fd-d8397dac890e,0.2,Respiratory disease
+16ee2b45-a638-48dd-ae81-fb7423bc517f,0.2,Stroke
+1760b0cf-68fb-4887-ab5b-119289ffc11d,0.2,Respiratory disease
+17a21efb-f173-4bdb-9806-609d43f6d822,0.2,Stroke
+188848e5-66eb-4a86-8071-cfd46c1934c1,0.2,Respiratory disease
+19320053-4d7f-4066-8b2c-d07c617c8924,0.2,Stroke
+194be85f-9372-456e-8b4e-1ea79efb0866,0.2,Stroke
+19bd783c-e1d0-4a2c-93ee-2f846ad5bfcb,0.2,Hypertension
+1a2dcfdc-4383-43db-894b-f41874056399,0.2,Stroke
+1a83df6c-a9ec-4353-9d48-4339d0f22157,0.2,tb
+1bb7b9ff-c710-4ac0-b945-c804b01f9fa5,0.2,Stroke
+1c44ccb0-e351-4944-a021-25e0bef0324b,0.2,Stroke
+1d60c49c-1bf1-4d5a-9f9f-52739336daad,0.2,Stroke
+1dc392b0-cd6d-4690-a85f-1950a9f8fe1b,0.2,Stroke
+1e4e8602-0014-40e0-84ee-de52b6295ce5,0.2,Hypertension
+1f00feda-3287-46bf-aab9-7549c30f89d6,0.2,Respiratory disease
+1ff23340-4297-487e-b041-0a80dd77344e,0.2,Respiratory disease
+2070b9c2-4f0f-48e0-bc9a-dd02c737145d,0.2,Respiratory disease
+20f749f6-e27a-4172-8cf8-e172f819d2ad,0.2,Kidney disease
+2165c945-d03b-41e4-aa6c-e9171850e9ea,0.2,Hypertension
+22c2e947-1a13-4ae0-9746-fc5ceead9533,0.2,Stroke
+23f4f00c-4fa8-4996-a25f-92e51b4d386f,0.2,Stroke
+23fb0597-a357-4dea-949c-d084a65a8aa3,0.2,Respiratory disease
+24059a51-ec91-40e7-a696-876eba5f9b89,0.2,"Hepatitis B
+Tuberculosis"
+243230cc-239b-4a84-8b7e-5fa3c09c5223,0.2,Kidney disease
+25f0d398-4ea1-4df0-9a4b-8664da00fa28,0.2,Tuberculosis
+273c67ab-8edc-48d2-b337-0503f094ae35,0.2,Respiratory disease
+2766098f-5700-4e8c-987d-3d338d424bbf,0.2,Hypertension
+278cc348-686b-440a-b01f-c99b3904a38d,0.2,Respiratory disease
+2966b94a-d288-4a19-804a-eee9c2c582a8,0.2,Hypertension
+298a0a27-797a-492d-a97c-f4f81742c0c8,0.2,Hypertension
+2a0e2031-8844-4f95-84e7-5f7a198a38ac,0.2,Hypertension
+2b4e3cde-74df-4ae9-b480-7b9503b64f81,0.2,Stroke
+2b571a09-ad54-4aa6-9538-3bd78b8ca616,0.2,Stroke
+2c2ad374-30db-4e56-b4d5-19688fd84d30,0.2,Respiratory disease
+2c602409-b479-44e8-83dd-d8911c300213,0.2,Respiratory disease
+2c867354-4b9b-45e2-8477-c21c3ca0fcfa,0.2,Hypertension
+2ce7cf20-bac5-435d-93b9-0fc3de825462,0.2,Respiratory disease
+2d03ac3b-2691-421a-b768-07cf420cebff,0.2,Respiratory disease
+2d7892b6-256f-445d-b97a-1522a2a13772,0.2,Stroke
+2dd42f5a-fca9-49a0-bf07-30d41f003377,0.2,Stroke
+2effe159-db2d-44d2-8e61-f549c2ebd5a4,0.2,Hypertension
+2f584280-1096-45c2-9bfd-0b34dd20dc60,0.2,Kidney disease
+2f64be26-a89f-4a9a-bdb7-eec1930896e1,0.2,Hypertension
+2f7e448d-2ac4-49da-b701-eccaa97ddd96,0.2,Hypertension
+2ffe99d1-2017-4925-a383-0ae3f469bbb9,0.2,Hypertension
+30226500-7923-4821-bc9a-f3d970ca0a17,0.2,Hypertension
+304dd8da-92a9-4e3d-bb3d-f17e5abaa6a5,0.2,Respiratory disease
+30b06457-2827-4b0d-8b7a-3b9182de3c2f,0.2,Stroke
+317992bd-9acd-4f36-b6c1-7b1c2e5b0956,0.2,Hypertension
+31c745e7-ba14-45d0-8345-62ebc0388642,0.2,Respiratory disease
+31c8c4bd-0844-4bd1-91aa-0cbe6aefccbb,0.2,Stroke
+32e1bfa8-eb88-493e-92ca-c5efbbb9b0e6,0.2,Stroke
+32e87660-4dac-4f88-9152-aaf9c08dc70d,0.2,Stroke
+3475fd7b-78ac-4219-a802-b94d3990a6b7,0.2,Stroke
+34819b0e-8eff-4b64-826d-bc7dc8f97ead,0.2,Respiratory disease
+354c036b-45b7-4b5d-8c52-4e4897f7f83c,0.2,Heart disease
+3587c166-6ec5-45c9-b2f2-c9cb68e513ad,0.2,Stroke
+36a641f0-1dbd-4e3c-a0c2-e6ab451298cc,0.2,Heart disease
+37f75006-33fa-40d3-a4cf-a51b91c4d97a,0.2,Arthritis
+38001afb-ade0-4c29-8f2e-f5485d43c581,0.2,Hypertension
+39605780-5b95-4810-9748-308f0523fe50,0.2,Stroke
+39c51447-28ff-475e-9637-3087c03b3f45,0.2,Stroke
+3b59ea7c-bb76-46b7-b271-a2437cb892c6,0.2,Hypertension
+3b7ddfd4-1022-419c-877e-ba61fd86cae3,0.2,Stroke
+3c01381d-03a4-4767-bb90-c2b4f2edf15f,0.2,Kidney disease
+3d7893bf-19df-4ab4-8e92-1788640573ce,0.2,Stroke
+3d81b64d-8a1f-42da-896a-ca9465e6c857,0.2,Hypertension
+3f9d48e8-4135-47e7-ae0d-92da57c05e90,0.2,Stroke
+3fb5a25e-dc27-404a-bdcc-83ace7a58ba4,0.2,Hypertension
+40280573-6d63-45a2-87e7-9e7a5ce7d602,0.2,Stroke
+40317433-90df-43e4-ac34-6a1c02588428,0.2,Respiratory disease
+403321b3-10f7-4561-82f8-18d99ee14912,0.2,Kidney disease
+406ecc3c-e06d-4bba-aa6c-d809c50022db,0.2,Respiratory disease
+40f7cb75-1682-48f3-9038-b9ec9b5c56a3,0.2,Respiratory disease
+41753d57-375a-46d7-a344-50887289726a,0.2,
+41ac9cf5-5f31-41c5-943b-ae5912cc601a,0.2,Stroke
+424b0332-d244-4308-81f0-20237a782002,0.2,Hypertension
+4351e985-8882-4279-a183-65e4bff61621,0.2,Stroke
+44b25f8b-7edf-4dfa-8896-cca6b4139871,0.2,Hypertension
+4546c267-3993-47c0-a7cf-eef082f51599,0.2,Hypertension
+466035ba-2378-417b-b930-5d35daf99afc,0.2,Hypertension
+48b118a9-b0ec-4e95-a8de-d8fea85b61ff,0.2,Hypertension
+490ef4e6-a25b-4a2d-b376-c6dc9cb4e7e1,0.2,Stroke
+4921d31c-e01f-447b-9fe2-5b5a65c4ac36,0.2,Respiratory disease
+4bab2615-2cf1-495e-baa7-8b0c368821d9,0.2,Hypertension
+4db1f1fe-3ed3-411f-a7d8-ef7780d338ff,0.2,Respiratory disease
+4dd13a13-d3d1-4b28-832d-2a76bdab3155,0.2,Stroke
+4e0f9f67-11d6-4065-bd7a-a79069eeb20f,0.2,Asthma
+4e73f03b-9bd9-4a14-a74c-b75b7e79af27,0.2,Peptic Ulcer
+4f8f42cd-3979-42a4-aaad-d55d1f875edc,0.2,Stroke
+501edc60-fccf-4166-bedc-45356f90eacf,0.2,Hypertension
+50f47671-deea-4265-9054-3e701389a969,0.2,Hypertension
+50f5321b-8487-4376-8b7a-e059c49b780b,0.2,Stroke
+5234c2c8-6bf8-4020-94dc-fa1120a4cbe7,0.2,Hypertension
+52471dc2-08b1-4194-b5c6-dfd4d005331c,0.2,Respiratory disease
+54207c96-c287-4c28-a9df-2e6db4fab822,0.2,Stroke
+5478eabd-35be-4b51-9c5a-b97dc3952e00,0.2,Stroke
+5491dcdf-6449-4f05-bac6-6ebd9120d386,0.2,Stroke
+554548f6-956b-4d35-be2f-896a2f158861,0.2,Stroke
+56e90ca4-2c6a-4bf4-9723-48f1ab8b91f4,0.2,Kidney disease
+57199276-d4c2-46f6-80ae-19ecd4565a9f,0.2,Stroke
+580e25ae-155b-4ad9-8925-dc8d2d1e3316,0.2,Hypertension
+582d2554-e8cb-4258-98e9-3313cc375bf0,0.2,Respiratory disease
+58bc763b-2a39-484a-8cd3-13739237ba5f,0.2,Stroke
+5911982e-cae6-466e-959f-53498afa9ea4,0.2,Kidney disease
+59e8129a-6669-4c7f-a6e3-14ceb09ed0b3,0.2,Kidney disease
+5b3da875-c995-4781-b097-8cb1e63cd14c,0.2,Hypertension
+5b9d83db-00fb-4ae4-8a22-6684a1368c3c,0.2,heart disease
+5c1eb1b1-b92c-44aa-801e-92b09fd562a6,0.2,Hypertension
+5f9834d5-50e2-46f4-8549-67f753e1e422,0.2,Stroke
+5fbf9e16-eea4-4b66-aae9-06a0f242d12b,0.2,Respiratory disease
+602ce935-411a-43c9-b443-8d4102406349,0.2,Stroke
+614e16eb-5316-4893-897e-7a5f75597118,0.2,Hypertension
+615e3f96-e178-4563-b5ec-dcd0621d731a,0.2,Respiratory disease
+61b398c5-440e-441a-96d6-fed092f41925,0.2,Hypertension
+62b585a9-6415-4609-a5a2-320bd45d5171,0.2,Kidney disease
+635f21fd-c866-4de6-b6a1-8a91d8b8969f,0.2,Stroke
+645d7d54-2bd2-423d-8b02-26edaa8d57d8,0.2,Stroke
+655ee41a-48fe-47e8-bd10-d09a5eff378c,0.2,Stroke
+65b11eff-d1f5-4913-8045-31ca74bfdfc4,0.2,Respiratory disease
+66362073-63df-461e-b269-d39ae05a8787,0.2,Kidney disease
+66b2f8f6-e8b9-4ba3-b644-b004cf5a36f0,0.2,Stroke
+6800d2aa-e214-4d30-95ea-4e9803027590,0.2,Hypertension
+6843d494-ee27-4011-8977-fecffecf1b17,0.2,Kidney disease
+690cee50-9450-477a-8498-9f492ce3fbc3,0.2,Hypertension
+691cbc7f-302f-4a7a-803c-38d9c972bf81,0.2,Kidney disease
+6a783227-b557-4793-99b7-2c7d5fa6b480,0.2,Kidney disease
+6afad424-3c63-403a-803a-583b2391c6c4,0.2,Respiratory disease
+6cac7af3-2113-426d-bbc4-4fa4506d5a46,0.2,Kidney disease
+6d2cd2f6-c661-4d50-8e39-8043beae6d5f,0.2,Stroke
+6da00bdd-d334-4e30-b068-3d633e991b11,0.2,Stroke
+6ee29228-08c7-465f-aceb-a0c1d8ae9ece,0.2,Stroke
+6efb6087-36d0-4414-8515-5229d5ffb611,0.2,Stroke
+6f43d137-7031-4b9c-a608-adfca604b5bd,0.2,Kidney disease
+70254070-7c83-4aea-9155-d0d08a9cdc28,0.2,Stroke
+71694889-f54a-4915-8cb7-12c656712311,0.2,Stroke
+722a7913-a769-479b-b940-16cf5786cf1b,0.2,Stroke
+7230286a-9c73-4680-a9a8-953638ac4cb9,0.2,Respiratory disease
+7326842d-ed70-4593-a360-f0e82b9a9faa,0.2,Kidney disease
+73e4b319-90e4-476e-a67c-e8397d58d137,0.2,Stroke
+73edb1f3-b363-4156-b5d8-cc9af7bc85ef,0.2,Respiratory disease
+741cb07d-c531-434b-9001-6ee65e6df6f5,0.2,Stroke
+74397f44-c0fc-4290-89b5-5bc732c6f291,0.2,Stroke
+744295d4-91b6-4945-8756-27f7e7c09e10,0.2,Respiratory disease
+7488d75e-e081-4a82-a119-8776a23b460c,0.2,Stroke
+75b7ac0e-6448-4fbc-a975-aa65524c1827,0.2,Kidney disease
+75d35ea0-8bb6-4fba-a1b0-c25bf4aadada,0.2,Kidney disease
+75d93da7-49a1-4b87-875f-8ace58f36c50,0.2,Hypertension
+75dc5df7-3fbc-4e4b-bce7-2750a2dbd352,0.2,Goiter
+761e527e-8bc0-4074-99e5-4728b1c6c3fa,0.2,Respiratory disease
+762d6045-b911-4921-80a1-56a76a387889,0.2,Stroke
+78e223b4-b578-47d7-88a3-304cae2e53d4,0.2,Respiratory disease
+793feed9-fccf-4ff9-bfa2-596efe7ca644,0.2,Respiratory disease
+79a8d5c5-b8f5-4b9d-9427-ddc9c6d876b6,0.2,Hypertension
+7a4296d0-9715-45bf-adbe-092d472c5751,0.2,Hypertension
+7a5477a7-3c70-4b1b-a1e7-fb8af07b4fee,0.2,Hyperthyroidism
+7acd301d-1710-4c60-b61d-182ef23bf9ba,0.2,Respiratory disease
+7b7b991d-cc3a-4d0f-be41-4400e4be85fa,0.2,Stroke
+7b8d4bfd-3672-4e9e-a88f-7e7f3c0880ed,0.2,Hypertension
+7d03ef04-8a22-4315-be10-76591859943f,0.2,Kidney disease
+7d41b27c-6800-40f2-b4c5-1850bc024944,0.2,Stroke
+7d47a262-78e7-4b80-aa11-aea2505cc1f0,0.2,Stroke
+7e66d5ce-b816-486c-a041-6ad77c076654,0.2,Respiratory disease
+7effb2aa-823e-4ad7-bad1-01dca4acae6d,0.2,Respiratory disease
+7f27c409-1d24-4484-8bd4-11c11a0c6ffb,0.2,Stroke
+7fcfb348-48e1-4ec1-b45f-3d298d087cff,0.2,PTB
+8070bc83-b3ec-44f1-a4c6-8463838cf442,0.2,Kidney disease
+808d68ae-2b9e-41e8-8393-6de5ddeac18c,0.2,Kidney disease
+810fb0a1-3367-472f-a4b9-50da9ce4f187,0.2,Stroke
+81c8e476-8ad9-4b71-8fad-4dc579468b4a,0.2,Stroke
+83bccc49-302d-4228-aebd-bd4f5ec3766d,0.2,Cardiovascular Disease
+840e7c25-8517-4565-ab0c-27ecf172dac0,0.2,Stroke
+845a820b-aa02-422e-80a9-d6458737b419,0.2,Kidney disease
+8519e4e2-31bd-4aee-b8fa-f20bd172c55f,0.2,Stroke
+8694dd81-233d-4d94-855e-1271fc0a46a8,0.2,Hypertension
+86b93e10-33e0-4e97-bcea-88cbf2ad2fd2,0.2,Kidney disease
+872bef6b-19d6-4488-8a8b-da1462cae628,0.2,Heart Disease
+875789ec-4155-4043-933a-61c9d9405d3c,0.2,Hypertension
+87f71e58-e0ed-471d-af32-3a49647a4cfc,0.2,Respiratory disease
+884cadf5-ac27-49b2-8677-bcd3d2f62411,0.2,Stroke
+88b1cbca-1414-4d13-9869-084b2ba9773a,0.2,Stroke
+88f4c1c7-7577-4c0b-a9c8-d2a52dc830b0,0.2,Stroke
+8b0be32f-e9c2-4ec9-9c4e-2ce24e45cdca,0.2,Stroke
+8bd124c2-8ccb-4496-ab05-73113401c972,0.2,Stroke
+8c1ec6f7-417e-488a-b75f-d5a2367d5b7d,0.2,Stroke
+8c2ba768-b42f-45e9-a633-65710a2ac7e3,0.2,Heart disease
+8daecc12-87c2-4d35-ace3-41a3d631b1a7,0.2,Stroke
+8e04f21d-5cdd-4b84-a5ff-bdc1f9ffb65a,0.2,Stroke
+8e2d1524-9d94-4d6b-9165-af9a669e8612,0.2,Hypertension
+8e3eab0e-f8ce-4f5d-a381-dd1511cb9c7c,0.2,Stroke
+8e6abfa8-c607-4a5e-9070-fc7bde6b064a,0.2,Stroke
+8ead10f8-1270-4516-b741-c489726380d4,0.2,Asthma
+8ef9470f-3762-4a4a-969e-7a2dddfc4309,0.2,Stroke
+8f7ad782-2330-405e-9f1f-78481df54384,0.2,Respiratory disease
+8fb0db1b-7fc4-418f-aabc-79b104c6a727,0.2,Stroke
+903af4ec-efef-4263-b3ae-a1eb74cbbdb9,0.2,Respiratory disease
+91328c34-b3e6-4ee1-97fa-c839b48565e4,0.2,Stroke
+918553a7-b908-4ef1-b4e7-ed73d754f6f6,0.2,Respiratory disease
+91c618f4-16ae-4943-b343-b42e57326630,0.2,Tuberculosis
+93cbef03-3dad-46ed-85e7-514384d0a932,0.2,Stroke
+9497f7af-642e-4c8e-b61d-aa9372cc6f5d,0.2,Stroke
+94a9617f-1af0-4354-97c8-fb5568bd907c,0.2,Hypertension
+94ad6b04-2c27-4216-a1df-baf3fd5fc35a,0.2,Stroke
+95965812-4481-4788-aade-1aea477bc7ee,0.2,Respiratory disease
+964f4fdd-4799-41c3-a482-870a7af952c6,0.2,Stroke
+97521c2b-6a18-4cec-8191-37e4ac53e13d,0.2,Hypertension
+978ec2ff-d0a9-4dd2-99b1-ce7b1271a6bd,0.2,Stroke
+987f5639-46b3-44c0-86e2-5498c0910448,0.2,Stroke
+9963b840-0477-4c40-8e31-b148ae73d871,0.2,Stroke
+996cf53b-82c6-4a07-b520-9cd5ab0fa7cb,0.2,Respiratory disease
+9bc71b93-0dc1-4cc4-9d85-b1efa8bd5cd3,0.2,Hypertension
+9bd3092f-1135-45c3-928a-5c54f13926f1,0.2,Respiratory disease
+9d896d7a-b465-4e65-88a0-e5994ec8ff2d,0.2,Stroke
+9f07bff9-802b-4c4f-a54a-3f5dc4589269,0.2,Stroke
+9f489d6f-56c7-4338-9f6f-b8c611abbe88,0.2,Liver cirrhosis
+a0030d5d-7d40-4b5b-90ed-a4ddca0e9da9,0.2,Hypertension
+a0b95f21-78fd-4097-90aa-86005cb96a18,0.2,Stroke
+a249ed42-51f5-4f5a-9c23-a8784d8b32ea,0.2,Respiratory disease
+a2a866f0-3233-4af9-bd6c-df84aa07040e,0.2,Hypertension
+a3dfeaaf-7ab6-4031-85bf-94acb5edf259,0.2,Respiratory disease
+a426dfa7-9fe6-46a0-9b8a-025b23b87549,0.2,Stroke
+a59a8e43-3faa-4e9d-beee-4f5690a31ddf,0.2,Hypertension
+a878d5b0-49c6-4e28-b3e3-4b7231680ac2,0.2,Stroke
+a8afdfc8-c689-4c68-ba7e-701ea0f8b33c,0.2,Stroke
+a8f557e2-caa4-4033-9f0e-106f63576ef7,0.2,Kidney disease
+a920f43d-aa28-4b5a-8588-71b3e5b39798,0.2,Stroke
+aafa87ed-b6d5-4ce7-851e-d6eff3d967f0,0.2,Hypertension
+acbbb1af-17f8-4705-b642-ca2090e1ac34,0.2,Respiratory disease
+ad1e7c4d-4619-41c7-be92-4957b068ce20,0.2,Stroke
+aec07051-cbe4-4637-92a9-defacce1901f,0.2,Stroke
+aeef47f9-ddd3-44c1-b54e-31e39312bb2d,0.2,rheumatoid arthritis
+af668671-6e31-4f5d-8ac1-707493c3cf4d,0.2,Kidney disease
+afe7a0b1-9111-4422-b362-64a34f5842a4,0.2,Hypertension
+aff7780d-b85b-4c06-91f5-4248c06d0ee9,0.2,Respiratory disease
+b16b338e-20fb-4e7a-934c-0b777ac08ceb,0.2,Respiratory disease
+b19b3d87-d692-441e-beb0-133445f5762c,0.2,Hypertension
+b1bddf68-866a-4c56-a209-1d6f632b7324,0.2,Anemia
+b23ba654-eb78-444f-93ce-0a4b4b1ffd1e,0.2,Stroke
+b2b9da2a-6647-4c78-9c74-3514e98cbbf5,0.2,Stroke
+b30e3fb5-3e75-472a-8e6b-28306b68a9e4,0.2,Kidney disease
+b3439d1d-0e1d-47ee-bef3-d580b4c740ce,0.2,Stroke
+b356edd5-6700-4428-b790-50efa9fdd471,0.2,Kidney disease
+b4986a61-1759-4fbe-94f0-c507f3055f14,0.2,Respiratory disease
+b4b06feb-ca2e-4bd3-9c11-7a89d1831f53,0.2,Kidney disease
+b51a97f7-fdb3-4e24-9023-480aa8b4b455,0.2,Respiratory disease
+b5665c2b-3d1e-4440-8fd0-ef46d0d685a3,0.2,Respiratory disease
+b61ff404-1839-496c-be65-dbbaefda0202,0.2,Respiratory disease
+b71e25d4-0b60-4ad4-a692-0c27507abda4,0.2,Stroke
+b7662469-6dc2-4f92-8b08-e24b36743ca9,0.2,Hypertension
+b772e6ad-8825-45aa-8c67-fc20deffd515,0.2,Stroke
+b7771df1-e295-4035-82c3-f37994ed2afb,0.2,Respiratory disease
+b7943ba0-42dc-44b3-a9cb-8810704810b4,0.2,Stroke
+b7a94ac0-f832-4f29-b19d-696482739f4d,0.2,Stroke
+b916e018-d2ea-411a-ad0e-4ebfb58e0ee9,0.2,Stroke
+ba47a58b-85cf-475d-8929-a055c5d36db3,0.2,Hypertension
+baac0380-ddae-448a-87d7-822d62103b1d,0.2,Respiratory disease
+bb05971e-5613-4a41-b293-d5022ba9ed57,0.2,Kidney disease
+bb99d164-55d8-44e2-b298-d00e33203017,0.2,Hypertension
+bba0cc66-46a3-429e-9681-d21637a1284f,0.2,Kidney disease
+bba854e9-4601-47ba-a621-442112b15a9c,0.2,Stroke
+bbc99a18-58d9-49c1-91fb-b8fd0235e5e4,0.2,Respiratory disease
+bc8e5b4a-54fd-4fb9-8c4c-1f198ff547ab,0.2,Hypertension
+bc9b4938-df78-44cc-bbb5-8334011c153e,0.2,Stroke
+bcf0ed00-7efb-4003-a13e-3bca79d04dfc,0.2,Respiratory disease
+bd10257f-4aff-4c0b-9603-9855c31b460a,0.2,Stroke
+bef2735c-9efd-483d-b79a-7d94312f8cb4,0.2,Stroke
+bf072433-834a-43d7-acde-a3b66df1d058,0.2,Hypertension
+c170d8e5-f8d3-442e-9058-6c2e0accbb11,0.2,Stroke
+c29fb7bb-620c-44bf-b147-f174e8bf57e3,0.2,Stroke
+c2a6cc9d-3464-4916-ad25-788f97a81bc4,0.2,Hypertension
+c2a84479-4657-41f7-bfbf-51535da86324,0.2,Respiratory disease
+c2fd3636-3918-43d9-a121-695bd536a7f8,0.2,Hypertension
+c33f0312-0611-4c6c-ab31-5bc37a531389,0.2,Stroke
+c3631998-c796-4762-b54a-190e0cc35d67,0.2,Asthma
+c4e48278-e6a4-440e-b20f-2e26372675f1,0.2,Stroke
+c522d9a6-cc3c-4d0f-9cd0-407cdcee67bb,0.2,Arthritis
+c58f4c55-8523-4630-bcc5-5e5129ff8bf2,0.2,Respiratory disease
+c6b732d8-66af-4db0-aa8b-40ee4563a5aa,0.2,Kidney disease
+c8eb133c-d8d2-46d3-82ff-7391b3de1794,0.2,Respiratory disease
+c918fd48-be1c-413c-9058-b0de7e63e49a,0.2,Stroke
+c94ca58d-2e63-4e49-9baa-f9363ac088be,0.2,Respiratory disease
+c9888324-fb8b-4756-be6b-e4c2c5753a24,0.2,Hypertension
+c99c75c8-d695-49ad-97fa-346656529636,0.2,Hypertension
+cac2dd5d-8b0c-4a7c-9e96-d0560d23b3e9,0.2,Stroke
+cba750ad-0f78-4826-93e1-e85f30fb0b86,0.2,Hypertension
+cc5c953d-5f29-4a32-bb6f-4d149a328166,0.2,Respiratory disease
+cc807e12-f70e-4d26-bd16-78bd9eb3b65b,0.2,Stroke
+cd9ea460-0e60-49e5-8566-b7ee13d8ced9,0.2,Heart Disease
+ce634292-d322-463a-bec9-3ace02f6b057,0.2,Tuberculosis
+ceed3992-c88a-40d6-992e-39c497f2e63b,0.2,Respiratory disease
+cf043310-d7fd-4ac7-b308-56b7d54cfc9c,0.2,Kidney disease
+d00d0bae-5362-41d1-88f3-f4db0f948c68,0.2,Respiratory disease
+d061471d-9f68-4468-b794-26c6098201d5,0.2,Hypertension
+d099c361-57ca-4c15-b68c-a0dc06c0dbb5,0.2,Tuberculosis
+d0d75f2e-54c2-4e82-be01-39f5d90c0e11,0.2,Cirrhosis of the liver
+d0dd6019-f638-4682-a343-ec51f3b1240b,0.2,Respiratory disease
+d0fcf910-4487-4729-926b-d44c513342ac,0.2,Hypertension
+d371961f-0ccb-480a-a096-1037a90226cf,0.2,Hypertension
+d3e3ee9c-8ba2-4063-a44f-a8e513f953f2,0.2,Kidney disease
+d542735f-6a59-4698-8468-79f74027f1d7,0.2,Hypertension
+d5ade089-505d-4880-a543-59d744263758,0.2,Stroke
+d76bbcb4-e097-4b31-89e1-1d12b0054a31,0.2,Hypertension
+d7711aa3-303a-489d-9cf0-452fb73709bc,0.2,Stroke
+d7726780-a820-403b-a193-73131fbc4e5e,0.2,Stroke
+d7e5512a-620b-4500-8b9b-2ca39f29a377,0.2,Stroke
+d847efb0-9c99-4be6-8c58-2958388d1b20,0.2,Hypertension
+d957b008-8e47-46ed-a206-636e44741bc6,0.2,Hypertension
+da420b49-c3c5-452b-8ba1-23b3d169aa0d,0.2,Stroke
+dad3d34d-b3e4-4825-abea-af654b4d80ce,0.2,Respiratory disease
+db0f8d57-e843-42d1-895f-3f11b2dce2cf,0.2,Hypertension
+db3ee613-e6f4-486a-8245-0b03ed50e293,0.2,Kidney disease
+dba1454c-a077-4fa6-a26f-12c4ddeaad69,0.2,Stroke
+dc95cff5-959c-40f8-b29d-c5545718afc2,0.2,Respiratory disease
+dca166a6-adbc-4c6b-8d44-1583b69dcfb4,0.2,Respiratory disease
+dce3a1e8-c320-4784-b955-0a310d8ae793,0.2,Respiratory disease
+dd2b8620-a4ca-40c6-84a3-d1137b089377,0.2,Stroke
+dd4cd764-e3e6-49ee-90c7-c741bcb4e73e,0.2,Kidney disease
+dd600ebf-1265-47d2-ac97-3ee17a1134bc,0.2,Stroke
+ddf814f2-bfad-4592-9b39-db814d22ddb2,0.2,Respiratory disease
+de0a4008-0dc2-4086-ad78-9c9fcd08fba1,0.2,Cardiovascular Diseases
+dfbf0454-b9c8-48f2-804a-165e56bb5f96,0.2,Stroke
+e0e3c5e6-b9ed-44c5-bb98-4545d748816e,0.2,Stroke
+e14637c3-7dd8-4c2f-87c5-54d7dd2721a8,0.2,Hypertension
+e1d9f553-a3c5-49e0-a1dc-289bc3e367e8,0.2,Kidney disease
+e22d0c30-2313-4910-95e2-9a7a08d0e206,0.2,Kidney disease
+e262a179-b434-48b4-9be4-221f96b7e751,0.2,Asthma
+e28b26d4-e256-4494-abe3-3926e5bea178,0.2,Stroke
+e40cd0f0-4fdc-4673-9c23-cc79b37f5589,0.2,Stroke
+e416ef2e-05c3-42a5-9e1f-2319aad540c5,0.2,Respiratory disease
+e42e98e1-5a7e-4587-8889-e033eda5fc37,0.2,Stroke
+e4405d4f-b1e5-40c8-9c0f-bd247a929b66,0.2,Kidney disease
+e47ceacf-5063-4c07-99c0-f194c62e3a97,0.2,Respiratory disease
+e4db3df3-1c16-4fa0-9bc6-02df7a334685,0.2,Stroke
+e63c4649-d415-4470-8bb4-c11aa838d62b,0.2,Hypertension
+e70d4c68-3d94-40f7-ab51-3dbc18113e72,0.2,Stroke
+e73a9ba1-5cb2-41fa-a9ca-340d6e6fc39c,0.2,Kidney disease
+e8d15aa5-4a60-4bb3-9a6e-8d858971599f,0.2,Respiratory disease
+e93bdd82-a77a-4fa6-9f8d-5fe81c303a2d,0.2,Stroke
+ea33dd1e-b91e-40f7-8ed3-c0f2f04a7620,0.2,Stroke
+eb5f6a8c-736f-4a9f-935e-2ce85bd4ab52,0.2,Hypertension
+ebb6f8cb-bc73-4eae-affb-98caa8314118,0.2,Stroke
+ec18d9fe-7f00-4ee8-97aa-0a839f5a6ebd,0.2,Stroke
+eca466d9-6d6b-4bdd-bad1-972001885154,0.2,Respiratory disease
+ecda8451-d33f-4ca7-844a-0942238a7203,0.2,Respiratory disease
+ed54586d-0d79-4c19-9888-484d95f23c0e,0.2,Hypertension
+ee8eb79f-fd5c-4095-9d87-4c8813a59293,0.2,Stroke
+eea58670-7353-4d61-a948-6947067eeff6,0.2,heart disease
+f0b291da-3d23-4498-8c31-89a31fe9e29a,0.2,Stroke
+f0e3cd58-6085-4da9-b0f6-b93e3b33b52a,0.2,Stroke
+f1025640-8751-49f7-81a2-8ff7c0f75ea1,0.2,Stroke
+f11233a5-11ee-471a-bcaf-2b19f27c8b4f,0.2,Stroke
+f17ce6c4-5ff0-4269-9abe-e88c07176823,0.2,Stroke
+f1cb388a-4a2f-41b5-999d-b29d25e9a204,0.2,Respiratory disease
+f20633c8-215c-45fb-b30e-0bfb0be72bc2,0.2,Respiratory disease
+f23cedaf-3f7d-4b6a-9e50-e77547246599,0.2,Stroke
+f2acffeb-0e73-43a0-a1b4-69dd15a15138,0.2,Stroke
+f360aeb4-f673-4c66-ac4e-77b08b0adf8e,0.2,Stroke
+f3dfd351-0b7e-4c82-a82b-1c0806188b53,0.2,Stroke
+f57615c8-f37c-450f-8b46-64d26a217b2d,0.2,Kidney disease
+f5d1bdc8-2c8d-45f1-8d68-d3b4ac8643d8,0.2,cardiovascular disease
+f6b67932-0ebb-4d14-a7f4-779be548a381,0.2,Stroke
+f6f10a32-3499-4c51-bf69-fd770dd5891f,0.2,Stroke
+f750baea-1ac8-4153-b777-73439f4e8f67,0.2,Stroke
+f8e1e114-a5e4-4a27-b1da-e623e0f88f86,0.2,Heart disease
+f95e8ccc-d2c4-40fd-916a-7fdc600036d9,0.2,Respiratory disease
+f9a8024a-c0a9-4870-9732-4f2e94525493,0.2,Stroke
+fba5b7d5-f2fe-4b37-a9cc-073c0701d6cc,0.2,Stroke
+fc146379-c9c4-45d9-b486-11cf4485aafc,0.2,Stroke
+fe1c7573-36d6-4b95-aad4-90352690345d,0.2,Respiratory disease
+fe6c2b3e-e96c-447f-8da9-deb32f026c88,0.2,Respiratory disease
+fe987bac-b2c7-40c3-bf79-8ca3a7f13817,0.2,Stroke
+fec59146-4091-48ea-a559-a3f363f1bada,0.2,Kidney disease
+ff3239cd-ab9f-4008-b890-c630091453f9,0.2,Hypertension
+067b8f84-10fe-4d4b-81f2-d888f32d1646,0.3,Stroke
+07235d59-6a71-421c-949f-aa5469fcfe2d,0.3,Stroke
+08d65df9-197c-43db-9e09-fb9470f48a4c,0.3,Stroke
+0f9cf135-664c-4f03-bfb6-19ac94565be1,0.3,Kidney disease
+1056ed4e-39fc-4473-a8d6-5460d97e665d,0.3,Stroke
+145aadc7-9b61-450c-a7f0-e818b96ede9f,0.3,Stroke
+1550f52d-a536-44f2-b2e3-b728f52cd83f,0.3,Stroke
+16ee2b45-a638-48dd-ae81-fb7423bc517f,0.3,Tuberculosis of the bone
+17a21efb-f173-4bdb-9806-609d43f6d822,0.3,Tuberculosis
+188848e5-66eb-4a86-8071-cfd46c1934c1,0.3,Stroke
+2070b9c2-4f0f-48e0-bc9a-dd02c737145d,0.3,Stroke
+20f749f6-e27a-4172-8cf8-e172f819d2ad,0.3,Stroke
+2165c945-d03b-41e4-aa6c-e9171850e9ea,0.3,Kidney disease
+23fb0597-a357-4dea-949c-d084a65a8aa3,0.3,Stroke
+243230cc-239b-4a84-8b7e-5fa3c09c5223,0.3,Respiratory disease
+2766098f-5700-4e8c-987d-3d338d424bbf,0.3,Stroke
+278cc348-686b-440a-b01f-c99b3904a38d,0.3,Stroke
+298a0a27-797a-492d-a97c-f4f81742c0c8,0.3,Stroke
+2c867354-4b9b-45e2-8477-c21c3ca0fcfa,0.3,Kidney disease
+2effe159-db2d-44d2-8e61-f549c2ebd5a4,0.3,Stroke
+2f584280-1096-45c2-9bfd-0b34dd20dc60,0.3,Stroke
+2f64be26-a89f-4a9a-bdb7-eec1930896e1,0.3,Stroke
+2f7e448d-2ac4-49da-b701-eccaa97ddd96,0.3,Stroke
+2ffe99d1-2017-4925-a383-0ae3f469bbb9,0.3,Stroke
+30226500-7923-4821-bc9a-f3d970ca0a17,0.3,Kidney disease
+304dd8da-92a9-4e3d-bb3d-f17e5abaa6a5,0.3,Stroke
+317992bd-9acd-4f36-b6c1-7b1c2e5b0956,0.3,Stroke
+31c745e7-ba14-45d0-8345-62ebc0388642,0.3,Tuberculosis
+38001afb-ade0-4c29-8f2e-f5485d43c581,0.3,Kidney disease
+3b59ea7c-bb76-46b7-b271-a2437cb892c6,0.3,Stroke
+3c01381d-03a4-4767-bb90-c2b4f2edf15f,0.3,Respiratory disease
+3d7893bf-19df-4ab4-8e92-1788640573ce,0.3,cardiovascular disease
+3d81b64d-8a1f-42da-896a-ca9465e6c857,0.3,Respiratory disease
+40317433-90df-43e4-ac34-6a1c02588428,0.3,Stroke
+403321b3-10f7-4561-82f8-18d99ee14912,0.3,Respiratory disease
+41ac9cf5-5f31-41c5-943b-ae5912cc601a,0.3,Tuberculosis
+424b0332-d244-4308-81f0-20237a782002,0.3,Respiratory disease
+4351e985-8882-4279-a183-65e4bff61621,0.3,
+44b25f8b-7edf-4dfa-8896-cca6b4139871,0.3,Kidney disease
+4546c267-3993-47c0-a7cf-eef082f51599,0.3,Respiratory disease
+466035ba-2378-417b-b930-5d35daf99afc,0.3,Kidney disease
+490ef4e6-a25b-4a2d-b376-c6dc9cb4e7e1,0.3,Asthma
+4921d31c-e01f-447b-9fe2-5b5a65c4ac36,0.3,Cardiovascular Disease
+4bab2615-2cf1-495e-baa7-8b0c368821d9,0.3,Kidney disease
+501edc60-fccf-4166-bedc-45356f90eacf,0.3,Kidney disease
+50f47671-deea-4265-9054-3e701389a969,0.3,Kidney disease
+52471dc2-08b1-4194-b5c6-dfd4d005331c,0.3,Stroke
+580e25ae-155b-4ad9-8925-dc8d2d1e3316,0.3,Respiratory disease
+582d2554-e8cb-4258-98e9-3313cc375bf0,0.3,Stroke
+5911982e-cae6-466e-959f-53498afa9ea4,0.3,Respiratory disease
+59e8129a-6669-4c7f-a6e3-14ceb09ed0b3,0.3,Stroke
+5c1eb1b1-b92c-44aa-801e-92b09fd562a6,0.3,Stroke
+5fbf9e16-eea4-4b66-aae9-06a0f242d12b,0.3,Stroke
+615e3f96-e178-4563-b5ec-dcd0621d731a,0.3,Stroke
+645d7d54-2bd2-423d-8b02-26edaa8d57d8,0.3,Arthritis
+65b11eff-d1f5-4913-8045-31ca74bfdfc4,0.3,Stroke
+66362073-63df-461e-b269-d39ae05a8787,0.3,Respiratory disease
+6800d2aa-e214-4d30-95ea-4e9803027590,0.3,Kidney disease
+6843d494-ee27-4011-8977-fecffecf1b17,0.3,Stroke
+691cbc7f-302f-4a7a-803c-38d9c972bf81,0.3,Respiratory disease
+6afad424-3c63-403a-803a-583b2391c6c4,0.3,Stroke
+7230286a-9c73-4680-a9a8-953638ac4cb9,0.3,Stroke
+7326842d-ed70-4593-a360-f0e82b9a9faa,0.3,Stroke
+73edb1f3-b363-4156-b5d8-cc9af7bc85ef,0.3,Stroke
+744295d4-91b6-4945-8756-27f7e7c09e10,0.3,Stroke
+75b7ac0e-6448-4fbc-a975-aa65524c1827,0.3,Stroke
+75d35ea0-8bb6-4fba-a1b0-c25bf4aadada,0.3,Stroke
+75d93da7-49a1-4b87-875f-8ace58f36c50,0.3,Stroke
+78e223b4-b578-47d7-88a3-304cae2e53d4,0.3,Stroke
+79a8d5c5-b8f5-4b9d-9427-ddc9c6d876b6,0.3,Respiratory disease
+7a4296d0-9715-45bf-adbe-092d472c5751,0.3,Stroke
+7acd301d-1710-4c60-b61d-182ef23bf9ba,0.3,Stroke
+7d03ef04-8a22-4315-be10-76591859943f,0.3,Respiratory disease
+8070bc83-b3ec-44f1-a4c6-8463838cf442,0.3,Stroke
+808d68ae-2b9e-41e8-8393-6de5ddeac18c,0.3,Respiratory disease
+875789ec-4155-4043-933a-61c9d9405d3c,0.3,Kidney disease
+87f71e58-e0ed-471d-af32-3a49647a4cfc,0.3,Stroke
+8f7ad782-2330-405e-9f1f-78481df54384,0.3,Stroke
+903af4ec-efef-4263-b3ae-a1eb74cbbdb9,0.3,Stroke
+918553a7-b908-4ef1-b4e7-ed73d754f6f6,0.3,Stroke
+94a9617f-1af0-4354-97c8-fb5568bd907c,0.3,Stroke
+97521c2b-6a18-4cec-8191-37e4ac53e13d,0.3,Kidney disease
+996cf53b-82c6-4a07-b520-9cd5ab0fa7cb,0.3,Stroke
+9bc71b93-0dc1-4cc4-9d85-b1efa8bd5cd3,0.3,Kidney disease
+a0030d5d-7d40-4b5b-90ed-a4ddca0e9da9,0.3,Respiratory disease
+a2a866f0-3233-4af9-bd6c-df84aa07040e,0.3,Kidney disease
+a3dfeaaf-7ab6-4031-85bf-94acb5edf259,0.3,Stroke
+a59a8e43-3faa-4e9d-beee-4f5690a31ddf,0.3,Stroke
+a8f557e2-caa4-4033-9f0e-106f63576ef7,0.3,Respiratory disease
+aafa87ed-b6d5-4ce7-851e-d6eff3d967f0,0.3,Kidney disease
+afe7a0b1-9111-4422-b362-64a34f5842a4,0.3,Kidney disease
+aff7780d-b85b-4c06-91f5-4248c06d0ee9,0.3,Stroke
+b16b338e-20fb-4e7a-934c-0b777ac08ceb,0.3,cardiovascular disease
+b19b3d87-d692-441e-beb0-133445f5762c,0.3,Stroke
+b30e3fb5-3e75-472a-8e6b-28306b68a9e4,0.3,Stroke
+b4986a61-1759-4fbe-94f0-c507f3055f14,0.3,Stroke
+b4b06feb-ca2e-4bd3-9c11-7a89d1831f53,0.3,Respiratory disease
+b51a97f7-fdb3-4e24-9023-480aa8b4b455,0.3,Stroke
+b61ff404-1839-496c-be65-dbbaefda0202,0.3,Stroke
+baac0380-ddae-448a-87d7-822d62103b1d,0.3,Stroke
+bb05971e-5613-4a41-b293-d5022ba9ed57,0.3,heart decease
+bf072433-834a-43d7-acde-a3b66df1d058,0.3,Kidney disease
+c2a6cc9d-3464-4916-ad25-788f97a81bc4,0.3,Stroke
+c2a84479-4657-41f7-bfbf-51535da86324,0.3,Stroke
+c2fd3636-3918-43d9-a121-695bd536a7f8,0.3,Stroke
+c6b732d8-66af-4db0-aa8b-40ee4563a5aa,0.3,Respiratory disease
+cac2dd5d-8b0c-4a7c-9e96-d0560d23b3e9,0.3,Cardiovascular disease
+cba750ad-0f78-4826-93e1-e85f30fb0b86,0.3,Respiratory disease
+d061471d-9f68-4468-b794-26c6098201d5,0.3,Respiratory disease
+d371961f-0ccb-480a-a096-1037a90226cf,0.3,Stroke
+d3e3ee9c-8ba2-4063-a44f-a8e513f953f2,0.3,Stroke
+d542735f-6a59-4698-8468-79f74027f1d7,0.3,Stroke
+d76bbcb4-e097-4b31-89e1-1d12b0054a31,0.3,Stroke
+dad3d34d-b3e4-4825-abea-af654b4d80ce,0.3,Stroke
+db0f8d57-e843-42d1-895f-3f11b2dce2cf,0.3,Stroke
+db3ee613-e6f4-486a-8245-0b03ed50e293,0.3,Stroke
+dc95cff5-959c-40f8-b29d-c5545718afc2,0.3,Stroke
+dca166a6-adbc-4c6b-8d44-1583b69dcfb4,0.3,Stroke
+dd4cd764-e3e6-49ee-90c7-c741bcb4e73e,0.3,Respiratory disease
+e14637c3-7dd8-4c2f-87c5-54d7dd2721a8,0.3,Respiratory disease
+e1d9f553-a3c5-49e0-a1dc-289bc3e367e8,0.3,Respiratory disease
+e22d0c30-2313-4910-95e2-9a7a08d0e206,0.3,Stroke
+e416ef2e-05c3-42a5-9e1f-2319aad540c5,0.3,Stroke
+e4405d4f-b1e5-40c8-9c0f-bd247a929b66,0.3,Stroke
+e47ceacf-5063-4c07-99c0-f194c62e3a97,0.3,Stroke
+e63c4649-d415-4470-8bb4-c11aa838d62b,0.3,Kidney disease
+e73a9ba1-5cb2-41fa-a9ca-340d6e6fc39c,0.3,Stroke
+ecda8451-d33f-4ca7-844a-0942238a7203,0.3,Stroke
+ed54586d-0d79-4c19-9888-484d95f23c0e,0.3,Stroke
+f1cb388a-4a2f-41b5-999d-b29d25e9a204,0.3,Stroke
+f57615c8-f37c-450f-8b46-64d26a217b2d,0.3,Respiratory disease
+fe987bac-b2c7-40c3-bf79-8ca3a7f13817,0.3,rheumatic heart disease
+ff3239cd-ab9f-4008-b890-c630091453f9,0.3,Stroke
+145aadc7-9b61-450c-a7f0-e818b96ede9f,0.4,"PTB,Kidney Stone"
+2c867354-4b9b-45e2-8477-c21c3ca0fcfa,0.4,Respiratory disease
+30226500-7923-4821-bc9a-f3d970ca0a17,0.4,Respiratory disease
+317992bd-9acd-4f36-b6c1-7b1c2e5b0956,0.4,heart disease
+38001afb-ade0-4c29-8f2e-f5485d43c581,0.4,Respiratory disease
+3c01381d-03a4-4767-bb90-c2b4f2edf15f,0.4,Stroke
+403321b3-10f7-4561-82f8-18d99ee14912,0.4,Stroke
+424b0332-d244-4308-81f0-20237a782002,0.4,Stroke
+44b25f8b-7edf-4dfa-8896-cca6b4139871,0.4,appendicitis
+466035ba-2378-417b-b930-5d35daf99afc,0.4,Stroke
+4bab2615-2cf1-495e-baa7-8b0c368821d9,0.4,Stroke
+501edc60-fccf-4166-bedc-45356f90eacf,0.4,Respiratory disease
+50f47671-deea-4265-9054-3e701389a969,0.4,Respiratory disease
+52471dc2-08b1-4194-b5c6-dfd4d005331c,0.4,Heart Disease
+582d2554-e8cb-4258-98e9-3313cc375bf0,0.4,Heart disease
+66362073-63df-461e-b269-d39ae05a8787,0.4,Stroke
+6800d2aa-e214-4d30-95ea-4e9803027590,0.4,Stroke
+691cbc7f-302f-4a7a-803c-38d9c972bf81,0.4,Stroke
+7d03ef04-8a22-4315-be10-76591859943f,0.4,Stroke
+808d68ae-2b9e-41e8-8393-6de5ddeac18c,0.4,Stroke
+875789ec-4155-4043-933a-61c9d9405d3c,0.4,Stroke
+996cf53b-82c6-4a07-b520-9cd5ab0fa7cb,0.4,Cataract
+9bc71b93-0dc1-4cc4-9d85-b1efa8bd5cd3,0.4,Stroke
+a2a866f0-3233-4af9-bd6c-df84aa07040e,0.4,Stroke
+a8f557e2-caa4-4033-9f0e-106f63576ef7,0.4,Stroke
+b19b3d87-d692-441e-beb0-133445f5762c,0.4,cerebral palsy
+b4b06feb-ca2e-4bd3-9c11-7a89d1831f53,0.4,Stroke
+bf072433-834a-43d7-acde-a3b66df1d058,0.4,Stroke
+d061471d-9f68-4468-b794-26c6098201d5,0.4,Stroke
+dd4cd764-e3e6-49ee-90c7-c741bcb4e73e,0.4,Stroke
+e63c4649-d415-4470-8bb4-c11aa838d62b,0.4,Respiratory disease
+2c867354-4b9b-45e2-8477-c21c3ca0fcfa,0.5,Stroke
+38001afb-ade0-4c29-8f2e-f5485d43c581,0.5,Stroke
+501edc60-fccf-4166-bedc-45356f90eacf,0.5,Stroke
+7d03ef04-8a22-4315-be10-76591859943f,0.5,rheumatic heart disease
+9bc71b93-0dc1-4cc4-9d85-b1efa8bd5cd3,0.5,Liver Cirrhosis
+a2a866f0-3233-4af9-bd6c-df84aa07040e,0.5,cardiovascular disease
+e63c4649-d415-4470-8bb4-c11aa838d62b,0.5,Stroke
+38001afb-ade0-4c29-8f2e-f5485d43c581,0.6,
+e63c4649-d415-4470-8bb4-c11aa838d62b,0.6,Benign tumors
+0cc0ae71-0388-4ccf-a772-b8b448b4d34d,1.0,Diabetes
+0f0c6168-314f-4bc9-b1ec-a4c66c7f8f62,1.0,rayuma
+252f42fd-ec60-46fb-98a2-0a3d99cc5fd4,1.0,Hypertension
+38ac4495-fad2-4b6d-b31c-077ae092625c,1.0,Hypertension
+443683b4-1d87-46ff-a554-5708f6954f7f,1.0,Cancer
+467469ba-dbcc-490d-8876-70f6be51bee1,1.0,tuberculosis
+52bbfc8c-d82a-4b17-a86f-9fab10c4fee1,1.0,Hypertension
+6456ec7b-e83a-4f94-ba2c-9c68a51dfdcd,1.0,Cancer
+78464163-e7f7-4e8c-a662-faef3007dcbd,1.0,Diabetes
+98590a67-a9cd-4414-8da0-c01a20d32226,1.0,Hypertension
+af2ca27f-33fe-4b44-9749-82775b4a6252,1.0,Diabetes
+b6e14855-a756-44ff-8b23-4611d81dc2c8,1.0,Diabetes
+f985b9dd-d4f5-4d09-aeb1-731e421eea80,1.0,Respiratory disease
+0cc0ae71-0388-4ccf-a772-b8b448b4d34d,1.1,Hypertension
+78464163-e7f7-4e8c-a662-faef3007dcbd,1.1,Respiratory disease

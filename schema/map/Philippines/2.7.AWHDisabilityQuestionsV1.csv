@@ -1,0 +1,12 @@
+source_key,destination_key,default_value,tag
+_id,_id,,existing
+_index_map,_index_map,,existing
+_id,profileId,,existing
+disabilities.cause,answers.disabilityCause,,existing
+disabilities.disabled,answers.disabilityHas,false,existing
+disabilities.type,answers.disabilityType,false,existing
+,dateCreated,2019-06-26T18:49:19.625+08:00,new
+,dateUpdated,,new
+,formId,aoHHtLo7ZHpDcHbgNtS2xF,new
+,formName,2.7 - AWH Disability Questions V1,new
+,type,profile-related-form,new

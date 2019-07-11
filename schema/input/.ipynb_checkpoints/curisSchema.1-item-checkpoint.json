@@ -77,25 +77,6 @@
           }
         }
       },
-      "economic": {
-        "$id": "#/items/properties/economic",
-        "type": "object",
-        "title": "The Economic Schema",
-        "properties": {
-          "salary": {
-            "$id": "#/items/properties/economic/properties/salary",
-            "type": "string",
-            "title": "The Salary Schema",
-            "pattern": "^(.*)$"
-          },
-          "currency": {
-            "$id": "#/items/properties/economic/properties/currency",
-            "type": "string",
-            "title": "The Currency Schema",
-            "pattern": "^(.*)$"
-          }
-        }
-      },
       "date_visits": {
         "$id": "#/items/properties/date_visits",
         "type": "array",
@@ -222,7 +203,7 @@
             },
             "blood_sugar": {
               "$id": "#/items/properties/health_informations/items/properties/blood_sugar",
-              "type": "integer",
+              "type": "string",
               "title": "The Blood_sugar Schema"
             },
             "blood_type": {
@@ -273,7 +254,7 @@
             },
             "height": {
               "$id": "#/items/properties/health_informations/items/properties/height",
-              "type": "integer",
+              "type": "string",
               "title": "The Height Schema"
             },
             "high_cost_medicine": {
@@ -302,12 +283,12 @@
             },
             "waist_circumference": {
               "$id": "#/items/properties/health_informations/items/properties/waist_circumference",
-              "type": "integer",
+              "type": "string",
               "title": "The Waist_circumference Schema"
             },
             "weight": {
               "$id": "#/items/properties/health_informations/items/properties/weight",
-              "type": "integer",
+              "type": "string",
               "title": "The Weight Schema"
             }
           }
@@ -353,12 +334,12 @@
             },
             "no_of_families_in_the_household": {
               "$id": "#/items/properties/households/items/properties/no_of_families_in_the_household",
-              "type": "integer",
+              "type":"string",
               "title": "The No_of_families_in_the_household Schema"
             },
             "no_of_people_in_the_household": {
               "$id": "#/items/properties/households/items/properties/no_of_people_in_the_household",
-              "type": "integer",
+              "type": "string",
               "title": "The No_of_people_in_the_household Schema"
             },
             "sanitary_ownership": {

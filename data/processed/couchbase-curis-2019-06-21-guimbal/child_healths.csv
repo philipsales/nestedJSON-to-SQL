@@ -1,0 +1,2 @@
+_id,_index_map,child_healths.date_updated,child_healths.child.mid_upper_arm_circumference,child_healths.child.exclusive_breast_feeding,child_healths.newborn.exclusive_breast_feeding,child_healths.child.eating_solid_food,child_healths.infant.exclusive_breast_feeding,child_healths.infant.eating_solid_food,child_healths.infant.mid_upper_arm_circumference
+d90b4e52-5f54-450a-b975-30f0fbe1e452,0,03/23/2018 at 12:09:13 PM GMT+08:00,,False,False,False,False,False,

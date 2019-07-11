@@ -1,0 +1,49 @@
+[
+    {
+        "health_informations": [
+            {
+                "height": "nan",
+                "maintenance_drugs": "nan",
+                "smoking_habit": "nan",
+                "weight": "nan"
+            },
+            {
+                "height": "200.0",
+                "maintenance_drugs": "Biogesic",
+                "smoking_habit": "Never",
+                "weight": "320.0"
+            }
+        ],
+        "id": "2f920d39-319e-4bf7-90c8-6133c3337af7",
+        "profiles": [
+            {
+                "employment": {
+                    "monthly_income": "nan"
+                }
+            },
+            {
+                "employment": {
+                    "monthly_income": "nan"
+                }
+            }
+        ]
+    },
+    {
+        "health_informations": [
+            {
+                "height": "100.0",
+                "maintenance_drugs": "Paracetamol",
+                "smoking_habit": "Active",
+                "weight": "120.0"
+            }
+        ],
+        "id": "64c2e7de-0cc8-4df5-a54f-02398652c080",
+        "profiles": [
+            {
+                "employment": {
+                    "monthly_income": "Php12.00"
+                }
+            }
+        ]
+    }
+]

@@ -21,7 +21,7 @@ cb_conn = couchbase_conf.CouchbaseConfig[couchbase_conf.CouchbaseENV]
 BUCKET = cb_conn['BUCKET'] 
 URL = cb_conn['HOST'] + cb_conn['BUCKET']
 IP_ADDRESS = cb_conn['IP'] 
-TIMEOUTE = cb_conn['TIMEOUT']
+TIMEOUT = cb_conn['TIMEOUT']
 PROTOCOL = cb_conn['PROTOCOL']
 PORT = cb_conn['PORT']
 API_ENDPOINT = "_bulk_docs"
@@ -79,30 +79,30 @@ def _push_doc_to_couchbase():
 
     #with open( 'file/parsed_output/Isabela/test.json') as f:
     try:
-        #with open( 'file/parsed_output/Isabela/test.json') as f:
-        #with open( 'file/parsed_output/easycase.json') as f:
+        index = 0
+        #with open( 'file/parsed_output/Pototan/output.json') as f:
+        #with open( 'file/parsed_output/Pototan/output.json') as f:
+        with open( 'file/parsed_output/Cuartero/output.json') as f:
+        #with open('data/merged/couchbase-curis-2019-06-21-cuartero/health_information.output.json') as f:
+        #with open( 'file/parsed_output/sample-output.json') as f:
             #_data_df = json.load(f)
-            for datum in json.load(f)
+            for datum in json.load(f):
             #for datum in _data_df:
 
-            print(_data_df)
                 couchbase_json = datum.copy()
-                cb_id = '2324234'
-                rev_id = 'v1'
-                couchbase_json["_rev"] = rev_id
+                cb_id = '56735fea-a015-4f54-a98d-71d6642c7ea0'
                 couchbase_json["_id"] = cb_id
                 couchbase_json = json.dumps(datum)
-
 
                 r = requests.post(url, 
                     data=couchbase_json, 
                     headers={"Accept":"application/json",
                             "Content-type":"application/json"})
-
-                print(r.status_code)
-                print(r.elapsed.total_seconds())
-                print(r.text)
-
+                index += 1
+                print('------Count: '+ str(index))
+                print('status: '+ str(r.status_code))
+                print('elapsed_time: '+str(r.elapsed.total_seconds()))
+                print('response: ' + r.text)
 
     except (ConnectionError, RequestException, CouchbaseNetworkError) as err: 
             print(err) 
@@ -113,7 +113,7 @@ def _conn_headers():
     return {
         "accept": "application/json",
         "allow_redirects": "True",
-        "timeout": str(TIMEOUTE),
+        "timeout": str(TIMEOUT),
     }
 
 def _conn_filters(**kwargs):

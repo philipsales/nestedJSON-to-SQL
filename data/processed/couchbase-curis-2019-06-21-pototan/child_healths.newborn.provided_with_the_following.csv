@@ -1,0 +1,42 @@
+_id,_index_map,child_healths.newborn.provided_with_the_following
+0ac725cf-eed8-4d9c-afdb-f7d91b1120f1,0.0,Newborn screening
+0d45bd19-8779-4e8b-8a55-416aef5be1bf,0.0,Newborn screening
+0f5b2cc6-8b31-4738-a9f8-b27ad6a37e93,0.0,Newborn screening
+1d280d13-e45a-4b2f-8f0a-d3a5d1771aa7,0.0,Newborn screening
+22f3be21-2130-493d-9a37-86f5c3a4810b,0.0,Newborn screening
+25909a32-bb88-4a2a-af26-8380ef189bf4,0.0,Newborn screening
+2b0fefb5-7e16-4eb2-adb8-78f413332778,0.0,Hepatitis B vaccine
+344cb408-1a43-4df1-872e-3e967a2f7c47,0.0,Newborn screening
+53cfba6c-bf4d-4972-9e56-d010f7230c75,0.0,Newborn screening
+92ec239c-d1ca-42c5-b8c2-5afde858a8aa,0.0,Newborn screening
+9ad6b656-ac1f-421c-8e55-21d554bb67d9,0.0,Newborn screening
+d4ad8eec-9f47-46b7-9dd0-b38ebc677fb8,0.0,Newborn screening
+da61b8b5-d142-47b1-bd8e-f4fb87220346,0.0,Newborn screening
+e2d666d5-95d3-404f-972b-4f010929da3e,0.0,Newborn screening
+0ac725cf-eed8-4d9c-afdb-f7d91b1120f1,0.1,BCG vaccine
+0d45bd19-8779-4e8b-8a55-416aef5be1bf,0.1,BCG vaccine
+0f5b2cc6-8b31-4738-a9f8-b27ad6a37e93,0.1,BCG vaccine
+1d280d13-e45a-4b2f-8f0a-d3a5d1771aa7,0.1,BCG vaccine
+22f3be21-2130-493d-9a37-86f5c3a4810b,0.1,BCG vaccine
+25909a32-bb88-4a2a-af26-8380ef189bf4,0.1,BCG vaccine
+344cb408-1a43-4df1-872e-3e967a2f7c47,0.1,BCG vaccine
+92ec239c-d1ca-42c5-b8c2-5afde858a8aa,0.1,BCG vaccine
+9ad6b656-ac1f-421c-8e55-21d554bb67d9,0.1,BCG vaccine
+d4ad8eec-9f47-46b7-9dd0-b38ebc677fb8,0.1,BCG vaccine
+da61b8b5-d142-47b1-bd8e-f4fb87220346,0.1,BCG vaccine
+e2d666d5-95d3-404f-972b-4f010929da3e,0.1,BCG vaccine
+0ac725cf-eed8-4d9c-afdb-f7d91b1120f1,0.2,Hepatitis B vaccine
+0d45bd19-8779-4e8b-8a55-416aef5be1bf,0.2,Hepatitis B vaccine
+0f5b2cc6-8b31-4738-a9f8-b27ad6a37e93,0.2,Hepatitis B vaccine
+1d280d13-e45a-4b2f-8f0a-d3a5d1771aa7,0.2,Hepatitis B vaccine
+22f3be21-2130-493d-9a37-86f5c3a4810b,0.2,Hepatitis B vaccine
+25909a32-bb88-4a2a-af26-8380ef189bf4,0.2,Hepatitis B vaccine
+344cb408-1a43-4df1-872e-3e967a2f7c47,0.2,Hepatitis B vaccine
+92ec239c-d1ca-42c5-b8c2-5afde858a8aa,0.2,Hepatitis B vaccine
+9ad6b656-ac1f-421c-8e55-21d554bb67d9,0.2,Hepatitis B vaccine
+d4ad8eec-9f47-46b7-9dd0-b38ebc677fb8,0.2,Hepatitis B vaccine
+da61b8b5-d142-47b1-bd8e-f4fb87220346,0.2,Hepatitis B vaccine
+22f3be21-2130-493d-9a37-86f5c3a4810b,1.0,Newborn screening
+2b0fefb5-7e16-4eb2-adb8-78f413332778,1.0,Hepatitis B vaccine
+22f3be21-2130-493d-9a37-86f5c3a4810b,1.1,BCG vaccine
+22f3be21-2130-493d-9a37-86f5c3a4810b,1.2,Hepatitis B vaccine
