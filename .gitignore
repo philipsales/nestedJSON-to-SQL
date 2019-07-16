@@ -80,3 +80,8 @@ Sessionx.vim
 tags
 # Persistent undo
 [._]*.un~
+
+#sensitive data
+/data/*
+/file/parsed_ouptut/*
+

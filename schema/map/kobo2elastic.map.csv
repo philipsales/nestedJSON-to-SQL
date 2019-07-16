@@ -1,4 +1,0 @@
-source_key,destination_key
-_uuid,awh_id
-personal_info.date_of_birth,demographics.birthdate
-personal_info.civil_status,demographics.civil_st

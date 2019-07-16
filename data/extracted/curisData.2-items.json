@@ -1,0 +1,435 @@
+[{
+		"id": "000210ae-ddfd-42f2-b79b-01908c4b73ef",
+		"address": {
+			"barangay": "naganacan",
+			"country": "Philippines",
+			"lot_or_house_number": "21 Baker",
+			"postal_code": "3201",
+			"province": "santa maria isabela"
+		},
+		"birthdate": "09/19/1951",
+		"contact_number": {
+			"country_code": "+63",
+			"number": "12312312"
+		},
+		"date_visits": [
+			"09/19/2018 at 03:44:06 PM GMT+08:00",
+			"10/22/2018 at 09:44:17 AM GMT+08:00"
+		],
+		"email_address": null,
+		"family_members": [
+			"5289d20e-c80f-4c9e-9e79-7cd3cc2a3e90",
+			"000210ae-ddfd-42f2-b79b-01908c4b73ef",
+			"6a0c8e9c-dfc6-48c8-bf1e-19a7f15229ec"
+		],
+		"first_name": "Rosita",
+		"gender": "Female",
+		"health_informations": [{
+			"allergies": "None",
+			"blood_pressure": {
+				"first_reading": {
+					"diastole": "120",
+					"systole": "90"
+				},
+				"second_reading": {
+					"diastole": "120",
+					"systole": "90"
+				},
+				"third_reading": {
+					"diastole": "120",
+					"systole": "90"
+				}
+			},
+			"blood_sign": "empty",
+			"blood_sugar": 0,
+			"blood_type": "I don't know",
+			"date_updated": "09/19/2018 at 03:44:06 PM GMT+08:00",
+			"diagnosed": [
+				"Diabetes",
+				"Respiratory disease"
+			],
+			"exercise_in_a_week": "2 to 3 hours",
+			"family_history": [
+				"Diabetes",
+				"Respiratory disease"
+			],
+			"fruits_in_a_week": "1",
+			"height": 0,
+			"high_cost_medicine": "none",
+			"maintenance_drugs": "232",
+			"smoking_habit": "Never",
+			"vegetables_in_a_week": "2",
+			"waist_circumference": 0,
+			"weight": 0
+		}],
+		"households": [{
+			"amenities_present_in_house": [
+				"Electricity",
+				"Proper Ventilation",
+				"Water Supply"
+			],
+			"date_updated": "09/19/2018 at 03:44:06 PM GMT+08:00",
+			"house_ownership": "Owned",
+			"neighborhood_description": "Rural",
+			"no_of_families_in_the_household": 1,
+			"no_of_people_in_the_household": 3,
+			"sanitary_ownership": "Owned",
+			"sanitary_type": [
+				"Pail"
+			],
+			"type_of_house": "Concrete-based"
+		}],
+		"identification": {
+			"id1": {
+				"identifier": "SSS",
+				"type": "4Ps"
+			},
+			"id2": {
+				"identifier": "SSS",
+				"type": "4Ps"
+			},
+			"id3": {
+				"identifier": "SSS",
+				"type": "4Ps"
+			}
+		},
+		"last_name": "Antalan",
+		"last_name_suffix": "Jr.",
+		"middle_name": "Laforteza",
+		"nhid": "123123",
+		"organization": "Santa Maria Isabela RHU",
+		"profile_picture": {
+			"name": "8c9ef45a-c0b0-4f0a-a1d8-8c6c11e6b895",
+			"path": "/data/data/com.awh.health.curis/app_images/images_resident"
+		},
+		"profiles": [{
+			"civil_status": "Widowed",
+			"date_updated": "09/19/2018 at 03:44:06 PM GMT+08:00",
+			"education": "Elementary Level",
+			"employment": {
+				"is_employed": false,
+				"monthly_income": "12,200",
+				"nature": "empty"
+			},
+			"religion": "Catholic"
+		}],
+		"registered_at": "09/19/2018 at 03:44:03 PM GMT+08:00",
+		"symptoms_collection": [{
+			"abdomen": {
+				"abdomen": ["pain", "burn"]
+			},
+			"arms": {
+				"elbow": ["pain", "burn"],
+				"fingers": ["pain", "burn"],
+				"hand_and_palm": ["pain", "burn"],
+				"lower_arm": ["pain", "burn"],
+				"upper_arm": ["pain", "burn"],
+				"wrist": ["pain", "burn"]
+			},
+			"chest": {
+				"chest": ["pain", "burn"],
+				"lungs_and_breathing": ["pain", "burn"]
+			},
+			"date_updated": "09/19/2018 at 03:44:06 PM GMT+08:00",
+			"head": {
+				"chin_and_jaw": ["pain", "burn"],
+				"ears": ["pain", "burn"],
+				"eyes": ["pain", "burn"],
+				"head": ["pain", "burn"],
+				"mouth": ["pain", "burn"],
+				"nose": ["pain", "burn"]
+			},
+			"legs": {
+				"foot": ["pain", "burn"],
+				"knee": ["pain", "burn"],
+				"shin": ["pain", "burn"],
+				"thigh": ["pain", "burn"],
+				"toes": [
+					"Joint pain"
+				]
+			},
+			"neck": {
+				"lowerback": ["pain", "burn"],
+				"neck": ["pain", "burn"],
+				"shoulders": ["pain", "burn"],
+				"throat": ["pain", "burn"],
+				"upperback": ["pain", "burn"]
+			},
+			"pelvis": {
+				"genitals": ["pain", "burn"],
+				"hip": ["pain", "burn"],
+				"pelvis": ["pain", "burn"]
+			},
+			"skin": {
+				"skin": ["pain", "burn"]
+			}
+		}],
+		"type": "user-resident",
+		"user-cam": {
+			"id": "lcorpuz@gmail.com",
+			"owner": "lcorpuz@gmail.com"
+		}
+	},
+
+
+
+	{
+		"id": "0003ff38-28fb-4005-9437-d276cbb9da4d",
+		"address": {
+			"barangay": "Agdahon Cuartero",
+			"country": "Philippines",
+			"lot_or_house_number": "Sto. tunga",
+			"postal_code": "",
+			"province": "Capiz"
+		},
+		"birthdate": "04/01/1997",
+		"contact_number": {
+			"country_code": "+63",
+			"number": null
+		},
+		"date_visits": [
+			"07/22/2018 at 08:37:46 PM GMT+08:00",
+			"08/04/2018 at 07:55:35 PM GMT+08:00",
+			"09/06/2018 at 11:32:21 AM GMT+08:00"
+		],
+		"email_address": null,
+		"family_members": [],
+		"first_name": "Jerick",
+		"gender": "Male",
+		"health_informations": [{
+				"allergies": "",
+				"blood_pressure": {
+					"first_reading": {
+						"diastole": "",
+						"systole": ""
+					},
+					"second_reading": {
+						"diastole": "",
+						"systole": ""
+					},
+					"third_reading": {
+						"diastole": "",
+						"systole": ""
+					}
+				},
+				"blood_sign": "empty",
+				"blood_sugar": 0,
+				"blood_type": "I don't know",
+				"date_updated": "07/22/2018 at 08:37:46 PM GMT+08:00",
+				"diagnosed": [
+					"Kidney disease"
+				],
+				"exercise_in_a_week": "0 to 1 hour",
+				"family_history": [
+					"Kidney disease"
+				],
+				"fruits_in_a_week": "1",
+				"height": 5.4,
+				"high_cost_medicine": "No",
+				"maintenance_drugs": "No",
+				"smoking_habit": "Never",
+				"vegetables_in_a_week": "2",
+				"waist_circumference": 27,
+				"weight": 55
+			},
+			{
+				"allergies": "",
+				"blood_pressure": {
+					"first_reading": {
+						"diastole": "",
+						"systole": ""
+					},
+					"second_reading": {
+						"diastole": "",
+						"systole": ""
+					},
+					"third_reading": {
+						"diastole": "",
+						"systole": ""
+					}
+				},
+				"blood_sign": "empty",
+				"blood_sugar": 0,
+				"blood_type": "I don't know",
+				"date_updated": "08/04/2018 at 07:55:35 PM GMT+08:00",
+				"diagnosed": [
+					"Kidney disease"
+				],
+				"exercise_in_a_week": "0 to 1 hour",
+				"family_history": [
+					"Kidney disease"
+				],
+				"fruits_in_a_week": "1",
+				"height": 5.4,
+				"high_cost_medicine": "No",
+				"maintenance_drugs": "No",
+				"smoking_habit": "Never",
+				"vegetables_in_a_week": "2",
+				"waist_circumference": 27,
+				"weight": 55
+			},
+			{
+				"allergies": "N/A",
+				"blood_pressure": {
+					"first_reading": {
+						"diastole": "",
+						"systole": ""
+					},
+					"second_reading": {
+						"diastole": "",
+						"systole": ""
+					},
+					"third_reading": {
+						"diastole": "",
+						"systole": ""
+					}
+				},
+				"blood_sign": "empty",
+				"blood_sugar": 0,
+				"blood_type": "I don't know",
+				"date_updated": "09/06/2018 at 11:32:21 AM GMT+08:00",
+				"diagnosed": [
+					"Kidney disease"
+				],
+				"exercise_in_a_week": "0 to 1 hour",
+				"family_history": [
+					"Kidney disease"
+				],
+				"fruits_in_a_week": "1",
+				"height": 5.4,
+				"high_cost_medicine": "No",
+				"maintenance_drugs": "No",
+				"smoking_habit": "Never",
+				"vegetables_in_a_week": "2",
+				"waist_circumference": 27,
+				"weight": 55
+			}
+		],
+		"households": [{
+			"amenities_present_in_house": [
+				"Electricity",
+				"Proper Ventilation",
+				"Water Supply"
+			],
+			"date_updated": "07/22/2018 at 08:37:46 PM GMT+08:00",
+			"house_ownership": "Owned",
+			"neighborhood_description": "Rural",
+			"no_of_families_in_the_household": 1,
+			"no_of_people_in_the_household": 2,
+			"sanitary_ownership": "Owned",
+			"sanitary_type": [
+				"Flush"
+			],
+			"type_of_house": "Wood-based"
+		}],
+		"identification": {
+			"id1": {
+				"identifier": null,
+				"type": "4Ps"
+			},
+			"id2": {
+				"identifier": null,
+				"type": "4Ps"
+			},
+			"id3": {
+				"identifier": null,
+				"type": "4Ps"
+			}
+		},
+		"last_name": "Degara",
+		"last_name_suffix": "",
+		"middle_name": "Hallegado",
+		"nhid": "",
+		"organization": "Cuartero RHU",
+		"profile_picture": {
+			"name": "b7a409b7-33ce-40fa-bc8e-35240d8c6265",
+			"path": "/data/data/com.awh.health.curis/app_images/images_resident"
+		},
+		"profiles": [{
+				"civil_status": "Single",
+				"date_updated": "07/22/2018 at 08:37:46 PM GMT+08:00",
+				"education": "No Formal Education",
+				"employment": {
+					"is_employed": false,
+					"monthly_income": "",
+					"nature": "empty"
+				},
+				"religion": "Catholic"
+			},
+			{
+				"civil_status": "Single",
+				"date_updated": "08/04/2018 at 07:55:35 PM GMT+08:00",
+				"education": "No Formal Education",
+				"employment": {
+					"is_employed": false,
+					"monthly_income": "",
+					"nature": "empty"
+				},
+				"religion": "Catholic"
+			}
+		],
+		"registered_at": "07/22/2018 at 08:37:43 PM GMT+08:00",
+		"symptoms_collection": [{
+			"abdomen": {
+				"abdomen": []
+			},
+			"arms": {
+				"elbow": [],
+				"fingers": [],
+				"hand_and_palm": [],
+				"lower_arm": [],
+				"upper_arm": [],
+				"wrist": []
+			},
+			"chest": {
+				"chest": [],
+				"lungs_and_breathing": []
+			},
+			"date_updated": "08/04/2018 at 07:55:35 PM GMT+08:00",
+			"head": {
+				"chin_and_jaw": [],
+				"ears": [],
+				"eyes": [],
+				"head": [
+					"A spinning sensation"
+				],
+				"mouth": [
+					"Mouth sores",
+					"Toothache"
+				],
+				"nose": [
+					"Runny nose"
+				]
+			},
+			"legs": {
+				"foot": [],
+				"knee": [],
+				"shin": [],
+				"thigh": [],
+				"toes": []
+			},
+			"neck": {
+				"lowerback": [],
+				"neck": [],
+				"shoulders": [],
+				"throat": [],
+				"upperback": []
+			},
+			"pelvis": {
+				"genitals": [],
+				"hip": [],
+				"pelvis": []
+			},
+			"skin": {
+				"skin": []
+			}
+		}],
+		"type": "user-resident",
+		"user-cam": {
+			"id": "kristel@gmail.com",
+			"owner": "kristel@gmail.com"
+		}
+	}
+
+
+]

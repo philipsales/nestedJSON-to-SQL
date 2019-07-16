@@ -1,5 +1,0 @@
-source_key,destination_key
-demographics.awh_id,demographics.awh.id
-demographics.address.country,address.country
-demographics.address.commnty,address.commnty
-demographics.address.zip,address.zip
