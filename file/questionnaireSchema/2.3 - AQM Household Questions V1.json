@@ -1,0 +1,20 @@
+{
+	"answers": {
+    "householdNumberOfFamilies": "1",
+    "householdConstruction": "PB",
+    "householdOwnershipType": "OWN",
+    "neighbourhoodType": "UR",
+    "sanitationType": "FL",
+    "sanitationOwnership": "FL",
+    "amenities": [
+      "ELE",
+      "WAT"
+    ]
+	},
+	"dateCreated": "2019-06-26T18:53:55.460+08:00",
+	"dateUpdated": "",
+  "formId": "aBdKbMkKaRmhcUtG4KiWW5",
+	"formName": "2.2 - AQM HealthInfo Questions V1",
+	"profileId": "4a901b2f65b9b5481a04c1146301d09d",
+	"type": "profile-related-form"
+}

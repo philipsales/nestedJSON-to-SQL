@@ -1,0 +1,12 @@
+source_key,source_type,destination_key,destination_type,data_type,data_source,data_format,default_value,lookup_value
+profiles.civil_status,string,answers.civilStatus,string,existing,original,,,
+profiles.religion,string,answers.religion,string,existing,original,,,
+profiles.education,string,answers.highestEducation,string,existing,original,,,
+profiles.employment.nature,string,answers.employmentArea,string,existing,original,,,
+profiles.employment.is_employed,string,answers.employmentStatus,string,existing,original,,,
+user-cam.id,string,createdBy,string,existing,original,,,
+registered_at,timestamp,dateCreated,timestamp,existing,original,timestamp,,
+,,dateUpdated,timestamp,new,generated,timestamp,,
+,,formName,string,new,generated,,2.1 - AQM General Questions V1,
+,,formId,string,new,generated,,AWviKwKDKxqtHWZMp2v4,
+,,type,string,new,generated,,profile-related-form,

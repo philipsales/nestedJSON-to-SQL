@@ -1,0 +1,78 @@
+_id,_index_map,child_healths.newborn.experience_any
+00383b0d-ca99-4239-ba1b-0d26872f9bdb,0.0,Cold
+065b8d6b-1fe9-4ae2-ab0b-7474207d67ec,0.0,Cold
+08372e56-59e2-4a08-9271-626b4101abc1,0.0,Cold
+09b3d58e-22e6-4e78-8f94-ccde1b1409bd,0.0,Cold
+0a505de7-25d8-4409-8a14-bbb46b02e6bf,0.0,Cold
+0b729212-72cd-493d-a611-8a7d41a002b9,0.0,Cold
+0e140428-ba14-4bbe-8926-98c8404ebdb6,0.0,Cold
+13d7e083-3013-46cc-b832-1ad65274c9d8,0.0,Fever
+175cc278-89f2-415f-a82d-d5e983162485,0.0,Cold
+1fddcada-da86-40ba-94c3-48edd318249a,0.0,Cold
+26b11389-7339-4f0d-b265-1b1904afe8c2,0.0,Cold
+283c46d9-a6e0-43df-aca7-8fc86652c9bf,0.0,Cold
+2c0a1582-b422-4307-9878-21ba623de2dd,0.0,Fever
+374cf32a-076a-4da8-bfdf-03944288e54f,0.0,Cold
+37b3e2a9-c177-44b7-8699-5bea261b12a9,0.0,Fever
+50fce50f-1248-41d0-a664-8f56300db71e,0.0,Hilanat
+548a8def-e3ef-4495-9b3a-e3e5d30f092b,0.0,Hilanat
+62ed5eb5-d441-421a-8ce9-1cd182c943c2,0.0,Cold
+653f7c0a-05b5-42c1-9494-874021657a6c,0.0,Cold
+78a0543d-d7b6-4b24-b6cb-2828ac400876,0.0,Yellowish eyes/skin/soles
+7b921eea-3be4-4b48-8990-beec51f98822,0.0,Cold
+853a57fe-a449-4a5b-bce2-221751c36e8a,0.0,Fever
+b2746dac-311b-4903-8c7c-cc2999fe9f6e,0.0,Cold
+bb7a00bb-5656-4251-bf3c-d44670894d59,0.0,Cold
+bbbe3f9d-1d91-4e29-a3ed-ee60a609c126,0.0,Fever
+bf6eb834-ae8b-4050-a578-b812d6d232cd,0.0,Cold
+c114ae27-26ea-4e60-a57e-11afdc11d018,0.0,Cold
+cc52d501-98a8-481c-9723-9cf4c6a05d7a,0.0,Fever
+cdf10996-64cb-43d3-b06d-4fe3f47656e0,0.0,Cold
+cfe88e47-55f0-4c2e-8954-b31cb52af290,0.0,Cold
+da065869-982a-48e8-94fe-9197ab026fb2,0.0,Fever
+dae8c18a-6262-4e9d-a697-e433e8547a0f,0.0,Cold
+eecb040a-cd47-4410-b917-7725995c7168,0.0,Cold
+fc4af4e3-d50c-4e7d-ad35-38b0a009fc54,0.0,Cold
+00383b0d-ca99-4239-ba1b-0d26872f9bdb,0.1,Fever
+065b8d6b-1fe9-4ae2-ab0b-7474207d67ec,0.1,Fever
+08372e56-59e2-4a08-9271-626b4101abc1,0.1,Fever
+09b3d58e-22e6-4e78-8f94-ccde1b1409bd,0.1,Fever
+0a505de7-25d8-4409-8a14-bbb46b02e6bf,0.1,Fever
+0b729212-72cd-493d-a611-8a7d41a002b9,0.1,Fast breathing
+0e140428-ba14-4bbe-8926-98c8404ebdb6,0.1,Fever
+13d7e083-3013-46cc-b832-1ad65274c9d8,0.1,Cold
+175cc278-89f2-415f-a82d-d5e983162485,0.1,Fever
+1fddcada-da86-40ba-94c3-48edd318249a,0.1,Fever
+26b11389-7339-4f0d-b265-1b1904afe8c2,0.1,Fever
+283c46d9-a6e0-43df-aca7-8fc86652c9bf,0.1,Fever
+2c0a1582-b422-4307-9878-21ba623de2dd,0.1,Cold
+374cf32a-076a-4da8-bfdf-03944288e54f,0.1,Fever
+653f7c0a-05b5-42c1-9494-874021657a6c,0.1,Fever
+b2746dac-311b-4903-8c7c-cc2999fe9f6e,0.1,Fast breathing
+bb7a00bb-5656-4251-bf3c-d44670894d59,0.1,Fever
+bbbe3f9d-1d91-4e29-a3ed-ee60a609c126,0.1,Cold
+bf6eb834-ae8b-4050-a578-b812d6d232cd,0.1,Fever
+c114ae27-26ea-4e60-a57e-11afdc11d018,0.1,Fever
+cdf10996-64cb-43d3-b06d-4fe3f47656e0,0.1,Fever
+cfe88e47-55f0-4c2e-8954-b31cb52af290,0.1,Fever
+dae8c18a-6262-4e9d-a697-e433e8547a0f,0.1,Fever
+eecb040a-cd47-4410-b917-7725995c7168,0.1,Fever
+fc4af4e3-d50c-4e7d-ad35-38b0a009fc54,0.1,Fever
+09b3d58e-22e6-4e78-8f94-ccde1b1409bd,0.2,Fast breathing
+283c46d9-a6e0-43df-aca7-8fc86652c9bf,0.2,Poor sucking or feeding
+2c0a1582-b422-4307-9878-21ba623de2dd,0.2,Poor sucking or feeding
+374cf32a-076a-4da8-bfdf-03944288e54f,0.2,Poor sucking or feeding
+b2746dac-311b-4903-8c7c-cc2999fe9f6e,0.2,Fever
+01eb4fe6-2b50-4e90-aba3-fb827c922de4,1.0,Cold
+09b3d58e-22e6-4e78-8f94-ccde1b1409bd,1.0,Cold
+26b11389-7339-4f0d-b265-1b1904afe8c2,1.0,Cold
+78a0543d-d7b6-4b24-b6cb-2828ac400876,1.0,Yellowish eyes/skin/soles
+d90dc594-2fcd-4e9f-b5b9-a5c31e448d37,1.0,Fever
+01eb4fe6-2b50-4e90-aba3-fb827c922de4,1.1,Fever
+09b3d58e-22e6-4e78-8f94-ccde1b1409bd,1.1,Fever
+26b11389-7339-4f0d-b265-1b1904afe8c2,1.1,Fever
+09b3d58e-22e6-4e78-8f94-ccde1b1409bd,1.2,Fast breathing
+01eb4fe6-2b50-4e90-aba3-fb827c922de4,2.0,Cold
+01eb4fe6-2b50-4e90-aba3-fb827c922de4,2.1,Fever
+01eb4fe6-2b50-4e90-aba3-fb827c922de4,3.0,Cold
+01eb4fe6-2b50-4e90-aba3-fb827c922de4,3.1,Fever

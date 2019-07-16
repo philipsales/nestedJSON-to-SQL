@@ -1,0 +1,10 @@
+source_key,source_type,destination_key,destination_type,data_type,data_source,data_format,default_value,lookup_value
+disabilities.cause,string,answers.disabilityCause,string,existing,original,,,
+disabilities.disabled,string,answers.disabilityHas,string,existing,original,,,
+disabilities.type,string,answers.disabilityType,string,existing,original,,,
+registered_at,timestamp,dateCreated,timestamp,existing,original,timestamp,,
+user-cam.id,string,createdBy,string,existing,original,,,
+,,dateUpdated,string,new,generated,timestamp,,
+,,formId,string,new,generated,,aoHHtLo7ZHpDcHbgNtS2xF,
+,,formName,string,new,generated,,2.7 - AWH Disability Questions V1,
+,,type,string,new,generated,,profile-related-form,

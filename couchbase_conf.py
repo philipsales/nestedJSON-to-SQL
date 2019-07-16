@@ -1,8 +1,8 @@
 
 #SERVER Configuration
 #CouchbaseENV = "testing-miko-linode"
-CouchbaseENV = "prod-clone"
-#CouchbaseENV = "latest-uat"
+#CouchbaseENV = "prod-clone"
+CouchbaseENV = "latest-uat"
 
 CouchbaseConfig = {
     'local': {

@@ -1,0 +1,18 @@
+_id,_index_map,family_planning_and_maternal_healths.not_pregnant.did_you_experience_any_of_the_following_after_delivery
+02c5050e-881c-4a4d-966b-47302ee4b910,0.0,Severe vaginal pain
+20dc709b-f841-4bbd-ba3e-fb4d56f92eb5,0.0,Heavy vaginal bleeding
+ae0abb29-18d8-430f-81d0-12229fcfe272,0.0,Heavy vaginal bleeding
+b746e980-cbb6-41e6-b104-4acbad589b33,0.0,Difficulty urinating
+de09dc98-7432-47e9-86ef-bc1e8d1d7c27,0.0,Severe headache
+e1083df4-050f-404b-9a0c-364e9be25eae,0.0,Severe vaginal pain
+e12f51eb-d2ae-459e-822d-50316ff69e79,0.0,Severe headache
+fe65bcce-dcaa-417f-a558-ba8dce63a5d3,0.0,Paleness
+e12f51eb-d2ae-459e-822d-50316ff69e79,0.1,Difficulty urinating
+7f7c3c28-94eb-4ee4-afe9-80858d1415a4,1.0,Difficulty urinating
+8ba42051-48f1-44ee-87e5-c6202f39a6b2,1.0,Difficulty breathing
+ae0abb29-18d8-430f-81d0-12229fcfe272,1.0,Heavy vaginal bleeding
+d7b5f6cc-de36-408c-a2f2-3587c67881a0,1.0,Difficulty breathing
+e12f51eb-d2ae-459e-822d-50316ff69e79,1.0,Severe headache
+8ba42051-48f1-44ee-87e5-c6202f39a6b2,1.1,Heavy vaginal bleeding
+e12f51eb-d2ae-459e-822d-50316ff69e79,1.1,Difficulty urinating
+8ba42051-48f1-44ee-87e5-c6202f39a6b2,1.2,Severe vaginal pain
