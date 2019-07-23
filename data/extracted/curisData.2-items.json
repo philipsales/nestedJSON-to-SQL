@@ -41,7 +41,7 @@
 				}
 			},
 			"blood_sign": "empty",
-			"blood_sugar": 0,
+			"blood_sugar": 10,
 			"blood_type": "I don't know",
 			"date_updated": "09/19/2018 at 03:44:06 PM GMT+08:00",
 			"diagnosed": [
@@ -54,13 +54,13 @@
 				"Respiratory disease"
 			],
 			"fruits_in_a_week": "1",
-			"height": 0,
+			"height": 120,
 			"high_cost_medicine": "none",
-			"maintenance_drugs": "232",
+			"maintenance_drugs": "Paracetamol",
 			"smoking_habit": "Never",
 			"vegetables_in_a_week": "2",
-			"waist_circumference": 0,
-			"weight": 0
+			"waist_circumference": 10,
+			"weight": 60
 		}],
 		"households": [{
 			"amenities_present_in_house": [
@@ -170,9 +170,6 @@
 			"owner": "lcorpuz@gmail.com"
 		}
 	},
-
-
-
 	{
 		"id": "0003ff38-28fb-4005-9437-d276cbb9da4d",
 		"address": {
@@ -213,7 +210,7 @@
 					}
 				},
 				"blood_sign": "empty",
-				"blood_sugar": 0,
+				"blood_sugar": 20,
 				"blood_type": "I don't know",
 				"date_updated": "07/22/2018 at 08:37:46 PM GMT+08:00",
 				"diagnosed": [

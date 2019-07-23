@@ -21,14 +21,14 @@
 			"FHC",
 			"NO"
 		],
-		"y1BreastMilk": null,
-		"y1MUAC": null,
-		"y1SolidFood": null,
-		"y1Symptoms": null,
-		"y1VitaminA": null,
-		"y5MUAC": null,
-		"y5Symptoms": null,
-		"y5Treatments": null
+		"infantBreastMilk": null,
+		"infantMUAC": null,
+		"infantSolidFood": null,
+		"infantSymptoms": null,
+		"infantVitaminA": null,
+		"childMUAC": null,
+		"childSymptoms": null,
+		"childTreatments": null
 	},
 	"dateCreated": "2019-06-27T21:04:44.954+08:00",
 	"formId": "aW7sSVUJvWLpfpGLGgTEQm",

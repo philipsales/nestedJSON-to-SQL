@@ -203,7 +203,7 @@
             },
             "blood_sugar": {
               "$id": "#/items/properties/health_informations/items/properties/blood_sugar",
-              "type": "string",
+              "type": "integer",
               "title": "The Blood_sugar Schema"
             },
             "blood_type": {
@@ -254,7 +254,7 @@
             },
             "height": {
               "$id": "#/items/properties/health_informations/items/properties/height",
-              "type": "string",
+              "type": "integer",
               "title": "The Height Schema"
             },
             "high_cost_medicine": {
@@ -283,12 +283,12 @@
             },
             "waist_circumference": {
               "$id": "#/items/properties/health_informations/items/properties/waist_circumference",
-              "type": "string",
+              "type": "integer",
               "title": "The Waist_circumference Schema"
             },
             "weight": {
               "$id": "#/items/properties/health_informations/items/properties/weight",
-              "type": "string",
+              "type": "integer",
               "title": "The Weight Schema"
             }
           }
@@ -334,12 +334,12 @@
             },
             "no_of_families_in_the_household": {
               "$id": "#/items/properties/households/items/properties/no_of_families_in_the_household",
-              "type":"string",
+              "type": "integer",
               "title": "The No_of_families_in_the_household Schema"
             },
             "no_of_people_in_the_household": {
               "$id": "#/items/properties/households/items/properties/no_of_people_in_the_household",
-              "type": "string",
+              "type": "integer",
               "title": "The No_of_people_in_the_household Schema"
             },
             "sanitary_ownership": {
@@ -364,6 +364,395 @@
               "type": "string",
               "title": "The Type_of_house Schema",
               "pattern": "^(.*)$"
+            }
+          }
+        }
+      },
+      "disabilities": {
+        "$id": "#/items/properties/disabilities",
+        "type": "array",
+        "title": "The Disabilities Schema",
+        "items": {
+          "$id": "#/items/properties/disabilities/items",
+          "type": "object",
+          "title": "The Items Schema",
+          "properties": {
+            "cause": {
+              "$id": "#/items/properties/disabilities/items/properties/cause",
+              "type": "array",
+              "title": "The Cause Schema"
+            },
+            "date_updated": {
+              "$id": "#/items/properties/disabilities/items/properties/date_updated",
+              "type": "string",
+              "title": "The Date_updated Schema",
+              "pattern": "^(.*)$"
+            },
+            "disabled": {
+              "$id": "#/items/properties/disabilities/items/properties/disabled",
+              "type": "boolean",
+              "title": "The Disabled Schema"
+            },
+            "type": {
+              "$id": "#/items/properties/disabilities/items/properties/type",
+              "type": "array",
+              "title": "The Type Schema"
+            }
+          }
+        }
+      },
+      "mental_healths": {
+        "$id": "#/items/properties/mental_healths",
+        "type": "array",
+        "title": "The Mental_healths Schema",
+        "items": {
+          "$id": "#/items/properties/mental_healths/items",
+          "type": "object",
+          "title": "The Items Schema",
+          "properties": {
+            "cause": {
+              "$id": "#/items/properties/mental_healths/items/properties/cause",
+              "type": "array",
+              "title": "The Cause Schema",
+              "items": {
+                "$id": "#/items/properties/mental_healths/items/properties/cause/items",
+                "type": "string",
+                "title": "The Items Schema",
+                "pattern": "^(.*)$"
+              }
+            },
+            "date_updated": {
+              "$id": "#/items/properties/mental_healths/items/properties/date_updated",
+              "type": "string",
+              "title": "The Date_updated Schema",
+              "pattern": "^(.*)$"
+            },
+            "experience": {
+              "$id": "#/items/properties/mental_healths/items/properties/experience",
+              "type": "array",
+              "title": "The Experience Schema",
+              "items": {
+                "$id": "#/items/properties/mental_healths/items/properties/experience/items",
+                "type": "string",
+                "title": "The Items Schema",
+                "pattern": "^(.*)$"
+              }
+            }
+          }
+        }
+      },
+      "child_healths": {
+        "$id": "#/items/properties/child_healths",
+        "type": "array",
+        "title": "The Child_healths Schema",
+        "items": {
+          "$id": "#/items/properties/child_healths/items",
+          "type": "object",
+          "title": "The Items Schema",
+          "properties": {
+            "child": {
+              "$id": "#/items/properties/child_healths/items/properties/child",
+              "type": "object",
+              "title": "The Child Schema",
+              "properties": {
+                "eating_solid_food": {
+                  "$id": "#/items/properties/child_healths/items/properties/child/properties/eating_solid_food",
+                  "type": "boolean",
+                  "title": "The Eating_solid_food Schema"
+                },
+                "exclusive_breast_feeding": {
+                  "$id": "#/items/properties/child_healths/items/properties/child/properties/exclusive_breast_feeding",
+                  "type": "boolean",
+                  "title": "The Exclusive_breast_feeding Schema"
+                },
+                "following_experience": {
+                  "$id": "#/items/properties/child_healths/items/properties/child/properties/following_experience",
+                  "type": "array",
+                  "title": "The Following_experience Schema",
+                  "items": {
+                    "$id": "#/items/properties/child_healths/items/properties/child/properties/following_experience/items",
+                    "type": "string",
+                    "title": "The Items Schema",
+                    "pattern": "^(.*)$"
+                  }
+                },
+                "following_received": {
+                  "$id": "#/items/properties/child_healths/items/properties/child/properties/following_received",
+                  "type": "array",
+                  "title": "The Following_received Schema",
+                  "items": {
+                    "$id": "#/items/properties/child_healths/items/properties/child/properties/following_received/items",
+                    "type": "string",
+                    "title": "The Items Schema",
+                    "pattern": "^(.*)$"
+                  }
+                },
+                "mid_upper_arm_circumference": {
+                  "$id": "#/items/properties/child_healths/items/properties/child/properties/mid_upper_arm_circumference",
+                  "type": "string",
+                  "title": "The Mid_upper_arm_circumference Schema",
+                  "pattern": "^(.*)$"
+                }
+              }
+            },
+            "date_updated": {
+              "$id": "#/items/properties/child_healths/items/properties/date_updated",
+              "type": "string",
+              "title": "The Date_updated Schema",
+              "pattern": "^(.*)$"
+            },
+            "infant": {
+              "$id": "#/items/properties/child_healths/items/properties/infant",
+              "type": "object",
+              "title": "The Infant Schema",
+              "properties": {
+                "eating_solid_food": {
+                  "$id": "#/items/properties/child_healths/items/properties/infant/properties/eating_solid_food",
+                  "type": "boolean",
+                  "title": "The Eating_solid_food Schema"
+                },
+                "exclusive_breast_feeding": {
+                  "$id": "#/items/properties/child_healths/items/properties/infant/properties/exclusive_breast_feeding",
+                  "type": "boolean",
+                  "title": "The Exclusive_breast_feeding Schema"
+                },
+                "following_experience": {
+                  "$id": "#/items/properties/child_healths/items/properties/infant/properties/following_experience",
+                  "type": "array",
+                  "title": "The Following_experience Schema",
+                  "items": {
+                    "$id": "#/items/properties/child_healths/items/properties/infant/properties/following_experience/items",
+                    "type": "string",
+                    "title": "The Items Schema",
+                    "pattern": "^(.*)$"
+                  }
+                },
+                "following_received": {
+                  "$id": "#/items/properties/child_healths/items/properties/infant/properties/following_received",
+                  "type": "array",
+                  "title": "The Following_received Schema",
+                  "items": {
+                    "$id": "#/items/properties/child_healths/items/properties/infant/properties/following_received/items",
+                    "type": "string",
+                    "title": "The Items Schema",
+                    "pattern": "^(.*)$"
+                  }
+                },
+                "mid_upper_arm_circumference": {
+                  "$id": "#/items/properties/child_healths/items/properties/infant/properties/mid_upper_arm_circumference",
+                  "type": "string",
+                  "title": "The Mid_upper_arm_circumference Schema",
+                  "pattern": "^(.*)$"
+                }
+              }
+            },
+            "newborn": {
+              "$id": "#/items/properties/child_healths/items/properties/newborn",
+              "type": "object",
+              "title": "The Newborn Schema",
+              "properties": {
+                "exclusive_breast_feeding": {
+                  "$id": "#/items/properties/child_healths/items/properties/newborn/properties/exclusive_breast_feeding",
+                  "type": "boolean",
+                  "title": "The Exclusive_breast_feeding Schema"
+                },
+                "experience_any": {
+                  "$id": "#/items/properties/child_healths/items/properties/newborn/properties/experience_any",
+                  "type": "array",
+                  "title": "The Experience_any Schema",
+                  "items": {
+                    "$id": "#/items/properties/child_healths/items/properties/newborn/properties/experience_any/items",
+                    "type": "string",
+                    "title": "The Items Schema",
+                    "pattern": "^(.*)$"
+                  }
+                },
+                "provided_with_the_following": {
+                  "$id": "#/items/properties/child_healths/items/properties/newborn/properties/provided_with_the_following",
+                  "type": "array",
+                  "title": "The Provided_with_the_following Schema",
+                  "items": {
+                    "$id": "#/items/properties/child_healths/items/properties/newborn/properties/provided_with_the_following/items",
+                    "type": "string",
+                    "title": "The Items Schema",
+                    "pattern": "^(.*)$"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "family_planning_and_maternal_healths": {
+        "$id": "#/items/properties/family_planning_and_maternal_healths",
+        "type": "array",
+        "title": "The Family_planning_and_maternal_healths Schema",
+        "items": {
+          "$id": "#/items/properties/family_planning_and_maternal_healths/items",
+          "type": "object",
+          "title": "The Items Schema",
+          "properties": {
+            "are_you_pregnant": {
+              "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/are_you_pregnant",
+              "type": "boolean",
+              "title": "The Are_you_pregnant Schema"
+            },
+            "date_updated": {
+              "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/date_updated",
+              "type": "string",
+              "title": "The Date_updated Schema",
+              "pattern": "^(.*)$"
+            },
+            "not_pregnant": {
+              "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant",
+              "type": "object",
+              "title": "The Not_pregnant Schema",
+              "properties": {
+                "are_you_both_using_any_family_method": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/are_you_both_using_any_family_method",
+                  "type": "boolean",
+                  "title": "The Are_you_both_using_any_family_method Schema"
+                },
+                "are_you_willing_to_use_any_family_planning_method": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/are_you_willing_to_use_any_family_planning_method",
+                  "type": "boolean",
+                  "title": "The Are_you_willing_to_use_any_family_planning_method Schema"
+                },
+                "did_you_experience_any_of_the_following_after_delivery": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/did_you_experience_any_of_the_following_after_delivery",
+                  "type": "array",
+                  "title": "The Did_you_experience_any_of_the_following_after_delivery Schema",
+                  "items": {
+                    "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/did_you_experience_any_of_the_following_after_delivery/items",
+                    "type": "string",
+                    "title": "The Items Schema",
+                    "pattern": "^(.*)$"
+                  }
+                },
+                "do_you_have_spouse_right_now": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/do_you_have_spouse_right_now",
+                  "type": "boolean",
+                  "title": "The Do_you_have_spouse_right_now Schema"
+                },
+                "family_planning_methods_you_are_using": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/family_planning_methods_you_are_using",
+                  "type": "array",
+                  "title": "The Family_planning_methods_you_are_using Schema",
+                  "items": {
+                    "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/family_planning_methods_you_are_using/items",
+                    "type": "string",
+                    "title": "The Items Schema",
+                    "pattern": "^(.*)$"
+                  }
+                },
+                "family_planning_you_are_willing_to_use": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/family_planning_you_are_willing_to_use",
+                  "type": "array",
+                  "title": "The Family_planning_you_are_willing_to_use Schema",
+                  "items": {
+                    "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/family_planning_you_are_willing_to_use/items",
+                    "type": "string",
+                    "title": "The Items Schema",
+                    "pattern": "^(.*)$"
+                  }
+                },
+                "have_you_been_pregnant_ever_since": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/have_you_been_pregnant_ever_since",
+                  "type": "boolean",
+                  "title": "The Have_you_been_pregnant_ever_since Schema"
+                },
+                "how_long_has_it_been_since_your_last_delivery": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/how_long_has_it_been_since_your_last_delivery",
+                  "type": "string",
+                  "title": "The How_long_has_it_been_since_your_last_delivery Schema",
+                  "pattern": "^(.*)$"
+                },
+                "what_childbirth_support_did_you_received": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/what_childbirth_support_did_you_received",
+                  "type": "string",
+                  "title": "The What_childbirth_support_did_you_received Schema",
+                  "pattern": "^(.*)$"
+                },
+                "what_type_is_the_place_of_delivery": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/what_type_is_the_place_of_delivery",
+                  "type": "string",
+                  "title": "The What_type_is_the_place_of_delivery Schema",
+                  "pattern": "^(.*)$"
+                },
+                "when_was_your_last_delivery_date": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/when_was_your_last_delivery_date",
+                  "type": "string",
+                  "title": "The When_was_your_last_delivery_date Schema",
+                  "pattern": "^(.*)$"
+                }
+              }
+            },
+            "is_pregnant": {
+              "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant",
+              "type": "object",
+              "title": "The Is_pregnant Schema",
+              "properties": {
+                "are_you_taking_ferrous_sulfate_with_folic_acid": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/are_you_taking_ferrous_sulfate_with_folic_acid",
+                  "type": "boolean",
+                  "title": "The Are_you_taking_ferrous_sulfate_with_folic_acid Schema"
+                },
+                "did_you_experience_the_following": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/did_you_experience_the_following",
+                  "type": "array",
+                  "title": "The Did_you_experience_the_following Schema",
+                  "items": {
+                    "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/did_you_experience_the_following/items",
+                    "type": "string",
+                    "title": "The Items Schema",
+                    "pattern": "^(.*)$"
+                  }
+                },
+                "did_you_give_birth_less_than_6_weeks_ago": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/did_you_give_birth_less_than_6_weeks_ago",
+                  "type": "boolean",
+                  "title": "The Did_you_give_birth_less_than_6_weeks_ago Schema"
+                },
+                "do_you_intend_to_practice_family_planning": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/do_you_intend_to_practice_family_planning",
+                  "type": "boolean",
+                  "title": "The Do_you_intend_to_practice_family_planning Schema"
+                },
+                "how_many_months_are_you_pregnant": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/how_many_months_are_you_pregnant",
+                  "type": "string",
+                  "title": "The How_many_months_are_you_pregnant Schema",
+                  "pattern": "^(.*)$"
+                },
+                "how_many_prenatal_visit_did_you_have": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/how_many_prenatal_visit_did_you_have",
+                  "type": "string",
+                  "title": "The How_many_prenatal_visit_did_you_have Schema",
+                  "pattern": "^(.*)$"
+                },
+                "is_this_your_first_pregnancy": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/is_this_your_first_pregnancy",
+                  "type": "boolean",
+                  "title": "The Is_this_your_first_pregnancy Schema"
+                },
+                "were_you_vaccinated_with_tetanus_toxoid": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/were_you_vaccinated_with_tetanus_toxoid",
+                  "type": "array",
+                  "title": "The Were_you_vaccinated_with_tetanus_toxoid Schema",
+                  "items": {
+                    "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/were_you_vaccinated_with_tetanus_toxoid/items",
+                    "type": "string",
+                    "title": "The Items Schema",
+                    "pattern": "^(.*)$"
+                  }
+                },
+                "where_do_you_plan_to_deliver_baby": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/where_do_you_plan_to_deliver_baby",
+                  "type": "string",
+                  "title": "The Where_do_you_plan_to_deliver_baby Schema",
+                  "pattern": "^(.*)$"
+                }
+              }
             }
           }
         }

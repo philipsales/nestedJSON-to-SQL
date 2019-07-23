@@ -1,11 +1,20 @@
-source_key,destination_key,default_value,tag
-_id,_id,,existing
-_index_map,_index_map,,existing
-
-
-_id,profileId,,existing
-,dateCreated,2019-06-27T21:03:52.854+08:00,new
-,dateUpdated,2019-06-27T21:00:51.934+08:00,new
-,formId,atKciemwqwzMeGSsUBkgBd,new
-,formName,2.4 - AQM Maternal Health (Female over 13 yo) Questions V1,
-,type,profile-related-form,new
+source_key,source_type,destination_key,destination_type,data_type,data_source,data_format,data_transformation,default_value,lookup_value
+,,answers.childrenUnderFiveYearsOld,boolean,new,generated,,not required
+family_planning_and_maternal_healths.what_type_is_the_place_of_delivery,string,answers.deliveryFacilityActual,string,existing,original,,not required
+,,answers.deliveryFacilityPlan,string,existing,original,,not required
+family_planning_and_maternal_healths.family_planning_you_are_willing_to_use,string,answers.familyPlanningIntention,string,existing,original,,not required
+family_planning_and_maternal_healths.are_you_pregnant,string,answers.gravida,string,existing,original,,not required
+family_planning_and_maternal_healths.not_pregnant.have_you_been_pregnant_ever_since,string,answers.gravidaNulli,string,existing,original,,not required
+,,answers.gravidaPrimi,string,existing,original,,not required
+family_planning_and_maternal_healths.is_pregnant.are_you_taking_ferrous_sulfate_with_folic_acid,string,answers.intakeIron,string,existing,original,,not required
+family_planning_and_maternal_healths.not_pregnant.when_was_your_last_delivery_date,string,answers.lastChildDelivered,string,existing,original,,not required
+family_planning_and_maternal_healths.is_pregnant.did_you_experience_any_of_the_following_after_delivery,string,answers.pregnancyExperience,string,existing,original,,not required
+family_planning_and_maternal_healths.is_pregnant.how_many_months_are_you_pregnant,string,answers.pregnancyMonths,string,existing,original,,not required
+family_planning_and_maternal_healths.is_pregnant.how_many_prenatal_visit_did_you_have,string,answers.prenatalVisits,string,existing,original,,not required
+family_planning_and_maternal_healths.is_pregnant.were_you_vaccinated_with_tetanus_toxoid,string,answers.tetanusVaccination,string,existing,original,,not required
+user-cam.id,string,createdBy,string,existing,original,,not required,,
+organization,string,organization,string,existing,original,,not required,,
+,,dateUpdated,timestamp,new,generated,,not required,,
+,,formId,string,new,generated,,not required,axEinr2N3wtokYQuy9ErZj,
+,,formName,string,new,generated,,not required,2.4 - AQM Maternal Health (Female over 13 yo) Questions V1,
+,,type,string,new,generated,,not required,profile-related-form,

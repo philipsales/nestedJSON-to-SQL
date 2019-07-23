@@ -83,8 +83,13 @@ def _push_doc_to_couchbase():
         #with open( 'file/parsed_output/Pototan/output.json') as f:
         #with open( 'file/parsed_output/Pototan/output.json') as f:
         #with open( 'file/parsed_output/Cuartero/output.json') as f:
-        #with open('data/merged/couchbase-curis-2019-06-21-cuartero/health_information.output.json') as f:
-        with open('data/merged/couchbase-curis-2019-06-21-cuartero/TestAQMHealthInfoQuestions.output.json') as f:
+        #with open('data/mergedk/couchbase-curis-2019-06-21-cuartero/health_information.output.json') as f:
+        #with open('data/merged/couchbase-curis-2019-06-21-cuartero/AQMGeneralQuestions.output.json') as f:
+        with open('data/merged/couchbase-curis-2019-06-21-cuartero/AQMGeneralQuestions.output.json') as f:
+        #with open('data/merged/couchbase-curis-2019-06-21-cuartero/AQMHealthInfoQuestions.output.json') as f:
+        #with open('data/merged/couchbase-curis-2019-06-21-cuartero/AQMHouseholdQuestions.output.json') as f:
+        #with open('data/merged/couchbase-curis-2019-06-21-cuartero/AQMPersonalQuestions.output.json') as f:
+        #with open('data/merged/couchbase-curis-2019-06-21-cuartero/TestAQMHealthInfoQuestions.output.json') as f:
         #with open( 'file/parsed_output/sample-output.json') as f:
             #_data_df = json.load(f)
             for datum in json.load(f):

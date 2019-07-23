@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[409]:
+# In[623]:
 
 
 import os
@@ -17,7 +17,7 @@ from functools import reduce
 from collections import defaultdict
 
 
-# In[406]:
+# In[636]:
 
 
 etl = 'test2newaqm'
@@ -60,19 +60,21 @@ elif etl == 'cuartero2newaqm':
 elif etl == 'test2newaqm':
     datelog_dir = 'couchbase-curis-2019-06-21-cuartero'
     
-    ##TODO: Add cleaned_dir
+    ##TODO: Add cleaned_dir!!!
     #processed_dir    = 'data/processed/' + datelog_dir + '/'
     processed_dir    = 'data/cleaned/' + datelog_dir + '/'
     tmp_dir    = 'data/processed/' + datelog_dir + '/tmp/'
     output_dir = 'data/processed/' + datelog_dir + '/'
     merged_dir = 'data/merged/' + datelog_dir + '/'
     
+    #mapping_file = 'TestAQMHealthInfoQuestions'
     
+    #mapping_file = 'AQMPersonalQuestions'
     #mapping_file = 'AQMGeneralQuestions' 
-    mapping_file = 'AQMHealthInfoQuestions'
+    #mapping_file = 'AQMHealthInfoQuestions'
+    mapping_file = 'AQMHouseholdQuestions'
     #mapping_file = 'AQMMentallHealthQuestions'
     #mapping_file = 'AWHDisabilityQuestions'
-    #mapping_file = 'AQMPersonalQuestions'
     
     
     resident_file = merged_dir +  mapping_file + '.csv'
@@ -91,10 +93,13 @@ elif etl == 'test2newaqm':
     
 
 
-# ### BUG LIST
-# ### 1. if file have no 'id' header
+# # BUG LIST
+# ## 1. if file have no 'id' header
 
-# In[407]:
+# ## 2. Fix "nan" on final rendering
+# ## 3. Rename 'id' as _id
+
+# In[625]:
 
 
 resident_df = pd.DataFrame()
@@ -106,7 +111,7 @@ resident_df = pd.read_csv(resident_file, encoding = "ISO-8859-1")
 resident_df.head(3)
 
 
-# In[389]:
+# In[626]:
 
 
 resident_df.T
@@ -114,7 +119,7 @@ resident_df.T
 
 # ## BUG: if _index is not the first df.index
 
-# In[397]:
+# In[627]:
 
 
 def concat_values(items):
@@ -130,7 +135,6 @@ def concat_values(items):
         if index == "_id":
         #if index == "id":
             _id = value
-            #print(_index_map)
             _list.append(_id)
            
         elif index == "_index_map":
@@ -144,30 +148,30 @@ def concat_values(items):
                 _new_index = index.split(sep='.')
                 
                 if pd.isna(_index_map) :
-                    
-                    
-                    
                     _new_index[0] = _new_index[0]
-                
                 else:
-                    
                     _new_index[0] = _new_index[0] + '|' + str(_index_map)
                     
                 _edited_index = '.'.join(_new_index)
                 _edited_index
 
-                    #===========
-                    #_new_item = index + ':"' + str(value) + '"'
-                _new_item = _edited_index + ":'" + str(value) + "'"
-                #_new_item = _edited_index + ':"' + str(value) + '"'
+                ## REMOVE np.nan
+                if pd.isna(value):
+                    _new_item = _edited_index + ':""'
+                else:
+                    _new_item = _edited_index + ":" + str(value) + ""
+                
+                
+                
                 _list.append(_new_item)
             else:
+                print('contineu..')
                 continue
             
     return _list    
 
 
-# In[398]:
+# In[635]:
 
 
 new_residents_df = pd.DataFrame()
@@ -179,7 +183,7 @@ new_resident_df = new_resident_df.drop(index='_index_map')
 new_resident_df
 
 
-# In[392]:
+# In[629]:
 
 
 def insert_concat(items):
@@ -195,14 +199,14 @@ def insert_concat(items):
             _test_id = value
             continue
         else:
-            _kv["id"] = _test_id
+            _kv["_id"] = _test_id
             _kv["value"] = value
             
         _test_obj.append(_kv)
     return _test_obj
 
 
-# In[393]:
+# In[630]:
 
 
 vertical_resident_df = []
@@ -210,19 +214,19 @@ vertical_resident_df = new_resident_df.apply(insert_concat)
 
 flat = list(itertools.chain.from_iterable(vertical_resident_df))
 flat_df = pd.DataFrame.from_dict(flat)
-flat_df.head(3)
+flat_df.head(13)
 
 
 # ## WRITE TO CSV FILE
 
-# In[394]:
+# In[631]:
 
 
 #TODO: delete if exisitng
 flat_df.to_csv(parsed_output_csv_file, encoding='utf-8', mode='w', index=False)
 
 
-# In[395]:
+# In[632]:
 
 
 hc_df = pd.DataFrame()
@@ -232,7 +236,7 @@ hc_df.head(10)
 
 # ## TODO BUG: if _id is not in index[0]
 
-# In[396]:
+# In[633]:
 
 
 def setValue(value, field, it):
@@ -332,6 +336,7 @@ with open(parsed_output_csv_file, encoding="utf-8") as csv_file:
                             setAttribute(profile, lastKeys, field, {})
                     lastKeys.append(field)
                 else: # ['type', 'mobile']
+                    
                     if len(lastKeys) == 0:
                         profile[keyVal[0]] = properValue(keyVal[1])
                     else:
@@ -355,7 +360,7 @@ print('parser completed...')
 
 # ## REMOVE TEMPORARY FILE
 
-# In[410]:
+# In[ ]:
 
 
 if os.path.exists(parsed_output_csv_file):

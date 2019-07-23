@@ -90,7 +90,7 @@
       },
       "email_address": {
         "$id": "#/items/properties/email_address",
-        "type": "string",
+        "type": "null",
         "title": "The Email_address Schema"
       },
       "family_members": {
@@ -471,14 +471,12 @@
                 "eating_solid_food": {
                   "$id": "#/items/properties/child_healths/items/properties/child/properties/eating_solid_food",
                   "type": "string",
-                  "title": "The Eating_solid_food Schema",
-                  "pattern": "^(.*)$"
+                  "title": "The Eating_solid_food Schema"
                 },
                 "exclusive_breast_feeding": {
                   "$id": "#/items/properties/child_healths/items/properties/child/properties/exclusive_breast_feeding",
                   "type": "string",
-                  "title": "The Exclusive_breast_feeding Schema",
-                  "pattern": "^(.*)$"
+                  "title": "The Exclusive_breast_feeding Schema"
                 },
                 "following_experience": {
                   "$id": "#/items/properties/child_healths/items/properties/child/properties/following_experience",
@@ -524,14 +522,12 @@
                 "eating_solid_food": {
                   "$id": "#/items/properties/child_healths/items/properties/infant/properties/eating_solid_food",
                   "type": "string",
-                  "title": "The Eating_solid_food Schema",
-                  "pattern": "^(.*)$"
+                  "title": "The Eating_solid_food Schema"
                 },
                 "exclusive_breast_feeding": {
                   "$id": "#/items/properties/child_healths/items/properties/infant/properties/exclusive_breast_feeding",
                   "type": "string",
-                  "title": "The Exclusive_breast_feeding Schema",
-                  "pattern": "^(.*)$"
+                  "title": "The Exclusive_breast_feeding Schema"
                 },
                 "following_experience": {
                   "$id": "#/items/properties/child_healths/items/properties/infant/properties/following_experience",
@@ -571,8 +567,7 @@
                 "exclusive_breast_feeding": {
                   "$id": "#/items/properties/child_healths/items/properties/newborn/properties/exclusive_breast_feeding",
                   "type": "string",
-                  "title": "The Exclusive_breast_feeding Schema",
-                  "pattern": "^(.*)$"
+                  "title": "The Exclusive_breast_feeding Schema"
                 },
                 "experience_any": {
                   "$id": "#/items/properties/child_healths/items/properties/newborn/properties/experience_any",
@@ -677,8 +672,7 @@
                 "have_you_been_pregnant_ever_since": {
                   "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/have_you_been_pregnant_ever_since",
                   "type": "string",
-                  "title": "The Have_you_been_pregnant_ever_since Schema",
-                  "pattern": "^(.*)$"
+                  "title": "The Have_you_been_pregnant_ever_since Schema"
                 },
                 "how_long_has_it_been_since_your_last_delivery": {
                   "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/how_long_has_it_been_since_your_last_delivery",
@@ -702,6 +696,73 @@
                   "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/not_pregnant/properties/when_was_your_last_delivery_date",
                   "type": "string",
                   "title": "The When_was_your_last_delivery_date Schema",
+                  "pattern": "^(.*)$"
+                }
+              }
+            },
+            "is_pregnant": {
+              "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant",
+              "type": "object",
+              "title": "The Is_pregnant Schema",
+              "properties": {
+                "are_you_taking_ferrous_sulfate_with_folic_acid": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/are_you_taking_ferrous_sulfate_with_folic_acid",
+                  "type": "string",
+                  "title": "The Are_you_taking_ferrous_sulfate_with_folic_acid Schema"
+                },
+                "did_you_experience_the_following": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/did_you_experience_the_following",
+                  "type": "array",
+                  "title": "The Did_you_experience_the_following Schema",
+                  "items": {
+                    "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/did_you_experience_the_following/items",
+                    "type": "string",
+                    "title": "The Items Schema",
+                    "pattern": "^(.*)$"
+                  }
+                },
+                "did_you_give_birth_less_than_6_weeks_ago": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/did_you_give_birth_less_than_6_weeks_ago",
+                  "type": "string",
+                  "title": "The Did_you_give_birth_less_than_6_weeks_ago Schema"
+                },
+                "do_you_intend_to_practice_family_planning": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/do_you_intend_to_practice_family_planning",
+                  "type": "string",
+                  "title": "The Do_you_intend_to_practice_family_planning Schema"
+                },
+                "how_many_months_are_you_pregnant": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/how_many_months_are_you_pregnant",
+                  "type": "string",
+                  "title": "The How_many_months_are_you_pregnant Schema",
+                  "pattern": "^(.*)$"
+                },
+                "how_many_prenatal_visit_did_you_have": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/how_many_prenatal_visit_did_you_have",
+                  "type": "string",
+                  "title": "The How_many_prenatal_visit_did_you_have Schema",
+                  "pattern": "^(.*)$"
+                },
+                "is_this_your_first_pregnancy": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/is_this_your_first_pregnancy",
+                  "type": "string",
+                  "title": "The Is_this_your_first_pregnancy Schema"
+                },
+                "were_you_vaccinated_with_tetanus_toxoid": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/were_you_vaccinated_with_tetanus_toxoid",
+                  "type": "array",
+                  "title": "The Were_you_vaccinated_with_tetanus_toxoid Schema",
+                  "items": {
+                    "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/were_you_vaccinated_with_tetanus_toxoid/items",
+                    "type": "string",
+                    "title": "The Items Schema",
+                    "pattern": "^(.*)$"
+                  }
+                },
+                "where_do_you_plan_to_deliver_baby": {
+                  "$id": "#/items/properties/family_planning_and_maternal_healths/items/properties/is_pregnant/properties/where_do_you_plan_to_deliver_baby",
+                  "type": "string",
+                  "title": "The Where_do_you_plan_to_deliver_baby Schema",
                   "pattern": "^(.*)$"
                 }
               }

@@ -34,6 +34,7 @@ health_informations,health_informations.weight,primitive
 health_informations,health_informations.smoking_habit,primitive
 health_informations,health_informations.fruits_in_a_week,primitive
 health_informations,health_informations.blood_sign,primitive
+health_informations,health_informations.blood_sugar,primitive
 health_informations,health_informations.blood_type,primitive
 health_informations,health_informations.allergies,primitive
 health_informations,health_informations.vegetables_in_a_week,primitive
@@ -64,6 +65,7 @@ profiles,profiles.employment.nature,primitive
 profiles,profiles.employment.monthly_income,primitive
 households,_id,primitive
 households,_index_map,primitive
+households,households.no_of_families_in_the_household,primitive
 households,households.type_of_house,primitive
 households,households.house_ownership,primitive
 households,households.sanitary_ownership,primitive

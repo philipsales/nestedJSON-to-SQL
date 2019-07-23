@@ -1,10 +1,18 @@
-source_key,destination_key,default_value,tag
-_id,_id,,existing
-_index_map,_index_map,,existing
-
-_id,profileId,,existing
-,dateCreated,2019-06-27T21:03:52.854+08:00,new
-,dateUpdated,,new
-,formId,aW7sSVUJvWLpfpGLGgTEQm,new
-,formName,2.5 - AQM Child Health (under 5 years old) Questionnaire V1,new
-,type,profile-related-form,new
+source_key,source_type,destination_key,destination_type,data_type,data_source,data_format,data_transformation,default_value,lookup_value
+,,answers.newbornAssessment,string,new,generated,,not required
+child_healths.newborn.exclusive_breast_feeding,string,answers.newbornBreastMilk,string,existing,original,,not required
+child_healths.newborn.experience_any,string,answers.newbornSymptom,string,existing,original,,not required
+child_healths.infant.exclusive_breast_feeding,string,answers.infantBreastMilk,string,existing,original,,not required
+child_healths.infant.mid_upper_arm_circumference,string,answers.infantMUAC,string,existing,original,,not required
+child_healths.infant.eating_solid_food,string,answers.infantSolidFood,string,existing,original,,not required
+child_healths.infant.following_experience,string,answers.infantSymptoms,string,existing,original,,not required
+child_healths.infant.following_received,string,answers.infantVitaminA,string,existing,original,,not required
+child_healths.child.mid_upper_arm_circumference,string,answers.childMUAC,string,existing,original,,not required
+child_healths.child.following_experience,string,answers.childSymptoms,string,existing,original,,not required
+child_healths.child.following_received,string,answers.childTreatments,string,existing,original,,not required
+user-cam.id,string,createdBy,string,existing,original,,not required,,
+organization,string,organization,string,existing,original,,not required,,
+,,dateUpdated,timestamp,new,generated,,not required,,
+,,formId,string,new,generated,,not required,axEinr2N3wtokYQuy9ErZj,
+,,formName,string,new,generated,,not required,2.4 - AQM Maternal Health (Female over 13 yo) Questions V1,
+,,type,string,new,generated,,not required,profile-related-form,

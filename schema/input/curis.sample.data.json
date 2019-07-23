@@ -107,20 +107,20 @@
 				"Vitamin A supplements",
 				"Deworming tablets"
 			],
-			"mid_upper_arm_circumference": ""
+			"mid_upper_arm_circumference": "323 cm"
 		},
 		"date_updated": "08/01/2018 at 01:00:57 PM GMT+08:00",
 		"infant": {
 			"eating_solid_food": false,
 			"exclusive_breast_feeding": false,
-			"following_experience": [],
-			"following_received": [],
-			"mid_upper_arm_circumference": ""
+			"following_experience": ["colds"],
+			"following_received": ["none"],
+			"mid_upper_arm_circumference": "23 cm"
 		},
 		"newborn": {
 			"exclusive_breast_feeding": false,
-			"experience_any": [],
-			"provided_with_the_following": []
+			"experience_any": ["None"],
+			"provided_with_the_following": ["None"]
 		}
 	}],
 	"family_planning_and_maternal_healths": [{
@@ -129,16 +129,27 @@
 		"not_pregnant": {
 			"are_you_both_using_any_family_method": false,
 			"are_you_willing_to_use_any_family_planning_method": false,
-			"did_you_experience_any_of_the_following_after_delivery": [],
+			"did_you_experience_any_of_the_following_after_delivery": ["Cold","Headache"],
 			"do_you_have_spouse_right_now": false,
-			"family_planning_methods_you_are_using": [],
-			"family_planning_you_are_willing_to_use": [],
+			"family_planning_methods_you_are_using": ["Abstinence","Calendar"],
+			"family_planning_you_are_willing_to_use": ["IUD","condom"],
 			"have_you_been_pregnant_ever_since": false,
-			"how_long_has_it_been_since_your_last_delivery": "",
-			"what_childbirth_support_did_you_received": "empty",
-			"what_type_is_the_place_of_delivery": "empty",
-			"when_was_your_last_delivery_date": ""
-		}
+			"how_long_has_it_been_since_your_last_delivery": "6 months",
+			"what_childbirth_support_did_you_received": "None",
+			"what_type_is_the_place_of_delivery": "None",
+			"when_was_your_last_delivery_date": "8"
+		},
+        "is_pregnant": {
+          "are_you_taking_ferrous_sulfate_with_folic_acid": false,
+          "did_you_experience_the_following": ["Consultation","Treatment"],
+          "did_you_give_birth_less_than_6_weeks_ago": false,
+          "do_you_intend_to_practice_family_planning": false,
+          "how_many_months_are_you_pregnant": "9",
+          "how_many_prenatal_visit_did_you_have": "3",
+          "is_this_your_first_pregnancy": false,
+          "were_you_vaccinated_with_tetanus_toxoid": ["T1","T3"],
+          "where_do_you_plan_to_deliver_baby": "Hospital" 
+        }
 	}],
 	"identification": {
 		"id1": {

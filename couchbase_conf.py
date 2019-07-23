@@ -1,12 +1,13 @@
 
 #SERVER Configuration
+CouchbaseENV = "local"
 #CouchbaseENV = "testing-miko-linode"
 #CouchbaseENV = "prod-clone"
-CouchbaseENV = "latest-uat"
+#CouchbaseENV = "latest-uat"
 
 CouchbaseConfig = {
     'local': {
-        'BUCKET': 'awhcurisdb_local',
+        'BUCKET': 'awhdispergodb',
         'USERNAME': 'adminadmin',
         'PASSWORD': 'adminadmin',
         'PROTOCOL': 'http',
