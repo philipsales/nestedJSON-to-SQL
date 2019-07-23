@@ -8,6 +8,7 @@ import pandas as pd
 from pandas import read_csv
 from pandas.io.json import json_normalize 
 
+from couchbase.admin import Admin
 from couchbase.bucket import Bucket
 from couchbase.n1ql import N1QLQuery, N1QLError
 from couchbase.exceptions import CouchbaseTransientError
@@ -57,6 +58,7 @@ def _bulk_push_to_couchbase():
         print(couchbase_json)
 
         r = requests.post(url, 
+            auth=('adminadmin','adminadmin'),
             data=couchbase_json, 
             headers={"Accept":"application/json",
                 "Content-type":"application/json"})
@@ -74,6 +76,24 @@ def _push_doc_to_couchbase():
     url = _conn_url()
     data = [ {"foo": "bar"},{"bar": "foo"} ]
     print(data)
+
+    ##TEST
+    admin = Admin('adminadmin', 'adminadmin', host='127.0.0.1', port=8091)
+    # create bucket
+    '''
+    admin.bucket_create('bucket_name',
+                        bucket_type='couchbase',
+                        bucket_password='passw0rd',
+                        replicas=1,
+                        ram_quota=100,
+                        flush_enabled=False)
+
+    # optionally wait for bucket to be ready
+    admin.wait_ready('bucket_name',
+                    timeout=10.0,
+                    sleep_interval=0.2)
+    '''
+
 
     _data_df = pd.DataFrame()
 
@@ -98,10 +118,14 @@ def _push_doc_to_couchbase():
                 couchbase_json = datum.copy()
                 couchbase_json = json.dumps(datum)
 
+                print(url)
                 r = requests.post(url, 
-                    data=couchbase_json, 
-                    headers={"Accept":"application/json",
-                            "Content-type":"application/json"})
+                    #data=couchbase_json, 
+                    data='{"_id": "233"}')
+                '''
+                headers={"Accept":"application/json",
+                        "Content-type":"application/json"})
+                '''
                 index += 1
                 print('------Count: '+ str(index))
                 print('status: '+ str(r.status_code))

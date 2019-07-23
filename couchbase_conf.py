@@ -7,6 +7,10 @@ CouchbaseENV = "local"
 
 #9100 = port for direct N1QL
 #8091 = admin console 
+#18091 = secure admin console 
+#18092 = secure view access
+#4984 = public couchbase sync gateway
+#4985 = admin couchbase sync gateway
 
 CouchbaseConfig = {
     'local': {
@@ -17,7 +21,7 @@ CouchbaseConfig = {
         'SCHEME': 'couchbase',
         'IP': '127.0.0.1',
         'HOST': 'couchbase://127.0.0.1/',
-        'PORT': '8091',
+        'PORT': '21100',
         'TIMEOUT': 7200
     },
     'development': {
