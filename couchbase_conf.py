@@ -5,6 +5,9 @@ CouchbaseENV = "local"
 #CouchbaseENV = "prod-clone"
 #CouchbaseENV = "latest-uat"
 
+#9100 = port for direct N1QL
+#8091 = admin console 
+
 CouchbaseConfig = {
     'local': {
         'BUCKET': 'awhdispergodb',
@@ -14,7 +17,7 @@ CouchbaseConfig = {
         'SCHEME': 'couchbase',
         'IP': '127.0.0.1',
         'HOST': 'couchbase://127.0.0.1/',
-        'PORT': '9100',
+        'PORT': '8091',
         'TIMEOUT': 7200
     },
     'development': {

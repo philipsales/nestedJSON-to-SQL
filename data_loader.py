@@ -96,8 +96,6 @@ def _push_doc_to_couchbase():
             #for datum in _data_df:
 
                 couchbase_json = datum.copy()
-                cb_id = '56735fea-a015-4f54-a98d-71d6642c7ea0'
-                couchbase_json["_id"] = cb_id
                 couchbase_json = json.dumps(datum)
 
                 r = requests.post(url, 
