@@ -100,12 +100,13 @@ def _push_doc_to_couchbase():
     #with open( 'file/parsed_output/Isabela/test.json') as f:
     try:
         index = 0
+        #with open( 'file/parsed_output/Isabela/output.json') as f:
         #with open( 'file/parsed_output/Pototan/output.json') as f:
         #with open( 'file/parsed_output/Pototan/output.json') as f:
-        #with open( 'file/parsed_output/Cuartero/output.json') as f:
+        with open( 'file/parsed_output/Cambodia/output.json') as f:
         #with open('data/mergedk/couchbase-curis-2019-06-21-cuartero/health_information.output.json') as f:
         #with open('data/merged/couchbase-curis-2019-06-21-cuartero/AQMGeneralQuestions.output.json') as f:
-        with open('data/merged/couchbase-curis-2019-06-21-cuartero/AQMGeneralQuestions.output.json') as f:
+        #with open('data/merged/couchbase-curis-2019-06-21-cuartero/AQMGeneralQuestions.output.json') as f:
         #with open('data/merged/couchbase-curis-2019-06-21-cuartero/AQMHealthInfoQuestions.output.json') as f:
         #with open('data/merged/couchbase-curis-2019-06-21-cuartero/AQMHouseholdQuestions.output.json') as f:
         #with open('data/merged/couchbase-curis-2019-06-21-cuartero/AQMPersonalQuestions.output.json') as f:
@@ -120,12 +121,9 @@ def _push_doc_to_couchbase():
 
                 print(url)
                 r = requests.post(url, 
-                    #data=couchbase_json, 
-                    data='{"_id": "233"}')
-                '''
-                headers={"Accept":"application/json",
-                        "Content-type":"application/json"})
-                '''
+                    data=couchbase_json, 
+                    headers={"Accept":"application/json",
+                            "Content-type":"application/json"})
                 index += 1
                 print('------Count: '+ str(index))
                 print('status: '+ str(r.status_code))

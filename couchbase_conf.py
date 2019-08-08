@@ -14,15 +14,15 @@ CouchbaseENV = "local"
 
 CouchbaseConfig = {
     'local': {
-        'BUCKET': 'awhdispergodb',
-        'USERNAME': 'adminadmin',
-        'PASSWORD': 'adminadmin',
+        'BUCKET': 'awhpiidb',
+        'USERNAME': 'curisAdminUser',
+        'PASSWORD': 'adm(1)mwh',
         'PROTOCOL': 'http',
         'SCHEME': 'couchbase',
         'IP': '127.0.0.1',
         'HOST': 'couchbase://127.0.0.1/',
-        'PORT': '21100',
-        'TIMEOUT': 7200
+        'PORT': '4984',
+        'TIMEOUT': 70
     },
     'development': {
         'BUCKET': 'awhcurisdb010832',
@@ -80,7 +80,7 @@ CouchbaseConfig = {
         'TIMEOUT': 7200
     },
     'latest-uat': {
-        'BUCKET': 'awhcurisdb',
+        'BUCKET': 'awhpiidb',
         'USERNAME': 'superman',
         'PASSWORD': 'kryptonite',
         'PROTOCOL': 'http',

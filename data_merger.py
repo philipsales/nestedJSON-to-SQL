@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[106]:
+# In[45]:
 
 
 import numpy as np
@@ -19,7 +19,7 @@ from datetime import datetime
 import dateutil.parser as parser
 
 
-# In[107]:
+# In[46]:
 
 
 etl = 'cuartero2newaqm'
@@ -28,7 +28,8 @@ input_schema_file = ''
 input_data_file = ''
 mapping_file = ''
 
-datelog_dir = 'couchbase-curis-2019-06-21-cuartero'
+#datelog_dir = 'couchbase-curis-2019-06-21-cuartero'
+datelog_dir = 'couchbase-curis-2019-06-21-pototan'
 
 if etl == 'cuartero2newaqm':
     schema_meta_file = '_meta.csv'
@@ -39,15 +40,14 @@ if etl == 'cuartero2newaqm':
     #mapping_file = '1.1.AQMPersonalQuestions.V1.map.csv'
     #mapping_file = '2.1.AQMGeneralQuestions.V1.map.csv'
     #mapping_file = '2.2.AQMHealthInfoQuestions.V1.map.csv'
-    mapping_file = '2.3.AQMHouseholdQuestions.V1.map.csv'
-    #mapping_file = '2.6.AQMMentallHealthQuestions.V1.map.csv'
-    #mapping_file = '2.7.AWHDisabilityQuestions.V1.map.csv'
+    #mapping_file = '2.3.AQMHouseholdQuestions.V1.map.csv'
+    #mapping_file = '2.6.AQMMentalHealthQuestions.V1.map.csv'
+    mapping_file = '2.7.AWHDisabilityQuestions.V1.map.csv'
     
     mapping_dir = 'schema/map/Philippines/' 
     mapping_path = mapping_dir + mapping_file
     
     #TODO: add cleaned_dir !!!
-    
     tmp_dir = 'data/processed/' + datelog_dir + '/tmp/'
     processed_dir = 'data/cleaned/' + datelog_dir + '/'
     #processed_dir = 'data/processed/' + datelog_dir + '/'
@@ -70,7 +70,7 @@ if etl == 'cuartero2newaqm':
 
 # # READ MAPPING FILE
 
-# In[108]:
+# In[47]:
 
 
 #def _get_mapping_fields():
@@ -81,7 +81,7 @@ _mapping_df
 
 # # GET THE FIELDS IN THE MAPPING FILE
 
-# In[109]:
+# In[48]:
 
 
 mapping_fields_list = []
@@ -91,14 +91,14 @@ mapping_fields_list
 
 # # GET THE FIELDS IN THE SCHEMA META (i.e. _meta) FILE
 
-# In[110]:
+# In[49]:
 
 
 meta_headers_df = pd.DataFrame()
 meta_headers_df = pd.read_csv(schema_meta_path)
 
 
-# In[111]:
+# In[50]:
 
 
 meta_headers_df
@@ -106,7 +106,7 @@ meta_headers_df
 
 # ## MATCH THE FIELDS IN MAPPING FILE AND SCHEMA META FILE
 
-# In[112]:
+# In[51]:
 
 
 match_headers_df = pd.DataFrame()
@@ -117,7 +117,7 @@ match_headers_df
 
 # # CREATE DEFAULT DICT FOR FILENAME AS KEY and FIELD NAMES AS VALUE
 
-# In[113]:
+# In[52]:
 
 
 filename_per_field_dd = defaultdict(list)
@@ -132,16 +132,22 @@ filename_per_field_dd
 
 # ## CREATE OUTPUT FILE WITH DYNAMIC NAME DERIVED FROM MAPPING FILE
 
-# In[114]:
+# In[53]:
 
 
-_output_filename = mapping_file.split(sep='.')[2]
+''.join(mapping_file.split(sep='.')[2:4])
+
+
+# In[54]:
+
+
+_output_filename =''.join(mapping_file.split(sep='.')[2:4])
 _output_filename
 
 
 # ## REMOVE OUTPUT FILE IF EXISTING
 
-# In[115]:
+# In[55]:
 
 
 if os.path.exists(merged_dir + _output_filename + '.csv'):
@@ -154,7 +160,7 @@ if os.path.exists(merged_dir + _output_filename + '.csv'):
 
 # ## HARDCODE TEST DATA
 
-# In[116]:
+# In[56]:
 
 
 test_filename_per_field_dd = {
@@ -186,7 +192,7 @@ test_filename_per_field_dd = {
 
 # ## DYNAMIC TEST DATA
 
-# In[117]:
+# In[57]:
 
 
 test_filename_per_field_dd = filename_per_field_dd
@@ -194,7 +200,7 @@ test_filename_per_field_dd = filename_per_field_dd
 
 # ## CREATE OUTPUT FILE WITH HEADERS BASED ON _META AND MAPPING FILE
 
-# In[118]:
+# In[58]:
 
 
 fields_list = list(test_filename_per_field_dd.values())
@@ -208,7 +214,7 @@ empty_data_df
 
 # ## TODO: DYNAMICALLY MERGE DATA FROM DIFFERENT 
 
-# In[119]:
+# In[59]:
 
 
 fields_list = list(test_filename_per_field_dd.values())
@@ -216,7 +222,7 @@ flat_fields_list = [item for sublist in fields_list for item in sublist]
 flat_fields_list
 
 
-# In[120]:
+# In[60]:
 
 
 list(test_filename_per_field_dd.items())
@@ -224,20 +230,20 @@ list(test_filename_per_field_dd.items())
 
 # ## TODO: identify here if primitive or list. if list .agg to_list
 
-# In[121]:
+# In[61]:
 
 
 match_headers_df
 
 
-# In[122]:
+# In[62]:
 
 
 filename
 match_headers_df[match_headers_df['file_name'] == filename][['field_type','file_name']]
 
 
-# In[123]:
+# In[63]:
 
 
 list(match_headers_df[match_headers_df['file_name'] == filename][['field_type','file_name']]['field_type'].unique())
@@ -249,7 +255,7 @@ list(match_headers_df[match_headers_df['file_name'] == filename][['field_type','
 
 # ## TODO: Remove repeatinng values in tolist()
 
-# In[124]:
+# In[64]:
 
 
 family = ["KID", "KID","KID"]
@@ -257,7 +263,7 @@ family_1 = list(dict.fromkeys(family))
 family_1 
 
 
-# In[125]:
+# In[65]:
 
 
 def _remove_duplicate_list(item):
@@ -269,7 +275,7 @@ def _array_to_list(_test_df):
     return _test_df.groupby('_id').agg(lambda x: _remove_duplicate_list(x) )
 
 
-# In[126]:
+# In[66]:
 
 
 def _flatten_index_map(index):
@@ -285,7 +291,7 @@ def _flatten_index_map(index):
     return _new_index
 
 
-# In[127]:
+# In[67]:
 
 
 _tmp_df = pd.DataFrame(columns=['_id','_index_map'])
@@ -321,14 +327,14 @@ _tmp_df.T
 
 # ## WRITE MERGE DATA TO CSV
 
-# In[128]:
+# In[68]:
 
 
 #test_group_df = pd.read_csv(merged_dir + _output_filename + '.csv',dtype={'_index_map': str}).replace(np.nan,'',regex=True)
 test_group_df = pd.read_csv(merged_dir + _output_filename + '.csv',dtype={'_index_map': str})
 
 
-# In[129]:
+# In[69]:
 
 
 test_group_df.T
@@ -336,14 +342,14 @@ test_group_df.T
 
 # ## RENAME THE HEADERS USING MAPPED HEADERS
 
-# In[130]:
+# In[70]:
 
 
 source_destination_keys_df = pd.DataFrame()
 source_destination_keys_df = _mapping_df[['source_key','destination_key']]
 
 
-# In[131]:
+# In[71]:
 
 
 new_column_name_dict = dict(zip(source_destination_keys_df['source_key'], source_destination_keys_df['destination_key']))
@@ -352,7 +358,7 @@ new_column_name_dict
 
 # ## GET THE DATA from merged dataframes
 
-# In[132]:
+# In[72]:
 
 
 _required_data_df = pd.DataFrame()
@@ -365,7 +371,7 @@ _required_data_df = test_group_df
 
 # ## DO NECESSARY TRANSFORMATION
 
-# In[133]:
+# In[73]:
 
 
 _required_data_df.rename(columns = new_column_name_dict,inplace=True )
@@ -377,7 +383,7 @@ _required_data_df.head(3)
 
 # ## GENERATE _id column
 
-# In[134]:
+# In[74]:
 
 
 _required_data_df['_id'] = _required_data_df.index.to_series().map(lambda x: uuid.uuid4())
@@ -386,7 +392,7 @@ _required_data_df['id'] = _required_data_df['_id']
 
 # ## FILL np.NAN for createdBy, Clean other np.Nan
 
-# In[135]:
+# In[75]:
 
 
 _required_data_df['createdBy'] = _required_data_df['createdBy'].fillna(method='ffill')
@@ -397,7 +403,7 @@ _required_data_df
 
 # ## CLEAR _INDEX_MAP since each _id has generaed ID
 
-# In[136]:
+# In[76]:
 
 
 _required_data_df['_index_map'] = ''
@@ -406,7 +412,7 @@ _required_data_df
 
 # ## GET THE NEW FIELDS WITH THE DEFAULT VALUES
 
-# In[137]:
+# In[77]:
 
 
 new_fields_df = _mapping_df[_mapping_df['data_type'] == 'new'][['destination_key', 'default_value']]
@@ -415,7 +421,7 @@ new_fields_df
 
 # ## APPEND THE NEW FIELDS AS COLUMN
 
-# In[138]:
+# In[78]:
 
 
 for index,row in new_fields_df.iterrows():
@@ -430,7 +436,7 @@ _required_data_df.head(5)
 
 # ## SORT COLUMN HEADERS
 
-# In[139]:
+# In[79]:
 
 
 _sorted_columns = sorted(list(_required_data_df.columns))
@@ -440,7 +446,7 @@ _required_data_df
 
 # ## WRITE TO CSV
 
-# In[140]:
+# In[80]:
 
 
 _required_data_df.to_csv(merged_dir + _output_filename + '.csv', encoding='utf-8', mode='w', header=True,index=False)
@@ -450,7 +456,7 @@ _required_data_df.to_csv(merged_dir + _output_filename + '.csv', encoding='utf-8
 
 # ## GET CSV DATA
 
-# In[141]:
+# In[81]:
 
 
 _saved_data_df = pd.read_csv(merged_dir + _output_filename + '.csv')
@@ -458,7 +464,7 @@ _saved_data_df = pd.read_csv(merged_dir + _output_filename + '.csv')
 
 # ## GET CSV MAPPING
 
-# In[142]:
+# In[82]:
 
 
 _required_transformation_df = _mapping_df[_mapping_df['data_transformation'] == 'required'].reset_index(drop=True)
@@ -466,7 +472,7 @@ _required_transformation_df = _required_transformation_df[['destination_key','de
 _required_transformation_df
 
 
-# In[143]:
+# In[83]:
 
 
 def _parsed_datetime(datetime):
@@ -483,7 +489,7 @@ def _parsed_datetime(datetime):
     return _new_datetime
 
 
-# In[144]:
+# In[84]:
 
 
 def _typecast_data(data, data_type):
@@ -491,6 +497,8 @@ def _typecast_data(data, data_type):
     
     if data_type == 'timestamp':
         _cast_data = _parsed_datetime(data)
+    elif data_type == 'boolean':
+        _cast_data = bool(lower(data))
     elif data_type == 'integer':
         _cast_data = int(data)
     else:
@@ -499,7 +507,7 @@ def _typecast_data(data, data_type):
     return _cast_data
 
 
-# In[145]:
+# In[85]:
 
 
 for index, row in _required_transformation_df.iterrows():
@@ -518,7 +526,7 @@ _saved_data_df
 # ## REWRITE CASTED DATA TO CSV FINALIZED
 # 
 
-# In[146]:
+# In[86]:
 
 
 _saved_data_df.to_csv(merged_dir + _output_filename + '.csv', encoding='utf-8', mode='w', header=True,index=False)

@@ -58,7 +58,7 @@ elif etl == 'cuartero2newaqm':
     parsed_output_json_file = 'file/parsed_output/Cuartero/output.json'
 
 elif etl == 'test2newaqm':
-    datelog_dir = 'couchbase-curis-2019-06-21-cuartero'
+    datelog_dir = 'couchbase-curis-2019-06-21-pototan'
     
     ##TODO: Add cleaned_dir!!!
     #processed_dir    = 'data/processed/' + datelog_dir + '/'
@@ -69,12 +69,13 @@ elif etl == 'test2newaqm':
     
     #mapping_file = 'TestAQMHealthInfoQuestions'
     
-    #mapping_file = 'AQMPersonalQuestions'
-    #mapping_file = 'AQMGeneralQuestions' 
-    #mapping_file = 'AQMHealthInfoQuestions'
-    mapping_file = 'AQMHouseholdQuestions'
-    #mapping_file = 'AQMMentallHealthQuestions'
-    #mapping_file = 'AWHDisabilityQuestions'
+    #mapping_file = 'AQMPersonalQuestionsV1'
+    #mapping_file = 'AQMGeneralQuestionsV1' 
+    #mapping_file = 'AQMHealthInfoQuestionsV1'
+    mapping_file = 'AQMHouseholdQuestionsV1'
+    
+    #mapping_file = 'AQMMentallHealthQuestionsV1'
+    #mapping_file = 'AWHDisabilityQuestionsV1'
     
     
     resident_file = merged_dir +  mapping_file + '.csv'

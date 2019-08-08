@@ -1,0 +1,10 @@
+source_key,source_type,destination_key,destination_type,data_type,data_source,data_format,data_transformation,default_value,lookup_value
+organization,string,organization,string,existing,original,,not required,,
+mental_healths.cause,string,answers.mentalHealthEffect,string,existing,original,,not required,,
+mental_healths.experience,string,answers.mentalHealthExperience,string,existing,original,,not required,,
+registered_at,timestamp,dateCreated,timestamp,existing,original,timestamp,required,,
+user-cam.id,string,createdBy,string,existing,original,,not required,,
+,,formId,string,new,generated,,not required,ajWmReH7k2G4mVuvYgYrpX,
+,,formName,string,new,generated,,not required,2.6 - AQM Mental Health Questions V1,
+,,type,string,new,generated,,not required,profile-related-form,
+,,contextName,string,new,generated,,not required,mental_health,
